@@ -1,3 +1,89 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Global */
+body {
+  background: url(../../imgs/bg.png) right top no-repeat #F0F0F4;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 900;
+}
+
+h1 {
+  color: #000;
+}
+
+h2 {
+  color: #315488;
+}
+
+h3 {
+  color: #000;
+}
+
+h4 {}
+
+h5 {}
+
+h6 {}
+
+img.ico {
+  width: 104px;
+  height: 104px;
+  display: block;
+}
+
+hr.hr-default {
+  border: none;
+  border-top: 2px solid #28282D;
+  opacity: .25;
+}
+
+hr.hr-article {
+  border: none;
+  border-top: 2px solid #315488;
+}
+
+
+/* Hero */
+.hero {
+  background-color: rgba(40,40,45,.10);
+}
+
+.hero h4 {
+  color: #315488;
+}
+
+/* Articles */
+.cat-arrow {
+  background-color: #BF9724;
+  text-align: center;
+  width: 56px;
+  height: 56px;
+  border-left: 12px solid #F0F0F4;
+  border-top: 12px solid #F0F0F4;
+  display: block;
+}
+
+.category p {
+  color: #28282D;
+  text-transform: uppercase;
+  opacity: .5;
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: #BF9724;
+  color: #fff;
+  font-size: 1em;
+  font-weight: 900;
+  text-transform: uppercase;
+  padding: 9px 12px 11px;
+}
+
+.txt-link {
+  color: #28282D;
+  text-decoration: none;;
+}
