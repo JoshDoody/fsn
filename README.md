@@ -1,11 +1,13 @@
 # Site notes
-- abandon base, used started tailwind install with everything I need below
+- use https://github.com/kenwheeler/slick for carousels/sliders
 
 # Fix
-- n/a
+- need adobe fonts setup by Josh
+- need font awesome icons set up by Josh
+- add CSS color variables
 
 # Completed
-- n/a
+- ~~abandon base, used started tailwind install with everything I need below~~
 
 # Jekyll Starter Tailwind
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
