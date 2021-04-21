@@ -1,0 +1,16 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M32 60C47.464 60 60 47.464 60 32C60 16.536 47.464 3.99998 32 3.99998C16.536 3.99998 4 16.536 4 32C4 47.464 16.536 60 32 60Z" fill="white"/>
+<path d="M5 47L3 49" stroke="#315488" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M10 42L8 44" stroke="#315488" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M8 47L10 49" stroke="#315488" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M3 42L5 44" stroke="#315488" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M51 50V56" stroke="#315488" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M48 53H54" stroke="#315488" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M49.9857 41.1654V47.2286L31.7 58.2L13.4143 47.2286V41.1654" stroke="#28282D" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M60.3797 34.7173L41.6127 45.785L31.7 39.1444L50.4669 28.0767L60.3797 34.7173Z" stroke="#28282D" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M3.02026 34.7173L21.7872 45.785L31.7 39.1444L12.933 28.0767L3.02026 34.7173Z" stroke="#28282D" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M60.3797 21.4361L41.6127 10.4647L31.7 17.1053L50.4669 28.0767L60.3797 21.4361Z" stroke="#28282D" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M3.02026 21.4361L21.7872 10.4647L31.7 17.1053L12.933 28.0767L3.02026 21.4361Z" stroke="#28282D" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path opacity="0.5" d="M31.7 42.609V58.0075" stroke="#28282D" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M36.5119 21.4361V7H26.8879V21.4361H21.7871L31.6999 32.5038L41.6127 21.4361H36.5119Z" fill="white" stroke="#BF9724" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
