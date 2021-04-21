@@ -7,6 +7,12 @@ body {
   background: url(../../imgs/bg.png) right top no-repeat #F0F0F4;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:visited, a:hover {}
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: 900;
 }
@@ -21,6 +27,10 @@ h2 {
 
 h3 {
   color: #000;
+}
+
+h3.alt {
+  color: #315488;
 }
 
 h4 {}
@@ -67,11 +77,23 @@ hr.hr-article {
   display: block;
 }
 
+.cat-arrow .fas {
+  color: #28282D;
+  vertical-align: -0.55em;
+}
+
 .category p {
   color: #28282D;
   text-transform: uppercase;
   opacity: .5;
 }
+
+.article-lists a {
+  text-decoration: none;
+  border-bottom: 1px solid #BF9724;
+}
+
+.article-lists a:hover {}
 
 /* Buttons */
 .btn-primary {
@@ -86,4 +108,45 @@ hr.hr-article {
 .txt-link {
   color: #28282D;
   text-decoration: none;;
+}
+
+
+/* Card Carousel */
+.card-carousel .slick-dots {
+  bottom: 0;
+  top: -4em;
+  right: 1.5em;
+  text-align: right;
+}
+
+.card-carousel .slick-dots li button:before {
+
+}
+
+.card-carousel .slick-prev,
+.card-carousel .slick-next {
+  top: -46px;
+}
+
+.card-carousel .slick-prev {
+  right: 200px;
+  left: unset;
+}
+
+.card-carousel .slick-next {
+  right: 0;
+}
+
+
+/* Get help callout */
+.get-help {
+  outline: 2px solid #315488;
+  border: 8px solid #F0F0F4;
+  position: relative;
+}
+
+.get-help img {
+  position: absolute;
+  bottom: -56px;
+  right: 0;
 }
