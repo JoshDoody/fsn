@@ -3,10 +3,10 @@
 
 # Fix
 - need adobe fonts setup by Josh
-- need font awesome icons set up by Josh
 - add CSS color variables
 
 # Completed
+- ~~need font awesome icons set up by Josh~~
 - ~~abandon base, used started tailwind install with everything I need below~~
 
 # Jekyll Starter Tailwind
