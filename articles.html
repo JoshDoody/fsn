@@ -1,0 +1,17 @@
+---
+layout: articles
+title: Featured Article Title Goes here
+subTitle: Articles
+description: Short introduction goes here they live in Bookmarks right at the coast of the famous Semantics, large language ocean Separated they live in Bookmarks
+heroImg:
+ctaUrl:
+ctaText:
+---
+
+<div class="container mx-auto py-20">
+  <ul>
+    {% for post in site.posts %}
+      <li><h3><a href="{{ post.url }}">{{ post.title }}</a></h3></li>
+    {% endfor %}
+  </ul>
+</div>
