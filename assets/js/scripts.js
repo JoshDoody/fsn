@@ -8,4 +8,10 @@ $(document).ready(function(){
     dots: true
   });
 
+  // Accordian
+  $(".acc-hide").hide();
+  $(".accordian h6").click(function(){
+    $(this).next(".acc-hide").slideToggle();
+  });
+
 });
