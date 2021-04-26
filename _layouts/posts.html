@@ -4,11 +4,22 @@ layout: page
 
 {% include header.html %}
 
-{% include hero-posts.html %}
+<div class="container mx-auto pb-20">
 
-<div class="container mx-auto py-20">
+  <div class="flex">
 
-  {{ content }}
+    <div class="w-3/4 blog-post">
+
+      {% include hero-posts.html %}
+
+      {{ content }}
+    </div>
+
+    <div class="w-1/4 blog-sidebar pt-24">
+      sidebar
+    </div>
+
+  </div>
 
 </div>
 
