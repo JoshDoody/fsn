@@ -8,18 +8,46 @@ layout: page
 
   <div class="flex">
 
-    <div class="w-3/4 blog-post">
+    <div class="w-4/6 blog-post-wrap">
 
       {% include hero-posts.html %}
 
-      {{ content }}
-    </div>
+      <div class="blog-post">
 
-    <div class="w-1/4 blog-sidebar pt-24">
-      sidebar
-    </div>
+        {{ content }}
+
+      </div>
+
+    </div><!-- /blog-post-wrap -->
+
+    <div class="w-2/6 blog-sidebar pt-24">
+
+      <h3 class="text-2xl text-center uppercase mb-8">You Might Also Like</h3>
+
+      <div class="related-posts">
+        {% for post in site.related_posts limit : 3 %}
+          <div class="bg-white mb-8">
+            <div class="p-8">
+              <p class="text-2xl"><a href="{{ post.url }}">{{ post.title }}</a></p>
+              <hr class="my-6 w-16 hr-article">
+              <p class="text-sm mb-6">{{ page.intro }}</p>
+            </div>
+            <div class="category flex justify-between items-center">
+              <div class="pl-8"><p>{{ post.category }}</p></div>
+              <div><a href="#" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+            </div>
+          </div>
+        {% endfor %}
+        <p class="text-center"><a href="/articles/" class="btn btn-primary">Back to Articles</a></p>
+      </div><!-- /related-posts -->
+
+    </div><!-- /blog-sidebar -->
 
   </div>
+
+  CTA products
+
+  {% include one-on-one-help.html %}
 
 </div>
 
