@@ -1,5 +1,5 @@
-title: Tailwind Jekyll Starter Kit
-description: A starter kit for using Tailwind with Jekyll
+title: Fearless Salary Negotiation
+description: Proven salary negotiation strategies and tactics for Software Developers to ace job interviews
 
 sass:
   sass_dir: _sass
@@ -17,3 +17,5 @@ exclude:
   - src
   - tailwind.config.js
   - netlify.toml
+
+permalink: /:day/:month/:year/:title/
