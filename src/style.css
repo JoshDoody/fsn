@@ -5,6 +5,7 @@
 /* Global */
 body {
   background: url(../imgs/bg.png) right top no-repeat #F0F0F4;
+  overflow-x: hidden;
 }
 
 a {
@@ -43,6 +44,10 @@ p {
   margin-bottom: 1.25em;
 }
 
+p:last-of-type {
+  margin-bottom: 0;
+}
+
 ul, ol {
   margin: 0 0 1em 20px;
   list-style-position: outside;
@@ -72,6 +77,12 @@ li {
 /* p:last-of-type {
   margin-bottom: 0;
 } */
+
+img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+}
 
 img.ico {
   width: 104px;
@@ -276,9 +287,7 @@ hr.hr-article {
 
 
 /* Blog Posts */
-.blog-post-wrap {
-  margin-right: 6em;
-}
+.blog-post-wrap {}
 
 .blog-post h2,
 .blog-post h3,
@@ -314,6 +323,52 @@ hr.hr-article {
   box-shadow: 32px 32px 40px rgba(0, 0, 0, 0.15);
 }
 
+.blog-slider {}
+
+.slider-controls {}
+
+.blog-prev,
+.blog-next {
+  color: #28282D;
+  opacity: .25;
+}
+
+.blog-prev:hover,
+.blog-next:hover {
+  opacity: 1;
+}
+
+.blog-dots {
+  margin: 0 10px;
+}
+
+.blog-slider-wrap .slick-dots {
+  text-align: center;
+  position: relative;
+  bottom: 0;
+}
+
+.blog-slider-wrap .slick-dots li button {}
+
+.blog-slider-wrap .slick-dots li button:before {
+  content: ' ';
+  background-color: #fff;
+  color: #fff;
+  font-size: 16px;
+  line-height: 14px;
+  width: 16px;
+  height: 16px;
+  opacity: 1;
+  border: 3px solid #fff;
+  border-radius: 50%;
+}
+.blog-slider-wrap .slick-dots li.slick-active button:before {
+  background-color: #BF9724;
+  opacity: 1;
+}
+
+.blog-slider-wrap .slick-dots li:hover {}
+
 .blog-sidebar {}
 
 .blog-sidebar h3 {
@@ -322,23 +377,23 @@ hr.hr-article {
 
 
 /* Misc */
-.accordian {
+.accordion {
   margin: 1.75em 0 2.5em;
 }
 
-.accordian .acc-open {
+.accordion .acc-open {
   background-color: #fff;
   margin-bottom: 1.25em;
   padding: 1.5em 3.8em 1.5em 1.5em;
 }
 
-.accordian h6 {
+.accordion h6 {
   font-size: 1.125em;
   margin-bottom: 0;
   position: relative;
 }
 
-.accordian h6:after {
+.accordion h6:after {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   color: #BF9724;
@@ -348,10 +403,35 @@ hr.hr-article {
   top: 0;
 }
 
-.accordian h6:hover {
+.accordion h6:hover {
   cursor: pointer;
 }
 
-.accordian p:first-of-type {
+.accordion p:first-of-type {
   margin-top: 2em;
+}
+
+
+/* Products - three cards */
+.three-card-prod {
+  position: relative;
+  z-index: 3;
+}
+
+.three-card-prod:after {
+  content: ' ';
+  background-color: #28282D;
+  opacity: .1;
+  width: 1000%;
+  height: 526px;
+  position: absolute;
+  top: 8.85em;
+  right: -50%;
+  left: -50%;
+  z-index: 1;
+  display: block;
+}
+
+.three-card-prod h4, .card-prod h5 {
+  color: #315488;
 }
