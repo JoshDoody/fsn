@@ -61,7 +61,7 @@ Diam, et eget in dignissim lectus. Nisi sed placerat lorem nisi in purus fusce. 
 
 Sed non nec turpis venenatis dui. Dolor sed senectus egestas ligula amet, tortor, aenean blandit proin. Purus dolor eu tellus lorem ut mauris quam sed. Morbi bibendum mi id ultricies habitant. Ac tempus, pellentesque et aliquet pharetra. Tellus magna tortor, sit sapien turpis vulputate parturient.
 
-<div class="accordian">
+<div class="accordion">
   <div class="acc-open">
     <h6>Question goes here far far away behind the word mountains far from?</h6>
     <div class="acc-hide">
@@ -92,7 +92,7 @@ Sed non nec turpis venenatis dui. Dolor sed senectus egestas ligula amet, tortor
 
 Accumsan pellentesque quam ut neque mi, potenti felis blandit. Elementum fringilla proin arcu ipsum et, duis sed. Laoreet est, faucibus faucibus vel, in etiam quam congue vel. Mauris, diam tincidunt semper vel, facilisi ultrices. Id cursus ipsum semper non eget turpis maecenas velit. Tristique urna euismod eu tellus mollis. Pharetra consequat, eget tristique id nunc dui quam. At est sed mauris viverra in mattis pharetra sed. Est tellus lacus nisl congue donec bibendum. Phasellus risus gravida enim risus a. Sed vitae tortor, maecenas nisl congue. Mi dignissim turpis suspendisse morbi egestas eu sit diam. Id morbi pretium suspendisse vitae commodo in ut at. Ut nisl augue urna semper libero gravida proin tincidunt. Habitant sed scelerisque mauris, pellentesque.
 
-<ul class="checklist">
+<ul class="checklist my-6">
   <li><i class="fas fa-check-circle"></i> Elementum fringilla proin</li>
   <li><i class="fas fa-check-circle"></i> Est tellus lacus nisl congue</li>
   <li><i class="fas fa-check-circle"></i> Tristique urna euismod eu tellus mollis. Pharetra consequat, eget tristique id nunc dui quam. At est sed mauris viverra in.</li>
@@ -101,6 +101,22 @@ Accumsan pellentesque quam ut neque mi, potenti felis blandit. Elementum fringil
   <li><i class="fas fa-check-circle"></i> Accumsan pellentesque quam ut neque mi, potenti felis blandit.</li>
 </ul>
 
-### Slider
+### Sliders
 
-Slider
+<div class="blog-slider-wrap mb-11">
+
+  <div class="blog-slider">
+    <div><img src="https://images.unsplash.com/photo-1588392382834-a891154bca4d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1955&q=80"></div>
+    <div><img src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1951&q=80"></div>
+    <div><img src="https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1740&q=80"></div>
+  </div><!-- /blog-slider -->
+
+  <div class="flex justify-center slider-controls">
+    <button type="button" class="blog-prev"><i class="fas fa-arrow-left"></i></button>
+    <div class="blog-dots"></div>
+    <button type="button" class="blog-next"><i class="fas fa-arrow-right"></i></button>
+  </div><!-- /slider-controls -->
+
+</div><!-- /blog-slider-wrap -->
+
+Diam, et eget in dignissim lectus. Nisi sed placerat lorem nisi in purus fusce. In eu dictum posuere posuere augue laoreet purus accumsan suspendisse. Massa, magna quis quis sit. Magna porttitor tellus vivamus ipsum ipsum. Facilisi purus ipsum vitae fermentum velit convallis et et. Sed ac molestie pellentesque lectus enim arcu, risus venenatis viverra. Justo dui, in pellentesque risus elementum massa odio phasellus. Quis iaculis ac purus a ut habitant.

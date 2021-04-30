@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-  // card carousel
+  // Card carousel
   $(".card-carousel").slick({
     infinite: true,
     slidesToShow: 3,
@@ -8,9 +8,21 @@ $(document).ready(function(){
     dots: true
   });
 
-  // Accordian
+  // Blog post slider
+  $(".blog-slider").slick({
+    dots: true,
+    arrows: true,
+    infinite: true,
+    adaptiveHeight: true,
+    appendDots: $(".blog-dots"),
+    prevArrow: $(".blog-prev"),
+    nextArrow: $(".blog-next")
+  });
+
+
+  // Accordion
   $(".acc-hide").hide();
-  $(".accordian h6").click(function(){
+  $(".accordion h6").click(function(){
     $(this).next(".acc-hide").slideToggle();
   });
 
