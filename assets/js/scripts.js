@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(document).ready(function() {
 
   // Card carousel
   $(".card-carousel").slick({
@@ -17,6 +17,17 @@ $(document).ready(function(){
     appendDots: $(".blog-dots"),
     prevArrow: $(".blog-prev"),
     nextArrow: $(".blog-next")
+  });
+
+  // Success slider
+  $(".suc-quotes").slick({
+    dots: true,
+    arrows: true,
+    infinite: true,
+    adaptiveHeight: true,
+    appendDots: $(".suc-dots"),
+    prevArrow: $(".suc-prev"),
+    nextArrow: $(".suc-next")
   });
 
 
