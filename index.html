@@ -36,8 +36,57 @@ ctaText: Read More
 </div><!-- /products -->
 
 <div class="container mx-auto">
-  <h2 class="text-3xl mb-16">Success Stories</h2>
-  <p class="text-center">Carousel</p>
+  <div class="flex justify-between mb-8">
+    <div>
+      <h2 class="text-3xl">Success Stories</h2>
+    </div>
+    <div>
+      <a href="#" class="btn-primary btn text-right">More Success Stories</a>
+    </div>
+  </div>
+  <div class="success-slider">
+    <img src="{{ site.baseurl }}/assets/imgs/ico-success-quote.svg" class="suc-quote" >
+    <div class="suc-quotes">
+      <div>
+        <p>I used the Fearless Salary Negotiation strategy for negotiating an offer and went <strong>from $95,000</strong> with a title of Software Engineer 1 <strong>to $105,000</strong> with a title of Software Engineer 2. Now I can pay off my student loans and buy a house more quickly. Six months later, I did it again! This time, I one-upped that by turning a <strong>$125,000 offer</strong> to a <strong>$145,000 offer</strong>. That's $30,000 in additional salary thanks to this truly wonderful resource.”</p>
+        <div class="flex items-center mt-6">
+          <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
+          <div>
+            <p class="name m-0">First Name</p>
+            <p class="title m-0">Job Title</p>
+          </div>
+        </div>
+      </div>
+      <div>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum ullam harum cum error itaque sint ipsa veniam dolorem et eligendi. Ut unde aliquid laborum, quibusdam iste libero quas nihil sed?</p>
+        <div class="flex items-center mt-6">
+          <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
+          <div>
+            <p class="name m-0">First Name</p>
+            <p class="title m-0">Job Title</p>
+          </div>
+        </div>
+      </div>
+      <div>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dolore odit, consectetur quos illo, id beatae reprehenderit adipisci quo, natus eaque deserunt magnam mollitia voluptatibus temporibus unde rem est deleniti voluptas ullam incidunt! Natus placeat perferendis magnam totam quod eligendi cum rem impedit nesciunt inventore fugiat ex fuga, iste modi deleniti voluptate accusamus commodi aspernatur vel. Repellendus error debitis provident nihil perspiciatis nam qui atque iure delectus est? Nobis quasi animi voluptate magnam iusto ut qui odio, aliquid nisi hic et tenetur distinctio, molestiae fuga vitae blanditiis error repudiandae magni porro. Veniam nobis quisquam suscipit aliquam quae amet blanditiis praesentium!</p>
+        <div class="flex items-center mt-6">
+          <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
+          <div>
+            <p class="name m-0">First Name</p>
+            <p class="title m-0">Job Title</p>
+          </div>
+        </div>
+      </div>
+    </div><!-- /suc-quotes -->
+
+    <div class="flex suc-control">
+      <button type="button" class="suc-prev"><i class="fas fa-arrow-left"></i></button>
+      <button type="button" class="suc-next"><i class="fas fa-arrow-right"></i></button>
+    </div><!-- /suc-control -->
+
+    <div class="suc-dots"></div>
+
+  </div><!-- /success-slider -->
 </div><!-- /success stories slider -->
 
 <div class="container mx-auto my-24">
@@ -46,43 +95,24 @@ ctaText: Read More
       <h2 class="text-3xl">Popular Articles</h2>
     </div>
     <div>
-      <a href="#" class="btn-primary btn text-right">More Articles</a>
+      <a href="/articles/" class="btn-primary btn text-right">More Articles</a>
     </div>
   </div>
   <div class="grid sm:grid-cols-1 lg:grid-cols-3 gap-4">
+
+    {% for post in site.tags.popular limit: 3 %}
     <div class="bg-white">
       <div class="p-8">
-        <p class="text-2xl">How to answer the dreaded "What's your expected salary?" question</p>
+        <p class="text-2xl"><a href="{{ post.url }}">{{ post.title }}</a></p>
         <hr class="my-6 w-16 hr-article">
-        <p class="text-sm mb-6">At netus elit convallis nibh donec in feugiat libero euismod. Risus egestas eu in sit ut. Tortor in vitae libero magnis cursus justo fermentum tortor.</p>
+        <p class="text-sm mb-6">{{ post.excerpt }}</p>
       </div>
-      <div class="category flex justify-between items-center">
-        <div class="pl-8"><p>Category</p></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+      <div class="category flex items-center justify-between items-center">
+        <div class="pl-8"><p>{{ post.categories }}</p></div>
+        <div><a href="{{ post.url }}" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
       </div>
     </div>
-    <div class="bg-white">
-      <div class="p-8">
-        <p class="text-2xl">How to negotiate your salary (without leaving anything on the table)</p>
-        <hr class="my-6 w-16 hr-article">
-        <p class="text-sm mb-6">At netus elit convallis nibh donec in feugiat libero euismod. Risus egestas eu in sit ut. Tortor in vitae libero magnis cursus justo fermentum tortor.</p>
-      </div>
-      <div class="category flex justify-between items-center">
-        <div class="pl-8"><p>Category</p></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
-      </div>
-    </div>
-    <div class="bg-white">
-      <div class="p-8">
-        <p class="text-2xl">Got a job offer from Amazon? Learn how to negotiate your salary</p>
-        <hr class="my-6 w-16 hr-article">
-        <p class="text-sm mb-6">At netus elit convallis nibh donec in feugiat libero euismod. Risus egestas eu in sit ut. Tortor in vitae libero magnis cursus justo fermentum tortor.</p>
-      </div>
-      <div class="category flex justify-between items-center">
-        <div class="pl-8"><p>Category</p></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
-      </div>
-    </div>
+    {% endfor %}
   </div>
 </div><!-- /popular articles -->
 
@@ -152,17 +182,7 @@ ctaText: Read More
 
 <div class="container mx-auto my-24">
   <h2 class="text-3xl mb-8">In the Press</h2>
-  <div class="grid sm:grid-cols-1 lg:grid-cols-3 gap-4 card-carousel">
-    <div class="bg-white">
-      <div class="p-8 pb-0">
-        <p class="text-2xl">Article title goes here spanning as many lines as needed to fit the title</p>
-        <hr class="my-6 w-16 hr-article">
-      </div>
-      <div class="category flex justify-between items-center">
-        <div class="pl-8"><img src="https://via.placeholder.com/220x28?text=Brand" alt=""></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
-      </div>
-    </div>
+  <div class="grid sm:grid-cols-1 lg:grid-cols-3 card-carousel">
     <div class="bg-white">
       <div class="p-8 pb-0"">
         <p class="text-2xl">Article title goes here spanning as many lines as needed to fit the title</p>
@@ -202,8 +222,8 @@ ctaText: Read More
         <div class="pl-8"><img src="https://via.placeholder.com/220x28?text=Brand" alt=""></div>
         <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
       </div>
-    </div><!-- / card-carousel -->
-  </div>
+    </div>
+  </div><!-- / card-carousel -->
 </div><!-- /in the press -->
 
 <div>
@@ -273,20 +293,28 @@ ctaText: Read More
     <div>
       <h3 class="text-2xl mb-8 alt">Recommended</h3>
       <hr class="mb-6 w-16 hr-article">
-      <p>Looking for help with your Salary Negotation? Check out how I can help you <a href="#">negotiate a higher offer at Amazon</a> or <a href="#">help with Google Salary Negotiation</a></p>
+      {% for post in site.tags.recommended limit: 3 %}
+        <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+        <hr class="my-6 w-16 hr-default">
+      {% endfor %}
+      <!-- <p>Looking for help with your Salary Negotation? Check out how I can help you <a href="#">negotiate a higher offer at Amazon</a> or <a href="#">help with Google Salary Negotiation</a></p>
       <hr class="my-6 w-16 hr-default">
       <p>Need a <a href="#">Salary Negotiation Email Sample?</a> Use my 5-star template to reply to a salary offer.</p>
       <hr class="my-6 w-16 hr-default">
-      <p>You can even get 1-on1- help with <a href="#">Google Salary Negotiation</a> or <a href="#">Microsoft Salary Negotiation</a></p>
+      <p>You can even get 1-on1- help with <a href="#">Google Salary Negotiation</a> or <a href="#">Microsoft Salary Negotiation</a></p> -->
     </div>
     <div>
       <h3 class="text-2xl mb-8 alt">Popular</h3>
       <hr class="mb-6 w-16 hr-article">
-      <p>Looking for help with your Salary Negotation? Check out how I can help you <a href="#">negotiate a higher offer at Amazon</a> or <a href="#">help with Google Salary Negotiation</a></p>
+      {% for post in site.tags.popular limit: 3 %}
+        <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+        <hr class="my-6 w-16 hr-default">
+      {% endfor %}
+      <!-- <p>Looking for help with your Salary Negotation? Check out how I can help you <a href="#">negotiate a higher offer at Amazon</a> or <a href="#">help with Google Salary Negotiation</a></p>
       <hr class="my-6 w-16 hr-default">
       <p>Need a <a href="#">Salary Negotiation Email Sample?</a> Use my 5-star template to reply to a salary offer.</p>
       <hr class="my-6 w-16 hr-default">
-      <p>You can even get 1-on1- help with <a href="#">Google Salary Negotiation</a> or <a href="#">Microsoft Salary Negotiation</a></p>
+      <p>You can even get 1-on1- help with <a href="#">Google Salary Negotiation</a> or <a href="#">Microsoft Salary Negotiation</a></p> -->
     </div>
   </div>
 </div><!-- /articles -->
