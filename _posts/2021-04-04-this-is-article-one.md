@@ -2,9 +2,10 @@
 layout: posts
 title: This is article one
 categories:
-  - Category One
+  - CategoryOne
 date: 2021-04-04
-intro: Short introduction goes here they live in Bookmarks right at the coast of the famous Semantics, large language ocean Separated they live in Bookmarks
+excerpt: Short introduction goes here they live in Bookmarks right at the coast of the famous Semantics, large language ocean Separated they live in Bookmarks
+tags: recommended
 published: true
 ---
 

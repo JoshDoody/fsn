@@ -2,9 +2,11 @@
 layout: posts
 title: This is article four
 categories:
-  - Category One
+  - CategoryTwo
+  - CategoryOne
 date: 2021-04-04
-intro: Vero quis sapiente perferendis dolor, dolore recusandae porro itaque consequuntur mollitia cumque voluptatum ducimus.
+excerpt: Vero quis sapiente perferendis dolor, dolore recusandae porro itaque consequuntur mollitia cumque voluptatum ducimus.
+tags: popular
 published: true
 ---
 
