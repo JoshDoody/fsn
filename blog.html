@@ -1,0 +1,56 @@
+---
+layout: articles
+title: Articles
+subTitle: Articles
+navWeight: 2
+---
+
+<div class="container mx-auto py-20">
+
+  <div class="cat-nav">
+    <ul class="list-none inline-flex items-center ml-0 mb-16">
+      <li class="cat-active"><a href="/blog/">All</a></li>
+      {% for category in site.categories %}
+      {% capture category_name %}{{ category | first }}{% endcapture %}
+        <li><a href="{{category.url}}">{{ category_name }}</a></li>
+      {% endfor %}
+      <li>Search</li>
+    </ul>
+  </div><!-- /cat-nav -->
+
+  <div class="blog-featured mb-20">
+    <div class="grid grid-cols-2 gap-6 flex">
+      {% for post in site.tags.blogFeatured limit:2 %}
+        <div class="p-10 border-4 border-white">
+          <h4 class="text-xl pb-6 uppercase">Featured</h4>
+          <h3 class="color-black text-4xl uppercase mb-6"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+          <p class="mb-8">{{ post.excerpt }}</p>
+          <p><a href="{{ post.url }}" class="btn-primary btn">Read More</a></p>
+        </div>
+      {% endfor %}
+    </div>
+  </div><!-- /blog-featured -->
+
+  <div class="blog-list grid sm:grid-cols-1 lg:grid-cols-3 gap-4">
+    {% for post in site.posts %}
+      <div class="bg-white flex flex-col">
+        <div class="p-8 flex-grow flex-1">
+          <p class="text-2xl"><a href="{{ post.url }}">{{ post.title }}</a></p>
+          <hr class="my-6 w-16 hr-article">
+          <p class="text-sm mb-6">{{ post.excerpt }}</p>
+        </div>
+        <div class="category items-center justify-between flex">
+          <div class="pl-8"><p>{{ post.categories | join: ', ' }}</p></div>
+          <div><a href="{{ post.url }}" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+        </div>
+      </div>
+    {% endfor %}
+  </div><!-- /blog-list -->
+
+  <div class="load-more mt-16">
+    <p class="text-center"><a href="#" class="uppercase">Load More Articles <i class="fas fa-angle-double-down ml-2"></i></a></p>
+  </div>
+
+</div>
+
+{% include one-on-one-help.html %}
