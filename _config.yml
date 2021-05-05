@@ -18,4 +18,9 @@ exclude:
   - tailwind.config.js
   - netlify.toml
 
+plugins: [jekyll-paginate]
+
 permalink: /:day/:month/:year/:title/
+
+# paginate: 3
+# paginate_path: "/articles/page:num/"
