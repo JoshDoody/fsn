@@ -30,7 +30,6 @@ $(document).ready(function() {
     nextArrow: $(".suc-next")
   });
 
-
   // Accordion
   $(".acc-hide").hide();
   $(".accordion h6").click(function(){
