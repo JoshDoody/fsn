@@ -16,22 +16,30 @@
     <div class="bg-white">
       <div class="container mx-auto py-4 px-8">
         <div class="flex items-center">
-          <div>
+          <div class="brand">
             <a href="/">
               <img src="{{site.baseurl}}/assets/imgs/fsn-brand.svg" alt="Fearless Salary Negotiation">
             </a>
           </div>
-          <div>
-            <ul class="flex items-center text-right">
-              <li class="mx-8"><a href="#">Products</a></li>
-              <li class="mx-8"><a href="{{ site.baseurl }}/articles/">Articles</a></li>
+          <div class="main-nav flex flex-row flex-grow items-center justify-end">
+            <ul class="flex flex-row list-none">
+              {% assign navigation_pages = site.html_pages | sort: 'navWeight' %}
+              {% for p in navigation_pages %}
+                {% if p.navWeight %}
+                  <li class="{% if p.title == "1-on-1 Help" %}btn-link{% endif %}">
+                    <a href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>{{ p.title }}</a>
+                  </li>
+                {% endif %}
+              {% endfor %}
+              <!-- <li class="mx-8"><a href="#">Products</a></li>
+              <li class="mx-8"><a href="{{ site.baseurl }}/blog/">Articles</a></li>
               <li class="mx-8"><a href="#">Free Resources</a></li>
               <li class="mx-8"><a href="#">Success Stories</a></li>
               <li class="mx-8"><a href="#">About</a></li>
               <li class="mx-8"><a href="#">Contact</a></li>
-              <li class="mx-8"><a href="#" class="rounded-md py-2 px-4 bg-yellow-400 text-white">Get 1-on-1 Help</a></li>
+              <li class="mx-8"><a href="#" class="rounded-md py-2 px-4 bg-yellow-400 text-white">Get 1-on-1 Help</a></li> -->
             </ul>
-          </div><!-- /nav -->
+          </div><!-- /main-nav -->
         </div>
       </div>
     </div><!-- /navbar -->
