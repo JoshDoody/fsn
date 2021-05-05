@@ -95,20 +95,20 @@ ctaText: Read More
       <h2 class="text-3xl">Popular Articles</h2>
     </div>
     <div>
-      <a href="/articles/" class="btn-primary btn text-right">More Articles</a>
+      <a href="/blog/" class="btn-primary btn text-right">More Articles</a>
     </div>
   </div>
   <div class="grid sm:grid-cols-1 lg:grid-cols-3 gap-4">
 
     {% for post in site.tags.popular limit: 3 %}
-    <div class="bg-white">
-      <div class="p-8">
+    <div class="bg-white flex flex-col">
+      <div class="p-8 flex-grow flex-1">
         <p class="text-2xl"><a href="{{ post.url }}">{{ post.title }}</a></p>
         <hr class="my-6 w-16 hr-article">
         <p class="text-sm mb-6">{{ post.excerpt }}</p>
       </div>
-      <div class="category flex items-center justify-between items-center">
-        <div class="pl-8"><p>{{ post.categories }}</p></div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p>{{ post.categories | join: ', ' }}</p></div>
         <div><a href="{{ post.url }}" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
       </div>
     </div>
@@ -295,7 +295,9 @@ ctaText: Read More
       <hr class="mb-6 w-16 hr-article">
       {% for post in site.tags.recommended limit: 3 %}
         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-        <hr class="my-6 w-16 hr-default">
+        {% if forloop.last == false %}
+          <hr class="my-6 w-16 hr-default">
+        {% endif %}
       {% endfor %}
       <!-- <p>Looking for help with your Salary Negotation? Check out how I can help you <a href="#">negotiate a higher offer at Amazon</a> or <a href="#">help with Google Salary Negotiation</a></p>
       <hr class="my-6 w-16 hr-default">
@@ -308,7 +310,9 @@ ctaText: Read More
       <hr class="mb-6 w-16 hr-article">
       {% for post in site.tags.popular limit: 3 %}
         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-        <hr class="my-6 w-16 hr-default">
+        {% if forloop.last == false %}
+          <hr class="my-6 w-16 hr-default">
+        {% endif %}
       {% endfor %}
       <!-- <p>Looking for help with your Salary Negotation? Check out how I can help you <a href="#">negotiate a higher offer at Amazon</a> or <a href="#">help with Google Salary Negotiation</a></p>
       <hr class="my-6 w-16 hr-default">
