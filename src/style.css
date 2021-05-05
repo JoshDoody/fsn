@@ -10,6 +10,7 @@ body {
 
 a {
   text-decoration: none;
+  transition: .5s ease all;
 }
 
 a:visited, a:hover {}
@@ -126,6 +127,42 @@ hr.hr-article {
 .hero h4 {
   color: #315488;
 }
+
+
+/* Main Nav */
+.brand img {
+  max-width: 270px;
+}
+
+.main-nav {}
+
+.main-nav li {}
+
+.main-nav a {
+  color: #28282D;
+  font-size: 1.125em;
+  font-weight: 700;
+  text-decoration: none;
+  margin-left: 2.5em;
+}
+
+.main-nav li:first-of-type a {
+  margin-left: 0;
+}
+
+.main-nav a:hover {}
+
+.main-nav a.active {}
+
+.main-nav li.btn-link a {
+  background-color: #BF9724;
+  color: #fff;
+  font-size: 1em;
+  font-weight: 900;
+  text-transform: uppercase;
+  padding: 9px 12px 11px;
+}
+
 
 /* Articles */
 .cat-arrow {
@@ -375,6 +412,42 @@ hr.hr-article {
   color: #BF9724;
 }
 
+.load-more {
+  position: relative;
+}
+
+.load-more:after {
+  content: ' ';
+  background-color: #BF9724;
+  width: 100%;
+  height: 1px;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+
+.load-more a {
+  background-color: #F0F0F4;
+  color: #28282D;
+  font-size: 1em;
+  font-weight: 900;
+  padding: .5em .75em;
+  border: 2px solid #BF9724;
+  display: inline-block;
+  position: relative;
+  z-index: 3;
+}
+
+.load-more a .fas {
+  color: #28282D;
+}
+
+.load-more a:hover {
+  background-color: #fff;
+}
+
 
 /* Misc */
 .accordion {
@@ -566,6 +639,7 @@ hr.hr-article {
 }
 
 .cat-nav a {
+  background-color: transparent;
   color: #28282D;
   font-size: 1em;
   font-weight: 900;
@@ -579,4 +653,18 @@ hr.hr-article {
 
 .cat-nav a:hover {
   background-color: #fff;
+  color: #28282D;
+}
+
+.cat-active a {
+  background-color: #BF9724;
+  color: #fff;
+}
+
+
+/* Blog page featured posts */
+.blog-featured {}
+
+.blog-featured h4 {
+  color: #28282D;
 }
