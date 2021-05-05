@@ -5,7 +5,9 @@ categories:
   - CategoryTwo
 date: 2021-04-04
 excerpt: Vero quis sapiente perferendis dolor, dolore recusandae porro itaque consequuntur mollitia cumque voluptatum ducimus.
-tags: recommended
+tags:
+  - recommended
+  - blogFeatured
 published: true
 ---
 

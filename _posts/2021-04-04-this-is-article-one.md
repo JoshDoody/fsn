@@ -5,7 +5,9 @@ categories:
   - CategoryOne
 date: 2021-04-04
 excerpt: Short introduction goes here they live in Bookmarks right at the coast of the famous Semantics, large language ocean Separated they live in Bookmarks
-tags: recommended
+tags:
+  - recommended
+  - blogFeatured
 published: true
 ---
 
