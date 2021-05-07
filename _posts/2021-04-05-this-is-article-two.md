@@ -5,7 +5,9 @@ categories:
   - CategoryOne
 date: 2021-04-04
 excerpt: Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur, eveniet ducimus iste hic nisi, itaque cumque dolore similique, distinctio a sequi! Dolores eaque fugit quod rerum incidunt ducimus itaque nisi.
-tags: recommended
+tags:
+  - recommended
+  - popular
 published: true
 ---
 

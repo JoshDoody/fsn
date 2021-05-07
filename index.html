@@ -9,28 +9,28 @@ ctaText: Read More
 ---
 
 <div class="container mx-auto py-20">
-  <h2 class="text-3xl mb-16">What do you need help with</h2>
+  <h2 class="text-3xl mb-16 sans-serif uppercase">What do you need help with</h2>
   <div class="grid sm:grid-cols-1 lg:grid-cols-3 gap-6">
     <div>
       <img src="{{ site.baseurl }}/assets/imgs/ico-interview.svg" class="ico" alt="">
-      <h3 class="text-2xl mt-6 mb-4">Funnel One</h3>
-      <p class="mb-6">At netus elit convallis nibh donec in feugiat libero euismod. Risus egestas eu in sit ut. Tortor in vitae libero magnis cursus justo. Fermentum tortor, eu, sem nulla blandit purus, blandit sed.</p>
+      <h3 class="text-2xl mt-6 mb-4 uppercase sans-serif">Funnel One</h3>
+      <p class="mb-6 serif">At netus elit convallis nibh donec in feugiat libero euismod. Risus egestas eu in sit ut. Tortor in vitae libero magnis cursus justo. Fermentum tortor, eu, sem nulla blandit purus, blandit sed.</p>
       <p class="mb-6"><a href="#" class="btn btn-primary">Get Free Resources</a></p>
-      <p><a href="#">Product Link <i class="fas fa-angle-double-right"></i></a></p>
+      <p class="serif"><a href="#">Product Link <i class="fas fa-angle-double-right"></i></a></p>
     </div>
     <div>
       <img src="{{ site.baseurl }}/assets/imgs/ico-offer.svg" class="ico" alt="">
-      <h3 class="text-2xl mt-6 mb-4">Funnel Two</h3>
-      <p class="mb-6">At netus elit convallis nibh donec in feugiat libero euismod. Risus egestas eu in sit ut. Tortor in vitae libero magnis cursus justo. Fermentum tortor, eu, sem nulla blandit purus, blandit sed.</p>
+      <h3 class="text-2xl mt-6 mb-4 uppercase sans-serif">Funnel Two</h3>
+      <p class="mb-6 serif">At netus elit convallis nibh donec in feugiat libero euismod. Risus egestas eu in sit ut. Tortor in vitae libero magnis cursus justo. Fermentum tortor, eu, sem nulla blandit purus, blandit sed.</p>
       <p class="mb-6"><a href="#" class="btn btn-primary">Get Free Resources</a></p>
-      <p><a href="#">Product Link <i class="fas fa-angle-double-right"></i></a></p>
+      <p class="serif"><a href="#">Product Link <i class="fas fa-angle-double-right"></i></a></p>
     </div>
     <div>
       <img src="{{ site.baseurl }}/assets/imgs/ico-raise.svg" class="ico" alt="">
-      <h3 class="text-2xl mt-6 mb-4">Funnel Three</h3>
-      <p class="mb-6">At netus elit convallis nibh donec in feugiat libero euismod. Risus egestas eu in sit ut. Tortor in vitae libero magnis cursus justo. Fermentum tortor, eu, sem nulla blandit purus, blandit sed.</p>
+      <h3 class="text-2xl mt-6 mb-4 uppercase sans-serif">Funnel Three</h3>
+      <p class="mb-6 serif">At netus elit convallis nibh donec in feugiat libero euismod. Risus egestas eu in sit ut. Tortor in vitae libero magnis cursus justo. Fermentum tortor, eu, sem nulla blandit purus, blandit sed.</p>
       <p class="mb-6"><a href="#" class="btn btn-primary">Get Free Resources</a></p>
-      <p><a href="#">Product Link <i class="fas fa-angle-double-right"></i></a></p>
+      <p class="serif"><a href="#">Product Link <i class="fas fa-angle-double-right"></i></a></p>
     </div>
   </div>
 </div><!-- /products -->
@@ -38,7 +38,7 @@ ctaText: Read More
 <div class="container mx-auto">
   <div class="flex justify-between mb-8">
     <div>
-      <h2 class="text-3xl">Success Stories</h2>
+      <h2 class="text-3xl uppercase sans-serif">Success Stories</h2>
     </div>
     <div>
       <a href="#" class="btn-primary btn text-right">More Success Stories</a>
@@ -92,27 +92,46 @@ ctaText: Read More
 <div class="container mx-auto my-24">
   <div class="flex justify-between mb-8">
     <div>
-      <h2 class="text-3xl">Popular Articles</h2>
+      <h2 class="text-3xl uppercase sans-serif">Popular Articles</h2>
     </div>
     <div>
       <a href="/blog/" class="btn-primary btn text-right">More Articles</a>
     </div>
   </div>
   <div class="grid sm:grid-cols-1 lg:grid-cols-3 gap-4">
-
-    {% for post in site.tags.popular limit: 3 %}
     <div class="bg-white flex flex-col">
       <div class="p-8 flex-grow flex-1">
-        <p class="text-2xl"><a href="{{ post.url }}">{{ post.title }}</a></p>
+        <p class="text-2xl serif"><a href="/articles/">How to answer the dreaded "What's your expected salary?" question</a></p>
         <hr class="my-6 w-16 hr-article">
-        <p class="text-sm mb-6">{{ post.excerpt }}</p>
+        <p class="text-sm mb-6 sans-serif">At netus elit convallis nibh donec in feugiat libero euismod. Risus egestas eu in sit ut. Tortor in vitae libero magnis cursus justo fermentum tortor.</p>
       </div>
       <div class="category items-center justify-between flex">
-        <div class="pl-8"><p>{{ post.categories | join: ', ' }}</p></div>
-        <div><a href="{{ post.url }}" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+        <div class="pl-8"><p class="sans-serif text-xs">Category</p></div>
+        <div><a href="/articles/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
       </div>
     </div>
-    {% endfor %}
+    <div class="bg-white flex flex-col">
+      <div class="p-8 flex-grow flex-1">
+        <p class="text-2xl"><a href="/articles/">How to negotiate your salary (without leaving anything on the table)</a></p>
+        <hr class="my-6 w-16 hr-article">
+        <p class="text-sm mb-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem neque accusamus modi impedit, cumque deleniti saepe nihil quas dolore dolores, id labore reiciendis in deserunt et provident obcaecati esse qui.</p>
+      </div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="sans-serif text-xs">Category</p></div>
+        <div><a href="/articles/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+      </div>
+    </div>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 flex-grow flex-1">
+        <p class="text-2xl"><a href="/articles/">Got a job offer from Amazon?</a></p>
+        <hr class="my-6 w-16 hr-article">
+        <p class="text-sm mb-6">Fugiat delectus, iusto sequi laudantium dolorem saepe consectetur deleniti, nobis rerum, maiores corrupti temporibus sunt. Odio accusantium pariatur necessitatibus optio, beatae dignissimos ex dolor nostrum, inventore ea soluta.</p>
+      </div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="sans-serif text-xs">Category</p></div>
+        <div><a href="/articles/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+      </div>
+    </div>
   </div>
 </div><!-- /popular articles -->
 
@@ -125,43 +144,43 @@ ctaText: Read More
 <div class="container mx-auto my-24">
   <div class="flex justify-between mb-8">
     <div>
-      <h2 class="text-3xl">Free Resources</h2>
+      <h2 class="text-3xl uppercase sans-serif">Free Resources</h2>
     </div>
     <div>
       <a href="#" class="btn-primary btn text-right">More Resources</a>
     </div>
   </div>
   <div class="grid sm:grid-cols-1 lg:grid-cols-3 gap-4">
-    <div class="bg-white">
-      <div class="p-8">
-        <p class="text-2xl">Salary Negotiation Email Sample Template</p>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 flex-grow flex-1">
+        <p class="text-2xl serif">Salary Negotiation Email Sample Template</p>
         <hr class="my-6 w-16 hr-article">
-        <p class="text-sm mb-6">At netus elit convallis nibh donec in feugiat libero euismod. Risus egestas eu in sit ut. Tortor in vitae libero magnis cursus justo fermentum tortor.</p>
+        <p class="text-sm mb-6 sans-serf">At netus elit convallis nibh donec in feugiat libero euismod. Risus egestas eu in sit ut. Tortor in vitae libero magnis cursus justo fermentum tortor.</p>
       </div>
-      <div class="category flex justify-between items-center">
-        <div class="pl-8"><p>Category</p></div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="sans-serif text-xs">Category</p></div>
         <div><a href="#" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
       </div>
     </div>
-    <div class="bg-white">
-      <div class="p-8">
-        <p class="text-2xl">Salary Increase Email Sample Template</p>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 flex-grow flex-1">
+        <p class="text-2xl serif">Salary Increase Email Sample Template</p>
         <hr class="my-6 w-16 hr-article">
-        <p class="text-sm mb-6">At netus elit convallis nibh donec in feugiat libero euismod. Risus egestas eu in sit ut. Tortor in vitae libero magnis cursus justo fermentum tortor.</p>
+        <p class="text-sm mb-6 sans-serf">Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt rerum quidem hic accusantium. Consectetur expedita ad facilis odio. Minus, culpa! Perspiciatis voluptatem, unde rerum et dolorum explicabo ipsam culpa excepturi.</p>
       </div>
-      <div class="category flex justify-between items-center">
-        <div class="pl-8"><p>Category</p></div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="sans-serif text-xs">Category</p></div>
         <div><a href="#" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
       </div>
     </div>
-    <div class="bg-white">
-      <div class="p-8">
-        <p class="text-2xl">Resignation Letter Email Sample Template</p>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 flex-grow flex-1">
+        <p class="text-2xl serif">Resignation Letter Email Sample Template</p>
         <hr class="my-6 w-16 hr-article">
-        <p class="text-sm mb-6">At netus elit convallis nibh donec in feugiat libero euismod. Risus egestas eu in sit ut. Tortor in vitae libero magnis cursus justo fermentum tortor.</p>
+        <p class="text-sm mb-6 sans-serf">Recusandae quo quis officia incidunt. Esse asperiores minus culpa numquam doloribus ipsam id officiis, veniam architecto amet autem omnis et nam qui in totam harum quos rerum, eligendi odio. Facere, doloremque.</p>
       </div>
-      <div class="category flex justify-between items-center">
-        <div class="pl-8"><p>Category</p></div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="sans-serif text-xs">Category</p></div>
         <div><a href="#" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
       </div>
     </div>
@@ -181,44 +200,74 @@ ctaText: Read More
 </div><!-- /products -->
 
 <div class="container mx-auto my-24">
-  <h2 class="text-3xl mb-8">In the Press</h2>
+  <h2 class="text-3xl mb-8 uppercase sans-serif">In the Press</h2>
   <div class="grid sm:grid-cols-1 lg:grid-cols-3 card-carousel">
-    <div class="bg-white">
-      <div class="p-8 pb-0"">
-        <p class="text-2xl">Article title goes here spanning as many lines as needed to fit the title</p>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 pb-0 flex-grow flex-1">
+        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
         <hr class="my-6 w-16 hr-article">
       </div>
-      <div class="category flex justify-between items-center">
+      <div class="category items-center justify-between flex">
         <div class="pl-8"><img src="https://via.placeholder.com/220x28?text=Brand" alt=""></div>
         <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
       </div>
     </div>
-    <div class="bg-white">
-      <div class="p-8 pb-0"">
-        <p class="text-2xl">Article title goes here spanning as many lines as needed to fit the title</p>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 pb-0 flex-grow flex-1">
+        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
         <hr class="my-6 w-16 hr-article">
       </div>
-      <div class="category flex justify-between items-center">
+      <div class="category items-center justify-between flex">
         <div class="pl-8"><img src="https://via.placeholder.com/220x28?text=Brand" alt=""></div>
         <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
       </div>
     </div>
-    <div class="bg-white">
-      <div class="p-8 pb-0"">
-        <p class="text-2xl">Article title goes here spanning as many lines as needed to fit the title</p>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 pb-0 flex-grow flex-1">
+        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
         <hr class="my-6 w-16 hr-article">
       </div>
-      <div class="category flex justify-between items-center">
+      <div class="category items-center justify-between flex">
         <div class="pl-8"><img src="https://via.placeholder.com/220x28?text=Brand" alt=""></div>
         <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
       </div>
     </div>
-    <div class="bg-white">
-      <div class="p-8 pb-0"">
-        <p class="text-2xl">Article title goes here spanning as many lines as needed to fit the title</p>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 pb-0 flex-grow flex-1">
+        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
         <hr class="my-6 w-16 hr-article">
       </div>
-      <div class="category flex justify-between items-center">
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><img src="https://via.placeholder.com/220x28?text=Brand" alt=""></div>
+        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
+      </div>
+    </div>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 pb-0 flex-grow flex-1">
+        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
+        <hr class="my-6 w-16 hr-article">
+      </div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><img src="https://via.placeholder.com/220x28?text=Brand" alt=""></div>
+        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
+      </div>
+    </div>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 pb-0 flex-grow flex-1">
+        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
+        <hr class="my-6 w-16 hr-article">
+      </div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><img src="https://via.placeholder.com/220x28?text=Brand" alt=""></div>
+        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
+      </div>
+    </div>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 pb-0 flex-grow flex-1">
+        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
+        <hr class="my-6 w-16 hr-article">
+      </div>
+      <div class="category items-center justify-between flex">
         <div class="pl-8"><img src="https://via.placeholder.com/220x28?text=Brand" alt=""></div>
         <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
       </div>
@@ -233,65 +282,85 @@ ctaText: Read More
 </div>
 
 <div class="container mx-auto my-24">
-  <h2 class="text-3xl mb-8">Podcast Appearances</h2>
-  <div class="grid sm:grid-cols-1 lg:grid-cols-3 gap-4 card-carousel">
-    <div class="bg-white">
-      <div class="p-8 pb-0">
-        <p class="text-2xl">Article title goes here spanning as many lines as needed to fit the title</p>
+  <h2 class="text-3xl mb-8 uppercase sans-serif">Podcast Appearances</h2>
+  <div class="grid sm:grid-cols-1 lg:grid-cols-3 card-carousel">
+    <div class="bg-white flex flex-col">
+      <div class="p-8 pb-0 flex-grow flex-1">
+        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
         <hr class="my-6 w-16 hr-article">
       </div>
-      <div class="category flex justify-between items-center">
-        <div class="pl-8"><p>ENGINEERING INSIGHTS</p></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-podcast"></i></a></div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="text-xs uppercase sans-serif">ENGINEERING INSIGHTS</p></div>
+        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
       </div>
     </div>
-    <div class="bg-white">
-      <div class="p-8 pb-0"">
-        <p class="text-2xl">Article title goes here spanning as many lines as needed to fit the title</p>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 pb-0 flex-grow flex-1">
+        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
         <hr class="my-6 w-16 hr-article">
       </div>
-      <div class="category flex justify-between items-center">
-        <div class="pl-8"><p>ENGINEERING INSIGHTS</p></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-podcast"></i></a></div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="text-xs uppercase sans-serif">ENGINEERING INSIGHTS</p></div>
+        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
       </div>
     </div>
-    <div class="bg-white">
-      <div class="p-8 pb-0"">
-        <p class="text-2xl">Article title goes here spanning as many lines as needed to fit the title</p>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 pb-0 flex-grow flex-1">
+        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
         <hr class="my-6 w-16 hr-article">
       </div>
-      <div class="category flex justify-between items-center">
-        <div class="pl-8"><p>ENGINEERING INSIGHTS</p></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-podcast"></i></a></div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="text-xs uppercase sans-serif">ENGINEERING INSIGHTS</p></div>
+        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
       </div>
     </div>
-    <div class="bg-white">
-      <div class="p-8 pb-0"">
-        <p class="text-2xl">Article title goes here spanning as many lines as needed to fit the title</p>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 pb-0 flex-grow flex-1">
+        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
         <hr class="my-6 w-16 hr-article">
       </div>
-      <div class="category flex justify-between items-center">
-        <div class="pl-8"><p>ENGINEERING INSIGHTS</p></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-podcast"></i></a></div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="text-xs uppercase sans-serif">ENGINEERING INSIGHTS</p></div>
+        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
       </div>
     </div>
-    <div class="bg-white">
-      <div class="p-8 pb-0"">
-        <p class="text-2xl">Article title goes here spanning as many lines as needed to fit the title</p>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 pb-0 flex-grow flex-1">
+        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
         <hr class="my-6 w-16 hr-article">
       </div>
-      <div class="category flex justify-between items-center">
-        <div class="pl-8"><p>ENGINEERING INSIGHTS</p></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-podcast"></i></a></div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="text-xs uppercase sans-serif">ENGINEERING INSIGHTS</p></div>
+        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
       </div>
-    </div><!-- / card-carousel -->
+    </div>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 pb-0 flex-grow flex-1">
+        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
+        <hr class="my-6 w-16 hr-article">
+      </div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="text-xs uppercase sans-serif">ENGINEERING INSIGHTS</p></div>
+        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
+      </div>
+    </div>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 pb-0 flex-grow flex-1">
+        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
+        <hr class="my-6 w-16 hr-article">
+      </div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="text-xs uppercase sans-serif">ENGINEERING INSIGHTS</p></div>
+        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
+      </div>
+    </div>
   </div>
 </div><!-- /podcast appearances -->
 
 <div class="container mx-auto mb-16 article-lists">
-  <div class="grid grid-cols-2 gap-6">
-    <div>
-      <h3 class="text-2xl mb-8 alt">Recommended</h3>
+  <div class="grid grid-cols-2">
+    <div class="pr-24">
+      <h3 class="text-2xl mb-8 alt uppcase sans-serif">Recommended</h3>
       <hr class="mb-6 w-16 hr-article">
       <p>Looking for help with your Salary Negotation? Check out how I can help you <a href="#">negotiate a higher offer at Amazon</a> or <a href="#">help with Google Salary Negotiation</a></p>
       <hr class="my-6 w-16 hr-default">
@@ -299,8 +368,8 @@ ctaText: Read More
       <hr class="my-6 w-16 hr-default">
       <p>You can even get 1-on1- help with <a href="#">Google Salary Negotiation</a> or <a href="#">Microsoft Salary Negotiation</a></p>
     </div>
-    <div>
-      <h3 class="text-2xl mb-8 alt">Popular</h3>
+    <div class="pr-24">
+      <h3 class="text-2xl mb-8 alt uppercase sans-serif">Popular</h3>
       <hr class="mb-6 w-16 hr-article">
       <p>Looking for help with your Salary Negotation? Check out how I can help you <a href="#">negotiate a higher offer at Amazon</a> or <a href="#">help with Google Salary Negotiation</a></p>
       <hr class="my-6 w-16 hr-default">
