@@ -2,12 +2,19 @@
 - use https://github.com/kenwheeler/slick for carousels/sliders
 
 # Fix
+- primary navigation/drop down
+- lazy load on blog post
+- Josh to provide Wufoo form creds
+- bring over salary calculator - Corey to modernize design
 - need adobe fonts setup by Josh
-- add CSS color variables
+  - pre-launch fix where we will swap out script in real-time
+
 
 # Completed
+- ~~implemented SASS~~
 - ~~need font awesome icons set up by Josh~~
 - ~~abandon base, used started tailwind install with everything I need below~~
+- ~~add CSS color variables~~
 
 # Jekyll Starter Tailwind
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
