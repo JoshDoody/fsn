@@ -3,11 +3,12 @@
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>Fearless Salary Negotiation</title>
+    <title>{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | strip_html | escape }}{% endif %} | Fearless Salary Negotiation</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
     <link rel="stylesheet" href="https://use.typekit.net/xkl6thl.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
     <link rel="stylesheet" href="{{ site.baseurl }}/slick/slick.css" />
     <link rel="stylesheet" href="{{ site.baseurl }}/slick/slick-theme.css" />
   </head>

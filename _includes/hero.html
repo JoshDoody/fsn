@@ -3,13 +3,13 @@
     <div class="grid grid-cols-2 gap-6">
       <div>
         {% if page.subTitle %}
-          <h4 class="text-xl pb-6 uppercase">{{ page.subTitle }}</h4>
+          <h4 class="text-xl pb-6 pr-12 uppercase">{{ page.subTitle }}</h4>
         {% endif %}
         {% if page.title %}
-          <h1 class="text-4xl pb-6">{{ page.title }}</h1>
+          <h1 class="text-4xl pb-6 pr-12">{{ page.title }}</h1>
         {% endif %}
         {% if page.description %}
-          <p class="pb-6">{{ page.description }}</p>
+          <p class="pb-6 pr-24">{{ page.description }}</p>
         {% endif %}
         {% if page.ctaUrl %}
           <p><a href="{{ page.ctaUrl }}" class="btn-primary btn">{{ page.ctaText }}</a></p>
