@@ -1,0 +1,57 @@
+.footer {
+  background-color: $brand-gray;
+  h5 {
+    color: $brand-white;
+  }
+  p {
+    color: $brand-white;
+  }
+  .fas {
+    color: $brand-secondary;
+  }
+  a {
+    color: $brand-white;
+    text-decoration: none;
+    &:hover {
+      opacity: .5;
+    }
+  }
+}
+
+.footer-nav {
+  li {
+    margin: 0;
+  }
+  a {
+    color: $brand-white;
+    font-family: $font-serif;
+    text-decoration: none;
+    display: block;
+    &:hover {
+      opacity: .5;
+    }
+  }
+  hr {
+    border: none;
+    border-bottom: 1px solid $brand-secondary;
+    width: 20px;
+    margin-left: auto;
+  }
+}
+
+.copyright {
+  background-color: rgba($brand-black,.2);
+  p {
+    font-size: 12px;
+    color: $brand-white;
+    opacity: .5;
+  }
+  a {
+    color: $brand-white;
+    text-transform: uppercase;
+    opacity: .5;
+    &:hover {
+      opacity: 1;
+    }
+  }
+}

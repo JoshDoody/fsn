@@ -1,0 +1,28 @@
+.brand img {
+  max-width: 270px;
+}
+
+.main-nav {
+  li {
+    &:first-of-type a {
+      margin-left: 0;
+    }
+    &.btn-link a {
+      background-color: $brand-secondary;
+      color: $brand-white;
+      font-size: 1em;
+      font-weight: 900;
+      text-transform: uppercase;
+      padding: 9px 12px 11px;
+    }
+  }
+  a {
+    color: $brand-gray;
+    font-size: 1.125em;
+    font-weight: 700;
+    text-decoration: none;
+    margin-left: 2.5em;
+    &:hover {}
+    &.active {}
+  }
+}

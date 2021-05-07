@@ -1,0 +1,14 @@
+.hero {
+  background-color: rgba($brand-gray,.10);
+  h4 {
+    font-family: $font-sans-serif;
+    color: $brand-primary;
+  }
+  p {
+    font-family: $font-serif;
+  }
+}
+
+.hero-posts {
+  background-color: transparent;
+}
