@@ -13,11 +13,11 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/slick/slick-theme.css" />
   </head>
 
-  <body>
+  <body class="{{ page.layout }}">
 
-    <div class="bg-white">
-      <div class="container mx-auto py-4 px-8">
-        <div class="flex items-center">
+    <div class="main-nav-wrap bg-white">
+      <div class="mx-auto py-4 px-8">
+        <div class="flex justify-center items-center">
           <div class="brand">
             <a href="/">
               <img src="{{site.baseurl}}/assets/imgs/fsn-brand.svg" alt="Fearless Salary Negotiation">
@@ -33,15 +33,8 @@
                   </li>
                 {% endif %}
               {% endfor %}
-              <!-- <li class="mx-8"><a href="#">Products</a></li>
-              <li class="mx-8"><a href="{{ site.baseurl }}/blog/">Articles</a></li>
-              <li class="mx-8"><a href="#">Free Resources</a></li>
-              <li class="mx-8"><a href="#">Success Stories</a></li>
-              <li class="mx-8"><a href="#">About</a></li>
-              <li class="mx-8"><a href="#">Contact</a></li>
-              <li class="mx-8"><a href="#" class="rounded-md py-2 px-4 bg-yellow-400 text-white">Get 1-on-1 Help</a></li> -->
             </ul>
           </div><!-- /main-nav -->
         </div>
       </div>
-    </div><!-- /navbar -->
+    </div><!-- /main-nav-wrap -->
