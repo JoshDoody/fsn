@@ -30,6 +30,14 @@ $(document).ready(function() {
     nextArrow: $(".suc-next")
   });
 
+  // Book toc carousel
+  $(".toc-carousel").slick({
+    infinite: true,
+    slidesToShow: 4,
+    slidesToScroll: 1,
+    dots: true
+  });
+
   // Accordion
   $(".acc-hide").hide();
   $(".accordion h6").click(function(){
