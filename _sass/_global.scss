@@ -61,11 +61,33 @@ ul, ol {
 
 ul {
   list-style-type: disc;
-  &.checklist {
+  &.checklist,
+  &.arrows {
+    margin-left: 0;
     list-style-type: none;
-    text-indent: -10px;
-    .fas:before {
-      color: $brand-white;
+    li {
+      font-family: $font-serif;
+      display: flex;
+      .fas {
+        background-color: $brand-secondary;
+        border-radius: 50%;
+        height: 13px;
+        width: 13px;
+        margin-right: .75em;
+        &:before {
+          color: $brand-white;
+          margin-left: -1px;
+        }
+      }
+    }
+  }
+  &.arrows {
+    li {
+      .fas {
+        &:before {
+          color: $brand-light-gray;
+        }
+      }
     }
   }
 }
