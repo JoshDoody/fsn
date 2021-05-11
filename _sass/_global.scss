@@ -62,7 +62,8 @@ ul, ol {
 ul {
   list-style-type: disc;
   &.checklist,
-  &.arrows {
+  &.arrows,
+  &.nope {
     margin-left: 0;
     list-style-type: none;
     li {
@@ -82,11 +83,17 @@ ul {
     }
   }
   &.arrows {
+    li .fas {
+      &:before {
+        color: $brand-light-gray;
+      }
+    }
+  }
+  &.nope {
     li {
+      opacity: .5;
       .fas {
-        &:before {
-          color: $brand-light-gray;
-        }
+        color: #EE1A26;
       }
     }
   }
