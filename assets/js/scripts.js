@@ -42,6 +42,7 @@ $(document).ready(function() {
   $(".acc-hide").hide();
   $(".accordion h6").click(function(){
     $(this).next(".acc-hide").slideToggle();
+    $(this).toggleClass("active");
   });
 
 });
