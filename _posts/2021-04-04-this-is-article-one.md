@@ -64,7 +64,7 @@ Diam, et eget in dignissim lectus. Nisi sed placerat lorem nisi in purus fusce. 
 
 Sed non nec turpis venenatis dui. Dolor sed senectus egestas ligula amet, tortor, aenean blandit proin. Purus dolor eu tellus lorem ut mauris quam sed. Morbi bibendum mi id ultricies habitant. Ac tempus, pellentesque et aliquet pharetra. Tellus magna tortor, sit sapien turpis vulputate parturient.
 
-<div class="accordion">
+<div class="accordion mt-7 mb-10">
   <div class="acc-open">
     <h6>Question goes here far far away behind the word mountains far from?</h6>
     <div class="acc-hide">
