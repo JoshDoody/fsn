@@ -44,14 +44,34 @@
   p {
     font-size: 12px;
     color: $brand-white;
+    text-transform: uppercase;
     opacity: .5;
   }
   a {
     color: $brand-white;
-    text-transform: uppercase;
     opacity: .5;
     &:hover {
       opacity: 1;
+    }
+  }
+}
+
+.access-tag {
+  bottom: 0;
+  z-index: 9999;
+  a {
+    background-color: $brand-secondary;
+    color: $brand-gray;
+    font: {
+      family: $font-sans-serif;
+      weight: 900;
+    }
+    text-transform: uppercase;
+    padding: 1em 1.875em;
+    border-radius: 25px 25px 0 0;
+    display: inline-block;
+    &:hover {
+      color: $brand-white;
     }
   }
 }
