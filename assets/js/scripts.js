@@ -45,4 +45,25 @@ $(document).ready(function() {
     $(this).toggleClass("active");
   });
 
+  // Instant access tag
+  $(window).scroll(function(){
+    if ($(this).scrollTop() > 350) {
+       $(".access-tag").addClass("fixed");
+    } else {
+       $(".access-tag").removeClass("fixed");
+    }
+  });
+
+  // Instant access tag show/hide
+  var footer = $(".access-tag");
+  $(window).scroll(function() {
+    if (($(window).scrollTop() + $(window).height() > $(document).height() - 200)
+        && footer.is(":visible")) {
+      footer.stop().fadeOut(300);
+    } else if (($(window).scrollTop() < $(document).height() - 100)
+       && footer.is(":hidden")) {
+      footer.stop().fadeIn(300);
+    }
+  });
+
 });
