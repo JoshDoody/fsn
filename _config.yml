@@ -22,5 +22,7 @@ plugins: [jekyll-paginate]
 
 permalink: /:day/:month/:year/:title/
 
-# paginate: 3
-# paginate_path: "/articles/page:num/"
+collections:
+  book:
+    output: true
+    permalink: /book/:title/
