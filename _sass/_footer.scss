@@ -58,8 +58,8 @@
 
 .access-tag {
   bottom: 0;
-  z-index: 9999;
-  a {
+  z-index: 7777;
+  button {
     background-color: $brand-secondary;
     color: $brand-gray;
     font: {
@@ -70,8 +70,68 @@
     padding: 1em 1.875em;
     border-radius: 25px 25px 0 0;
     display: inline-block;
+    transition: .5s ease all;
     &:hover {
       color: $brand-white;
+    }
+    &:focus {
+      outline: none;
+    }
+  }
+}
+
+// Access modal
+.access-overlay {
+  background-color: rgba($brand-gray,.5);
+  width: 100%;
+  height: 100%;
+  display: none;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 7777;
+  overflow: auto; /* Scroll if needed */
+}
+
+.access-modal {
+  background-color: $brand-white;
+  width: 80%;
+  max-width: 740px;
+  padding: 2.5em;
+  display: none;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 8888;
+  h2 {
+    color: $brand-gray;
+    font: {
+      family: $font-sans-serif;
+      size: 2em;
+    }
+    text-transform: uppercase;
+  }
+  hr {
+    margin: 2em 0;
+  }
+  p {
+    color: $brand-gray;
+    font-family: $font-serif;
+    margin-bottom: 2em;
+  }
+  .access-close {
+    color: $brand-white;
+    font-size: 28px;
+    font-weight: 900;
+    position: absolute;
+    top: -40px;
+    right: -40px;
+    transition: .5s ease all;
+    &:hover,
+    &:focus {
+      opacity: .5;
+      cursor: pointer;
     }
   }
 }

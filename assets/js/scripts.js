@@ -66,4 +66,17 @@ $(document).ready(function() {
     }
   });
 
+  // Get access modal
+  $(".btn-access-tag").click(function() {
+    $(".access-modal, .access-overlay").fadeIn();
+    $(".access-overlay").click(function(){
+      $(".access-modal").fadeOut();
+      $(this).fadeOut();
+    });
+  });
+
+  $(".access-close").click(function(){
+    $(".access-overlay").fadeOut();
+  });
+
 });
