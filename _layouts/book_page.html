@@ -1,0 +1,20 @@
+---
+layout: page
+---
+
+{% include header.html %}
+
+{% include hero-book.html %}
+
+<div class="container mx-auto py-20">
+  <div class="grid grid-cols-2 gap-6">
+    <div>
+      <h3>Contents</h3>
+    </div>
+    <div>
+      {{ content }}
+    </div>
+  </div>
+</div>
+
+{% include footer.html %}
