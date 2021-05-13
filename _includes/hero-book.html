@@ -1,0 +1,20 @@
+<div class="hero">
+  <div class="container mx-auto pt-28 pb-48">
+    <div class="grid grid-cols-2 gap-6">
+      <div>
+        <img src="{{ site.baseurl }}/assets/imgs/hero-book-page.png" alt="Fearless Salary Negotiation">
+      </div>
+      <div>
+        {% if page.subTitle %}
+          <h4 class="text-xl pb-6 pr-12 uppercase">{{ page.subTitle }}</h4>
+        {% endif %}
+        {% if page.title %}
+          <h1 class="text-4xl pb-6 pr-12">{{ page.title }}</h1>
+        {% endif %}
+        {% if page.description %}
+          <p class="pb-6 pr-24">{{ page.description }}</p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div><!-- /hero -->
