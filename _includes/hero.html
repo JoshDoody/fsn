@@ -13,6 +13,8 @@
         {% endif %}
         {% if page.ctaUrl %}
           <p><a href="{{ page.ctaUrl }}" class="btn-primary btn">{{ page.ctaText }}</a></p>
+        {% elsif page.layout == 'book' %}
+          <p><a class="btn-primary btn btn-access-tag">{{ page.ctaText }}</a></p>
         {% endif %}
       </div>
       <div class="pt-12 relative">
