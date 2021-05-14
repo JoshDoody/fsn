@@ -14,6 +14,15 @@
   background-color: transparent;
 }
 
+.hero-book {
+  position: relative;
+  img {
+    position: absolute;
+    bottom: -20px;
+    left: 0;
+  }
+}
+
 
 // Navigation
 .main-nav-wrap {

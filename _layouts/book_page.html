@@ -7,13 +7,21 @@ layout: page
 {% include hero-book.html %}
 
 <div class="container mx-auto py-20">
-  <div class="grid grid-cols-2 gap-6">
-    <div>
-      <h3>Contents</h3>
-    </div>
-    <div>
+  <div class="flex gap-12">
+
+    <div class="w-4/12 book-sidebar p-8">
+      <h3 class="text-2xl mb-3.5 uppercase sans-serif">Contents</h3>
+      <ul class="list-none m-0">
+        <li><a href="#">About the Author</a></li>
+        <li><a href="#">Introduction</a></li>
+        <li><a href="#">Getting the Most out of This Book</a></li>
+      </ul>
+    </div><!-- /book-sidebar -->
+
+    <div class="w-8/12 book-content">
       {{ content }}
-    </div>
+    </div><!-- /book-content -->
+
   </div>
 </div>
 

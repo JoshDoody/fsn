@@ -503,6 +503,25 @@
   }
 }
 
+.book-sidebar {
+  background-color: $brand-white;
+  h3 {
+    color: $brand-primary;
+  }
+  li {
+    a {
+      color: $brand-gray;
+      text-decoration: none;
+      font-size: 1em;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+.book-content {}
+
 .get-access {
   background: url("../imgs/prod-book-lg.png") left bottom no-repeat $brand-gray;
   background-size: contain;
