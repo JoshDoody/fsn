@@ -79,4 +79,10 @@ $(document).ready(function() {
     $(".access-overlay").fadeOut();
   });
 
+  // Book sidebar table of contents toggle
+  $(".toc-title").click(function() {
+    $(this).next(".toc-chapter").slideToggle();
+    $(this).toggleClass("active");
+  });
+
 });
