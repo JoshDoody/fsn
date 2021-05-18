@@ -74,11 +74,12 @@ ul {
       .fas {
         background-color: $brand-secondary;
         border-radius: 50%;
-        height: 13px;
-        width: 13px;
+        height: 23px;
+        width: 23px;
         margin-right: .75em;
         &:before {
           color: $brand-white;
+          font-size: 24px;
           margin-left: -1px;
         }
       }
@@ -103,6 +104,43 @@ ul {
 
 ol {
   list-style-type: decimal;
+  &.numbered {
+    margin-left: 12px;
+    list-style: none;
+    counter-reset: num-counter;
+    li {
+      text-indent: -24px;
+      margin-left: 20px;
+      counter-increment: num-counter;
+      position: relative;
+      &:before {
+        content: counter(num-counter) " ";
+        counter-increment: item;
+        color: $brand-secondary;
+        font: {
+          family: $font-serif;
+          size: 1em;
+          weight: 700;
+        }
+        text-align: center;
+        line-height: 1;
+        margin-right: 12px;
+        position: relative;
+        z-index: 2222;
+      }
+      &:after {
+        background-color: $brand-white;
+        border-radius: 50%;
+        width: 24px;
+        height: 24px;
+        content: " ";
+        position: absolute;
+        left: -32px;
+        top: 0;
+        z-index: 1111;
+      }
+    }
+  }
 }
 
 img {
@@ -162,4 +200,28 @@ hr {
 
 .brand-secondary {
   color: $brand-secondary;
+}
+
+blockquote {
+  color: $brand-gray;
+  margin: 2.5em 0;
+  padding: 1.5em;
+  border: 1px solid $brand-secondary;
+  .book_page & {
+    font-weight: 700;
+  }
+  p {
+    font: {
+      family: $font-serif;
+      size: 1.25em;
+    }
+    margin-bottom: .75em;
+  }
+  sub {
+    font: {
+      family: $font-sans-serif;
+      size: .65em;
+    }
+    line-height: 1em;
+  }
 }

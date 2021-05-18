@@ -95,23 +95,6 @@
     margin: 2.5em 0;
     box-shadow: 32px 32px 40px rgba($brand-black, .15);
   }
-  blockquote {
-    color: $brand-gray;
-    font-size: 1.5em;
-    margin: 2.5em 0;
-    padding: 1.5em;
-    border: 1px solid $brand-secondary;
-    p {
-      margin-bottom: .75em;
-      &:last-of-type {
-        margin-bottom: 0.5em;
-      }
-    }
-    sub {
-      font-size: .65em;
-      line-height: 1em;
-    }
-  }
 }
 
 .blog-slider {}
@@ -215,8 +198,10 @@
       cursor: pointer;
     }
     &:after {
-      font-family: "Font Awesome 5 Free";
-      font-weight: 900;
+      font: {
+        family: "Font Awesome 5 Free";
+        weight: 900;
+      }
       color: $brand-secondary;
       content: "\f0dd";
       position: absolute;
@@ -504,23 +489,93 @@
 }
 
 .book-sidebar {
-  background-color: $brand-white;
+  >div {
+    background-color: $brand-white;
+  }
   h3 {
     color: $brand-primary;
   }
-  li {
-    a {
-      color: $brand-gray;
-      text-decoration: none;
-      font-size: 1em;
-      &:hover {
-        text-decoration: underline;
+  h4.toc-title {
+    color: $brand-secondary;
+    font-size: 1.25em;
+    text-transform: uppercase;
+    margin-bottom: .875em;
+    position: relative;
+    &:after {
+      font: {
+        family: "Font Awesome 5 Free";
+        size: 16px;
+        weight: 900;
+      }
+      color: $brand-secondary;
+      content: "\f068";
+      position: absolute;
+      right: 0;
+      top: 0;
+      text-rendering: auto;
+      -webkit-font-smoothing: antialiased;
+    }
+    &:hover {
+      cursor: pointer;
+    }
+    &.active {
+      &:after {
+        content: "\f067";
       }
     }
   }
+  h5 {
+    font: {
+      family: $font-serif;
+      size: 1em;
+      weight: 700;
+    }
+    margin-bottom: .875em;
+  }
+  ul {
+    margin: 0;
+    list-style: none;
+    li {
+      text-indent: -17px;
+      margin: {
+        bottom: .875em;
+        left: 17px;
+      }
+      &.no-indent {
+        text-indent: 0;
+        margin-left: 0;
+      }
+      a {
+        color: $brand-gray;
+        text-decoration: none;
+        font-size: .875em;
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+    &.toc {
+      li {}
+    }
+  }
+  .toc-chapter {
+    display: none;
+  }
+  .toc-open {
+    display: block;
+  }
 }
 
-.book-content {}
+.book-content {
+  h2, h3, h4, h5, h6, p, li {
+    font-family: $font-serif;
+  }
+  h2, h3, h4, h5, h6 {
+    margin-bottom: 1.25em;
+  }
+}
+
+.book-pag {}
 
 .get-access {
   background: url("../imgs/prod-book-lg.png") left bottom no-repeat $brand-gray;
