@@ -1,0 +1,18 @@
+// Interview checklist inline
+.interview-checklist-inline {
+  background-color: $brand-gray;
+  label {
+    display: block;
+  }
+  input[type="text"],
+  input[type="email"] {
+    color: $brand-gray;
+    font-size: .75em;
+    text-transform: uppercase;
+    width: 100%;
+    padding: .875em;
+  }
+  input[type="submit"]:hover {
+    cursor: pointer;
+  }
+}
