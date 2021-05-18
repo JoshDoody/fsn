@@ -9,20 +9,73 @@ layout: page
 <div class="container mx-auto py-20">
   <div class="flex gap-12">
 
-    <div class="w-4/12 book-sidebar p-8">
-      <h3 class="text-2xl mb-3.5 uppercase sans-serif">Contents</h3>
-      <ul class="list-none m-0">
-        <li><a href="#">About the Author</a></li>
-        <li><a href="#">Introduction</a></li>
-        <li><a href="#">Getting the Most out of This Book</a></li>
-      </ul>
+    <div class="w-4/12 book-sidebar">
+
+      <div class="p-8">
+        <h3 class="text-2xl mb-3.5 uppercase sans-serif">Contents</h3>
+        <ul class="serif">
+          <li><h5><a href="#">About the Author</a></h5></li>
+          <li><h5><a href="#">Introduction</a></h5></li>
+          <li><h5><a href="#">Getting the Most out of This Book</a></h5></li>
+        </ul>
+
+        <hr class="mt-8 pb-8">
+
+        <h4 class="toc-title active">Part 1</h4>
+        <div class="toc-chapter toc-open">
+          <h5>Understanding your Market Value</h5>
+          <ul class="toc">
+            <li class="no-indent"><a href="#">A few fundamental concepts</a></li>
+            <li><a href="#"><strong>1.</strong> How companies manage their salary structures</a></li>
+            <li><a href="#"><strong>2.</strong> How to estimate your market value</a></li>
+          </ul>
+        </div><!-- /toc-chapter -->
+
+        <hr class="mt-8 pb-8">
+
+        <h4 class="toc-title">Part 2</h4>
+        <div class="toc-chapter">
+          <h5>Getting Paid What You’re Worth When Changing Companies</h5>
+          <ul class="toc">
+            <li class="no-indent"><a href="#">Leveraging your best opportunity to significantly increase your salary</a></li>
+            <li><a href="#"><strong>3.</strong> How to ace your next interview</a></li>
+            <li><a href="#"><strong>4.</strong> How to negotiate your new salary</a></li>
+            <li><a href="#"><strong>5.</strong> How to leave a job on the best possible terms</a></li>
+          </ul>
+        </div><!-- /toc-chapter -->
+
+        <hr class="mt-8 pb-8">
+
+        <h4 class="toc-title">Part 3</h4>
+        <div class="toc-chapter">
+          <h5>Getting Paid What You’re Worth Within Your Current Company</h5>
+          <ul class="toc">
+            <li class="no-indent"><a href="#">Do you have to quit your job to get a big raise?</a></li>
+            <li><a href="#"><strong>6.</strong> How to get your next promotion</a></li>
+            <li><a href="#"><strong>7.</strong> How to get your next raise</a></li>
+          </ul>
+        </div><!-- /toc-chapter -->
+      </div>
+
     </div><!-- /book-sidebar -->
 
-    <div class="w-8/12 book-content">
-      {{ content }}
-    </div><!-- /book-content -->
+    <div class="w-8/12 book-content-wrap">
+
+      <div class="book-content">
+        {{ content }}
+      </div><!-- /book-content -->
+
+      {% include interview-checklist-inline.html %}
+
+      <div class="book-pag">
+
+      </div><!-- /book-pag -->
+
+    </div><!-- /book-content-wrap -->
 
   </div>
 </div>
+
+{% include one-on-one-help.html %}
 
 {% include footer.html %}
