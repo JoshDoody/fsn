@@ -14,9 +14,9 @@ layout: page
       <div class="p-8">
         <h3 class="text-2xl mb-3.5 uppercase sans-serif">Contents</h3>
         <ul class="serif">
-          <li><h5><a href="#">About the Author</a></h5></li>
-          <li><h5><a href="#">Introduction</a></h5></li>
-          <li><h5><a href="#">Getting the Most out of This Book</a></h5></li>
+          <li><h5><a href="{{ site.baseurl }}/book/about-the-author">About the Author</a></h5></li>
+          <li><h5><a href="{{ site.baseurl }}/book/fearless-salary-negotiation/">Introduction</a></h5></li>
+          <li><h5><a href="{{ site.baseurl }}/book/how-to-get-the-most-out-of-this-book/">Getting the Most out of This Book</a></h5></li>
         </ul>
 
         <hr class="mt-8 pb-8">
@@ -67,9 +67,7 @@ layout: page
 
       {% include interview-checklist-inline.html %}
 
-      <div class="book-pag">
-
-      </div><!-- /book-pag -->
+      {% include book-pagination.html %}
 
     </div><!-- /book-content-wrap -->
 
