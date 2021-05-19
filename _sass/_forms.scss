@@ -16,3 +16,29 @@
     cursor: pointer;
   }
 }
+
+// Access gate
+.access-gate-inline {
+  background-color: $brand-white;
+  h3, div {
+    color: $brand-gray;
+  }
+  label {
+    display: block;
+  }
+  input[type="text"],
+  input[type="email"] {
+    background-color: $brand-light-gray;
+    color: $brand-gray;
+    font-size: .75em;
+    text-transform: uppercase;
+    width: 100%;
+    padding: .875em;
+  }
+  input[type=submit] {
+    color: $brand-gray;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}

@@ -577,6 +577,35 @@
 
 .book-pag {}
 
+.book-nav {
+  &.add-border {
+    position: relative;
+    &:after {
+      background-color: $brand-gray;
+      width: 1px;
+      height: 100%;
+      display: block;
+      content: " ";
+      position: absolute;
+      top: .5em;
+      left: 50%;
+    }
+  }
+  h5 {
+    color: $brand-gray;
+  }
+  a {
+    color: $brand-gray;
+    text-decoration: none;
+    padding: .5em .75em .75em;
+    border: 2px solid $brand-secondary;
+    &:hover {
+      background-color: $brand-secondary;
+      text-decoration: none;
+    }
+  }
+}
+
 .get-access {
   background: url("../imgs/prod-book-lg.png") left bottom no-repeat $brand-gray;
   background-size: contain;

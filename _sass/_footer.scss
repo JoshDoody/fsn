@@ -104,22 +104,22 @@
   top: 50%;
   transform: translate(-50%, -50%);
   z-index: 8888;
-  h2 {
-    color: $brand-gray;
-    font: {
-      family: $font-sans-serif;
-      size: 2em;
-    }
-    text-transform: uppercase;
-  }
-  hr {
-    margin: 2em 0;
-  }
-  p {
-    color: $brand-gray;
-    font-family: $font-serif;
-    margin-bottom: 2em;
-  }
+  // h2 {
+  //   color: $brand-gray;
+  //   font: {
+  //     family: $font-sans-serif;
+  //     size: 2em;
+  //   }
+  //   text-transform: uppercase;
+  // }
+  // hr {
+  //   margin: 2em 0;
+  // }
+  // p {
+  //   color: $brand-gray;
+  //   font-family: $font-serif;
+  //   margin-bottom: 2em;
+  // }
   .access-close {
     color: $brand-white;
     font-size: 28px;
