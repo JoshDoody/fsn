@@ -1,7 +1,6 @@
 # Site notes
-- use https://github.com/kenwheeler/slick for carousels/sliders
 
-# Fix
+## Fix
 - primary navigation/drop down
 - lazy load on blog post
 - Josh to provide Wufoo form creds
@@ -10,7 +9,8 @@
   - pre-launch fix where we will swap out script in real-time
 
 
-# Completed
+## Completed
+- ~~use https://github.com/kenwheeler/slick for carousels/sliders~~
 - ~~implemented SASS~~
 - ~~need font awesome icons set up by Josh~~
 - ~~abandon base, used started tailwind install with everything I need below~~
