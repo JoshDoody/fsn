@@ -76,7 +76,7 @@ $(document).ready(function() {
   });
 
   $(".access-close").click(function(){
-    $(".access-overlay").fadeOut();
+    $(".access-overlay, .access-modal").fadeOut();
   });
 
   // Book sidebar table of contents toggle
