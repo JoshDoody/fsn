@@ -5,7 +5,7 @@
 - primary navigation/drop down
 - lazy load on blog post
 - Josh to provide Wufoo form creds
-- bring over salary calculator - Corey to modernize design
+- bring over salary calculator
 - need adobe fonts setup by Josh
   - pre-launch fix where we will swap out script in real-time
 
