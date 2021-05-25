@@ -28,8 +28,8 @@
               {% assign navigation_pages = site.html_pages | sort: 'navWeight' %}
               {% for p in navigation_pages %}
                 {% if p.navWeight %}
-                  <li class="{% if p.title == "1-on-1 Help" %}btn-link{% endif %}">
-                    <a href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>{{ p.title }}</a>
+                  <li class="{% if p.navTitle == "1-on-1 Help" %}btn-link{% endif %}">
+                    <a href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>{{ p.navTitle }}</a>
                   </li>
                 {% endif %}
               {% endfor %}
