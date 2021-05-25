@@ -1,7 +1,6 @@
 # Site notes
 
 ## Fix
-- primary navigation/drop down
 - Update 1-on-1 help section (image/layout)
 - lazy load on blog post
 - bring over salary calculator
@@ -10,6 +9,7 @@
 
 
 ## Completed
+- ~~primary navigation/drop down~~
 - ~~Josh to provide Wufoo form creds~~
 - ~~use https://github.com/kenwheeler/slick for carousels/sliders~~
 - ~~implemented SASS~~
