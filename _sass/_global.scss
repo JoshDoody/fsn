@@ -158,11 +158,11 @@ hr {
   border: none;
   border-top: 2px solid $brand-secondary;
   &.hr-default {
-    border-top: 2px solid $brand-gray;
+    border-color: $brand-gray;
     opacity: .25;
   }
   &.hr-article {
-    border-top: 2px solid $brand-primary;
+    border-color: $brand-primary;
   }
 }
 
