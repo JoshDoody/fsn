@@ -2,14 +2,15 @@
 
 ## Fix
 - primary navigation/drop down
+- Update 1-on-1 help section (image/layout)
 - lazy load on blog post
-- Josh to provide Wufoo form creds
 - bring over salary calculator
 - need adobe fonts setup by Josh
   - pre-launch fix where we will swap out script in real-time
 
 
 ## Completed
+- ~~Josh to provide Wufoo form creds~~
 - ~~use https://github.com/kenwheeler/slick for carousels/sliders~~
 - ~~implemented SASS~~
 - ~~need font awesome icons set up by Josh~~
