@@ -15,6 +15,13 @@
       text-transform: uppercase;
       padding: 9px 12px 11px;
     }
+    &.nav-drop {
+      &:hover {
+        .sub-nav-wrap {
+          display: grid;
+        }
+      }
+    }
   }
   a {
     color: $brand-gray;
@@ -24,5 +31,49 @@
     margin-left: 2.5em;
     &:hover {}
     &.active {}
+  }
+}
+
+.sub-nav-wrap {
+  padding-top: 35px;
+  display: none;
+  position: absolute;
+  right: 0;
+  left: 0;
+}
+
+.sub-nav {
+  background-color: $brand-gray;
+  .container {
+    padding: 4em 0;
+  }
+  .sub-nav-group {
+    h6 {
+      color: $brand-secondary;
+      font: {
+        family: $font-sans-serif;
+        size: 1.125em;
+      }
+      text: {
+        align: center;
+        transform: uppercase;
+      }
+      margin-bottom: .75em;
+    }
+    p {
+      color: $brand-white;
+      font-size: 14px;
+      text-align: center;
+      margin-bottom: 2em;
+    }
+    img {
+      margin: 0 auto 1em;
+      display: block;
+      mix-blend-mode: multiply;
+    }
+    a {
+      color: $brand-white;
+      font-family: $font-sans-serif;
+    }
   }
 }
