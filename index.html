@@ -47,7 +47,35 @@ ctaText: Read More
   <div class="success-slider">
     <img src="{{ site.baseurl }}/assets/imgs/ico-success-quote.svg" class="suc-quote" >
     <div class="suc-quotes">
-      <div>
+
+      {% for story in site.success-stories limit.5 %}
+        {% if story.person == "Acree M." %}
+        <div>
+          {{ story.excerpt | markdownify }}
+          <div class="flex items-center mt-6">
+            <div class="mr-4"><img src="{{ story.headshot }}" class="rounded-full h-20 w-20"></div>
+            <div>
+              <p class="name m-0">{{ story.person }}</p>
+              <p class="title m-0">{{ story.jobTitle }}</p>
+            </div>
+          </div>
+        </div>
+        {% elsif story.person == "Aaron Batilo" %}
+          <div>
+            {{ story.excerpt | markdownify }}
+            <div class="flex items-center mt-6">
+              <div class="mr-4"><img src="{{ story.headshot }}" class="rounded-full h-20 w-20"></div>
+              <div>
+                <p class="name m-0">{{ story.person }}</p>
+                <p class="title m-0">{{ story.jobTitle }}</p>
+              </div>
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+
+
+      <!-- <div>
         <p>I used the Fearless Salary Negotiation strategy for negotiating an offer and went <strong>from $95,000</strong> with a title of Software Engineer 1 <strong>to $105,000</strong> with a title of Software Engineer 2. Now I can pay off my student loans and buy a house more quickly. Six months later, I did it again! This time, I one-upped that by turning a <strong>$125,000 offer</strong> to a <strong>$145,000 offer</strong>. That's $30,000 in additional salary thanks to this truly wonderful resource.”</p>
         <div class="flex items-center mt-6">
           <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
@@ -56,27 +84,9 @@ ctaText: Read More
             <p class="title m-0">Job Title</p>
           </div>
         </div>
-      </div>
-      <div>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum ullam harum cum error itaque sint ipsa veniam dolorem et eligendi. Ut unde aliquid laborum, quibusdam iste libero quas nihil sed?</p>
-        <div class="flex items-center mt-6">
-          <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
-          <div>
-            <p class="name m-0">First Name</p>
-            <p class="title m-0">Job Title</p>
-          </div>
-        </div>
-      </div>
-      <div>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dolore odit, consectetur quos illo, id beatae reprehenderit adipisci quo, natus eaque deserunt magnam mollitia voluptatibus temporibus unde rem est deleniti voluptas ullam incidunt! Natus placeat perferendis magnam totam quod eligendi cum rem impedit nesciunt inventore fugiat ex fuga, iste modi deleniti voluptate accusamus commodi aspernatur vel. Repellendus error debitis provident nihil perspiciatis nam qui atque iure delectus est? Nobis quasi animi voluptate magnam iusto ut qui odio, aliquid nisi hic et tenetur distinctio, molestiae fuga vitae blanditiis error repudiandae magni porro. Veniam nobis quisquam suscipit aliquam quae amet blanditiis praesentium!</p>
-        <div class="flex items-center mt-6">
-          <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
-          <div>
-            <p class="name m-0">First Name</p>
-            <p class="title m-0">Job Title</p>
-          </div>
-        </div>
-      </div>
+      </div> -->
+
+
     </div><!-- /suc-quotes -->
 
     <div class="flex suc-control">
