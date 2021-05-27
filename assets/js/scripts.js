@@ -1,5 +1,10 @@
 $(document).ready(function() {
 
+  // Main nav dropdown
+  $(".nav-drop").hover(function() {
+      $(this).find(".sub-nav-wrap").toggle();
+  });
+
   // Card carousel
   $(".card-carousel").slick({
     infinite: true,
