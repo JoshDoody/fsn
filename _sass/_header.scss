@@ -15,13 +15,14 @@
       text-transform: uppercase;
       padding: 9px 12px 11px;
     }
-    &.nav-drop {
-      &:hover {
-        .sub-nav-wrap {
-          display: grid;
-        }
-      }
-    }
+    // Doing dropdown with jQuery
+    // &.nav-drop {
+    //   &:hover {
+    //     .sub-nav-wrap {
+    //       display: grid;
+    //     }
+    //   }
+    // }
   }
   a {
     color: $brand-gray;
@@ -35,15 +36,18 @@
 }
 
 .sub-nav-wrap {
-  padding-top: 35px;
+  // padding-top: 35px;
   display: none;
   position: absolute;
   right: 0;
   left: 0;
+  z-index: 9999;
 }
 
 .sub-nav {
   background-color: $brand-gray;
+  // Aligns top of dropdown nav with bottom of navbar
+  margin-top: 35px;
   .container {
     padding: 4em 0;
   }
@@ -69,7 +73,6 @@
     img {
       margin: 0 auto 1em;
       display: block;
-      mix-blend-mode: multiply;
     }
     a {
       color: $brand-white;
