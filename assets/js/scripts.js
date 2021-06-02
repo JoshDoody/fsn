@@ -80,7 +80,7 @@ $(document).ready(function() {
     });
   });
 
-  $(".access-close").click(function(){
+  $(".access-close, .access-overlay").click(function(){
     $(".access-overlay, .access-modal").fadeOut();
   });
 
