@@ -3,28 +3,28 @@
     <div class="flex items-center">
       <div class="w-3/6 pr-24">
         <h5 class="text-xl mb-8 uppercase sans-serif">A short positioning statement describing how Fearless Salary Negotiation helps people get the salaries they deserve.</h5>
-        <p class="serif"><a href="#" class="btn-primary btn mr-5">Get 1-on-1 Help</a> <a href="#">Or contact Josh <i class="fas fa-angle-double-right"></i></a></p>
+        <p class="serif"><a href="{{ site.baseurl }}/one-on-one/" class="btn-primary btn mr-5">Get 1-on-1 Help</a> <a href="{{ site.baseurl }}/contact/">Or contact Josh <i class="fas fa-angle-double-right"></i></a></p>
       </div>
-      <div class="w-1/6 footer-nav">
+    <div class="w-1/6 footer-nav">
         <ul class="list-none">
-          <li class="text-right"><a href="/book/">The Book</a></li>
+          <li class="text-right"><a href="{{ site.baseurl }}/book/">The Book</a></li>
           <hr class="my-3">
-          <li class="text-right"><a href="#">The Crash Course</a></li>
+          <li class="text-right"><a href="{{ site.baseurl }}/crash-course/">The Crash Course</a></li>
           <hr class="my-3">
-          <li class="text-right"><a href="#">Get a Raise</a></li>
+          <li class="text-right"><a href="{{ site.baseurl }}/get-a-raise/">Get a Raise</a></li>
           <hr class="my-3">
-          <li class="text-right"><a href="#">Complete Bundle</a></li>
+          <li class="text-right"><a href="{{ site.baseurl }}/complete-bundle/">Complete Bundle</a></li>
         </ul>
       </div>
       <div class="w-1/6 footer-nav">
         <ul class="list-none">
-          <li class="text-right"><a href="/articles/">Articles</a></li>
+          <li class="text-right"><a href="{{ site.baseurl }}/articles/">Articles</a></li>
           <hr class="my-3">
-          <li class="text-right"><a href="#">Free Resource</a></li>
+          <li class="text-right"><a href="{{ site.baseurl }}/free-resources/">Free Resource</a></li>
           <hr class="my-3">
-          <li class="text-right"><a href="#">Success Stories</a></li>
+          <li class="text-right"><a href="{{ site.baseurl }}/success-stories/">Success Stories</a></li>
           <hr class="my-3">
-          <li class="text-right"><a href="#">About</a></li>
+          <li class="text-right"><a href="{{ site.baseurl }}/about/">About</a></li>
         </ul>
       </div>
       <div class="w-1/6 ml-12">
@@ -53,7 +53,9 @@
 
 </div><!-- /footer -->
 
-{% if page.layout == 'book' %}
+{% if page.layout == "book" %}
+  {% include access-gate.html %}
+{% elsif page.layout == "default-alt" %}
   {% include access-gate.html %}
 {% endif %}
 
