@@ -75,8 +75,9 @@
   }
   img {
     position: absolute;
-    bottom: -56px;
-    right: 0;
+    // bottom: -56px;
+    bottom: 0;
+    left: 0;
   }
 }
 
@@ -284,6 +285,15 @@
       text-transform: uppercase;
     }
   }
+  ul {
+    li {
+      color: $brand-white;
+      font: {
+        family: $font-serif;
+        size: 1.5em;
+      }
+    }
+  }
   strong {
     color: $brand-secondary;
   }
@@ -434,6 +444,23 @@
   }
   p {
     margin-bottom: 1.125em;
+  }
+}
+
+.fade-course {
+  .flex {
+    position: relative;
+    &:before {
+      background: linear-gradient(0deg, #EAEBEC 3%, rgba(196, 196, 196, 0) 100%);
+      content: " ";
+      width: 100%;
+      height: 240px;
+      position: absolute;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      pointer-events: none; /* text still selectable */
+    }
   }
 }
 
@@ -610,6 +637,9 @@
   background: url("../imgs/prod-book-lg.png") left bottom no-repeat $brand-gray;
   background-size: contain;
   max-width: 1440px;
+  &.get-access-device {
+    background-image: url("../imgs/prod-devices.png");
+  }
   h4 {
     color: $brand-secondary;
   }
