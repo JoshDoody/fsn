@@ -1,0 +1,16 @@
+<div class="hero">
+  <div class="container mx-auto pt-28 pb-48">
+    <div class="grid grid-cols-2 gap-6">
+      <div>
+        <h4 class="text-xl pb-6 pr-12 uppercase">{{ page.subTitle }}</h4>
+        {% for resources in site.resources %}
+          {% if resources.heroResource == "show" %}
+            <h1 class="text-4xl pb-6 pr-12">{{ resources.title }}</h1>
+            <p class="pb-6 pr-12">{{ resources.excerpt }}</p>
+            <p><a href="{{ resources.url }}" class="btn-primary btn">Read More</a></p>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div><!-- /hero section -->
