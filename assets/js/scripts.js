@@ -90,4 +90,15 @@ $(document).ready(function() {
     $(this).toggleClass("active");
   });
 
+  // Resources Isotope category filter
+  // init Isotope
+  var $grid = $(".blog-list").isotope({
+    // options
+  });
+  // filter items on button click
+  $(".resource-cat-nav").on( "click", "button", function() {
+    var filterValue = $(this).attr("data-filter");
+    $grid.isotope({ filter: filterValue });
+  });
+
 });
