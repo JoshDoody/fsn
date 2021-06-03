@@ -3,7 +3,6 @@ layout: book_page
 title: About Josh Doody
 subTitle: author of Fearless Salary Negotiation
 description:
-permalink: /book/:path/
 ---
 
 Josh Doody dual-majored in Computer and Electrical Engineering, and later earned his MBA at the University of Florida. He began his professional career as an electrical engineer, then transitioned to project management and consulting in the talent management software industry.
