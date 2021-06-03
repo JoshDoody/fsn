@@ -3,7 +3,7 @@ layout: articles
 title: Articles
 subTitle: Articles
 permalink: /articles/
-navTitle: Blog
+navTitle: Articles
 navWeight: 2
 ---
 
@@ -11,9 +11,9 @@ navWeight: 2
 
   <div class="cat-nav">
     <ul class="list-none inline-flex items-center ml-0 mb-16">
-      <li class="cat-active"><a href="/blog/">All</a></li>
+      <li class="cat-active"><a href="{{ site.baseurl }}/blog/">All</a></li>
       {% for category in site.categories %}
-      {% capture category_name %}{{ category | first }}{% endcapture %}
+        {% capture category_name %}{{ category | first }}{% endcapture %}
         <li><a href="{{category.url}}">{{ category_name }}</a></li>
       {% endfor %}
       <li>Search</li>
