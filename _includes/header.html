@@ -25,7 +25,7 @@
           </div>
           <div class="main-nav flex flex-row flex-grow items-center justify-end">
             <ul class="flex flex-row list-none">
-              {% assign navigation_pages = site.html_pages | sort: 'navWeight' %}
+              {% assign navigation_pages = site.html_pages | sort: "navWeight" %}
               {% for p in navigation_pages %}
                 {% if p.navWeight %}
                   <li class="{% if p.navTitle == "Get 1-on-1 Help" %}btn-link{% endif %}{% if p.navTitle == "Products" %}nav-drop{% endif %}">
