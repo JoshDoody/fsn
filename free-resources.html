@@ -1,0 +1,58 @@
+---
+layout: resources
+title: Resources
+subTitle: Resources
+navTitle: Free Resources
+navWeight: 3
+---
+
+<div class="container mx-auto py-20">
+
+  <div class="cat-nav">
+    <ul class="list-none inline-flex items-center ml-0 mb-16 resource-cat-nav">
+      <li class="cat-active"><button data-filter="*">All</button></li>
+      {% for resources in site.resources %}
+        <li><button data-filter="{{ resources.category | slugify }}">{{ resources.category }}</button></li>
+      {% endfor %}
+      <li>Search</li>
+    </ul>
+  </div><!-- /cat-nav -->
+
+  <div class="blog-featured mb-20">
+    <div class="grid grid-cols-2 gap-6 flex">
+      {% for resources in site.resources %}
+        {% if resources.featuredResource %}
+          <div class="p-10 border-4 border-white">
+            <h4 class="text-xl pb-4 uppercase sans-serif">Featured</h4>
+            <h3 class="color-black text-4xl uppercase sans-serif mb-4"><a href="{{ resources.url }}">{{ resources.title }}</a></h3>
+            <p class="mb-10 serif">{{ resources.excerpt }}</p>
+            <p><a href="{{ resources.url }}" class="btn-primary btn">Read More</a></p>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div><!-- /blog-featured -->
+
+  <div class="blog-list grid sm:grid-cols-1 lg:grid-cols-3 gap-4">
+    {% for resources in site.resources %}
+      <div class="bg-white flex flex-col" data-category="{{ resources.category | slugify }}">
+        <div class="p-8 flex-grow flex-1">
+          <p class="text-2xl serif"><a href="{{ resources.url }}">{{ resources.title }}</a></p>
+          <hr class="my-6 w-16 hr-article">
+          <p class="text-sm mb-6 sans-serif">{{ resources.excerpt }}</p>
+        </div>
+        <div class="category items-center justify-between flex">
+          <div class="pl-8"><p class="sans-serif text-xs">{{ resources.category }}</p></div>
+          <div><a href="{{ resources.url }}" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+        </div>
+      </div>
+    {% endfor %}
+  </div><!-- /blog-list -->
+
+  <div class="load-more mt-16">
+    <p class="text-center uppercase sans-serif"><a href="#">Load More Resources <i class="fas fa-angle-double-down ml-2"></i></a></p>
+  </div>
+
+</div>
+
+{% include one-on-one-help.html %}
