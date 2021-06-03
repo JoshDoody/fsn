@@ -4,9 +4,9 @@
       <div>
         <h4 class="text-xl pb-6 pr-12 uppercase">{{ page.subTitle }}</h4>
         {% for post in site.tags.featuredHero limit: 1 %}
-        <h1 class="text-4xl pb-6 pr-12">{{ post.title }}</h1>
-        <p class="pb-6 pr-12">{{ post.excerpt }}</p>
-        <p><a href="{{ post.url }}" class="btn-primary btn">Read More</a></p>
+          <h1 class="text-4xl pb-6 pr-12">{{ post.title }}</h1>
+          <p class="pb-6 pr-12">{{ post.excerpt }}</p>
+          <p><a href="{{ post.url }}" class="btn-primary btn">Read More</a></p>
         {% endfor %}
       </div>
     </div>
