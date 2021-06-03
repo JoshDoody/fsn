@@ -26,6 +26,6 @@ collections:
   book:
     output: true
     permalink: /book/:title/
-  success-stories:
-    output: false
-    permalink: /success-stories/:title/
+  resources:
+    output: true
+    permalink: /free-resources/:title/
