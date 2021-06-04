@@ -53,16 +53,13 @@
 
 </div><!-- /footer -->
 
-{% if page.showAccessModal == "show" %}
+{% if page.showAccessModal == "show" or page.layout == "resource_page" %}
   {% include access-gate.html %}
 {% endif %}
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="https://kit.fontawesome.com/d903f84f49.js" crossorigin="anonymous"></script>
 <script src="{{ site.baseurl }}/slick/slick.min.js"></script>
-{% if page.layout == "resources" or page.layout == "articles" %}
-  <script src="{{ site.baseurl }}/assets/js/iso.js"></script>
-{% endif %}
 <script src="{{ site.baseurl }}/assets/js/scripts.js"></script>
 
 </body>
