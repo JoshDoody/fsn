@@ -7,6 +7,8 @@ excerpt: Nostrum dignissimos aut, ea modi saepe suscipit? Aspernatur necessitati
 category: Category One
 heroResource: show
 featuredResource:
+resourceCTA: Get the Template
+resourceURL: this-is-my-file-path-NULL.html
 ---
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem facere repellat expedita dolor quas enim assumenda fuga ipsam atque eius adipisci ipsum saepe commodi nisi quos, accusantium voluptatem distinctio ipsa?
