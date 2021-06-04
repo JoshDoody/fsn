@@ -10,9 +10,9 @@ navWeight: 3
 
   <div class="cat-nav">
     <ul class="list-none inline-flex items-center ml-0 mb-16 resource-cat-nav">
-      <li class="cat-active"><button data-filter="*">All</button></li>
+      <li class="cat-active"><button id="show-all">All</button></li>
       {% for resources in site.resources %}
-        <li><button data-filter="{{ resources.category | slugify }}">{{ resources.category }}</button></li>
+        <li><button class="resource-filter" id="{{ resources.category | slugify }}">{{ resources.category }}</button></li>
       {% endfor %}
       <li>Search</li>
     </ul>
@@ -35,7 +35,7 @@ navWeight: 3
 
   <div class="blog-list grid sm:grid-cols-1 lg:grid-cols-3 gap-4">
     {% for resources in site.resources %}
-      <div class="bg-white flex flex-col" data-category="{{ resources.category | slugify }}">
+      <div class="bg-white flex flex-col {{ resources.category | slugify }}">
         <div class="p-8 flex-grow flex-1">
           <p class="text-2xl serif"><a href="{{ resources.url }}">{{ resources.title }}</a></p>
           <hr class="my-6 w-16 hr-article">
