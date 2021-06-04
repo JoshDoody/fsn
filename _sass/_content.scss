@@ -374,11 +374,11 @@
   li {
     text-align: center;
   }
-  a {
+  a, button {
     background-color: transparent;
     color: $brand-gray;
     font: {
-      family: $font-serif;
+      family: $font-sans-serif;
       size: 1em;
       weight: 900;
     }
@@ -390,6 +390,9 @@
     padding: .65em .75em;
     border: 2px solid $brand-secondary;
     display: inline-block;
+    &:active, &:focus {
+      outline: none;
+    }
     &:hover {
       background-color: $brand-white;
       color: $brand-gray;
@@ -397,9 +400,9 @@
   }
 }
 
-.cat-active a {
-  background-color: $brand-secondary;
-  color: $brand-white;
+.cat-active a, .cat-active button, .btn-active {
+  background-color: $brand-secondary !important;
+  color: $brand-white !important;
 }
 
 
@@ -665,3 +668,6 @@
 }
 
 .book-questions {}
+
+// Resources
+.resource-cta {}
