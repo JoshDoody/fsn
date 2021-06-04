@@ -5,6 +5,17 @@
     {% if page.excerpt %}
       <p class="pr-12">{{ page.excerpt }}</p>
     {% endif %}
-    <hr class="my-14">
+    {% if page.layout == "resource_page" and page.resourceCTA %}
+      <div class="resource-cta my-14 flex content-center gap-4">
+        <div class="flex-initial">
+          <p><a href="{{ page.resourceURL }}" class="btn btn-primary">{{ page.resourceCTA }}</a></p>
+        </div>
+        <div class="flex-auto">
+          <hr class="mt-2.5">
+        </div>
+      </div>
+    {% else %}
+      <hr class="my-14">
+    {% endif %}
   </div>
 </div><!-- /hero section -->
