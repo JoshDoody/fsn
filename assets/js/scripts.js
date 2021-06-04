@@ -90,15 +90,24 @@ $(document).ready(function() {
     $(this).toggleClass("active");
   });
 
-  // Resources Isotope category filter
-  // init Isotope
-  var $grid = $(".blog-list").isotope({
-    // options
+  // Resource category filtering
+  // show all resource articles
+  $("#show-all").click(function() {
+    $(".blog-list > div").attr("style", "display:flex");
+    $("li button").removeClass("btn-active");
+    $(this).parent().addClass("cat-active");
   });
-  // filter items on button click
-  $(".resource-cat-nav").on( "click", "button", function() {
-    var filterValue = $(this).attr("data-filter");
-    $grid.isotope({ filter: filterValue });
-  });
+
+  var $btns = $(".resource-filter").click(function() {
+    $(".cat-active").removeClass();
+    if (this.id == "all") {
+      $(".blog-list > div").fadeIn(450);
+    } else {
+      var $el = $("." + this.id).fadeIn(450);
+      $(".blog-list > div").not($el).hide();
+    }
+    $btns.removeClass("btn-active");
+    $(this).addClass("btn-active");
+  })
 
 });
