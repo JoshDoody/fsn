@@ -147,6 +147,32 @@
   color: $brand-primary;
 }
 
+.posts {
+  blockquote {
+    color: $brand-gray;
+    margin: 2.5em 0;
+    padding: 1.5em;
+    border: 1px solid $brand-secondary;
+    .book_page & {
+      font-weight: 700;
+    }
+    p {
+      font: {
+        family: $font-serif;
+        size: 1.25em;
+      }
+      margin-bottom: .75em;
+    }
+    sub {
+      font: {
+        family: $font-sans-serif;
+        size: .65em;
+      }
+      line-height: 1em;
+    }
+  }
+}
+
 .load-more {
   position: relative;
   &:after {
@@ -671,3 +697,101 @@
 
 // Resources
 .resource-cta {}
+
+.email-block {
+  margin-bottom: 3.5em;
+  position: relative;
+  p {
+    font: {
+      family: $font-sans-serif;
+      size: .875em;
+    }
+  }
+  hr {
+
+  }
+  .masthead {
+    background-color: #DADBDC;
+    padding: .5em 1.5em;
+    border-radius: 8px 8px 0px 0px;
+    .fas {
+      color: $brand-white;
+      font-size: 1em;
+      margin-right: .375em;
+    }
+  }
+  .email-header {
+    background-color:#FCFCFD;
+    padding: 1.5em;
+    border-bottom: 1px solid #F0F0F4;
+  }
+  .email-copy {
+    background-color: $brand-white;
+    padding: 1.5em;
+    border-radius: 0px 0px 8px 8px;
+    position: relative;
+    z-index: 3333;
+  }
+  &:after {
+    content: "";
+    background: rgba(40,40,45,1);
+    width: 95%;
+    height: 20px;
+    filter: blur(16px);
+    border-radius: 20px;
+    position: absolute;
+    left: 2.5%;
+    bottom: -2px;
+    z-index: 1111;
+  }
+}
+
+.resource_page {
+  blockquote {
+    margin: 2.5em auto 2.5em 3em;
+    padding: 2em 2em 2em 4.5em;
+    border: 2px solid #315488;
+    position: relative;
+    p {
+      font: {
+        family: $font-serif;
+        size: 1.125em;
+      }
+      &:first-of-type {
+        &:before {
+          content: "Note";
+          background-color: $brand-white;
+          color: #395382;
+          font-weight: 700;
+          line-height: 1;
+          text-transform: uppercase;
+          margin-right: 7px;
+          padding: 5px;
+        }
+      }
+    }
+    &:before {
+      content: "";
+      background: url("../imgs/ico-writing.svg") center no-repeat transparent;
+      background-size: cover;
+      width: 104px;
+      height: 104px;
+      margin-top: -52px;
+      position: absolute;
+      top: 50%;
+      left: -3.25em;
+    }
+    &:after {
+      content: "";
+      background-color: $brand-light-gray;
+      width: 86%;
+      height: 110%;
+      margin: 0 auto;
+      position: absolute;
+      top: -5px;
+      right: 0;
+      left: 0;
+      bottom: 0;
+    }
+  }
+}

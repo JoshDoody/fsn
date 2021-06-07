@@ -205,26 +205,3 @@ hr {
   color: $brand-secondary;
 }
 
-blockquote {
-  color: $brand-gray;
-  margin: 2.5em 0;
-  padding: 1.5em;
-  border: 1px solid $brand-secondary;
-  .book_page & {
-    font-weight: 700;
-  }
-  p {
-    font: {
-      family: $font-serif;
-      size: 1.25em;
-    }
-    margin-bottom: .75em;
-  }
-  sub {
-    font: {
-      family: $font-sans-serif;
-      size: .65em;
-    }
-    line-height: 1em;
-  }
-}
