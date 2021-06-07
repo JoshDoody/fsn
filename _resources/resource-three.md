@@ -1,7 +1,6 @@
 ---
 layout: resource_page
 title: This is resource three
-subTitle: Subtitle of resource three
 description: Description of resource three with some longer test
 excerpt: Dignissimos est officia quibusdam commodi consectetur quo vero minus sunt repellat amet.
 category: Category Two
