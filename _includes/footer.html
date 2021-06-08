@@ -53,7 +53,7 @@
 
 </div><!-- /footer -->
 
-{% if page.showAccessModal == "show" or page.layout == "resource_page" %}
+{% if page.showAccessModal == "show" or page.layout == "resource_page" or page.layout == "default" %}
   {% include access-gate.html %}
 {% endif %}
 
