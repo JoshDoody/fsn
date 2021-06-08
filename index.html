@@ -48,7 +48,7 @@ ctaText: Read More
     <img src="{{ site.baseurl }}/assets/imgs/ico-success-quote.svg" class="suc-quote" >
     <div class="suc-quotes">
 
-      {% for story in site.success-stories limit.5 %}
+      {% for story in site.success-stories %}
         {% if story.person == "Acree M." %}
         <div>
           {{ story.excerpt | markdownify }}
@@ -197,17 +197,64 @@ ctaText: Read More
   </div>
 </div><!-- /free resources -->
 
-<div class="bg-gray-500">
+<div class="mx-auto bg-gray-500 product-grid">
   <div class="grid grid-cols-2">
-    <div>book</div>
-    <div>crash course</div>
+    <div class="product-column">
+      <div class="flex content-center grid grid-cols-2">
+        <div>
+          <img src="{{ site.baseurl }}/assets/imgs/prod-book-transparent.png" alt="">
+        </div>
+        <div class="product-copy py-14 pr-16">
+          <h4 class="brand-secondary uppercase sans-serif text-3xl mb-5">The Book</h4>
+          <p class="text-white serif text-base mb-8">Short description of this product goes right here Far far away, behind the word mountains</p>
+          <p class="mb-8"><a href="{{ site.baseurl }}/the-book/" class="btn btn-primary">Learn More</a></p>
+          <p class="text-white serif text-base"><a href="https://www.amazon.com/Fearless-Salary-Negotiation-step-step/dp/0692568689">Or buy it now for just $49 <i class="fas fa-angle-double-right"></i></a></p>
+        </div>
+      </div>
+    </div>
+    <div class="product-column">
+      <div>
+        <div class="flex content-center">
+          <div class="product-copy py-14 pl-16">
+            <h4 class="brand-secondary uppercase sans-serif text-3xl mb-5">The Crash Course</h4>
+            <p class="text-white serif text-base mb-8">Short description of this product goes right here Far far away, behind the word mountains</p>
+            <p class="mb-8"><a href="{{ site.baseurl }}/crash-course/" class="btn btn-primary">Learn More</a></p>
+            <p class="text-white serif text-base"><a href="#" class="btn-access-tag">Or buy it now for just $197 <i class="fas fa-angle-double-right"></i></a></p>
+          </div>
+          <div>
+            <img src="{{ site.baseurl }}/assets/imgs/prod-devices-small.png" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
   <div class="grid grid-cols-3">
-    <div>product 3</div>
-    <div>product 4</div>
-    <div>product 5</div>
+    <div class="product-column">
+      <img src="{{ site.baseurl }}/assets/imgs/prod-devices-alt-small.png" alt="">
+      <div class="product-copy-sm p-10">
+        <h4 class="brand-secondary uppercase sans-serif text-2xl mb-5">Product Title Here</h4>
+        <p class="text-white serif text-base mb-8">Short description of this product goes right here Far far away, behind the word mountains</p>
+        <p class="mb-8 text-base text-white sans-serif"><a href="{{ site.baseurl }}/the-book/" class="btn btn-primary">Learn More</a><a href="#">Or buy it now for just $XXX <i class="fas fa-angle-double-right"></i></a></p>
+      </div>
+    </div>
+    <div class="product-column">
+      <img src="{{ site.baseurl }}/assets/imgs/prod-devices-alt-small.png" alt="">
+      <div class="product-copy-sm p-10">
+        <h4 class="brand-secondary uppercase sans-serif text-2xl mb-5">Product Title Here</h4>
+        <p class="text-white serif text-base mb-8">Short description of this product goes right here Far far away, behind the word mountains</p>
+        <p class="mb-8 text-base text-white sans-serif"><a href="{{ site.baseurl }}/the-book/" class="btn btn-primary">Learn More</a> <a href="#">Or buy it now for just $XXX <i class="fas fa-angle-double-right"></i></a></p>
+      </div>
+    </div>
+    <div class="product-column">
+      <img src="{{ site.baseurl }}/assets/imgs/prod-devices-alt-small.png" alt="">
+      <div class="product-copy-sm p-10">
+        <h4 class="brand-secondary uppercase sans-serif text-2xl mb-5">Product Title Here</h4>
+        <p class="text-white serif text-base mb-8">Short description of this product goes right here Far far away, behind the word mountains</p>
+        <p class="mb-8 text-base text-white sans-serif"><a href="{{ site.baseurl }}/the-book/" class="btn btn-primary">Learn More</a> <a href="#">Or buy it now for just $XXX <i class="fas fa-angle-double-right"></i></a></p>
+      </div>
+    </div>
   </div>
-</div><!-- /products -->
+</div><!-- /product-grid -->
 
 <div class="container mx-auto my-24">
   <h2 class="text-3xl mb-8 uppercase sans-serif">In the Press</h2>
