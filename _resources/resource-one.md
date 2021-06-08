@@ -45,4 +45,23 @@ Architecto unde obcaecati fugiat dolorem. Nemo ab ullam corporis! Quos quidem po
 Ea, explicabo excepturi? Asperiores alias adipisci reiciendis quia, aperiam nostrum laboriosam corrupti? Eaque adipisci quod neque quaerat perferendis voluptatibus recusandae animi, sit iste placeat nam, veritatis, ipsum sed explicabo fugit.
 
 
+<div class="img-caption">
+  <img src="{{ site.baseurl }}/assets/imgs/placeholder-article.jpg" alt="Alt tag if desired" />
+  <p>Odio dolor dolor quam faucibus iaculis arcu in fermentum. Turpis a nascetur blandit adipiscing scelerisque. Magna volutpat egestas dictum mi. Commodo risus turpis odio pellentesque in eget fermentum quam interdum. Nunc pharetra augue risus vulputate.</p>
+</div>
+
+
 Dignissimos est officia quibusdam commodi consectetur quo vero minus sunt repellat amet! Quaerat est nostrum odio dicta culpa illum laborum veritatis vitae eligendi, assumenda consequuntur unde. Quibusdam veniam error tenetur.
+
+
+<ul class="checklist my-6">
+  <li><i class="fas fa-check-circle"></i> Elementum fringilla proin</li>
+  <li><i class="fas fa-check-circle"></i> Est tellus lacus nisl congue</li>
+  <li><i class="fas fa-check-circle"></i> Tristique urna euismod eu tellus mollis. Pharetra consequat, eget tristique id nunc dui quam. At est sed mauris viverra in.</li>
+  <li><i class="fas fa-check-circle"></i> Elementum fringilla proin</li>
+  <li><i class="fas fa-check-circle"></i> Est tellus lacus nisl congue</li>
+  <li><i class="fas fa-check-circle"></i> Accumsan pellentesque quam ut neque mi, potenti felis blandit.</li>
+</ul>
+
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem facere repellat expedita dolor quas enim assumenda fuga ipsam atque eius adipisci ipsum saepe commodi nisi quos, accusantium voluptatem distinctio ipsa?
