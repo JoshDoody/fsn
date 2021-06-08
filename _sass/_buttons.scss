@@ -6,7 +6,10 @@
     size: 1em;
     weight: 900;
   }
-  text-transform: uppercase;
+  text: {
+    align: center;
+    transform: uppercase;
+  }
   padding: 9px 12px 11px;
   &:hover {
     opacity: .75;
