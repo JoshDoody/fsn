@@ -13,6 +13,14 @@ $(document).ready(function() {
     dots: true
   });
 
+  // Book toc carousel
+  $(".toc-carousel").slick({
+    infinite: true,
+    slidesToShow: 4,
+    slidesToScroll: 1,
+    dots: true
+  });
+
   // Blog post slider
   $(".blog-slider").slick({
     dots: true,
@@ -33,14 +41,6 @@ $(document).ready(function() {
     appendDots: $(".suc-dots"),
     prevArrow: $(".suc-prev"),
     nextArrow: $(".suc-next")
-  });
-
-  // Book toc carousel
-  $(".toc-carousel").slick({
-    infinite: true,
-    slidesToShow: 4,
-    slidesToScroll: 1,
-    dots: true
   });
 
   // Accordion
