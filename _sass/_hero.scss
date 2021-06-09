@@ -10,6 +10,11 @@
   }
   img {
     z-index: 4444;
+    .about & {
+      position: absolute;
+      right: 0;
+      bottom: -56px;
+    }
   }
 }
 

@@ -1,4 +1,4 @@
-/* Articles */
+// Articles
 .cat-arrow {
   background-color: $brand-secondary;
   text-align: center;
@@ -31,7 +31,7 @@
 }
 
 
-/* Card Carousel/Toc Carousel */
+// Card Carousel/Toc Carousel
 .card-carousel .slick-slide,
 .toc-carousel .slick-slide {
   padding-right: 2em;
@@ -41,15 +41,37 @@
 .toc-carousel .slick-dots {
   bottom: 0;
   top: -4em;
-  right: 1.5em;
+  right: 50px;
   text-align: right;
 }
 
 .card-carousel .slick-prev,
-.card-carousel .slick-next
+.card-carousel .slick-next,
 .toc-carousel .slick-prev,
 .toc-carousel .slick-next {
   top: -46px;
+  &:before {
+    color: $brand-gray;
+    font: {
+      family: "Font Awesome 5 Free";
+      weight: 900;
+    }
+  }
+}
+
+.card-carousel .slick-prev,
+.toc-carousel .slick-prev {
+  &:before {
+    content: "\f060";
+  }
+}
+
+.card-carousel .slick-next,
+.toc-carousel .slick-next {
+  right: 27px;
+  &:before {
+    content: "\f061";
+  }
 }
 
 .card-carousel,
@@ -64,7 +86,7 @@
 }
 
 
-/* Get help callout */
+// Get help callout
 .get-help {
   outline: 2px solid $brand-primary;
   border: 8px solid $brand-light-gray;
@@ -81,14 +103,20 @@
   }
 }
 
-/* Product grid */
+// Product grid
 .product-grid {
-  .product-column {
-    &:nth-child(1) { background-color: #28282D; }
-    &:nth-child(2) { background-color: #2D2D32; }
-    &:nth-child(3) { background-color: #2D2D32; }
-    &:nth-child(4) { background-color: #232328; }
-    &:nth-child(5) { background-color: #28282D; }
+  .grid-cols-2 {
+    .product-column {
+      &:nth-child(1) { background-color: #28282D; }
+      &:nth-child(2) { background-color: #2D2D32; }
+    }
+  }
+  .grid-cols-3 {
+    .product-column {
+      &:nth-child(1) { background-color: #28282D; }
+      &:nth-child(2) { background-color: #232328; }
+      &:nth-child(3) { background-color: #28282D; }
+    }
   }
   .product-copy, .product-copy-sm {}
   .product-copy {}
@@ -106,7 +134,7 @@
   }
 }
 
-/* Blog Posts */
+// Blog Posts
 .blog-post-wrap {}
 
 .blog-post {
@@ -230,7 +258,7 @@
 }
 
 
-/* Accordion */
+// Accordion
 .accordion {
   .acc-open {
     background-color: $brand-white;
@@ -274,7 +302,7 @@
 }
 
 
-/* Products - three cards */
+// Products - three cards
 .three-card-prod {
   position: relative;
   z-index: 3;
@@ -298,7 +326,7 @@
 }
 
 
-/* Success Stories slider */
+// Success Stories slider
 .success-slider {
   background-color: $brand-gray;
   position: relative;
@@ -419,7 +447,7 @@
 }
 
 
-/* Blog category nav */
+// Blog category nav
 .cat-nav {
   li {
     text-align: center;
@@ -456,7 +484,7 @@
 }
 
 
-/* Blog page featured posts */
+// Blog page featured posts
 .blog-featured {
   h4 {
     color: $brand-primary;
@@ -837,4 +865,16 @@
   img {
     margin-bottom: 1.5em;
   }
+}
+
+
+// About
+.about-content {}
+
+.about-sidebar {}
+
+.help-callout {
+  background-color: $brand-white;
+  outline: 2px solid $brand-secondary;
+  border: 5px solid $brand-light-gray;
 }
