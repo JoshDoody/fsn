@@ -200,11 +200,11 @@ ctaText: Read More
 <div class="mx-auto bg-gray-500 product-grid">
   <div class="grid grid-cols-2">
     <div class="product-column">
-      <div class="flex content-center grid grid-cols-2">
-        <div>
+      <div class="flex">
+        <div class="w-1/2">
           <img src="{{ site.baseurl }}/assets/imgs/prod-book-transparent.png" alt="">
         </div>
-        <div class="product-copy py-14 pr-16">
+        <div class="product-copy py-14 pr-16 w-1/2">
           <h4 class="brand-secondary uppercase sans-serif text-3xl mb-5">The Book</h4>
           <p class="text-white serif text-base mb-8">Short description of this product goes right here Far far away, behind the word mountains</p>
           <p class="mb-8"><a href="{{ site.baseurl }}/the-book/" class="btn btn-primary">Learn More</a></p>
@@ -214,14 +214,14 @@ ctaText: Read More
     </div>
     <div class="product-column">
       <div>
-        <div class="flex content-center">
-          <div class="product-copy py-14 pl-16">
+        <div class="flex">
+          <div class="product-copy py-14 pl-16 w-1/2">
             <h4 class="brand-secondary uppercase sans-serif text-3xl mb-5">The Crash Course</h4>
             <p class="text-white serif text-base mb-8">Short description of this product goes right here Far far away, behind the word mountains</p>
             <p class="mb-8"><a href="{{ site.baseurl }}/crash-course/" class="btn btn-primary">Learn More</a></p>
             <p class="text-white serif text-base"><a href="#" class="btn-access-tag">Or buy it now for just $197 <i class="fas fa-angle-double-right"></i></a></p>
           </div>
-          <div>
+          <div class="w-1/2">
             <img src="{{ site.baseurl }}/assets/imgs/prod-devices-small.png" alt="">
           </div>
         </div>
@@ -257,79 +257,9 @@ ctaText: Read More
 </div><!-- /product-grid -->
 
 <div class="container mx-auto my-24">
-  <h2 class="text-3xl mb-8 uppercase sans-serif">In the Press</h2>
-  <div class="grid sm:grid-cols-1 lg:grid-cols-3 card-carousel">
-    <div class="bg-white flex flex-col">
-      <div class="p-8 pb-0 flex-grow flex-1">
-        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
-        <hr class="my-6 w-16 hr-article">
-      </div>
-      <div class="category items-center justify-between flex">
-        <div class="pl-8"><img src="https://via.placeholder.com/220x28?text=Brand" alt=""></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
-      </div>
-    </div>
-    <div class="bg-white flex flex-col">
-      <div class="p-8 pb-0 flex-grow flex-1">
-        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
-        <hr class="my-6 w-16 hr-article">
-      </div>
-      <div class="category items-center justify-between flex">
-        <div class="pl-8"><img src="https://via.placeholder.com/220x28?text=Brand" alt=""></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
-      </div>
-    </div>
-    <div class="bg-white flex flex-col">
-      <div class="p-8 pb-0 flex-grow flex-1">
-        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
-        <hr class="my-6 w-16 hr-article">
-      </div>
-      <div class="category items-center justify-between flex">
-        <div class="pl-8"><img src="https://via.placeholder.com/220x28?text=Brand" alt=""></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
-      </div>
-    </div>
-    <div class="bg-white flex flex-col">
-      <div class="p-8 pb-0 flex-grow flex-1">
-        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
-        <hr class="my-6 w-16 hr-article">
-      </div>
-      <div class="category items-center justify-between flex">
-        <div class="pl-8"><img src="https://via.placeholder.com/220x28?text=Brand" alt=""></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
-      </div>
-    </div>
-    <div class="bg-white flex flex-col">
-      <div class="p-8 pb-0 flex-grow flex-1">
-        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
-        <hr class="my-6 w-16 hr-article">
-      </div>
-      <div class="category items-center justify-between flex">
-        <div class="pl-8"><img src="https://via.placeholder.com/220x28?text=Brand" alt=""></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
-      </div>
-    </div>
-    <div class="bg-white flex flex-col">
-      <div class="p-8 pb-0 flex-grow flex-1">
-        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
-        <hr class="my-6 w-16 hr-article">
-      </div>
-      <div class="category items-center justify-between flex">
-        <div class="pl-8"><img src="https://via.placeholder.com/220x28?text=Brand" alt=""></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
-      </div>
-    </div>
-    <div class="bg-white flex flex-col">
-      <div class="p-8 pb-0 flex-grow flex-1">
-        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
-        <hr class="my-6 w-16 hr-article">
-      </div>
-      <div class="category items-center justify-between flex">
-        <div class="pl-8"><img src="https://via.placeholder.com/220x28?text=Brand" alt=""></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
-      </div>
-    </div>
-  </div><!-- / card-carousel -->
+
+  {% include in-the-press.html %}
+
 </div><!-- /in the press -->
 
 <div>
@@ -339,79 +269,9 @@ ctaText: Read More
 </div>
 
 <div class="container mx-auto my-24">
-  <h2 class="text-3xl mb-8 uppercase sans-serif">Podcast Appearances</h2>
-  <div class="grid sm:grid-cols-1 lg:grid-cols-3 card-carousel">
-    <div class="bg-white flex flex-col">
-      <div class="p-8 pb-0 flex-grow flex-1">
-        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
-        <hr class="my-6 w-16 hr-article">
-      </div>
-      <div class="category items-center justify-between flex">
-        <div class="pl-8"><p class="text-xs uppercase sans-serif">ENGINEERING INSIGHTS</p></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
-      </div>
-    </div>
-    <div class="bg-white flex flex-col">
-      <div class="p-8 pb-0 flex-grow flex-1">
-        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
-        <hr class="my-6 w-16 hr-article">
-      </div>
-      <div class="category items-center justify-between flex">
-        <div class="pl-8"><p class="text-xs uppercase sans-serif">ENGINEERING INSIGHTS</p></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
-      </div>
-    </div>
-    <div class="bg-white flex flex-col">
-      <div class="p-8 pb-0 flex-grow flex-1">
-        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
-        <hr class="my-6 w-16 hr-article">
-      </div>
-      <div class="category items-center justify-between flex">
-        <div class="pl-8"><p class="text-xs uppercase sans-serif">ENGINEERING INSIGHTS</p></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
-      </div>
-    </div>
-    <div class="bg-white flex flex-col">
-      <div class="p-8 pb-0 flex-grow flex-1">
-        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
-        <hr class="my-6 w-16 hr-article">
-      </div>
-      <div class="category items-center justify-between flex">
-        <div class="pl-8"><p class="text-xs uppercase sans-serif">ENGINEERING INSIGHTS</p></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
-      </div>
-    </div>
-    <div class="bg-white flex flex-col">
-      <div class="p-8 pb-0 flex-grow flex-1">
-        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
-        <hr class="my-6 w-16 hr-article">
-      </div>
-      <div class="category items-center justify-between flex">
-        <div class="pl-8"><p class="text-xs uppercase sans-serif">ENGINEERING INSIGHTS</p></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
-      </div>
-    </div>
-    <div class="bg-white flex flex-col">
-      <div class="p-8 pb-0 flex-grow flex-1">
-        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
-        <hr class="my-6 w-16 hr-article">
-      </div>
-      <div class="category items-center justify-between flex">
-        <div class="pl-8"><p class="text-xs uppercase sans-serif">ENGINEERING INSIGHTS</p></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
-      </div>
-    </div>
-    <div class="bg-white flex flex-col">
-      <div class="p-8 pb-0 flex-grow flex-1">
-        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
-        <hr class="my-6 w-16 hr-article">
-      </div>
-      <div class="category items-center justify-between flex">
-        <div class="pl-8"><p class="text-xs uppercase sans-serif">ENGINEERING INSIGHTS</p></div>
-        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
-      </div>
-    </div>
-  </div>
+
+  {% include podcast-appearance.html %}
+
 </div><!-- /podcast appearances -->
 
 <div class="container mx-auto mb-16 article-lists">
