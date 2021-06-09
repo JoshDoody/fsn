@@ -20,7 +20,7 @@ exclude:
 
 plugins: [jekyll-paginate]
 
-permalink: /:day/:month/:year/:title/
+permalink: /:title/
 
 collections:
   book:
