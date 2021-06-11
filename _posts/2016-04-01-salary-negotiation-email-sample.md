@@ -11,6 +11,7 @@ tags:
   - recommended
   - popular
   - blogFeatured
+og-image: salary-negotiation-email-make-your-case.png
 date: 2020-05-07
 author: josh
 published: true

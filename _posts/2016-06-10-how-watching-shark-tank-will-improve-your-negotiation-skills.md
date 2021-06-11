@@ -10,6 +10,7 @@ tags:
   - recommended
   - popular
   - blogFeatured
+og-image: SharkTankCast_TitleBottom.png
 author: josh
 published: true
 ---
