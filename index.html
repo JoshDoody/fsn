@@ -12,21 +12,21 @@ ctaText: Read More
   <h2 class="text-3xl mb-16 sans-serif uppercase">What do you need help with</h2>
   <div class="grid sm:grid-cols-1 lg:grid-cols-3 gap-6">
     <div>
-      <img src="{{ site.baseurl }}/assets/imgs/ico-interview.svg" class="ico" alt="">
+      <img src="/assets/imgs/ico-interview.svg" class="ico" alt="">
       <h3 class="text-2xl mt-6 mb-4 uppercase sans-serif">Funnel One</h3>
       <p class="mb-6 serif">At netus elit convallis nibh donec in feugiat libero euismod. Risus egestas eu in sit ut. Tortor in vitae libero magnis cursus justo. Fermentum tortor, eu, sem nulla blandit purus, blandit sed.</p>
       <p class="mb-6"><a href="#" class="btn btn-primary">Get Free Resources</a></p>
       <p class="serif"><a href="#">Product Link <i class="fas fa-angle-double-right"></i></a></p>
     </div>
     <div>
-      <img src="{{ site.baseurl }}/assets/imgs/ico-offer.svg" class="ico" alt="">
+      <img src="/assets/imgs/ico-offer.svg" class="ico" alt="">
       <h3 class="text-2xl mt-6 mb-4 uppercase sans-serif">Funnel Two</h3>
       <p class="mb-6 serif">At netus elit convallis nibh donec in feugiat libero euismod. Risus egestas eu in sit ut. Tortor in vitae libero magnis cursus justo. Fermentum tortor, eu, sem nulla blandit purus, blandit sed.</p>
       <p class="mb-6"><a href="#" class="btn btn-primary">Get Free Resources</a></p>
       <p class="serif"><a href="#">Product Link <i class="fas fa-angle-double-right"></i></a></p>
     </div>
     <div>
-      <img src="{{ site.baseurl }}/assets/imgs/ico-raise.svg" class="ico" alt="">
+      <img src="/assets/imgs/ico-raise.svg" class="ico" alt="">
       <h3 class="text-2xl mt-6 mb-4 uppercase sans-serif">Funnel Three</h3>
       <p class="mb-6 serif">At netus elit convallis nibh donec in feugiat libero euismod. Risus egestas eu in sit ut. Tortor in vitae libero magnis cursus justo. Fermentum tortor, eu, sem nulla blandit purus, blandit sed.</p>
       <p class="mb-6"><a href="#" class="btn btn-primary">Get Free Resources</a></p>
@@ -41,41 +41,14 @@ ctaText: Read More
       <h2 class="text-3xl uppercase sans-serif">Success Stories</h2>
     </div>
     <div>
-      <a href="{{ site.baseurl }}/success-stories/" class="btn-primary btn text-right">More Success Stories</a>
+      <a href="/success-stories/" class="btn-primary btn text-right">More Success Stories</a>
     </div>
   </div>
   <div class="success-slider">
-    <img src="{{ site.baseurl }}/assets/imgs/ico-success-quote.svg" class="suc-quote" >
+    <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
     <div class="suc-quotes">
 
-      {% for story in site.success-stories %}
-        {% if story.person == "Acree M." %}
-        <div>
-          {{ story.excerpt | markdownify }}
-          <div class="flex items-center mt-6">
-            <div class="mr-4"><img src="{{ story.headshot }}" class="rounded-full h-20 w-20"></div>
-            <div>
-              <p class="name m-0">{{ story.person }}</p>
-              <p class="title m-0">{{ story.jobTitle }}</p>
-            </div>
-          </div>
-        </div>
-        {% elsif story.person == "Aaron Batilo" %}
-          <div>
-            {{ story.excerpt | markdownify }}
-            <div class="flex items-center mt-6">
-              <div class="mr-4"><img src="{{ story.headshot }}" class="rounded-full h-20 w-20"></div>
-              <div>
-                <p class="name m-0">{{ story.person }}</p>
-                <p class="title m-0">{{ story.jobTitle }}</p>
-              </div>
-            </div>
-          </div>
-        {% endif %}
-      {% endfor %}
-
-
-      <!-- <div>
+      <div>
         <p>I used the Fearless Salary Negotiation strategy for negotiating an offer and went <strong>from $95,000</strong> with a title of Software Engineer 1 <strong>to $105,000</strong> with a title of Software Engineer 2. Now I can pay off my student loans and buy a house more quickly. Six months later, I did it again! This time, I one-upped that by turning a <strong>$125,000 offer</strong> to a <strong>$145,000 offer</strong>. That's $30,000 in additional salary thanks to this truly wonderful resource.”</p>
         <div class="flex items-center mt-6">
           <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
@@ -84,8 +57,7 @@ ctaText: Read More
             <p class="title m-0">Job Title</p>
           </div>
         </div>
-      </div> -->
-
+      </div>
 
     </div><!-- /suc-quotes -->
 
@@ -105,41 +77,41 @@ ctaText: Read More
       <h2 class="text-3xl uppercase sans-serif">Popular Articles</h2>
     </div>
     <div>
-      <a href="{{ site.baseurl }}/blog/" class="btn-primary btn text-right">More Articles</a>
+      <a href="/blog/" class="btn-primary btn text-right">More Articles</a>
     </div>
   </div>
   <div class="grid sm:grid-cols-1 lg:grid-cols-3 gap-4">
     <div class="bg-white flex flex-col">
       <div class="p-8 flex-grow flex-1">
-        <p class="text-2xl serif"><a href="{{site.baseurl }}/articles/">How to answer the dreaded "What's your expected salary?" question</a></p>
+        <p class="text-2xl serif"><a href="/articles/">How to answer the dreaded "What's your expected salary?" question</a></p>
         <hr class="my-6 w-16 hr-article">
         <p class="text-sm mb-6 sans-serif">At netus elit convallis nibh donec in feugiat libero euismod. Risus egestas eu in sit ut. Tortor in vitae libero magnis cursus justo fermentum tortor.</p>
       </div>
       <div class="category items-center justify-between flex">
         <div class="pl-8"><p class="sans-serif text-xs">Category</p></div>
-        <div><a href="{{site.baseurl }}/articles/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+        <div><a href="/articles/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
       </div>
     </div>
     <div class="bg-white flex flex-col">
       <div class="p-8 flex-grow flex-1">
-        <p class="text-2xl serif"><a href="{{site.baseurl }}/articles/">How to negotiate your salary (without leaving anything on the table)</a></p>
+        <p class="text-2xl serif"><a href="/articles/">How to negotiate your salary (without leaving anything on the table)</a></p>
         <hr class="my-6 w-16 hr-article">
         <p class="text-sm mb-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem neque accusamus modi impedit, cumque deleniti saepe nihil quas dolore dolores, id labore reiciendis in deserunt et provident obcaecati esse qui.</p>
       </div>
       <div class="category items-center justify-between flex">
         <div class="pl-8"><p class="sans-serif text-xs">Category</p></div>
-        <div><a href="{{site.baseurl }}/articles/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+        <div><a href="/articles/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
       </div>
     </div>
     <div class="bg-white flex flex-col">
       <div class="p-8 flex-grow flex-1">
-        <p class="text-2xl serif"><a href="{{site.baseurl }}/articles/">Got a job offer from Amazon?</a></p>
+        <p class="text-2xl serif"><a href="/articles/">Got a job offer from Amazon?</a></p>
         <hr class="my-6 w-16 hr-article">
         <p class="text-sm mb-6">Fugiat delectus, iusto sequi laudantium dolorem saepe consectetur deleniti, nobis rerum, maiores corrupti temporibus sunt. Odio accusantium pariatur necessitatibus optio, beatae dignissimos ex dolor nostrum, inventore ea soluta.</p>
       </div>
       <div class="category items-center justify-between flex">
         <div class="pl-8"><p class="sans-serif text-xs">Category</p></div>
-        <div><a href="{{site.baseurl }}/articles/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+        <div><a href="/articles/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
       </div>
     </div>
   </div>
@@ -202,12 +174,12 @@ ctaText: Read More
     <div class="product-column">
       <div class="flex">
         <div class="w-1/2">
-          <img src="{{ site.baseurl }}/assets/imgs/prod-book-transparent.png" alt="">
+          <img src="/assets/imgs/prod-book-transparent.png" alt="">
         </div>
         <div class="product-copy py-14 pr-16 w-1/2">
           <h4 class="brand-secondary uppercase sans-serif text-3xl mb-5">The Book</h4>
           <p class="text-white serif text-base mb-8">Short description of this product goes right here Far far away, behind the word mountains</p>
-          <p class="mb-8"><a href="{{ site.baseurl }}/the-book/" class="btn btn-primary">Learn More</a></p>
+          <p class="mb-8"><a href="/the-book/" class="btn btn-primary">Learn More</a></p>
           <p class="text-white serif text-base"><a href="https://www.amazon.com/Fearless-Salary-Negotiation-step-step/dp/0692568689">Or buy it now for just $49 <i class="fas fa-angle-double-right"></i></a></p>
         </div>
       </div>
@@ -218,11 +190,11 @@ ctaText: Read More
           <div class="product-copy py-14 pl-16 w-1/2">
             <h4 class="brand-secondary uppercase sans-serif text-3xl mb-5">The Crash Course</h4>
             <p class="text-white serif text-base mb-8">Short description of this product goes right here Far far away, behind the word mountains</p>
-            <p class="mb-8"><a href="{{ site.baseurl }}/crash-course/" class="btn btn-primary">Learn More</a></p>
+            <p class="mb-8"><a href="/crash-course/" class="btn btn-primary">Learn More</a></p>
             <p class="text-white serif text-base"><a href="#" class="btn-access-tag">Or buy it now for just $197 <i class="fas fa-angle-double-right"></i></a></p>
           </div>
           <div class="w-1/2">
-            <img src="{{ site.baseurl }}/assets/imgs/prod-devices-small.png" alt="">
+            <img src="/assets/imgs/prod-devices-small.png" alt="">
           </div>
         </div>
       </div>
@@ -230,27 +202,27 @@ ctaText: Read More
   </div>
   <div class="grid grid-cols-3">
     <div class="product-column">
-      <img src="{{ site.baseurl }}/assets/imgs/prod-devices-alt-small.png" alt="">
+      <img src="/assets/imgs/prod-devices-alt-small.png" alt="">
       <div class="product-copy-sm p-10">
         <h4 class="brand-secondary uppercase sans-serif text-2xl mb-5">Product Title Here</h4>
         <p class="text-white serif text-base mb-8">Short description of this product goes right here Far far away, behind the word mountains</p>
-        <p class="mb-8 text-base text-white sans-serif"><a href="{{ site.baseurl }}/the-book/" class="btn btn-primary">Learn More</a><a href="#">Or buy it now for just $XXX <i class="fas fa-angle-double-right"></i></a></p>
+        <p class="mb-8 text-base text-white sans-serif"><a href="/the-book/" class="btn btn-primary">Learn More</a><a href="#">Or buy it now for just $XXX <i class="fas fa-angle-double-right"></i></a></p>
       </div>
     </div>
     <div class="product-column">
-      <img src="{{ site.baseurl }}/assets/imgs/prod-devices-alt-small.png" alt="">
+      <img src="/assets/imgs/prod-devices-alt-small.png" alt="">
       <div class="product-copy-sm p-10">
         <h4 class="brand-secondary uppercase sans-serif text-2xl mb-5">Product Title Here</h4>
         <p class="text-white serif text-base mb-8">Short description of this product goes right here Far far away, behind the word mountains</p>
-        <p class="mb-8 text-base text-white sans-serif"><a href="{{ site.baseurl }}/the-book/" class="btn btn-primary">Learn More</a> <a href="#">Or buy it now for just $XXX <i class="fas fa-angle-double-right"></i></a></p>
+        <p class="mb-8 text-base text-white sans-serif"><a href="/the-book/" class="btn btn-primary">Learn More</a> <a href="#">Or buy it now for just $XXX <i class="fas fa-angle-double-right"></i></a></p>
       </div>
     </div>
     <div class="product-column">
-      <img src="{{ site.baseurl }}/assets/imgs/prod-devices-alt-small.png" alt="">
+      <img src="/assets/imgs/prod-devices-alt-small.png" alt="">
       <div class="product-copy-sm p-10">
         <h4 class="brand-secondary uppercase sans-serif text-2xl mb-5">Product Title Here</h4>
         <p class="text-white serif text-base mb-8">Short description of this product goes right here Far far away, behind the word mountains</p>
-        <p class="mb-8 text-base text-white sans-serif"><a href="{{ site.baseurl }}/the-book/" class="btn btn-primary">Learn More</a> <a href="#">Or buy it now for just $XXX <i class="fas fa-angle-double-right"></i></a></p>
+        <p class="mb-8 text-base text-white sans-serif"><a href="/the-book/" class="btn btn-primary">Learn More</a> <a href="#">Or buy it now for just $XXX <i class="fas fa-angle-double-right"></i></a></p>
       </div>
     </div>
   </div>
