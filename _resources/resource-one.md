@@ -46,7 +46,7 @@ Ea, explicabo excepturi? Asperiores alias adipisci reiciendis quia, aperiam nost
 
 
 <div class="img-caption">
-  <img src="{{ site.baseurl }}/assets/imgs/placeholder-article.jpg" alt="Alt tag if desired" />
+  <img src="/assets/imgs/placeholder-article.jpg" alt="Alt tag if desired" />
   <p>Odio dolor dolor quam faucibus iaculis arcu in fermentum. Turpis a nascetur blandit adipiscing scelerisque. Magna volutpat egestas dictum mi. Commodo risus turpis odio pellentesque in eget fermentum quam interdum. Nunc pharetra augue risus vulputate.</p>
 </div>
 
