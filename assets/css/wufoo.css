@@ -1,0 +1,145 @@
+/*
+  Josh Doody Wufoo custom theme
+  If filename changes, it must be updated in the
+  FSN V2 wufoo theme settings
+  Currently hosted at https://6anchors.com/client/fsn/wufoo.css
+*/
+
+/* Box sizing specifically for Wufoo theme */
+.wufoo *, .wufoo *:before, .wufoo *:after {
+  box-sizing: border-box;
+}
+
+#container, html.embed { background: transparent; }
+
+.wufoo input.text,
+.wufoo textarea.textarea {
+  background-color: #fff;
+}
+
+.wufoo li.focused { background-color: transparent !important; }
+
+.wufoo li.focused input:focus-visible,
+.wufoo li.focused textarea:focus-visible {
+  outline: none;
+}
+
+.wufoo .instruct { background-color: transparent !important; }
+
+.wufoo .info h2,
+.wufoo h2 {
+  font-size: 32px;
+  font-family: mrs-eaves-xl-serif, serif;
+  color: #000
+}
+
+.wufoo .info div {
+  font-size: 16px !important;
+  font-family: mrs-eaves-xl-serif, serif;
+  color: #000
+}
+
+.wufoo .section h3 {
+  font-size: 16px;
+  font-family: mrs-eaves-xl-serif, serif;
+  background: #fff;
+  color: #000 }
+
+.wufoo .section div {
+  font-size: 16px;
+  font-family: mrs-eaves-xl-serif, serif;
+  color: #000
+}
+
+.wufoo label.desc, .wufoo legend.desc {
+  font-family: mrs-eaves-xl-serif, serif;
+  font-size: 16px !important;
+  color: #000
+}
+
+.wufoo span.symbol {
+  line-height: 42px;
+}
+
+.wufoo li div,
+.wufoo li div label {
+  font-family: mrs-eaves-xl-serif, serif;
+  color: #000;
+}
+
+.wufoo li span label {
+  color: #28282D;
+  font-size: 11px;
+  font-family: sweet-sans-pro, Helvetica, sans-serif;
+}
+
+.wufoo input.text,
+.wufoo textarea.textarea,
+.wufoo select.select,
+.wufoo label.choice {
+  font-size: 12px !important;
+  font-family: sweet-sans-pro, Helvetica, sans-serif;
+  color: red;
+}
+
+.wufoo input.text,
+.wufoo textarea.textarea {
+  padding: 16px;
+  border: none;
+}
+
+.wufoo label.choice {
+  color: #000;
+}
+
+.wufoo .instruct {
+  font-size: 80%;
+  font-family: mrs-eaves-xl-serif, serif;
+  color: #000;
+}
+
+/* First/last width */
+.wufoo li#fo6li1 span {
+  width: 50%;
+  margin: 0;
+}
+
+/* First */
+.wufoo li#fo6li1 span:nth-of-type(odd) {
+  padding-right: 2%;
+}
+
+/* Last */
+.wufoo li#fo6li1 span:nth-of-type(even) {
+  padding-left: 2%;
+}
+
+/* First, Last, Email */
+.wufoo #Field1,
+.wufoo #Field2,
+.wufoo #Field3 {
+  width: 100%;
+}
+
+.wufoo li.buttons {
+  text-align: center;
+  padding: 0;
+}
+
+.wufoo #saveForm {
+  background-color: #BF9724;
+  color: #fff;
+  font-family: sweet-sans-pro, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: 900;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 40px auto 20px;
+  padding: 16px 26px;
+  border: none !important;
+}
+
+.wufoo #saveForm:hover {
+  opacity: .75;
+  cursor: pointer;
+}
