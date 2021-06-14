@@ -96,12 +96,12 @@ Sed non nec turpis venenatis dui. Dolor sed senectus egestas ligula amet, tortor
 Accumsan pellentesque quam ut neque mi, potenti felis blandit. Elementum fringilla proin arcu ipsum et, duis sed. Laoreet est, faucibus faucibus vel, in etiam quam congue vel. Mauris, diam tincidunt semper vel, facilisi ultrices. Id cursus ipsum semper non eget turpis maecenas velit. Tristique urna euismod eu tellus mollis. Pharetra consequat, eget tristique id nunc dui quam. At est sed mauris viverra in mattis pharetra sed. Est tellus lacus nisl congue donec bibendum. Phasellus risus gravida enim risus a. Sed vitae tortor, maecenas nisl congue. Mi dignissim turpis suspendisse morbi egestas eu sit diam. Id morbi pretium suspendisse vitae commodo in ut at. Ut nisl augue urna semper libero gravida proin tincidunt. Habitant sed scelerisque mauris, pellentesque.
 
 <ul class="checklist my-6">
-  <li><i class="fas fa-check-circle"></i> Elementum fringilla proin</li>
-  <li><i class="fas fa-check-circle"></i> Est tellus lacus nisl congue</li>
-  <li><i class="fas fa-check-circle"></i> Tristique urna euismod eu tellus mollis. Pharetra consequat, eget tristique id nunc dui quam. At est sed mauris viverra in.</li>
-  <li><i class="fas fa-check-circle"></i> Elementum fringilla proin</li>
-  <li><i class="fas fa-check-circle"></i> Est tellus lacus nisl congue</li>
-  <li><i class="fas fa-check-circle"></i> Accumsan pellentesque quam ut neque mi, potenti felis blandit.</li>
+  <li><i class="checklist my-6"></i> Elementum fringilla proin</li>
+  <li><i class="checklist my-6"></i> Est tellus lacus nisl congue</li>
+  <li><i class="checklist my-6"></i> Tristique urna euismod eu tellus mollis. Pharetra consequat, eget tristique id nunc dui quam. At est sed mauris viverra in.</li>
+  <li><i class="checklist my-6"></i> Elementum fringilla proin</li>
+  <li><i class="checklist my-6"></i> Est tellus lacus nisl congue</li>
+  <li><i class="checklist my-6"></i> Accumsan pellentesque quam ut neque mi, potenti felis blandit.</li>
 </ul>
 
 ### Sliders

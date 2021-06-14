@@ -72,12 +72,12 @@ Just like promotions, most people sit back and wait for merit increases or marke
 
 Let's review the five ways to get a raise and supercharge your lifetime earning potential:
 
-<ul class="checkbox-list">
-  <li class="checkbox-list__item"><strong>Don't disclose your current or desired salary</strong> during your job interviews because that could cost you a lot of money.</li>
-	<li class="checkbox-list__item"><strong>Negotiate starting salary for every job offer</strong> so you can get a raise and make a lot more money every time you change jobs.</li>
-	<li class="checkbox-list__item"><strong>Keep negotiating even after you counter</strong> so you can maximize your starting salary <em>and</em> maximize your benefits.</li>
-	<li class="checkbox-list__item"><strong>Actively pursue promotions</strong> so you'll progress through your career more quickly.</li>
-	<li class="checkbox-list__item"><strong>Actively pursue raises</strong> so you're always paid what you're worth.</li>
+<ul class="checklist my-6">
+ <li><i class="fas fa-check-circle"></i><strong>Don't disclose your current or desired salary</strong> during your job interviews because that could cost you a lot of money.</li>
+	<li class="fas fa-check-circle"><strong>Negotiate starting salary for every job offer</strong> so you can get a raise and make a lot more money every time you change jobs.</li>
+	<li class="fas fa-check-circle"><strong>Keep negotiating even after you counter</strong> so you can maximize your starting salary <em>and</em> maximize your benefits.</li>
+	<li class="fas fa-check-circle"><strong>Actively pursue promotions</strong> so you'll progress through your career more quickly.</li>
+	<li class="fas fa-check-circle"><strong>Actively pursue raises</strong> so you're always paid what you're worth.</li>
 </ul>
 
 Take advantage of these five ways to get a raise and you'll supercharge your lifetime earning potential by doing the work you're already doing anyway.
