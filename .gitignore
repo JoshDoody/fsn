@@ -5,3 +5,5 @@ _site
 node_modules
 .bundle/
 vendor/
+Gemfile
+Gemfile.lock
