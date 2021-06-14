@@ -1,10 +1,15 @@
 <div class="container mx-auto mt-32 mb-20 three-card-prod">
   <div class="flex justify-between mb-14">
-    <div>
-      <h4 class="uppercase text-4xl sans-serif">Short call to action headline goes here</h4>
+    <div class="self-center">
+      {% if page.url == "/one-on-one/" %}
+        <h3 class="sans-serif text-xl uppercase mb-2">Not Ready for 1-On-1 Coaching?</h3>
+        <h4 class="uppercase text-4xl sans-serif">Check out these other options</h4>
+      {% else %}
+        <h4 class="uppercase text-4xl sans-serif">Short call to action headline goes here</h4>
+      {% endif  %}
     </div>
-    <div>
-      <a href="#" class="btn-primary btn text-right">See All Products</a>
+    <div class="self-center">
+      <a href="/products/" class="btn-primary btn text-right">See All Products</a>
     </div>
   </div>
   <div class="flex card-prod">
