@@ -878,3 +878,14 @@
   outline: 2px solid $brand-secondary;
   border: 5px solid $brand-light-gray;
 }
+
+.about-callout {
+  outline: 2px solid $brand-secondary;
+  border: 8px solid $brand-light-gray;
+  position: relative;
+  img {
+    position: absolute;
+    bottom: -56px;
+    right: 0;
+  }
+}
