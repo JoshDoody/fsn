@@ -15,8 +15,6 @@ og-image: salary-negotiation-email-make-your-case.png
 date: 2020-05-07
 author: josh
 published: true
-extra_js:
-  - template_requested.js
 ---
 You have a job offer, which means you successfully navigated the tricky job interview process. Congrats!
 
@@ -30,12 +28,12 @@ This guide will show you how to negotiate your salary over email with a step-by-
 
 **In this article, you'll learn how to...**
 
- * [Ask for time to consider your job offer](#ask-for-time-template){:data-template="Ask for time template"}{:data-action="Choose counter offer template"}
- * [Negotiate a lowball job offer](#lowball-template){:data-template="Lowball template"}{:data-action="Choose counter offer template"}
- * [Send a standard counter offer email](#baseline-counter-template){:data-template="Counter offer template—baseline"}{:data-action="Choose counter offer template"}
- * [Counter with your bottom line](#counter-minimum-template){:data-template="Counter offer template—minimum"}{:data-action="Choose counter offer template"}
- * [Disclose other offers in your counter](#counter-other-offers-template){:data-template="Counter offer template—other offers"}{:data-action="Choose counter offer template"}
- * [Follow up after counter offering](#follow-up-template){:data-template="Follow-up after counter"}{:data-action="Choose counter offer template"}
+ * [Ask for time to consider your job offer](#ask-for-time-template)
+ * [Negotiate a lowball job offer](#lowball-template)
+ * [Send a standard counter offer email](#baseline-counter-template)
+ * [Counter with your bottom line](#counter-minimum-template)
+ * [Disclose other offers in your counter](#counter-other-offers-template)
+ * [Follow up after counter offering](#follow-up-template)
 
 Just in case you're not convinced that you can or should negotiate a higher salary after a job offer, let's start with a few common questions about the process.
 
