@@ -34,7 +34,7 @@ Both emails use a simple format so you can easily edit them for your own situati
 <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>
 </div>
 
-## <a name="resignation-letter-template" class="below-nav">Resignation letter template to give your two weeks notice
+## <a name="resignation-letter-template">Resignation letter template to give your two weeks notice
 
 Keep your resignation letter short and sweet. You want to make it clear that you're leaving and that you plan to wrap up your open projects and facilitate the transitioning of your work to other colleagues. But you don't want to over-communicate.
 
@@ -64,7 +64,7 @@ This letter of resignation template will work for almost any situation whether y
 
 As you can see, there's an optional paragraph you might add if you have long-running projects that may take more than two weeks to transition *and* you have flexibility in your schedule to work more than two weeks before your final day.
 
-## <a name="last-day-template" class="below-nav">Sample last day at work email to say goodbye to your colleagues
+## <a name="last-day-template">Sample last day at work email to say goodbye to your colleagues
 	
 Once you've given your notice, you'll work hard to wrap things up before you go. But before your last day, you want to make sure to reach out to say goodbye to your teammates and colleagues and make sure they know how to get in touch.
 
