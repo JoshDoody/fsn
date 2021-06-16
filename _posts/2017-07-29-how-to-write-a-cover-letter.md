@@ -5,7 +5,6 @@ headline: How to write a compelling cover letter
 excerpt: How to write a cover letter that grabs the attention of even the most seasoned resume or CV reader
 categories:
   - interview
-  - CategoryTwo
 tags:
   - recommended
   - popular

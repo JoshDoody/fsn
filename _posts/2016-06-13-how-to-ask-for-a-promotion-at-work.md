@@ -6,7 +6,6 @@ subhead: A proven two-step process to get your next promotion
 excerpt: A proven two-step process to get promoted at work by thinking like a manager.
 categories:
   - promotion
-  - CategoryTwo
 tags:
   - recommended
   - popular

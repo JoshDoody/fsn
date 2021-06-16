@@ -6,7 +6,6 @@ subhead: Get a detailed video review of a real life résumé
 excerpt: Find out what hiring managers are looking for on your résumé, plus common mistakes to avoid so your résumé doesn't end up on the bottom of the pile.
 categories:
   - interview
-  - CategoryTwo
 tags:
   - recommended
   - popular

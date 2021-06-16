@@ -5,7 +5,6 @@ subhead: A simple method to get un-stuck and make some progress
 excerpt: This simple method will help you evaluate your past results and plan for future progress.
 categories:
   - raise
-  - CategoryTwo
 tags:
   - recommended
   - popular

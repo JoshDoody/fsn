@@ -5,7 +5,6 @@ subhead: How to know when you should ask for a raise
 excerpt: Timing your request correctly is extremely important. Here are some things to help determine when you should ask for a raise.
 categories:
   - raise
-  - CategoryTwo
 tags:
   - recommended
   - popular

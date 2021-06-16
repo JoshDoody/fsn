@@ -5,7 +5,6 @@ headline: Your recruiter <br>is not your friend
 excerpt: Your recruiter is not trying to get you the best salary possible. Here’s how to look out for yourself.
 categories:
   - negotiate
-  - CategoryTwo
 tags:
   - recommended
   - popular

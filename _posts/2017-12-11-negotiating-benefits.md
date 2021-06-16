@@ -6,7 +6,6 @@ subhead: How to prioritize and negotiate non-salary benefits
 excerpt: Here's when and how to negotiate for non-salary benefits like vacation, equity, signing bonus and more.
 categories:
   - negotiate
-  - CategoryTwo
 tags:
   - recommended
   - popular

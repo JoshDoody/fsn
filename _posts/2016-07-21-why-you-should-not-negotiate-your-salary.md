@@ -5,7 +5,6 @@ subhead: Now that I've written this, I realize I was in over my head. Sorry abou
 excerpt: This was supposed to be a list of reasons to NOT negotiate your salary, but I totally failed at making my point. Sorry!
 categories:
   - negotiate
-  - CategoryTwo
 tags:
   - recommended
   - popular

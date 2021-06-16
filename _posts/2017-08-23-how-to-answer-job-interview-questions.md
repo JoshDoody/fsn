@@ -5,7 +5,6 @@ subhead: Connecting your professional super powers to employers' desired busines
 excerpt: How to confidently answer the toughest interview questions to make a good impression and stand out from other candidates.
 categories:
   - interview
-  - CategoryTwo
 tags:
   - recommended
   - popular

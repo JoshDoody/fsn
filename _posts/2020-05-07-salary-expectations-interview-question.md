@@ -5,7 +5,6 @@ subhead: Word-for-word scripts to answer salary expectations questions in your i
 excerpt: Don't panic! Here's how to tactfully answer salary expectations questions without costing yourself a ton of money (updated for 2021)
 categories:
   - salary-questions
-  - CategoryTwo
 tags:
   - recommended
   - popular

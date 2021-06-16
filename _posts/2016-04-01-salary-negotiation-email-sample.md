@@ -6,7 +6,6 @@ subhead: Salary negotiation email templates to deliver your counter offer when n
 excerpt: A professional salary negotiator shows you how to counter offer with a salary negotiation email template once you have a job offer.
 categories:
   - negotiate
-  - CategoryTwo
 tags:
   - recommended
   - popular

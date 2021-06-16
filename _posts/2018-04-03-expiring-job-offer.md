@@ -5,7 +5,6 @@ headline: What to do when you have to respond to a job offer <em>NOW</em>
 excerpt: Putting an expiration date on a job offer is a good negotiation technique that some recruiters use. Here's how you get the best result under pressure.
 categories:
   - negotiate
-  - CategoryTwo
 tags:
   - recommended
   - popular

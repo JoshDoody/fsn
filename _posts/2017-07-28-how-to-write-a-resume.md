@@ -5,7 +5,6 @@ headline: How to write a compelling resume
 excerpt: How to write a compelling resume or CV that will get you more job interviews
 categories:
   - interview
-  - CategoryTwo
 tags:
   - recommended
   - popular

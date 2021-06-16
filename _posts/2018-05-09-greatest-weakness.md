@@ -5,7 +5,6 @@ subhead: ...and how to answer it
 excerpt: You’re afraid of this question, and you’re not alone! Here's why it's a dumb question and how you can answer it without tanking your job interview.
 categories:
   - interview
-  - CategoryTwo
 tags:
   - recommended
   - popular

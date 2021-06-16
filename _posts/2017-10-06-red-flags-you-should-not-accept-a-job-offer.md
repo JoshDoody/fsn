@@ -6,7 +6,6 @@ subhead: Look out for these red flags when considering a job offer
 excerpt: Watch out for these red flags before you accept a job offer.
 categories:
   - negotiate
-  - CategoryTwo
 tags:
   - recommended
   - popular
