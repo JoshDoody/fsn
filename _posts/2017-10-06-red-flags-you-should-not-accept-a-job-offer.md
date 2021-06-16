@@ -2,7 +2,7 @@
 layout: posts
 title: Are you sure you want to accept that job offer? Avoid these red flags
 headline: Do you <em>really</em> want to work there?
-tagline: Look out for these red flags when considering a job offer
+subhead: Look out for these red flags when considering a job offer
 excerpt: Watch out for these red flags before you accept a job offer.
 categories:
   - negotiate

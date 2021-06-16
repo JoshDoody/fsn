@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: 5 things you should know before you apply for a job
-tagline: How to find the right opportunities and make the most of them
+subhead: How to find the right opportunities and make the most of them
 excerpt: Here's how you'll find the best opportunities and tactics you can use to make the most of them.
 categories:
   - interview

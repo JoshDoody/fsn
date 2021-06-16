@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: 5 ways to get a raise
-tagline: How to supercharge your lifetime earning potential
+subhead: How to supercharge your lifetime earning potential
 excerpt: Take advantage of these five ways to get a raise and supercharge your lifetime earning potential.
 categories:
   - raise

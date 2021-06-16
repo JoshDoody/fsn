@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: 'Lowball job offers: How to negotiate them'
-tagline: How to respond to a low salary offer when negotiating starting salary
+subhead: How to respond to a low salary offer when negotiating starting salary
 excerpt: How to respond to a low salary offer when negotiating starting salary
 categories:
   - negotiate-lowball

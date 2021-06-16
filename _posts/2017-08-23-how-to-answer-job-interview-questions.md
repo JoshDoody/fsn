@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: How to answer interview questions like “Why should we hire you?”
-tagline: Connecting your professional super powers to employers' desired business outcomes to get more high-quality job offers
+subhead: Connecting your professional super powers to employers' desired business outcomes to get more high-quality job offers
 excerpt: How to confidently answer the toughest interview questions to make a good impression and stand out from other candidates.
 categories:
   - interview

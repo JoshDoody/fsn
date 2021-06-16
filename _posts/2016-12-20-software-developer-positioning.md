@@ -2,7 +2,7 @@
 layout: posts
 title: Software Developer positioning guide to get more job offers
 headline: 'Software Developers: Use positioning to get more job offers'
-tagline: Stand out from similarly-qualified candidates with these tactics
+subhead: Stand out from similarly-qualified candidates with these tactics
 excerpt: Tactics to get more job offers by differentiating yourself from other candidates
 categories:
   - interview

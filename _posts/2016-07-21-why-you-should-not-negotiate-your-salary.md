@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: 10 reasons you should NOT negotiate your salary
-tagline: Now that I've written this, I realize I was in over my head. Sorry about that!
+subhead: Now that I've written this, I realize I was in over my head. Sorry about that!
 excerpt: This was supposed to be a list of reasons to NOT negotiate your salary, but I totally failed at making my point. Sorry!
 categories:
   - negotiate

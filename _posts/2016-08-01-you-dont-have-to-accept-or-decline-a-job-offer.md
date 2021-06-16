@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: You don't have to accept or decline a job offer
-tagline: There's a better response that can improve the offer
+subhead: There's a better response that can improve the offer
 excerpt: There's a better response that can get you a higher base salary, more vacation time, and other benefits.
 categories:
   - negotiate
