@@ -11,8 +11,14 @@ navWeight: 3
   <div class="cat-nav">
     <ul class="list-none inline-flex items-center ml-0 mb-16 resource-cat-nav">
       <li class="cat-active"><button id="show-all">All</button></li>
-      {% for resources in site.resources %}
-        <li><button class="resource-filter" id="{{ resources.category | slugify }}">{{ resources.category }}</button></li>
+      {% assign categories_array = "" | split:"|" %}
+      {% for post in site.resources %}
+        {% for category in post.categories %}
+          {% assign categories_array = categories_array | push: category | uniq %}
+        {% endfor %}
+      {% endfor %}
+      {% for category in categories_array %}
+        <li><button class="resource-filter" id="{{ category | slugify }}">{{ category }}</button></li>
       {% endfor %}
       <li>Search</li>
     </ul>
