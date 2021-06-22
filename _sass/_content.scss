@@ -753,15 +753,13 @@
 .email-block {
   margin-bottom: 3.5em;
   position: relative;
-  p {
+  p, li {
     font: {
       family: $font-sans-serif;
       size: .875em;
     }
   }
-  hr {
-
-  }
+  hr {}
   .masthead {
     background-color: #DADBDC;
     padding: .5em 1.5em;

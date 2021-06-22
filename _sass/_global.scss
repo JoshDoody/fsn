@@ -3,7 +3,7 @@ body {
   color: $brand-black;
   font: {
     family: $font-base;
-    size: $font-base;
+    size: $font-size-base;
     weight: 400;
   }
   line-height: $font-line-height-base;
@@ -55,7 +55,7 @@ h5 {}
 h6 {}
 
 p {
-  margin-bottom: 1.25em;
+  margin-bottom: 1.25rem;
   &:last-of-type {
     margin-bottom: 0;
   }
@@ -180,6 +180,40 @@ hr {
 .blog-post hr {
   max-width: 64px;
   margin: 2.5em 0;
+}
+
+table {
+  color: $brand-black;
+  font: {
+    family: $font-serif;
+    size: $font-size-base;
+    weight: 400;
+  }
+  line-height: $font-line-height-base;
+  width: 100%;
+  margin-bottom: 1.25rem;
+  border-collapse: collapse;
+  table-layout: fixed;
+  thead {
+    background-color: $brand-gray;
+    color: $brand-white;
+    font: {
+      family: $font-serif;
+      size: 1.25rem;
+    }
+    tr:nth-child(odd) {
+      background-color: transparent;
+    }
+  }
+  tr {
+    background-color: rgba($brand-white,.5);
+    &:nth-child(odd) {
+      background-color: rgba($brand-white,.25);
+    }
+  }
+  th, td {
+    padding: .5rem;
+  }
 }
 
 .fas.fa-angle-double-right {
