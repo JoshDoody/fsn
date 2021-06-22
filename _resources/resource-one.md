@@ -35,6 +35,46 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem facere repellat e
   </div>
 </div>
 
+<table>
+  <thead>
+    <tr>
+      <th>Lorem</th>
+      <th>ipsum</th>
+      <th>dolor</th>
+      <th>consectetur</th>
+      <th>elit</th>
+    </tr>
+  </thead>
+  <tr>
+    <td>Accusantium</td>
+    <td>totam</td>
+    <td>Cumque</td>
+    <td>asperiores</td>
+    <td>culpa</td>
+  </tr>
+  <tr>
+    <td>architecto</td>
+    <td>Earum</td>
+    <td>accusamus</td>
+    <td>corrupti</td>
+    <td>temporibus</td>
+  </tr>
+  <tr>
+    <td>Accusantium</td>
+    <td>totam</td>
+    <td>Cumque</td>
+    <td>asperiores</td>
+    <td>culpa</td>
+  </tr>
+  <tr>
+    <td>architecto</td>
+    <td>Earum</td>
+    <td>accusamus</td>
+    <td>corrupti</td>
+    <td>temporibus</td>
+  </tr>
+</table>
+
 Nostrum dignissimos aut, ea modi saepe suscipit? Aspernatur necessitatibus unde optio magni esse ipsam, qui maxime animi.
 
 
