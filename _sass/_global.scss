@@ -7,7 +7,7 @@ body {
     weight: 400;
   }
   line-height: $font-line-height-base;
-  overflow-x: hidden;
+  // overflow-x: hidden;
 }
 
 a {
@@ -224,6 +224,12 @@ table {
 
 .container {
   max-width: $container-width;
+  @media (max-width: 1180px) {
+    margin: {
+      right: 1rem;
+      left: 1rem;
+    }
+  }
 }
 
 .txt-link {
