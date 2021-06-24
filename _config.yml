@@ -29,3 +29,6 @@ collections:
   resources:
     output: true
     permalink: /free-resources/:title/
+  success-stories:
+    output: true
+    permalink: /success-stories/:path/
