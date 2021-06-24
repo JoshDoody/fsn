@@ -1,6 +1,5 @@
 ---
-layout: default
-person: Acree M.
+name: Acree M.
 jobTitle: Senior Copywriter
 company:
 industry:

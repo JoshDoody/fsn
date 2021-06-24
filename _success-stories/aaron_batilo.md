@@ -1,6 +1,5 @@
 ---
-layout: default
-person: Aaron Batilo
+name: Aaron Batilo
 jobTitle: Software Engineer 2
 company:
 industry:
