@@ -1,14 +1,27 @@
 ---
-layout: default
+layout: success_stories
 title: Success Stories
 subTitle: Lorem ipsum dolor sit.
-navTitle: Success Stories
-navWeight: 4
+bodyClass: success-stories
 ---
 
 <div class="container mx-auto py-20">
 
+  <div style="background-color:rgba(0,0,0,.1);padding:1rem;margin-bottom:1rem;">
+    {% include success-story.html story-id="acree_m" %}
+  </div>
 
+  <h2 style="margin-bottom:1rem;">Temp for listing collection</h2>
+
+  {% for story in site.success-stories%}
+    <div style="border:1px solid #000;padding:1rem;margin-bottom:1rem;">
+      <p>Name: <strong>{{ story.name }}</strong></p>
+      <p>Job Title: <strong>{{ story.jobTitle }}</strong></p>
+      <p>Company: <strong>{{ story.company }}</strong></p>
+      <p>Industry: <strong>{{ story.industry }}</strong></p>
+      <p>Excerpt: <strong>{{ story.excerpt }}</strong></p>
+      <p>Link to page with full detail: <a href="{{ story.url }}"><strong>{{ story.name }}</strong></a></p>
+    </div>
+  {% endfor %}
 
 </div>
-
