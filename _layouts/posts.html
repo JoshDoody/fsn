@@ -25,16 +25,17 @@ layout: page
       <h3 class="text-2xl mb-8 text-center uppercase sans-serif">You Might Also Like</h3>
 
       <div class="related-posts">
-        {% for post in site.related_posts limit : 3 %}
+        {% capture category %}{{ page.categories | first }}{% endcapture %}
+        {% for post in site.categories[category] limit: 3 %}
           <div class="bg-white mb-8 flex flex-col">
             <div class="p-8 flex-grow flex-1">
-              <p class="text-2xl serif"><a href="{{ post.url }}">{{ post.title }}</a></p>
+              <p class="text-2xl serif"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></p>
               <hr class="my-6 w-16 hr-article">
               <p class="text-sm mb-6 sans-serif">{{ post.excerpt }}</p>
             </div>
             <div class="category flex justify-between items-center">
               <div class="pl-8"><p class="sans-serif text-xs">{{ post.categories | join: ', ' }}</p></div>
-              <div><a href="{{ post.url }}" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+              <div><a href="{{ post.url | relative_url }}" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
             </div>
           </div>
         {% endfor %}
@@ -45,10 +46,10 @@ layout: page
 
   </div>
 
-  {% include three-card-callout.html %}
+</div>
+
+{% include three-card-callout.html %}
 
   {% include one-on-one-help.html %}
-
-</div>
 
 {% include footer.html %}
