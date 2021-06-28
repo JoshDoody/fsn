@@ -3,7 +3,7 @@ name: Acree M.
 jobTitle: Senior Copywriter
 company:
 industry:
-headshot: https://via.placeholder.com/80x80
+headshot:
 excerpt: Taking control of that process and successfully negotiating a great salary affirmed my worth as a professional and spoke volumes about how valuable I am to my company.
 ---
 
