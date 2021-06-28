@@ -6,9 +6,7 @@ excerpt: Make sure you don't freeze up when they say, "Do you have any questions
 categories:
   - interview
 tags:
-  - recommended
-  - popular
-  - blogFeatured
+featured: true
 og-image: JobInterviewQuestionsYouCanAsk.jpg
 date: 2018-08-29
 author: josh
@@ -45,7 +43,7 @@ This question could yield useful information about the company culture so that y
 
 ## 4. "What can you tell me about the team or group that I would be working with if I get the job?"
 
-This job interview question is a great way to gather intel on the team you're interviewing for. Not only will you be able to tailor your answers to the specific people you're talking to, but you should also be able to focus more on the specific responsibilities of the team. 
+This job interview question is a great way to gather intel on the team you're interviewing for. Not only will you be able to tailor your answers to the specific people you're talking to, but you should also be able to focus more on the specific responsibilities of the team.
 
 You may also learn specific things about other people who may interview you, and you can use that information to give better answers *and* evaluate how well your answers are being received in future interviews.
 
@@ -63,7 +61,7 @@ This question has two benefits:
 Another way to ask this question is:
 
 > **"What would a long-term career look like at this company?"**
- 
+
 This is another question with two benefits:
 
 1. **You're thinking long-term, which means the company's investment in hiring you will probably have a better payoff.** Hiring people is expensive, so companies want to know that the people they hire will be around for a while. By asking this question, you're sending a signal that you would like to be around for a while.
@@ -71,7 +69,7 @@ This is another question with two benefits:
 
 ## 7. "Are there any special initiatives or side projects the team is working on right now?"
 
-If the team is investing time and energy in a side project, that's probably something important to them. Learning about that project will help you understand more about where the team is focused, and will give you good information to use as you answer questions. How? You can make sure to mention that you like working on side projects, and you can focus on the specific type of project they're working on *right now*. 
+If the team is investing time and energy in a side project, that's probably something important to them. Learning about that project will help you understand more about where the team is focused, and will give you good information to use as you answer questions. How? You can make sure to mention that you like working on side projects, and you can focus on the specific type of project they're working on *right now*.
 
 ## 8. "How has the company changed in the past year?"
 
@@ -79,7 +77,7 @@ This job interview question could uncover a treasure trove of information you ca
 
 ## 9. "What is your favorite thing about working for this company? Least favorite thing?"
 
-This is a straightforward way to add to your list of pros and cons as you consider whether this role at this company is the right fit for you. Remember, you're interviewing the company as much as they're interviewing you. 
+This is a straightforward way to add to your list of pros and cons as you consider whether this role at this company is the right fit for you. Remember, you're interviewing the company as much as they're interviewing you.
 
 ## 10. "What are your expectations for this role in the first 90 days?"
 

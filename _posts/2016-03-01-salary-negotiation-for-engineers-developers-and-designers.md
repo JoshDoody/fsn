@@ -7,19 +7,17 @@ categories:
   - negotiate
   - interview
 tags:
-  - recommended
-  - popular
-  - blogFeatured
+featured:
 date: 2016-03-01
 author: josh
 published: true
 ---
 
-I recently did a Salary Negotiation workshop for the [Orlando Devs Meetup](http://www.meetup.com/OrlandoDevs/) and [The Iron Yard](https://www.theironyard.com/)'s Orlando campus. It was a great opportunity to work with software developers, engineers, and designers, who are simultaneously in _very_ high demand right now, and hesitant to negotiate their salary. 
+I recently did a Salary Negotiation workshop for the [Orlando Devs Meetup](http://www.meetup.com/OrlandoDevs/) and [The Iron Yard](https://www.theironyard.com/)'s Orlando campus. It was a great opportunity to work with software developers, engineers, and designers, who are simultaneously in _very_ high demand right now, and hesitant to negotiate their salary.
 
-My talk was about 30 minutes, starting with a salary negotiation overview for those who are looking to change jobs—how to prepare for your interviews, and how to negotiate your starting salary. Then I switched gears to talk about how to get your next raise or promotion for those who are planning to stay put. 
+My talk was about 30 minutes, starting with a salary negotiation overview for those who are looking to change jobs—how to prepare for your interviews, and how to negotiate your starting salary. Then I switched gears to talk about how to get your next raise or promotion for those who are planning to stay put.
 
-After the talk, we did about 40 minutes of Q&A, which I thought was really fun and enlightening. 
+After the talk, we did about 40 minutes of Q&A, which I thought was really fun and enlightening.
 
 Here’s the full talk. And below that is an outline that shows all the topics we discussed, and a list of all the questions that were asked so you can jump right to something if you’re interested.
 
@@ -66,4 +64,4 @@ I’m just linking to my answers (I usually repeat the question).
 - [(1:06:44) What do you do when the word “budget” is used a blocker for continuing negotiation?](https://youtu.be/sN19aNmjBoU#t=1h6m44s)
 - [(1:08:37) Does it help to negotiate using non-round numbers?](https://youtu.be/sN19aNmjBoU#t=1h8m37s)
 
-<div class="inline-ad hidden"></div>												
+<div class="inline-ad hidden"></div>

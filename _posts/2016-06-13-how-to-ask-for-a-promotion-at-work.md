@@ -7,9 +7,7 @@ excerpt: A proven two-step process to get promoted at work by thinking like a ma
 categories:
   - promotion
 tags:
-  - recommended
-  - popular
-  - blogFeatured
+featured: true
 date: 2016-10-24
 author: josh
 published: true
@@ -40,13 +38,13 @@ What are the differences in responsibility between your current job and your tar
 
 If the new job you’re targeting is outside your current group, run it by your manager first. You may need to explain that you’re interested in a new role, and you want to get experience with it to see if it might be a good option for you in the future. Be as transparent as possible so your manager doesn’t feel that you’re being sneaky, and so you can avoid any political landmines that may be lurking.
 
-Sometimes, you can’t just start doing that new job, so you’ll need to think of other ways to get experience. For example, maybe you’re aiming for a promotion from Consultant to Senior Consultant, and the difference between those two roles is that a Senior Consultant mentors other Consultants. Mentoring probably isn’t something you can just do, so you’ll ask your manager if there are any good mentoring opportunities where you can be useful. 
+Sometimes, you can’t just start doing that new job, so you’ll need to think of other ways to get experience. For example, maybe you’re aiming for a promotion from Consultant to Senior Consultant, and the difference between those two roles is that a Senior Consultant mentors other Consultants. Mentoring probably isn’t something you can just do, so you’ll ask your manager if there are any good mentoring opportunities where you can be useful.
 
 > “I’m really comfortable with the Consultant role, and am already documenting processes and creating training for new Consultants. If there are any Junior Consultants that need a mentor, I would love to work with them.”
 
 ### 2. Ask to make it official
 
-Once you’re comfortable with the responsibilities for the job you’re targeting, then you can make a compelling case that your manager should promote you and make it official. 
+Once you’re comfortable with the responsibilities for the job you’re targeting, then you can make a compelling case that your manager should promote you and make it official.
 
 > “I want to show that I’m ready to be a Senior Consultant, so I created new training material and have been mentoring a Junior Consultant for the past couple of months. Can we talk about moving me up to Senior Consultant?”
 
