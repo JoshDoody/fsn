@@ -60,12 +60,12 @@ Accumsan pellentesque quam ut neque mi, potenti felis blandit. Elementum fringil
 Sed non nec turpis venenatis dui. Dolor sed senectus egestas ligula amet, tortor, aenean blandit proin. Purus dolor eu tellus lorem ut mauris quam sed. Morbi bibendum mi id ultricies habitant. Ac tempus, pellentesque et aliquet pharetra. Tellus magna tortor, sit sapien turpis vulputate parturient.
 
 <ul class="checklist">
-  <li><i class="fas fa-check-circle"></i> Elementum fringilla proin</li>
-  <li><i class="fas fa-check-circle"></i> Est tellus lacus nisl congue</li>
-  <li><i class="fas fa-check-circle"></i> Tristique urna euismod eu tellus mollis. Pharetra consequat, eget tristique id nunc dui quam. At est sed mauris viverra in.</li>
-  <li><i class="fas fa-check-circle"></i> Elementum fringilla proin</li>
-  <li><i class="fas fa-check-circle"></i> Est tellus lacus nisl congue</li>
-  <li><i class="fas fa-check-circle"></i> Accumsan pellentesque quam ut neque mi, potenti felis blandit.</li>
+  <li><i class="checklist my-6"></i> Elementum fringilla proin</li>
+  <li><i class="checklist my-6"></i> Est tellus lacus nisl congue</li>
+  <li><i class="checklist my-6"></i> Tristique urna euismod eu tellus mollis. Pharetra consequat, eget tristique id nunc dui quam. At est sed mauris viverra in.</li>
+  <li><i class="checklist my-6"></i> Elementum fringilla proin</li>
+  <li><i class="checklist my-6"></i> Est tellus lacus nisl congue</li>
+  <li><i class="checklist my-6"></i> Accumsan pellentesque quam ut neque mi, potenti felis blandit.</li>
 </ul>
 
 Accumsan pellentesque quam ut neque mi, potenti felis blandit. Elementum fringilla proin arcu ipsum et, duis sed. Laoreet est, faucibus faucibus vel, in etiam quam congue vel. Mauris, diam tincidunt semper vel, facilisi ultrices. Id cursus ipsum semper non eget turpis maecenas velit. Tristique urna euismod eu tellus mollis. Pharetra consequat, eget tristique id nunc dui quam. At est sed mauris viverra in mattis pharetra sed. Est tellus lacus nisl congue donec bibendum. Phasellus risus gravida enim risus a. Sed vitae tortor, maecenas nisl congue. Mi dignissim turpis suspendisse morbi egestas eu sit diam. Id morbi pretium suspendisse vitae commodo in ut at. Ut nisl augue urna semper libero gravida proin tincidunt. Habitant sed scelerisque mauris, pellentesque.
