@@ -22,12 +22,13 @@ navWeight: 2
 
   <div class="blog-featured mb-20">
     <div class="grid grid-cols-2 gap-6 flex">
-      {% for post in site.tags.blogFeatured limit:2 %}
+      {% assign featured = site.posts | where: 'featured', 'true' %}
+      {% for feat in featured limit:2 %}
         <div class="p-10 border-4 border-white">
           <h4 class="text-xl pb-4 uppercase sans-serif">Featured</h4>
-          <h3 class="color-black text-4xl uppercase sans-serif mb-4"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-          <p class="mb-10 serif">{{ post.excerpt }}</p>
-          <p><a href="{{ post.url }}" class="btn-primary btn">Read More</a></p>
+          <h3 class="color-black text-4xl uppercase sans-serif mb-4"><a href="{{ feat.url }}">{{ feat.title }}</a></h3>
+          <p class="mb-10 serif">{{ feat.excerpt }}</p>
+          <p><a href="{{ feat.url }}" class="btn-primary btn">Read More</a></p>
         </div>
       {% endfor %}
     </div>
