@@ -2,7 +2,7 @@
 name: Aaron Batilo
 jobTitle: Software Engineer 2
 company:
-industry:
+industry: Software
 headshot: https://via.placeholder.com/80x80
 excerpt: Having Josh as a coach meant that I had a like-minded individual on my side who is an advocate and has a rooting interest in my outcome. I negotiated $8,000 more in the base pay salary, which directly increased my annual bonus payout target (as the percentage is tied to the base pay), plus $10,000 more in RSUs.
 ---
