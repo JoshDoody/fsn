@@ -85,6 +85,12 @@
   }
 }
 
+.success-stories {
+  .card-carousel.slick-slider {
+    margin-bottom: 6.25rem;
+  }
+}
+
 
 // Get help callout
 .get-help {
@@ -355,7 +361,64 @@
 }
 
 .success-indi {
-  margin-bottom: 4rem;
+  margin-bottom: 8rem;
+  .suc-dots {
+    .slick-dots {
+      position: absolute;
+      bottom: -44px;
+      text-align: left;
+      li {
+        width: 44px;
+        height: 44px;
+        margin: 0;
+        p {
+          font-size: 1em;
+          width: 1em;
+          height: 1em;
+          padding: 0;
+          &:before {
+            background-color: $brand-gray;
+            content: ' ';
+            font-family: inherit;
+            font-size: 1em;
+            line-height: 1em;
+            position: absolute;
+            top: 0;
+            left: 0;
+            /* width: 2.75em;
+            height: 2.75em; */
+            width: 0;
+            height: 0;
+            border-style: solid;
+            border-width: 44px 44px 0 0;
+            border-color: $brand-gray $brand-light-gray $brand-light-gray $brand-light-gray;
+            text-align: left;
+          }
+        }
+      }
+    }
+  }
+}
+
+.success-light {
+  background-color: $brand-white;
+  .suc-quotes {
+    p, p.title, li {
+      color: $brand-gray;
+    }
+  }
+  .suc-dots {
+    .slick-dots {
+      li {
+        p {
+          &:before {
+            background-color: $brand-white;
+            border-color: $brand-white $brand-light-gray $brand-light-gray $brand-light-gray;
+          }
+        }
+      }
+    }
+  }
 }
 
 .suc-quotes {
