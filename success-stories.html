@@ -1,19 +1,114 @@
 ---
 layout: success_stories
 title: Success Stories
-subTitle: Lorem ipsum dolor sit.
+subTitle:
+description: Plus a short introduction or description far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics.
+navTitle: Success Stories
+navWeight: 4
 bodyClass: success-stories
 ---
 
 <div class="container mx-auto py-20">
 
-  <div style="background-color:rgba(0,0,0,.1);padding:1rem;margin-bottom:1rem;">
-    {% include success-story.html story-id="acree_m" %}
+  <h2 class="text-3xl mb-8 uppercase sans-serif">Case Studies</h2>
+  <div class="grid sm:grid-cols-1 lg:grid-cols-3 card-carousel">
+    <div class="bg-white flex flex-col">
+      <div class="p-8 pb-0 flex-grow flex-1">
+        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
+        <hr class="my-6 w-16 hr-article">
+      </div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="text-xs uppercase sans-serif">Case Study</p></div>
+        <div><a href="#" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+      </div>
+    </div>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 pb-0 flex-grow flex-1">
+        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
+        <hr class="my-6 w-16 hr-article">
+      </div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="text-xs uppercase sans-serif">Case Study</p></div>
+        <div><a href="#" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+      </div>
+    </div>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 pb-0 flex-grow flex-1">
+        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
+        <hr class="my-6 w-16 hr-article">
+      </div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="text-xs uppercase sans-serif">Case Study</p></div>
+        <div><a href="#" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+      </div>
+    </div>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 pb-0 flex-grow flex-1">
+        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
+        <hr class="my-6 w-16 hr-article">
+      </div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="text-xs uppercase sans-serif">Case Study</p></div>
+        <div><a href="#" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+      </div>
+    </div>
   </div>
 
-  <h2 style="margin-bottom:1rem;">Temp for listing collection</h2>
+  <div class="success-slider mb-32">
+    <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
+    <div class="suc-quotes">
 
-  {% for story in site.success-stories%}
+      {% include success-story.html story-id="aaron_batilo" %}
+      {% include success-story.html story-id="acree_m" %}
+
+    </div><!-- /suc-quotes -->
+
+    <div class="flex suc-control">
+      <button type="button" class="suc-prev"><i class="fas fa-arrow-left"></i></button>
+      <button type="button" class="suc-next"><i class="fas fa-arrow-right"></i></button>
+    </div><!-- /suc-control -->
+
+    <div class="suc-dots"></div>
+
+  </div><!-- /success-slider -->
+
+
+  {% for story in site.success-stories %}
+    <div class="success-indi success-light">
+      <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
+      <div class="suc-quotes">
+
+        <div>
+          {{ story.content | markdownify }}
+          <div class="flex items-center mt-6">
+            {% if story.headshot %}
+              <div class="mr-4">
+                <img src="{{ story.headshot }}" class="rounded-full h-20 w-20">
+              </div>
+            {% endif %}
+            <div>
+              <p class="name m-0">{{ story.name }}</p>
+              {% if story.jobTitle %}
+                <p class="title m-0">{{ story.jobTitle }}</p>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+
+      </div><!-- /suc-quotes -->
+      <div class="suc-dots">
+        <ul class="slick-dots" role="tablist" style="display: block;">
+          <li class="slick-active" role="presentation"><p>1</p></li>
+        </ul>
+      </div>
+    </div><!-- /success-indi -->
+  {% endfor %}
+
+  <div class="load-more mt-16">
+    <p class="text-center uppercase sans-serif"><a href="#">Load More Success Stories<i class="fas fa-angle-double-down ml-2"></i></a></p>
+  </div>
+
+  <!-- {% for story in site.success-stories %}
     <div style="border:1px solid #000;padding:1rem;margin-bottom:1rem;">
       <p>Name: <strong>{{ story.name }}</strong></p>
       <p>Job Title: <strong>{{ story.jobTitle }}</strong></p>
@@ -22,6 +117,6 @@ bodyClass: success-stories
       <p>Excerpt: <strong>{{ story.excerpt }}</strong></p>
       <p>Link to page with full detail: <a href="{{ story.url }}"><strong>{{ story.name }}</strong></a></p>
     </div>
-  {% endfor %}
+  {% endfor %} -->
 
 </div>
