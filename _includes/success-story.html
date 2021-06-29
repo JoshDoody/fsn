@@ -12,7 +12,9 @@
       {% endif %}
       <div>
         <p class="name m-0">{{ story.name }}</p>
-        <p class="title m-0">{{ story.jobTitle }}</p>
+        {% if story.jobTitle %}
+          <p class="title m-0">{{ story.jobTitle }}</p>
+        {% endif %}
       </div>
     </div>
   </div>
