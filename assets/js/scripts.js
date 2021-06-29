@@ -92,7 +92,7 @@ $(document).ready(function() {
 
   // Resource category filtering
   // show all resource articles
-  $("#show-all").click(function() {
+  $(".resources #show-all").click(function() {
     $(".blog-list > div").attr("style", "display:flex");
     $(".blog-featured").show();
     $("li button").removeClass("btn-active");
@@ -110,6 +110,28 @@ $(document).ready(function() {
     }
     $btns.removeClass("btn-active");
     $(this).addClass("btn-active");
-  })
+  });
+
+  // Success stories category filtering
+  // show all success stories
+  $(".success-stories #show-all").click(function() {
+    $(".blog-list > div").attr("style", "display:flex");
+    $(".blog-featured").show();
+    $("li button").removeClass("btn-active");
+    $(this).parent().addClass("cat-active");
+  });
+
+  var $btns = $(".resource-filter").click(function() {
+    $(".blog-featured").hide();
+    $(".cat-active").removeClass();
+    if (this.id == "all") {
+      $(".blog-list > div").fadeIn(450);
+    } else {
+      var $el = $("." + this.id).fadeIn(450);
+      $(".blog-list > div").not($el).hide();
+    }
+    $btns.removeClass("btn-active");
+    $(this).addClass("btn-active");
+  });
 
 });
