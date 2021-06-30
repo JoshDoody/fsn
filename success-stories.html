@@ -74,9 +74,9 @@ bodyClass: success-stories
 
 
   {% for story in site.success-stories %}
-    <div class="success-indi success-light">
+    <div class="success-indi success-light {{ story.industry | slugify }}">
       <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
-      <div class="suc-quotes">
+      <div class="suc-indi-quotes">
 
         <div>
           {{ story.content | markdownify }}
@@ -96,7 +96,7 @@ bodyClass: success-stories
         </div>
 
       </div><!-- /suc-quotes -->
-      <div class="suc-dots">
+      <div class="suc-indi-dots">
         <ul class="slick-dots" role="tablist" style="display: block;">
           <li class="slick-active" role="presentation"><p>1</p></li>
         </ul>
