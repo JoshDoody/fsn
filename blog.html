@@ -1,7 +1,7 @@
 ---
 layout: articles
 title: Articles
-subTitle: Articles
+subTitle:
 permalink: /articles/
 navTitle: Articles
 navWeight: 2
@@ -10,11 +10,16 @@ navWeight: 2
 <div class="container mx-auto py-20">
 
   <div class="cat-nav">
-    <ul class="list-none inline-flex items-center ml-0 mb-16">
-      <li class="cat-active"><a href="/blog/">All</a></li>
-      {% for category in site.categories %}
-        {% capture category_name %}{{ category | first }}{% endcapture %}
-        <li><a href="{{category.url}}">{{ category_name }}</a></li>
+    <ul class="list-none inline-flex items-center ml-0 mb-16 resource-cat-nav">
+      <li class="cat-active"><button id="show-all">All</button></li>
+      {% assign categories_array = "" | split:"|" %}
+      {% for post in site.posts %}
+        {% for category in post.categories %}
+          {% assign categories_array = categories_array | push: category | uniq %}
+        {% endfor %}
+      {% endfor %}
+      {% for category in categories_array %}
+        <li><button class="resource-filter" id="{{ category | slugify }}">{{ category }}</button></li>
       {% endfor %}
       <li>Search</li>
     </ul>
@@ -36,7 +41,7 @@ navWeight: 2
 
   <div class="blog-list grid sm:grid-cols-1 lg:grid-cols-3 gap-4">
     {% for post in site.posts %}
-      <div class="bg-white flex flex-col">
+      <div class="bg-white flex flex-col {{ post.categories }}">
         <div class="p-8 flex-grow flex-1">
           <p class="text-2xl serif"><a href="{{ post.url }}">{{ post.title }}</a></p>
           <hr class="my-6 w-16 hr-article">
@@ -51,7 +56,7 @@ navWeight: 2
   </div><!-- /blog-list -->
 
   <div class="load-more mt-16">
-    <p class="text-center uppercase sans-serif"><a href="#">Load More Articles <i class="fas fa-angle-double-down ml-2"></i></a></p>
+    <p class="text-center uppercase sans-serif"><button>Load More Articles <i class="fas fa-angle-double-down ml-2"></i></button></p>
   </div>
 
 </div>

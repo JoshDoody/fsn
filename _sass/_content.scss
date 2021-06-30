@@ -249,7 +249,7 @@
     right: 0;
     z-index: 1;
   }
-  a {
+  button {
     background-color: $brand-light-gray;
     color: $brand-gray;
     font-size: 1em;
@@ -362,7 +362,7 @@
 
 .success-indi {
   margin-bottom: 8rem;
-  .suc-dots {
+  .suc-dots, .suc-indi-dots {
     .slick-dots {
       position: absolute;
       bottom: -44px;
@@ -402,12 +402,12 @@
 
 .success-light {
   background-color: $brand-white;
-  .suc-quotes {
+  .suc-quotes, .suc-indi-quotes {
     p, p.title, li {
       color: $brand-gray;
     }
   }
-  .suc-dots {
+  .suc-dots, .suc-indi-dots {
     .slick-dots {
       li {
         p {
@@ -421,7 +421,7 @@
   }
 }
 
-.suc-quotes {
+.suc-quotes, .suc-indi-quotes {
   padding: 6.75em 4em 2.75em 4.25em;
   p {
     color: $brand-white;
@@ -485,7 +485,7 @@
   margin-left: 0.75em;
 }
 
-.suc-dots {
+.suc-dots, .suc-indi-dots {
   .slick-dots {
     position: absolute;
     bottom: -44px;
