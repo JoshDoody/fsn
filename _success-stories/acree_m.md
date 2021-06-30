@@ -1,11 +1,16 @@
 ---
 name: Acree M.
-jobTitle: Senior Copywriter
-company:
-industry: Security
-headshot:
-excerpt: Taking control of that process and successfully negotiating a great salary affirmed my worth as a professional and spoke volumes about how valuable I am to my company.
+job_title: Senior Copywriter
+company: 
+industry: 
+headshot: acree_m.jpg
+short_version: >
+  Taking control of that process and successfully negotiating a great salary affirmed my worth as a professional and spoke volumes about how valuable I am to my company.
+product: Salary Negotiation Coaching
+result_summary: 
 ---
+
+Taking control of that process and successfully negotiating a great salary affirmed my worth as a professional and spoke volumes about how valuable I am to my company.
 
 I was happy working as a freelance copywriter when an enticing opportunity came along to work for a small company full-time. But in order to turn away all of my clients, which was a big risk, the opportunity and salary had to be just right.
 
