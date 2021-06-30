@@ -90,6 +90,26 @@ $(document).ready(function() {
     $(this).toggleClass("active");
   });
 
+  // Blog category filtering
+  // show all blog posts
+  $(".articles #show-all").click(function() {
+    $(".blog-list > div").attr("style", "display:flex");
+    $("li button").removeClass("btn-active");
+    $(this).parent().addClass("cat-active");
+  });
+
+  var $btns = $(".resource-filter").click(function() {
+    $(".cat-active").removeClass();
+    if (this.id == "all") {
+      $(".blog-list > div").fadeIn(450);
+    } else {
+      var $el = $("." + this.id).fadeIn(450);
+      $(".blog-list > div").not($el).hide();
+    }
+    $btns.removeClass("btn-active");
+    $(this).addClass("btn-active");
+  });
+
   // Resource category filtering
   // show all resource articles
   $(".resources #show-all").click(function() {
@@ -115,23 +135,31 @@ $(document).ready(function() {
   // Success stories category filtering
   // show all success stories
   $(".success-stories #show-all").click(function() {
-    $(".blog-list > div").attr("style", "display:flex");
-    $(".blog-featured").show();
+    $(".success-indi").attr("style", "display:flex");
     $("li button").removeClass("btn-active");
     $(this).parent().addClass("cat-active");
   });
 
   var $btns = $(".resource-filter").click(function() {
-    $(".blog-featured").hide();
     $(".cat-active").removeClass();
     if (this.id == "all") {
-      $(".blog-list > div").fadeIn(450);
+      $(".success-indi").fadeIn(450);
     } else {
       var $el = $("." + this.id).fadeIn(450);
-      $(".blog-list > div").not($el).hide();
+      $(".success-indi").not($el).hide();
     }
     $btns.removeClass("btn-active");
     $(this).addClass("btn-active");
   });
+
+  // "Lazy load"
+  // var $ps = $(".blog-list").children(".bg-white");
+  // // show first 9
+  // $ps.slice(9).hide();
+  // // show remaining posts
+  // $(".load-more button").click(function() {
+  //   $(this).remove();
+  //   $ps.show();
+  // });
 
 });
