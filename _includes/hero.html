@@ -1,6 +1,6 @@
 <div class="hero">
-  <div class="container mx-auto pt-28 pb-24">
-    <div class="grid grid-cols-2 gap-6">
+  <div class="container mx-auto md:pt-28 md:pb-24 sm:pt-14 sm:pt-12">
+    <div class="grid md:grid-cols-2 sm:grid-cols-1 gap-6">
       <div>
         {% if page.subTitle %}
           <h4 class="text-xl pb-6 pr-12 uppercase">{{ page.subTitle }}</h4>
@@ -19,7 +19,7 @@
       </div>
       <div class="pt-12 relative">
         {% if page.heroImg %}
-          <img src="/assets/imgs/{{ page.heroImg }}" alt="" class="absolute">
+          <img src="/assets/imgs/{{ page.heroImg }}" alt="" class="md:absolute sm:m-auto sm:block">
         {% endif %}
       </div>
     </div>
