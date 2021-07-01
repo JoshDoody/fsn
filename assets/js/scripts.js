@@ -153,13 +153,5 @@ $(document).ready(function() {
   });
 
   // "Lazy load"
-  // var $ps = $(".blog-list").children(".bg-white");
-  // // show first 9
-  // $ps.slice(9).hide();
-  // // show remaining posts
-  // $(".load-more button").click(function() {
-  //   $(this).remove();
-  //   $ps.show();
-  // });
 
 });
