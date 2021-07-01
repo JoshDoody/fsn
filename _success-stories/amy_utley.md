@@ -7,7 +7,7 @@ headshot: amy_utley.jpg
 short_version: >
   The most helpful thing about the Crash Course was having exact word-for-word scripts at each step of the process – they gave me the confidence to ask for way more than I would have otherwise. **I used the email templates to successfully negotiate an offer $12,000 higher than my original offer (an increase of about 10%)!**
 product: Salary Negotiation Crash Course
-result_summary: 
+result_summary: $12,000 higher than original offer (an increase of about 10%)
 ---
 
 I almost talked myself out of negotiating. **I was staring at a job offer in my email inbox that was higher than I expected.** I was excited and flattered, but my gut said that taking the first offer would leave money on the table.
