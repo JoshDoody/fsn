@@ -230,7 +230,7 @@ table {
 .container {
   max-width: $container-width;
   @media (max-width: 1180px) {
-    margin: {
+    padding: {
       right: 1rem;
       left: 1rem;
     }

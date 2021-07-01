@@ -423,6 +423,9 @@
 
 .suc-quotes, .suc-indi-quotes {
   padding: 6.75em 4em 2.75em 4.25em;
+  @media (max-width: 660px) {
+    padding-bottom: 6em;
+  }
   p {
     color: $brand-white;
     font: {
@@ -465,6 +468,10 @@
   position: absolute;
   right: 4em;
   bottom: 2em;
+  @media (max-width: 876px) {
+    right: 1em;
+    bottom: 1em;
+  }
 }
 
 .suc-prev,
