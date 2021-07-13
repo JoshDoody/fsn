@@ -24,6 +24,12 @@ plugins: [jekyll-paginate]
 permalink: /:title/
 
 collections:
+  book_chapters:
+    output: true
+    permalink: /book/:title/
+  book_excerpts:
+    output: true
+    permalink: /book/:path/
   book:
     output: true
     permalink: /book/:title/
