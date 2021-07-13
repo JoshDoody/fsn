@@ -7,6 +7,7 @@ headshot: aaron_batilo.jpg
 short_version: 
 product: Fearless Salary Negotiation
 result_summary: $30,000 additional salary
+case_study_url: 
 ---
 
 **I used the _Fearless Salary Negotiation_ strategy for negotiating an offer and went from $95,000 with a title of Software Engineer 1 to $105,000 with a title of Software Engineer 2\. Now I can pay off my student loans and buy a house more quickly.**
