@@ -6,8 +6,8 @@ industry:
 headshot: 
 short_version: >
  I felt super confident having a better framework for understanding the whole negotiation process. **It was such a relief to have insight into how each step of the process would go, instead of blindly falling through it.**
-
-Josh helped me counter more aggressively than I would have while still being polite and reasonable. As a result, **I was able to negotiate $10,000 more in salary and 20% more equity** than I would have gotten otherwise.
+ 
+ Josh helped me counter more aggressively than I would have while still being polite and reasonable. As a result, **I was able to negotiate $10,000 more in salary and 20% more equity** than I would have gotten otherwise.
 product: Salary Negotiation Coaching
 result_summary: $10,000 more in salary and 20% more equity
 case_study_url: 

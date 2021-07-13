@@ -6,8 +6,8 @@ industry:
 headshot: 
 short_version: >
  "**Other salary negotiation material tells you to be aggressive but doesn’t give you tactical ideas to simplify the process.** The Salary Negotiation Crash Course clearly spelled out calculating the aggression factor in a way that was easy to act on. The standard counter template was a godsend.
-
-I closed the offer in a quick call the day after I made my counter. **I got a 25x return on my investment of $97 – thanks Josh!**"
+ 
+ I closed the offer in a quick call the day after I made my counter. **I got a 25x return on my investment of $97 – thanks Josh!**"
 product: Salary Negotiation Crash Course
 result_summary: A successful negotiation on a job offer.
 case_study_url: 

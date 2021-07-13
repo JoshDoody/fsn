@@ -1,5 +1,5 @@
 ---
-name: [Tim Eccleston](https://www.linkedin.com/in/timothyperishoeccleston/)
+name: "[Tim Eccleston](https://www.linkedin.com/in/timothyperishoeccleston/)"
 job_title: 
 company: 
 industry: 

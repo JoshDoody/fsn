@@ -6,10 +6,10 @@ industry:
 headshot: 
 short_version: >
  "**Negotiating with Alphabet to get an additional $160k in annual compensation**
-
-It's like professional sports — if you don't have film on your opponent and you go into a game without any scouting report, you're in big trouble. **Josh has 'the film' on Alphabet and other tech companies. He knows who you're dealing with and that's a huge advantage.**
-
-Bringing on Josh made a huge difference for me — no way I would have ended up with that number without his help. **Whether you're a mid-level engineer or an executive — to me it's a no brainer to work with Josh.**"
+ 
+ It's like professional sports — if you don't have film on your opponent and you go into a game without any scouting report, you're in big trouble. **Josh has 'the film' on Alphabet and other tech companies. He knows who you're dealing with and that's a huge advantage.**
+ 
+ Bringing on Josh made a huge difference for me — no way I would have ended up with that number without his help. **Whether you're a mid-level engineer or an executive — to me it's a no brainer to work with Josh.**"
 product: Salary Negotiation Coaching
 result_summary: Negotiated additional $160k in annual compensation.
 case_study_url: 

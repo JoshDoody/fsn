@@ -1,5 +1,5 @@
 ---
-name: Paige
+name: Patrick McKenzie
 job_title: 
 company: 
 industry: 
