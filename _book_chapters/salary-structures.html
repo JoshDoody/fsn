@@ -1,0 +1,21 @@
+---
+layout: book_page
+title: Chapter 1. How companies manage their salary structures
+tagline: Learn more about job-related terminology 
+excerpt: A short overview of common job-related terminology you should know to get paid what you're worth.
+context: raise
+last_modified_at: 2016-06-24
+share_title: Learn more about job-related terminology 
+chapter_number: 1
+chapter: salary-structures
+section: 4
+---
+{% assign excerpt_list = site.book_excerpts | where:"chapter", "salary-structures" %}
+{% assign excerpt_list = excerpt_list | sort:"section" %}
+			
+{% for book_excerpt in excerpt_list %}
+<h2 class="excerpt-header">{{ book_excerpt.title }}</h2>
+<div class="oc-excerpt">
+  <p>{% if book_excerpt.description %}{{ book_excerpt.description }}{% else %}{{ book_excerpt.excerpt }}{% endif %} <a href="{{ book_excerpt.url | prepend: site.baseurl }}">Read more</a></p>
+</div>
+{% endfor %}

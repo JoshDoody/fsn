@@ -1,0 +1,21 @@
+---
+layout: book_page
+title: Chapter 3. How to ace your next interview
+tagline: Learn more about job interviews
+excerpt: Key concepts to help you ace your next job interview.
+share_title: Learn more about job interviews
+context: interview
+last_modified_at: 2016-06-24
+chapter_number: 3
+chapter: interview
+section: 7
+---
+{% assign excerpt_list = site.book_excerpts | where:"chapter", "interview" %}
+{% assign excerpt_list = excerpt_list | sort:"section" %}
+			
+{% for book_excerpt in excerpt_list %}
+<h2 class="excerpt-header">{{ book_excerpt.title }}</h2>
+<div class="oc-excerpt">
+  <p>{% if book_excerpt.description %}{{ book_excerpt.description }}{% else %}{{ book_excerpt.excerpt }}{% endif %} <a href="{{ book_excerpt.url | prepend: site.baseurl }}">Read more</a></p>
+</div>
+{% endfor %}

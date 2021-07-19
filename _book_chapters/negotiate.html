@@ -1,0 +1,21 @@
+---
+layout: book_page
+title: Chapter 4. How to negotiate your new salary
+tagline: Learn more about negotiating starting salary
+excerpt: Key concepts to help you negotiate your starting salary.
+share_title: Learn more about negotiating starting salary
+context: negotiate
+last_modified_at: 2016-06-24
+chapter_number: 4
+chapter: negotiate
+section: 8
+---
+{% assign excerpt_list = site.book_excerpts | where:"chapter", "negotiate" %}
+{% assign excerpt_list = excerpt_list | sort:"section" %}
+			
+{% for book_excerpt in excerpt_list %}
+<h2 class="excerpt-header">{{ book_excerpt.title }}</h2>
+<div class="oc-excerpt">
+	<p>{% if book_excerpt.description %}{{ book_excerpt.description }}{% else %}{{ book_excerpt.excerpt }}{% endif %} <a href="{{ book_excerpt.url | prepend: site.baseurl }}">Read more</a></p>
+</div>
+{% endfor %}
