@@ -1,64 +1,109 @@
 <div class="book-pag mt-20">
 
-  {% for c in site.book %}
-    {% if c.title == page.title %}
-      {% assign thisPost = c %}
-      {% if forloop.index == 1 %}
-        {% assign prevflag = 0 %}
-        {% assign nextflag = 1 %}
-      {% elsif forloop.index == forloop.length %}
-        {% assign prevflag = 1 %}
-        {% assign nextflag = 0 %}
-      {% else %}
-        {% assign prevflag = 1 %}
-        {% assign nextflag = 1 %}
-      {% endif %}
-    {% endif %}
-  {% endfor %}
+  {% if page.collection == 'book_excerpts' %}
+    {% assign this_chapter = site.book_chapters | where:"chapter", page.chapter | first %}
+    {% assign excerpts_from_this_book_section = site.book_excerpts | where:"book_section", page.book_section | sort:"section" %}
 
-  {% for c in site.book %}
-    {% if c.title == page.title %}
-      {% assign prevflag = 0 %}
-    {% endif %}
-    {% if prevflag == 1 %}
-      {% assign prevPost = c %}
-      {% assign page.previous = c %}
-    {% endif %}
-  {% endfor %}
+    {% assign next_book_section_index = page.book_section | plus: 1 %}
+    {% assign previous_book_section_index = page.book_section | minus: 1 %}
+    {% assign next_section_index = page.section | plus: 1 %}
+    {% assign previous_section_index = page.section | minus: 1 %}
 
-  {% if nextflag == 1 %}
-    {% for c in site.book %}
-      {% if foundPost == 1 %}
-        {% assign getNext = 1 %}
-      {% endif %}
-      {% if c.title == page.title %}
-        {% assign foundPost = 1 %}
-      {% endif %}
-      {% if getNext == 1%}
-        {% assign nextPost = c %}
-        {% assign page.next = c %}
-        {% assign foundPost = 0 %}
-        {% assign getNext = 0 %}
-      {% endif %}
-    {% endfor %}
+    {% if page.book_section == 0 and page.section == excerpts_from_this_book_section.first.section %}
+      {% assign previous_excerpt == nil %}
+    {% elsif page.section == 0 %}
+      {% assign excerpts_from_previous_book_section = site.book_excerpts | where:"book_section", previous_book_section_index | sort:"section" %}
+      {% assign previous_excerpt = excerpts_from_previous_book_section.last %}
+    {% else %}
+      {% assign previous_excerpt = excerpts_from_this_book_section[previous_section_index] %}
+    {% endif %}
+
+    {% if page.book_section == 12 and page.section == excerpts_from_this_book_section.last.section %}
+      {% assign next_excerpt == nil %}
+    {% elsif page.section == excerpts_from_this_book_section.last.section %}
+      {% assign excerpts_from_next_book_section = site.book_excerpts | where:"book_section", next_book_section_index | sort:"section" %}
+      {% assign next_excerpt = excerpts_from_next_book_section.first %}
+    {% else %}
+      {% assign next_excerpt = excerpts_from_this_book_section[next_section_index] %}
+    {% endif %}
+
+    <div class="book-nav flex grid grid-cols-2 gap-20 pt-8{% if previous_excerpt.url and next_excerpt.url %} add-border{% endif %}">
+
+      <div class="book-prev text-right">
+        {% if previous_excerpt == nil %}
+          <a class="text-base uppercase sans-serif font-black" rel="prev" href="/book/introduction/"><i class="fas fa-angle-double-left"></i> Prev</a>
+          <h5 class="uppercase mt-8 sans-serif text-xl">Book Home</h5>
+        {% else %}
+          <a class="text-base uppercase sans-serif font-black" rel="prev" href="{{ previous_excerpt.url }}"><i class="fas fa-angle-double-left"></i> Prev</a>
+          <h5 class="uppercase mt-8 sans-serif text-xl">{{ previous_excerpt.title }}</h5>
+        {% endif %}
+      </div>
+
+      <div class="book-next">
+        {% if next_excerpt == nil %}
+          <a class="text-base uppercase sans-serif font-black" rel="next" href="/book/introduction/">Next <i class="fas fa-angle-double-right"></i></a>
+          <h5 class="uppercase mt-8 sans-serif text-xl">Book Home</h5>
+        {% else %}
+          <a class="text-base uppercase sans-serif font-black" rel="next" href="{{ next_excerpt.url }}">Next <i class="fas fa-angle-double-right"></i></a>
+          <h5 class="uppercase mt-8 sans-serif text-xl">{{ next_excerpt.title }}</h5>
+        {% endif %}
+      </div>
+
+    </div><!-- /book-nav -->
+
+  {% elsif page.collection == 'book_chapters' %}
+
+    {% assign chapter_list = site.book_chapters %}
+    {% assign chapter_list = chapter_list | sort:"chapter_number" %}
+    {% assign next_chapter_index = page.chapter_number %}
+    {% assign previous_chapter_index = page.chapter_number | minus: 2 %}
+
+    {% if page == chapter_list.first %}
+      {% assign previous_chapter = nil %}
+    {% else %}
+      {% assign previous_chapter = chapter_list[previous_chapter_index] %}
+    {% endif %}
+
+    {% if page == chapter_list.last %}
+      {% assign next_chapter = nil %}
+    {% else %}
+      {% assign next_chapter = chapter_list[next_chapter_index] %}
+    {% endif %}
+
+    <div class="book-nav flex grid grid-cols-2 gap-20 pt-8{% if previous_chapter.url and next_chapter.url %} add-border{% endif %}">
+
+      <div class="book-prev text-right">
+        {% if previous_chapter == nil %}
+          <a class="text-base uppercase sans-serif font-black" rel="prev" href="/book/introduction/"><i class="fas fa-angle-double-left"></i> Prev</a>
+          <h5 class="uppercase mt-8 sans-serif text-xl">Book Home</h5>
+        {% else %}
+          <a class="text-base uppercase sans-serif font-black" rel="prev" href="{{ previous_chapter.url }}"><i class="fas fa-angle-double-left"></i> Prev</a>
+          <h5 class="uppercase mt-8 sans-serif text-xl">{{ previous_chapter.title }}</h5>
+        {% endif %}
+      </div>
+
+      <div class="book-next">
+        {% if next_chapter == nil %}
+          <a class="text-base uppercase sans-serif font-black" rel="next" href="/book/introduction/">Next <i class="fas fa-angle-double-right"></i></a>
+          <h5 class="uppercase mt-8 sans-serif text-xl">Book Home</h5>
+        {% else %}
+          <a class="text-base uppercase sans-serif font-black" rel="next" href="{{ next_chapter.url }}">Next <i class="fas fa-angle-double-right"></i></a>
+          <h5 class="uppercase mt-8 sans-serif text-xl">{{ next_chapter.title }}</h5>
+        {% endif %}
+      </div>
+
+    </div><!-- /book-nav -->
+
   {% endif %}
 
-  <div class="book-nav flex grid grid-cols-2 gap-12 pt-8{% if nextPost.url and prevPost.url %} add-border{% endif %}">
-
-    <div class="book-prev text-right">
-      {% if prevPost.url %}
-        <a class="text-base uppercase sans-serif font-black" rel="prev" href="{{ prevPost.url }}"><i class="fas fa-angle-double-left"></i> Prev</a>
-        <h5 class="uppercase mt-8 sans-serif text-xl">{{ prevPost.title }}</h5>
-      {% endif %}
-    </div>
-
-    <div class="book-next">
-      {% if nextPost.url %}
-        <a class="text-base uppercase sans-serif font-black" rel="next" href="{{ nextPost.url }}">Next <i class="fas fa-angle-double-right"></i></a>
-        <h5 class="uppercase mt-8 sans-serif text-xl">{{ nextPost.title }}</h5>
-      {% endif %}
-    </div>
-
-  </div><!-- /book-nav -->
+  <div class="book-excerpt-footer">
+    <p>
+      <strong class="uppercase">You are here</strong> <a href="/book/introduction/">Book</a> &gt;
+      {% unless page.chapter == nil %}
+        <a href="/book/{{ page.chapter }}">Chapter {{ this_chapter.chapter_number }}</a> &gt;
+      {% endunless %}
+      <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+    </p>
+  </div>
 
 </div><!-- /book-pag -->
