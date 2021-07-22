@@ -86,8 +86,9 @@ $(document).ready(function() {
 
   // Book sidebar table of contents toggle
   $(".toc-title").click(function() {
-    $(this).next(".toc-chapter").slideToggle();
-    $(this).toggleClass("active");
+    $(this).next().siblings().removeClass("active");
+    $(this).addClass("active");
+    $(this).next(".toc-chapter").slideToggle().siblings(".toc-chapter").slideUp();
   });
 
   // Blog category filtering
@@ -151,7 +152,5 @@ $(document).ready(function() {
     $btns.removeClass("btn-active");
     $(this).addClass("btn-active");
   });
-
-  // "Lazy load"
 
 });
