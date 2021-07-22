@@ -366,6 +366,7 @@
     .slick-dots {
       position: absolute;
       bottom: -44px;
+      left: 0;
       text-align: left;
       li {
         width: 44px;
@@ -707,7 +708,7 @@
         weight: 900;
       }
       color: $brand-secondary;
-      content: "\f068";
+      content: "\f067";
       position: absolute;
       right: 0;
       top: 0;
@@ -719,7 +720,7 @@
     }
     &.active {
       &:after {
-        content: "\f067";
+        content: "\f068";
       }
     }
   }
@@ -798,9 +799,36 @@
     text-decoration: none;
     padding: .5em .75em .75em;
     border: 2px solid $brand-secondary;
+    .fas {
+      &:before {
+        color: $brand-black;
+      }
+    }
     &:hover {
       background-color: $brand-secondary;
       text-decoration: none;
+      .fas {
+        &:before {
+          color: $brand-black;
+        }
+      }
+    }
+  }
+}
+
+.book-excerpt-footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid $brand-black;
+  p {
+    color: $brand-black;
+    font-family: $font-serif;
+    text-align: center;
+    a {
+      color: $brand-black;
+      &:hover {
+        text-decoration: underline;
+      }
     }
   }
 }
