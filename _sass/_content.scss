@@ -33,11 +33,12 @@
 
 // Card Carousel/Toc Carousel
 .card-carousel .slick-slide,
+.card-carousel-2 .slick-slide,
+.card-carousel-3 .slick-slide,
 .toc-carousel .slick-slide {
   padding-right: 2em;
 }
 
-.card-carousel .slick-dots,
 .toc-carousel .slick-dots {
   bottom: 0;
   top: -4em;
@@ -45,8 +46,6 @@
   text-align: right;
 }
 
-.card-carousel .slick-prev,
-.card-carousel .slick-next,
 .toc-carousel .slick-prev,
 .toc-carousel .slick-next {
   top: -46px;
@@ -59,14 +58,12 @@
   }
 }
 
-.card-carousel .slick-prev,
 .toc-carousel .slick-prev {
   &:before {
     content: "\f060";
   }
 }
 
-.card-carousel .slick-next,
 .toc-carousel .slick-next {
   right: 27px;
   &:before {
@@ -74,7 +71,6 @@
   }
 }
 
-.card-carousel,
 .toc-carousel {
   .slick-prev {
     right: 200px;
@@ -88,6 +84,83 @@
 .success-stories {
   .card-carousel.slick-slider {
     margin-bottom: 6.25rem;
+  }
+}
+
+.card-control,
+.card-control-2,
+.card-control-3,
+.toc-control {
+  margin-top: .6rem;
+  .card-next,
+  .card-prev,
+  .card-next-2,
+  .card-prev-2,
+  .card-next-3,
+  .card-prev-3,
+  .toc-next,
+  .toc-prev {
+    margin-bottom: 4px;
+  }
+  .card-next,
+  .card-next-2,
+  .card-next-3,
+  .toc-next {
+    margin-left: 7px;
+  }
+  .card-prev,
+  .card-prev-2,
+  .card-prev-3,
+  .toc-prev {
+    margin-right: 5px;
+  }
+  .card-dots,
+  .card-dots-2,
+  .card-dots-3,
+  .toc-dots {
+    .slick-dots {
+      position: relative;
+      bottom: 3px;
+      li {
+        button {
+          &:before {
+            color: $brand-white;
+            font-size: 16px;
+            opacity: 1;
+            position: relative;
+            z-index: 1;
+          }
+          &:after {
+            content: ' ';
+            color: $brand-secondary;
+            font: {
+              family: 'slick';
+              size: 8px;
+            }
+            width: 20px;
+            height: 20px;
+            position: absolute;
+            top: 15px;
+            left: 3px;
+            z-index: 2;
+          }
+        }
+        &.slick-active {
+          button {
+            &:after {
+              content: '•';
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.toc-control {
+  margin: {
+    top: 0;
+    bottom: 1rem;
   }
 }
 
@@ -403,7 +476,7 @@
 
 .success-light {
   background-color: $brand-white;
-  .suc-quotes, .suc-indi-quotes {
+  .suc-quotes, .suc-quotes-2, .suc-indi-quotes {
     p, p.title, li {
       color: $brand-gray;
     }
@@ -422,7 +495,7 @@
   }
 }
 
-.suc-quotes, .suc-indi-quotes {
+.suc-quotes, .suc-quotes-2, .suc-indi-quotes {
   padding: 6.75em 4em 2.75em 4.25em;
   @media (max-width: 660px) {
     padding-bottom: 6em;
@@ -476,7 +549,9 @@
 }
 
 .suc-prev,
-.suc-next {
+.suc-next,
+.suc-prev-2,
+.suc-next-2 {
   border: 2px solid $brand-secondary;
   opacity: .25;
   .fas {
@@ -489,11 +564,12 @@
   }
 }
 
-.suc-next {
+.suc-next,
+.suc-next-2 {
   margin-left: 0.75em;
 }
 
-.suc-dots, .suc-indi-dots {
+.suc-dots, .suc-dots-2, .suc-indi-dots {
   .slick-dots {
     position: absolute;
     bottom: -44px;
