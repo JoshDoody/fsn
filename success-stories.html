@@ -10,7 +10,19 @@ bodyClass: success-stories
 
 <div class="container mx-auto py-20">
 
-  <h2 class="text-3xl mb-8 uppercase sans-serif">Case Studies</h2>
+  <div class="md:flex justify-between mb-8">
+    <div>
+      <h2 class="text-3xl uppercase sans-serif">Case Studies</h2>
+    </div>
+    <div>
+      <div class="flex card-control justify-end">
+        <button type="button" class="card-prev"><i class="fas fa-arrow-left"></i></button>
+        <div class="card-dots"></div>
+        <button type="button" class="card-next"><i class="fas fa-arrow-right"></i></button>
+      </div>
+    </div>
+  </div>
+
   <div class="grid sm:grid-cols-1 lg:grid-cols-3 card-carousel">
     <div class="bg-white flex flex-col">
       <div class="p-8 pb-0 flex-grow flex-1">
