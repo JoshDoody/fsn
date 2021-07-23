@@ -5,12 +5,36 @@ $(document).ready(function() {
       $(this).find(".sub-nav-wrap").toggle();
   });
 
-  // Card carousel
+  // Card carousels
+  // Additional increments below when multiple carousels are on the same page
   $(".card-carousel").slick({
     infinite: true,
     slidesToShow: 3,
     slidesToScroll: 1,
-    dots: true
+    dots: true,
+    appendDots: $(".card-dots"),
+    prevArrow: $(".card-prev"),
+    nextArrow: $(".card-next")
+  });
+
+  $(".card-carousel-2").slick({
+    infinite: true,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    dots: true,
+    appendDots: $(".card-dots-2"),
+    prevArrow: $(".card-prev-2"),
+    nextArrow: $(".card-next-2")
+  });
+
+  $(".card-carousel-3").slick({
+    infinite: true,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    dots: true,
+    appendDots: $(".card-dots-3"),
+    prevArrow: $(".card-prev-3"),
+    nextArrow: $(".card-next-3")
   });
 
   // Book toc carousel
@@ -18,7 +42,10 @@ $(document).ready(function() {
     infinite: true,
     slidesToShow: 4,
     slidesToScroll: 1,
-    dots: true
+    dots: true,
+    appendDots: $(".toc-dots"),
+    prevArrow: $(".toc-prev"),
+    nextArrow: $(".toc-next")
   });
 
   // Blog post slider
@@ -33,6 +60,7 @@ $(document).ready(function() {
   });
 
   // Success slider
+  // Additional increments below when multiple carousels are on the same page
   $(".suc-quotes").slick({
     dots: true,
     arrows: true,
@@ -41,6 +69,16 @@ $(document).ready(function() {
     appendDots: $(".suc-dots"),
     prevArrow: $(".suc-prev"),
     nextArrow: $(".suc-next")
+  });
+
+  $(".suc-quotes-2").slick({
+    dots: true,
+    arrows: true,
+    infinite: true,
+    adaptiveHeight: true,
+    appendDots: $(".suc-dots-2"),
+    prevArrow: $(".suc-prev-2"),
+    nextArrow: $(".suc-next-2")
   });
 
   // Accordion
