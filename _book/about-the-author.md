@@ -1,7 +1,7 @@
 ---
 layout: book_page
 title: About Josh Doody
-subTitle: author of Fearless Salary Negotiation
+subhead:: author of Fearless Salary Negotiation
 description:
 ---
 

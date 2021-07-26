@@ -1,7 +1,7 @@
 ---
 layout: book_page
 title: The pre-interview phase
-tagline: How to make the most of this brief opportunity
+subhead: How to make the most of this brief opportunity
 excerpt: Here's how to make the most of the pre-interview phase before you dive into the interview process.
 context: interview
 last_modified_at: 2016-06-25

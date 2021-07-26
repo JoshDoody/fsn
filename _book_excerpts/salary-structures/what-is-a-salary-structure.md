@@ -1,7 +1,7 @@
 ---
 layout: book_page
 title: What is a salary structure?
-tagline: A look at all the components that make up a salary structure
+subhead: A look at all the components that make up a salary structure
 excerpt: A company's salary structure is made up of basic building blocks and determines how much you can be paid at your job.
 context: raise
 last_modified_at: 2016-06-25

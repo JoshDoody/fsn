@@ -1,7 +1,7 @@
 ---
 layout: book_page
 title: “Will I get a raise with my promotion?”
-tagline: Most promotions come with a standard raise
+subhead: Most promotions come with a standard raise
 excerpt: If you just want a title change, then a raise might be the icing on top. But if you want a big raise with your promotion, you may need to specifically pursue it.
 context: promotion
 last_modified_at: 2016-06-23

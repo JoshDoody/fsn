@@ -1,7 +1,7 @@
 ---
 layout: book_page
 title: Why are you the best candidate for this position?
-tagline: How to describe why you're a valuable candidate for the position
+subhead: How to describe why you're a valuable candidate for the position
 excerpt: How to describe why you're a valuable candidate for the position by addressing the company's specific goals and needs.
 context: negotiate
 last_modified_at: 2016-06-21

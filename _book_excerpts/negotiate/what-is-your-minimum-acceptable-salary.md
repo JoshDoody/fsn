@@ -1,7 +1,7 @@
 ---
 layout: book_page
 title: Minimum acceptable salary
-tagline: You should set this number before you get your job offer
+subhead: You should set this number before you get your job offer
 excerpt: When you negotiate starting salary, it's critical to decide your minimum acceptable salary before you receive a job offer.
 has_basic_bundle_pitch: true
 context: negotiate

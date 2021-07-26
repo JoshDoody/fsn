@@ -1,7 +1,7 @@
 ---
 layout: book_page
 title: 'Part 3: Do you have to quit your job to get a big raise?'
-tagline: How to know when you should ask for a raise
+subhead: How to know when you should ask for a raise
 excerpt: Timing your request correctly is extremely important. Here are some things to help determine when you should ask for a raise.
 context: raise
 author: josh

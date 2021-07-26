@@ -1,7 +1,7 @@
 ---
 layout: book_page
 title: An example showing how to deliver your counter offer in an email
-tagline: A counter offer email example with detailed explanation
+subhead: A counter offer email example with detailed explanation
 excerpt: It's best to deliver your counter offer in an email. Here is a counter offer email example with detailed explanation.
 has_basic_bundle_pitch: true
 context: negotiate
