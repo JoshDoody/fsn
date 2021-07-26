@@ -2,7 +2,7 @@
 layout: book_page
 title: How do you know your pay grade?
 subhead: Some ways you can learn what your pay grade looks like
-excerpt: Knowing your pay grade details will help you get paid what you're worth.
+description: Knowing your pay grade details will help you get paid what you're worth.
 context: raise
 last_modified_at: 2016-06-25
 book_section: 4

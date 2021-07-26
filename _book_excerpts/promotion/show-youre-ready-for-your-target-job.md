@@ -2,7 +2,7 @@
 layout: book_page
 title: Produce results to show you’re ready for your target job
 subhead: It's much easier to get promoted if you're already doing your target job
-excerpt: If you focus on doing your target job, then you're much more likely to be promoted than if you just focus on your current job.
+description: If you focus on doing your target job, then you're much more likely to be promoted than if you just focus on your current job.
 has_basic_bundle_pitch: true
 context: promotion
 last_modified_at: 2016-06-29

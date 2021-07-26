@@ -2,7 +2,7 @@
 layout: resource_page
 title: This is resource five
 description: Description of resource four with some longer test
-excerpt: Architecto unde obcaecati fugiat dolorem. Nemo ab ullam corporis!
+description: Architecto unde obcaecati fugiat dolorem. Nemo ab ullam corporis!
 category: Category Test
 heroResource:
 featuredResource:

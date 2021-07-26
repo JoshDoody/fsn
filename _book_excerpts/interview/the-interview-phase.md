@@ -2,7 +2,7 @@
 layout: book_page
 title: The interview
 subhead: How to make a good impression and start your job interview off on the right foot
-excerpt: Here are a few easy things you can do to ensure that your job interviews start off on the right foot.
+description: Here are a few easy things you can do to ensure that your job interviews start off on the right foot.
 context: interview
 last_modified_at: 2016-06-25
 book_section: 7

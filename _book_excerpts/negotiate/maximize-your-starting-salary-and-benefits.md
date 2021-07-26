@@ -2,7 +2,7 @@
 layout: book_page
 title: How to maximize your starting salary and other benefits in the Final Discussion
 subhead: Make the most of this opportunity to maximize your starting salary and other benefits
-excerpt: How to follow your script to maximize your starting salary and other benefits at a new job.
+description: How to follow your script to maximize your starting salary and other benefits at a new job.
 context: negotiate
 last_modified_at: 2016-06-21
 book_section: 8

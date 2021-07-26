@@ -2,7 +2,7 @@
 layout: book_page
 title: 'Part 3: Do you have to quit your job to get a big raise?'
 subhead: How to know when you should ask for a raise
-excerpt: Timing your request correctly is extremely important. Here are some things to help determine when you should ask for a raise.
+description: Timing your request correctly is extremely important. Here are some things to help determine when you should ask for a raise.
 context: raise
 author: josh
 last_modified_at: 2016-06-28

@@ -3,7 +3,7 @@ layout: posts
 title: Five salary negotiation tips everyone can use to negotiate starting salary
 headline: Earn more money with these five salary negotiation tips
 subhead: Salary negotiation tips to maximize your starting salary at a new job
-excerpt: Five salary negotiation tips that everyone can use to negotiate starting salary
+description: Five salary negotiation tips that everyone can use to negotiate starting salary
 categories:
   - negotiate
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Salary negotiation for software developers, engineers, and designers
-excerpt: A Salary Negotiation Workshop for software engineers and designers, given for the Orlando Devs Meetup and The Iron Yard Orlando campus.
+description: A Salary Negotiation Workshop for software engineers and designers, given for the Orlando Devs Meetup and The Iron Yard Orlando campus.
 categories:
   - raise
   - negotiate

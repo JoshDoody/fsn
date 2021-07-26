@@ -3,7 +3,7 @@ layout: posts
 title: Negotiating benefits like paid vacation or a signing bonus
 headline: “When can I ask for more paid vacation?”
 subhead: How to prioritize and negotiate non-salary benefits
-excerpt: Here's when and how to negotiate for non-salary benefits like vacation, equity, signing bonus and more.
+description: Here's when and how to negotiate for non-salary benefits like vacation, equity, signing bonus and more.
 categories:
   - negotiate
 tags:

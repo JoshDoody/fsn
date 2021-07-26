@@ -2,7 +2,7 @@
 layout: book_page
 title: Prepare to ask for a raise using this email template
 subhead: Send your raise request after you talk to your manager
-excerpt: This is your chance to make your case in writing so your manager can circulate it in your own words. You'll make your case better than anyone else will.
+description: This is your chance to make your case in writing so your manager can circulate it in your own words. You'll make your case better than anyone else will.
 context: raise
 last_modified_at: 2016-06-29
 book_section: 12

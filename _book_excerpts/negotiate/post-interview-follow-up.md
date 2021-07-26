@@ -2,7 +2,7 @@
 layout: book_page
 title: How to handle the post-interview follow-up call
 subhead: One last chance to avoid a starting salary negotiation pitfall while making your case
-excerpt: How to get the initial job offer without disclosing your desired salary and making your case that you're the best candidate for the postition.
+description: How to get the initial job offer without disclosing your desired salary and making your case that you're the best candidate for the postition.
 context: negotiate
 last_modified_at: 2016-06-25
 book_section: 8

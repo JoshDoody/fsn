@@ -2,7 +2,7 @@
 layout: book_page
 title: Minimum acceptable salary
 subhead: You should set this number before you get your job offer
-excerpt: When you negotiate starting salary, it's critical to decide your minimum acceptable salary before you receive a job offer.
+description: When you negotiate starting salary, it's critical to decide your minimum acceptable salary before you receive a job offer.
 has_basic_bundle_pitch: true
 context: negotiate
 last_modified_at: 2016-06-29

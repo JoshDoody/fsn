@@ -2,7 +2,7 @@
 layout: book_page
 title: “What should my salary be?”
 subhead: How to use available data to estimate the market value of your skillset and experience
-excerpt: Here's how to estimate the market value of your skillset and experience using industry-wide, regional, and company-specific data.
+description: Here's how to estimate the market value of your skillset and experience using industry-wide, regional, and company-specific data.
 context: raise
 last_modified_at: 2016-06-25
 book_section: 5

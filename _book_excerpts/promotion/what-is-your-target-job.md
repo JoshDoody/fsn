@@ -2,7 +2,7 @@
 layout: book_page
 title: What is your target job?
 subhead: Defining your goal for your next job promotion
-excerpt: Your first step to getting promoted is to set your target job. What specific job do you want to do next?
+description: Your first step to getting promoted is to set your target job. What specific job do you want to do next?
 context: promotion
 last_modified_at: 2016-06-23
 book_section: 11

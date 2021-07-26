@@ -2,7 +2,7 @@
 layout: book_page
 title: How to get promoted at work
 subhead: An overview of the promotion process
-excerpt: Here's a simple process to get promoted at work. You'll define your target job, show you're ready, then request your promotion from your manager.
+description: Here's a simple process to get promoted at work. You'll define your target job, show you're ready, then request your promotion from your manager.
 has_basic_bundle_pitch: true
 context: promotion
 last_modified_at: 2016-06-29

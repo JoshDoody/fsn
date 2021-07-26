@@ -2,7 +2,7 @@
 layout: book_page
 title: How I almost made a huge mistake in an exit interview
 subhead: Don't use your exit interview as a chance to blow off steam
-excerpt: How I avoided making a huge mistake in my exit interview.
+description: How I avoided making a huge mistake in my exit interview.
 context: raise
 last_modified_at: 2016-12-31
 book_section: 9

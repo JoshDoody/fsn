@@ -3,7 +3,7 @@ layout: posts
 title: How to ask for a promotion at work
 headline: Get promoted by thinking like a manager
 subhead: A proven two-step process to get your next promotion
-excerpt: A proven two-step process to get promoted at work by thinking like a manager.
+description: A proven two-step process to get promoted at work by thinking like a manager.
 categories:
   - promotion
 tags:

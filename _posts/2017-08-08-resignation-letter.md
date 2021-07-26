@@ -3,7 +3,7 @@ layout: posts
 title: Resignation letter templates - free, simple example emails
 headline: Simple resignation letter templates to give notice and say goodbye on your last day at work
 subhead: Simple letter of resignation and last day at work email templates
-excerpt: Use these free, simple resignation letter templates to email your boss and colleagues to give notice and say goodbye on your last day at work.
+description: Use these free, simple resignation letter templates to email your boss and colleagues to give notice and say goodbye on your last day at work.
 categories:
   - negotiate
 tags:
