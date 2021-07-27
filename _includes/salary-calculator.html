@@ -1,0 +1,66 @@
+<div class="script-form">
+  <div class="container--grid">
+    <div class="script-fields__left">
+      <p><strong>What's the base salary component of your offer?</strong> We'll focus on base salary first because that's the gift that keeps on giving year after year!</p>
+    </div>
+    <div class="script-fields__right">
+      <p class="dollar"><input id="offer_amount" type="text" value="50,000"></p>
+    </div>
+
+  </div>
+
+  <div class="container--grid">
+    <div class="script-fields__left">
+      <p><strong>How badly do they need you to accept the job offer? (0–10)</strong> What's your sense of how badly they specifically need you to fill this particular position?</p>
+    </div>
+    <div class="script-fields__right">
+      <p><input id="they_need_you" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="8"/></p>
+    </div>
+  </div>
+
+  <div class="container--grid">
+    <div class="script-fields__left">
+      <p><strong>How badly do you need the job? (0–10)</strong> How desperate are you to get the job?</p>
+    </div>
+    <div class="script-fields__right">
+      <p><input id="you_need_them" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="6"/></p>
+    </div>
+  </div>
+
+  <div class="container--grid">
+    <div class="script-fields__left">
+      <p><strong>What's your minimum acceptable salary?</strong> What's the absolute minimum base salary you must get to accept this job? <a href="https://youtu.be/effQltGYtF8" target="_blank">Tell me more...</a></p>
+    </div>
+    <div class="script-fields__right">
+      <p class="dollar"><input id="minimum_acceptable" type="text" value="52,000"></p>
+    </div>
+  </div>
+
+  <div class="container--grid">
+    <div class="script-fields__left">
+      <p><strong>(Optional) What non-salary benefits do you prefer once your base salary is maximized?</strong> List up to three benefits—most important is first.</p>
+    </div>
+    <div class="script-fields__right extra-benefits">
+      <ol>
+        <li><input id="benefit_1" type="text" value="Extra week of vacation"></li>
+        <li><input id="benefit_2" type="text" value="Signing bonus"></li>
+        <li><input id="benefit_3" type="text" value="Work from home"></li>
+      </ol>
+    </div>
+  </div>
+
+  <div class="container--grid" style="align-items:center;justify-content:center;margin-top:3rem;">
+    <button id="generate_script" class="guide-btn btn-primary">
+      <span class="package__button-text"><i class="fa fa-calculator"></i> <strong>Calculate my counter offer!</strong></span>
+    </button>
+  </div>
+
+  <!-- When they click the giant button, this div is un-hidden so that everything below slides down the page to reveal the counter offer and form for requesting a custom salary negotiation script -->
+
+  <div id="counteroffer-section" style="display: none;">
+    <div class="container--normal">
+      <h5 class="section-heading text-center">Here's your counter offer!</h5>
+      <p class="text-center"><span class="counteroffer counteroffer-number">$56,000</span></p>
+    </div>
+  </div>
+</div>
