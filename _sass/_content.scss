@@ -298,6 +298,9 @@
         size: 1.25em;
       }
       margin-bottom: .75em;
+      &:last-of-type {
+        margin-bottom: 0;
+      }
     }
     sub {
       font: {
