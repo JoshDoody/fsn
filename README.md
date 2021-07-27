@@ -1,22 +1,3 @@
-# Site notes
-
-## Fix
-- Update 1-on-1 help section (image/layout)
-- lazy load on blog post
-- bring over salary calculator
-- need adobe fonts setup by Josh
-  - pre-launch fix where we will swap out script in real-time
-
-
-## Completed
-- ~~primary navigation/drop down~~
-- ~~Josh to provide Wufoo form creds~~
-- ~~use https://github.com/kenwheeler/slick for carousels/sliders~~
-- ~~implemented SASS~~
-- ~~need font awesome icons set up by Josh~~
-- ~~abandon base, used started tailwind install with everything I need below~~
-- ~~add CSS color variables~~
-
 # Jekyll Starter Tailwind
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 
