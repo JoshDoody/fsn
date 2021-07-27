@@ -2,7 +2,7 @@
 layout: posts
 title: How to Write a Kick-Ass Resume
 headline: How to write a compelling resume
-excerpt: How to write a compelling resume or CV that will get you more job interviews
+description: How to write a compelling resume or CV that will get you more job interviews
 categories:
   - interview
 tags:

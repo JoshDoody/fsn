@@ -1,8 +1,8 @@
 ---
 layout: book_page
 title: How to determine your counteroffer when negotiating starting salary
-tagline: How to determine the right counteroffer for your specific situation
-excerpt: A step-by-step method to determine the right counteroffer for your specific situation.
+subhead: How to determine the right counteroffer for your specific situation
+description: A step-by-step method to determine the right counteroffer for your specific situation.
 context: negotiate
 last_modified_at: 2016-06-25
 book_section: 8

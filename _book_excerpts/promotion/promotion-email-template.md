@@ -1,8 +1,8 @@
 ---
 layout: book_page
 title: Use this promotion email template to draft your request
-tagline: Send your promotion request after you talk to your manager
-excerpt: This is your chance to make your case in writing so your manager can ciruclate it in your own words. You'll make your case better than anyone else will.
+subhead: Send your promotion request after you talk to your manager
+description: This is your chance to make your case in writing so your manager can ciruclate it in your own words. You'll make your case better than anyone else will.
 has_basic_bundle_pitch: true
 context: promotion
 last_modified_at: 2019-01-01

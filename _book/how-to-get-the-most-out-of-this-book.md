@@ -1,7 +1,7 @@
 ---
 layout: book_page
 title: How to get the most out of Fearless Salary Negotiation
-subTitle:
+subhead::
 description:
 ---
 

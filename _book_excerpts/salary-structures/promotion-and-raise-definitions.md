@@ -1,8 +1,8 @@
 ---
 layout: book_page
 title: What are promotions and raises?
-tagline: How salary structure affects promotions and raises
-excerpt: Simple examples to illustrate a promotion, a raise, and a promotion with a raise.
+subhead: How salary structure affects promotions and raises
+description: Simple examples to illustrate a promotion, a raise, and a promotion with a raise.
 context: raise
 last_modified_at: 2016-06-25
 book_section: 4

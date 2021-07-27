@@ -1,8 +1,8 @@
 ---
 layout: book_page
 title: Refine your market value estimate for a specific company
-tagline: Refine your regional market value estimate for a specific company
-excerpt: Refine your regional market value estimate to determine the market value for your skillset and experience at a particular company.
+subhead: Refine your regional market value estimate for a specific company
+description: Refine your regional market value estimate to determine the market value for your skillset and experience at a particular company.
 context: raise
 last_modified_at: 2016-06-25
 book_section: 5

@@ -1,7 +1,7 @@
 ---
 layout: book_page
 title: About Josh Doody, author of Fearless Salary Negotiation
-excerpt: Josh Doody is the author of Fearless Salary Negotiation.
+description: Josh Doody is the author of Fearless Salary Negotiation.
 context: interview
 author: josh
 last_modified_at: 2016-06-28

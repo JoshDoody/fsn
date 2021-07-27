@@ -2,7 +2,7 @@
 layout: posts
 title: How to Write a Kick-Ass <br>Cover Letter
 headline: How to write a compelling cover letter
-excerpt: How to write a cover letter that grabs the attention of even the most seasoned resume or CV reader
+description: How to write a cover letter that grabs the attention of even the most seasoned resume or CV reader
 categories:
   - interview
 tags:

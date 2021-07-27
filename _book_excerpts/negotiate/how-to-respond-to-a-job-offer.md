@@ -1,8 +1,8 @@
 ---
 layout: book_page
 title: How to respond to a job offer
-tagline: Always ask for some time to think it over
-excerpt: You should negotiate starting salary. But first, ask for some time to consider the job offer so you can plan for the negotiation.
+subhead: Always ask for some time to think it over
+description: You should negotiate starting salary. But first, ask for some time to consider the job offer so you can plan for the negotiation.
 context: negotiate
 last_modified_at: 2016-06-25
 book_section: 8

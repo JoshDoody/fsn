@@ -1,8 +1,8 @@
 ---
 layout: book_page
 title: Build your case for your next raise
-tagline: Document examples of accomplishments and accolades for your raise
-excerpt: Make a strong case when you ask for a raise by showing how you add value to the company and citing praise from clients and colleagues.
+subhead: Document examples of accomplishments and accolades for your raise
+description: Make a strong case when you ask for a raise by showing how you add value to the company and citing praise from clients and colleagues.
 context: raise
 last_modified_at: 2016-06-24
 book_section: 12

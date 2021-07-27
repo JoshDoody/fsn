@@ -1,8 +1,8 @@
 ---
 layout: book_page
 title: When you should pursue a promotion along with a raise
-tagline: If your current job caps your pay, you may need to pursue a promotion
-excerpt: How to know if your current job can't pay enough for you to get a big raise, and what you can do about that.
+subhead: If your current job caps your pay, you may need to pursue a promotion
+description: How to know if your current job can't pay enough for you to get a big raise, and what you can do about that.
 context: raise
 last_modified_at: 2016-06-24
 book_section: 12

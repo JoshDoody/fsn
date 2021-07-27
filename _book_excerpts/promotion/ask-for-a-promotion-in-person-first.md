@@ -1,8 +1,8 @@
 ---
 layout: book_page
 title: Ask for a promotion in person and follow up with an email
-tagline: Ask in your regular 1-on-1 or schedule a dedicated meeting
-excerpt: How to ask for a promotion in your 1-on-1 and then follow up with an email that can be circulated throughout the approval process.
+subhead: Ask in your regular 1-on-1 or schedule a dedicated meeting
+description: How to ask for a promotion in your 1-on-1 and then follow up with an email that can be circulated throughout the approval process.
 context: promotion
 last_modified_at: 2020-05-07
 book_section: 11

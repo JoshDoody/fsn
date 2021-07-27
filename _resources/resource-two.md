@@ -2,7 +2,7 @@
 layout: resource_page
 title: This is resource two
 description: Description of resource two with some longer test
-excerpt: Culpa illum laborum veritatis vitae eligendi, assumenda consequuntur unde. Quibusdam veniam error tenetur.
+description: Culpa illum laborum veritatis vitae eligendi, assumenda consequuntur unde. Quibusdam veniam error tenetur.
 category: Category One
 heroResource:
 featuredResource: show

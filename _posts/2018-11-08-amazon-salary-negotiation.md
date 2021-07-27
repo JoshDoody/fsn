@@ -2,7 +2,7 @@
 layout: posts
 title: Amazon salary negotiation - How to negotiate your Amazon job offer
 headline: Got a job offer from Amazon? Here's how to negotiate it!
-excerpt: Here's how to negotiate your Amazon job offer including valuable tactics and common pitfalls to avoid.
+description: Here's how to negotiate your Amazon job offer including valuable tactics and common pitfalls to avoid.
 categories:
   - coach
 tags:

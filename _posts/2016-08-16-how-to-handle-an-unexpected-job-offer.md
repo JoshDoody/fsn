@@ -2,7 +2,7 @@
 layout: posts
 title: “Do we have a deal?”
 subhead: How to handle an unexpected job offer
-excerpt: Here's how to be ready for an unexpected job offer so you're not caught off guard.
+description: Here's how to be ready for an unexpected job offer so you're not caught off guard.
 categories:
   - negotiate
 tags:
