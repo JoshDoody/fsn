@@ -92,6 +92,9 @@
 .card-control-3,
 .toc-control {
   margin-top: .6rem;
+  @media (max-width: 876px) {
+    display: none;
+  }
   .card-next,
   .card-prev,
   .card-next-2,
@@ -170,6 +173,10 @@
   outline: 2px solid $brand-primary;
   border: 8px solid $brand-light-gray;
   position: relative;
+  @media (max-width: 876px) {
+    outline: none;
+    border-width: 1rem;
+  }
   h2 {
     color: $brand-black;
     font-size: 2em;
@@ -479,12 +486,16 @@
 
 .success-light {
   background-color: $brand-white;
-  .suc-quotes, .suc-quotes-2, .suc-indi-quotes {
+  .suc-quotes,
+  .suc-quotes-2,
+  .suc-indi-quotes {
     p, p.title, li {
       color: $brand-gray;
     }
   }
-  .suc-dots, .suc-indi-dots {
+  .suc-dots,
+  .suc-dots-2,
+  .suc-indi-dots {
     .slick-dots {
       li {
         p {
@@ -498,7 +509,9 @@
   }
 }
 
-.suc-quotes, .suc-quotes-2, .suc-indi-quotes {
+.suc-quotes,
+.suc-quotes-2,
+.suc-indi-quotes {
   padding: 6.75em 4em 2.75em 4.25em;
   @media (max-width: 660px) {
     padding-bottom: 6em;
@@ -541,7 +554,8 @@
   }
 }
 
-.suc-control {
+.suc-control,
+.suc-control-2 {
   position: absolute;
   right: 4em;
   bottom: 2em;
@@ -572,7 +586,9 @@
   margin-left: 0.75em;
 }
 
-.suc-dots, .suc-dots-2, .suc-indi-dots {
+.suc-dots,
+.suc-dots-2,
+.suc-indi-dots {
   .slick-dots {
     position: absolute;
     bottom: -44px;

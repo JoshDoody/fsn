@@ -64,7 +64,10 @@
       margin: 0 0 .25rem;
     }
     p {
-      font-size: 1.25rem;
+      font: {
+        size: 1.25rem;
+        weight: 700;
+      }
     }
   }
 }
@@ -87,4 +90,12 @@ horizontal{width:210px;height:20px}.slider.slider-horizontal .slider-track{heigh
       left: auto !important;
     }
   }
+}
+
+.slider-handle {
+  background-color: #BF9724;
+  background-image: -webkit-linear-gradient(top, #b99221 0, #bd941d 100%);
+  background-image: -o-linear-gradient(top, #b99221 0, #bd941d 100%);
+  background-image: linear-gradient(to bottom, #b99221 0, #bd941d 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffb99221',endColorstr='#ffbd941d',GradientType=0);
 }

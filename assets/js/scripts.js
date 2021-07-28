@@ -14,7 +14,21 @@ $(document).ready(function() {
     dots: true,
     appendDots: $(".card-dots"),
     prevArrow: $(".card-prev"),
-    nextArrow: $(".card-next")
+    nextArrow: $(".card-next"),
+    responsive: [
+      {
+        breakpoint: 980,
+        settings: {
+          slidesToShow: 2
+        }
+      },
+      {
+        breakpoint: 720,
+        settings: {
+          slidesToShow: 1
+        }
+      }
+    ]
   });
 
   $(".card-carousel-2").slick({
@@ -24,7 +38,21 @@ $(document).ready(function() {
     dots: true,
     appendDots: $(".card-dots-2"),
     prevArrow: $(".card-prev-2"),
-    nextArrow: $(".card-next-2")
+    nextArrow: $(".card-next-2"),
+    responsive: [
+      {
+        breakpoint: 980,
+        settings: {
+          slidesToShow: 2
+        }
+      },
+      {
+        breakpoint: 720,
+        settings: {
+          slidesToShow: 1
+        }
+      }
+    ]
   });
 
   $(".card-carousel-3").slick({
@@ -34,7 +62,21 @@ $(document).ready(function() {
     dots: true,
     appendDots: $(".card-dots-3"),
     prevArrow: $(".card-prev-3"),
-    nextArrow: $(".card-next-3")
+    nextArrow: $(".card-next-3"),
+    responsive: [
+      {
+        breakpoint: 980,
+        settings: {
+          slidesToShow: 2
+        }
+      },
+      {
+        breakpoint: 720,
+        settings: {
+          slidesToShow: 1
+        }
+      }
+    ]
   });
 
   // Book toc carousel
