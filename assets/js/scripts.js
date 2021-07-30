@@ -87,7 +87,21 @@ $(document).ready(function() {
     dots: true,
     appendDots: $(".toc-dots"),
     prevArrow: $(".toc-prev"),
-    nextArrow: $(".toc-next")
+    nextArrow: $(".toc-next"),
+    responsive: [
+      {
+        breakpoint: 980,
+        settings: {
+          slidesToShow: 2
+        }
+      },
+      {
+        breakpoint: 720,
+        settings: {
+          slidesToShow: 1
+        }
+      }
+    ]
   });
 
   // Blog post slider
