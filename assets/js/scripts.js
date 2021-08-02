@@ -188,13 +188,13 @@ $(document).ready(function() {
   // Blog category filtering
   // show all blog posts
   $(".articles #show-all").click(function() {
-    $(".blog-list > div").attr("style", "display:flex");
+    $(".blog-list > div").attr("style", "display:inline-block");
     $("li button").removeClass("btn-active");
     $(this).parent().addClass("cat-active");
   });
 
   var $btns = $(".resource-filter").click(function() {
-    $(".cat-active").removeClass();
+    $(".cat-active").removeClass("cat-active");
     if (this.id == "all") {
       $(".blog-list > div").fadeIn(450);
     } else {
@@ -208,7 +208,7 @@ $(document).ready(function() {
   // Resource category filtering
   // show all resource articles
   $(".resources #show-all").click(function() {
-    $(".blog-list > div").attr("style", "display:flex");
+    $(".blog-list > div").attr("style", "display:inline-block");
     $(".blog-featured").show();
     $("li button").removeClass("btn-active");
     $(this).parent().addClass("cat-active");

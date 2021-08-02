@@ -419,6 +419,9 @@
       left: 0;
       z-index: 1;
       display: block;
+      @media (max-width: 876px) {
+        display: none;
+      }
     }
   }
   .card-prod {
@@ -432,6 +435,14 @@
           right: auto;
           left: auto;
         }
+      }
+    }
+    .btn {
+      @media (max-width: 1050px) {
+        font-size: .75rem;
+      }
+      @media (max-width: 890px) {
+        font-size: 1rem;
       }
     }
   }
@@ -644,6 +655,10 @@
 .cat-nav {
   li {
     text-align: center;
+    margin: {
+      right: 1.25em;
+      bottom: 1.25em;
+    }
   }
   a, button {
     background-color: transparent;
@@ -657,7 +672,6 @@
       align: center;
       transform: uppercase;
     }
-    margin-right: 1.25em;
     padding: .65em .75em;
     border: 2px solid $brand-secondary;
     display: inline-block;
@@ -679,6 +693,11 @@
 
 // Blog page featured posts
 .blog-featured {
+  @media (max-width: 876px) {
+    div:first-of-type {
+      margin-bottom: 2em;
+    }
+  }
   h4 {
     color: $brand-primary;
   }
@@ -967,6 +986,9 @@
   }
   &.get-access-device {
     background-image: url("../imgs/prod-devices.png");
+    @media (max-width: 867px) {
+      background-image: none;
+    }
   }
   h4 {
     color: $brand-secondary;

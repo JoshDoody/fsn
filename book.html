@@ -163,42 +163,14 @@ showAccessModal: show
       <h2 class="text-3xl uppercase sans-serif">Success Stories</h2>
     </div>
     <div class="md:mt-0 sm:mt-8 mt-8">
-      <a href="#" class="btn-primary btn text-right">More Success Stories</a>
+      <a href="/success-stories/" class="btn-primary btn text-right">More Success Stories</a>
     </div>
   </div>
   <div class="success-slider mb-32">
     <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
     <div class="suc-quotes">
-      <div>
-        <p>I used the Fearless Salary Negotiation strategy for negotiating an offer and went <strong>from $95,000</strong> with a title of Software Engineer 1 <strong>to $105,000</strong> with a title of Software Engineer 2. Now I can pay off my student loans and buy a house more quickly. Six months later, I did it again! This time, I one-upped that by turning a <strong>$125,000 offer</strong> to a <strong>$145,000 offer</strong>. That's $30,000 in additional salary thanks to this truly wonderful resource.”</p>
-        <div class="flex items-center mt-6">
-          <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
-          <div>
-            <p class="name m-0">First Name</p>
-            <p class="title m-0">Job Title</p>
-          </div>
-        </div>
-      </div>
-      <div>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum ullam harum cum error itaque sint ipsa veniam dolorem et eligendi. Ut unde aliquid laborum, quibusdam iste libero quas nihil sed?</p>
-        <div class="flex items-center mt-6">
-          <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
-          <div>
-            <p class="name m-0">First Name</p>
-            <p class="title m-0">Job Title</p>
-          </div>
-        </div>
-      </div>
-      <div>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dolore odit, consectetur quos illo, id beatae reprehenderit adipisci quo, natus eaque deserunt magnam mollitia voluptatibus temporibus unde rem est deleniti voluptas ullam incidunt! Natus placeat perferendis magnam totam quod eligendi cum rem impedit nesciunt inventore fugiat ex fuga, iste modi deleniti voluptate accusamus commodi aspernatur vel. Repellendus error debitis provident nihil perspiciatis nam qui atque iure delectus est? Nobis quasi animi voluptate magnam iusto ut qui odio, aliquid nisi hic et tenetur distinctio, molestiae fuga vitae blanditiis error repudiandae magni porro. Veniam nobis quisquam suscipit aliquam quae amet blanditiis praesentium!</p>
-        <div class="flex items-center mt-6">
-          <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
-          <div>
-            <p class="name m-0">First Name</p>
-            <p class="title m-0">Job Title</p>
-          </div>
-        </div>
-      </div>
+      {% include success-story.html story-id="aaron_batilo" %}
+      {% include success-story.html story-id="acree_m" %}
     </div><!-- /suc-quotes -->
 
     <div class="flex suc-control">
@@ -300,7 +272,7 @@ showAccessModal: show
         <p class="serif">Briefly describe one of the primary benefits of this product, something the user will learn, etc. Far far away, behind the word mountains.</p>
       </div>
     </div>
-    <div class="perk-group flex items-center p-6">
+    <div class="perk-group flex items-center p-6 sm:mb-8 md:mb-0">
       <div class="mr-6 flex-grow"><img src="/assets/imgs/ico-guarantee.svg" /></div>
       <div class="flex-grow">
         <h5 class="text-lg uppercase sans-serif mb-2">Happy Customer Guarantee</h5>
@@ -342,7 +314,7 @@ showAccessModal: show
 
 </div><!-- /get-access -->
 
-<div class="book-questions mx-auto grid grid-cols-1 md:w-1/2 w-full mb-28 container">
+<div class="book-questions mx-auto grid grid-cols-1 lg:w-1/2 md:w-full mb-28 container">
 
   <div class="book-faq mb-12">
     <h2 class="text-3xl sans-serif uppercase mb-8">Still have questions?</h2>
@@ -380,55 +352,32 @@ showAccessModal: show
 
 <div class="container mx-auto mb-20">
 
-  <div class="md:flex md:justify-between mb-8">
+  <div class="flex items-center grid md:grid-cols-2 mb-14">
     <div>
       <h2 class="text-3xl uppercase sans-serif">Success Stories</h2>
     </div>
-    <div class="md:mt-0 sm:mt-8 mt-8">
-      <a href="#" class="btn-primary btn text-right">More Success Stories</a>
+    <div class="md:text-right sm:text-left mt-6 sm:mt-8 md:mt-0">
+      <a href="/success-stories/" class="btn-primary btn text-right">More Success Stories</a>
     </div>
   </div>
   <div class="success-slider mb-32">
     <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
-    <div class="suc-quotes-2">
-      <div>
-        <p>I used the Fearless Salary Negotiation strategy for negotiating an offer and went <strong>from $95,000</strong> with a title of Software Engineer 1 <strong>to $105,000</strong> with a title of Software Engineer 2. Now I can pay off my student loans and buy a house more quickly. Six months later, I did it again! This time, I one-upped that by turning a <strong>$125,000 offer</strong> to a <strong>$145,000 offer</strong>. That's $30,000 in additional salary thanks to this truly wonderful resource.”</p>
-        <div class="flex items-center mt-6">
-          <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
-          <div>
-            <p class="name m-0">First Name</p>
-            <p class="title m-0">Job Title</p>
-          </div>
-        </div>
-      </div>
-      <div>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum ullam harum cum error itaque sint ipsa veniam dolorem et eligendi. Ut unde aliquid laborum, quibusdam iste libero quas nihil sed?</p>
-        <div class="flex items-center mt-6">
-          <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
-          <div>
-            <p class="name m-0">First Name</p>
-            <p class="title m-0">Job Title</p>
-          </div>
-        </div>
-      </div>
-      <div>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dolore odit, consectetur quos illo, id beatae reprehenderit adipisci quo, natus eaque deserunt magnam mollitia voluptatibus temporibus unde rem est deleniti voluptas ullam incidunt! Natus placeat perferendis magnam totam quod eligendi cum rem impedit nesciunt inventore fugiat ex fuga, iste modi deleniti voluptate accusamus commodi aspernatur vel. Repellendus error debitis provident nihil perspiciatis nam qui atque iure delectus est? Nobis quasi animi voluptate magnam iusto ut qui odio, aliquid nisi hic et tenetur distinctio, molestiae fuga vitae blanditiis error repudiandae magni porro. Veniam nobis quisquam suscipit aliquam quae amet blanditiis praesentium!</p>
-        <div class="flex items-center mt-6">
-          <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
-          <div>
-            <p class="name m-0">First Name</p>
-            <p class="title m-0">Job Title</p>
-          </div>
-        </div>
-      </div>
+    <div class="success-slider mb-32">
+      <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
+      <div class="suc-quotes-2">
+        {% include success-story.html story-id="amy_esnep" %}
+        {% include success-story.html story-id="claire" %}
+        {% include success-story.html story-id="d" %}
+      </div><!-- /suc-quotes -->
+
+      <div class="flex suc-control-2">
+        <button type="button" class="suc-prev-2"><i class="fas fa-arrow-left"></i></button>
+        <button type="button" class="suc-next-2"><i class="fas fa-arrow-right"></i></button>
+      </div><!-- /suc-control -->
+
+      <div class="suc-dots-2"></div>
+
     </div><!-- /suc-quotes -->
-
-    <div class="flex suc-control">
-      <button type="button" class="suc-prev-2"><i class="fas fa-arrow-left"></i></button>
-      <button type="button" class="suc-next-2"><i class="fas fa-arrow-right"></i></button>
-    </div><!-- /suc-control -->
-
-    <div class="suc-dots-2"></div>
 
   </div><!-- /success-slider -->
 
