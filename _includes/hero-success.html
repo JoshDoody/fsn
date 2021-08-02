@@ -9,8 +9,8 @@
     </div>
     <div class="grid grid-cols-1">
       <div class="cat-nav">
-        <ul class="list-none inline-flex items-center ml-0 mb-16 resource-cat-nav">
-          <li class="cat-active"><button id="show-all">All</button></li>
+        <ul class="list-none ml-0 mb-16 resource-cat-nav">
+          <li class="cat-active inline-block"><button id="show-all">All</button></li>
           {% assign categories_array = "" | split:"|" %}
           {% for post in site.success-stories %}
             {% for industry in post.industry %}
@@ -18,7 +18,7 @@
             {% endfor %}
           {% endfor %}
           {% for industry in categories_array %}
-            <li><button class="resource-filter" id="{{ industry | slugify }}">{{ industry }}</button></li>
+            <li class="inline-block"><button class="resource-filter" id="{{ industry | slugify }}">{{ industry }}</button></li>
           {% endfor %}
         </ul>
       </div><!-- /cat-nav -->

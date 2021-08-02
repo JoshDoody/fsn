@@ -9,8 +9,8 @@ navWeight: 3
 <div class="container mx-auto py-20">
 
   <div class="cat-nav">
-    <ul class="list-none inline-flex items-center ml-0 mb-16 resource-cat-nav">
-      <li class="cat-active"><button id="show-all">All</button></li>
+    <ul class="list-none ml-0 mb-16 resource-cat-nav">
+      <li class="cat-active inline-block"><button id="show-all">All</button></li>
       {% assign categories_array = "" | split:"|" %}
       {% for post in site.resources %}
         {% for category in post.categories %}
@@ -18,14 +18,14 @@ navWeight: 3
         {% endfor %}
       {% endfor %}
       {% for category in categories_array %}
-        <li><button class="resource-filter" id="{{ category | slugify }}">{{ category }}</button></li>
+        <li class="inline-block"><button class="resource-filter" id="{{ category | slugify }}">{{ category }}</button></li>
       {% endfor %}
-      <li>Search</li>
+      <li class="inline-block">Search</li>
     </ul>
   </div><!-- /cat-nav -->
 
   <div class="blog-featured mb-20">
-    <div class="grid grid-cols-2 gap-6 flex">
+    <div class="md:grid md:grid-cols-2 gap-6 md:flex">
       {% for resources in site.resources %}
         {% if resources.featuredResource %}
           <div class="p-10 border-4 border-white">
