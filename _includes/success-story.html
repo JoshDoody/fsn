@@ -1,4 +1,4 @@
-{% assign id = "/success-stories/" | append: include.story-id %}
+{% assign id = "/results/" | append: include.story-id %}
 {% assign stories = site.success-stories | where:"id", id %}
 {% for story in stories %}
 
@@ -7,7 +7,7 @@
     <div class="flex items-center mt-6">
       {% if story.headshot %}
         <div class="mr-4">
-          <img src="/assets/imgs/success-stories/{{ story.headshot }}" class="rounded-full h-20 w-20">
+          <img src="/assets/imgs/results/{{ story.headshot }}" class="rounded-full h-20 w-20">
         </div>
       {% endif %}
       <div>
