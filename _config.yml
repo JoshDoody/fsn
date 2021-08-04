@@ -35,7 +35,7 @@ collections:
   #   permalink: /book/:title/
   resources:
     output: true
-    permalink: /free-resources/:title/
+    permalink: /resource-library/:title/
   success-stories:
     output: true
-    permalink: /success-stories/:path/
+    permalink: /results/:path/
