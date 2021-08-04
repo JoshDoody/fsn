@@ -21,67 +21,37 @@ bodyClass: one-on-one
     <p class="serif">Velit diam ac, consequat, tortor vivamus vestibulum quisque. Quis est at diam id tortor justo. Vitae enim accumsan ac rhoncus et egestas at. Volutpat quisque nisl, tellus suscipit ultrices mauris imperdiet. Sed facilisi cursus pharetra orci morbi odio vitae posuere tellus. In egestas.</p>
   </div><!-- /book-intro -->
 
-  <div class="flex grid grid-cols-3 gap-6 justify-items-center">
-    <div class="book-block">
+  <div class="flex grid md:grid-cols-3 md:gap-6 sm:grid-cols-1 sm:gap-0 justify-items-center"">
+    <div class="book-block mb-8 md:mb-0">
       <img src="/assets/imgs/ico-check.svg" class="mb-4">
       <p class="mb-4">Briefly describe one of the primary benefits of this product, something the user will learn, etc. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
       <p><a href="#">Optional Call to Action <i class="fas fa-angle-double-right"></i></a></p>
     </div>
-    <div class="book-block">
+    <div class="book-block mb-8 md:mb-0">
       <img src="/assets/imgs/ico-check.svg" class="mb-4">
       <p class="mb-4">Briefly describe one of the primary benefits of this product, something the user will learn, etc. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
       <p><a href="#">Optional Call to Action <i class="fas fa-angle-double-right"></i></a></p>
     </div>
-    <div class="book-block">
+    <div class="book-block mb-8 md:mb-0">
       <img src="/assets/imgs/ico-check.svg" class="mb-4">
       <p class="mb-4">Briefly describe one of the primary benefits of this product, something the user will learn, etc. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
       <p><a href="#">Optional Call to Action <i class="fas fa-angle-double-right"></i></a></p>
     </div>
   </div>
 
-  <div class="flex justify-between mb-8 pt-28">
+  <div class="md:flex md:justify-between mt-16 mb-8">
     <div>
       <h2 class="text-3xl uppercase sans-serif">Success Stories</h2>
     </div>
-    <div>
+    <div class="md:mt-0 sm:mt-8 mt-8">
       <a href="/results/" class="btn-primary btn text-right">More Success Stories</a>
     </div>
   </div>
-  <div class="success-slider">
+  <div class="success-slider mb-32">
     <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
     <div class="suc-quotes">
-
-      <div>
-        <p>I used the Fearless Salary Negotiation strategy for negotiating an offer and went <strong>from $95,000</strong> with a title of Software Engineer 1 <strong>to $105,000</strong> with a title of Software Engineer 2. Now I can pay off my student loans and buy a house more quickly. Six months later, I did it again! This time, I one-upped that by turning a <strong>$125,000 offer</strong> to a <strong>$145,000 offer</strong>. That's $30,000 in additional salary thanks to this truly wonderful resource.”</p>
-        <div class="flex items-center mt-6">
-          <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
-          <div>
-            <p class="name m-0">First Name</p>
-            <p class="title m-0">Job Title</p>
-          </div>
-        </div>
-      </div>
-      <div>
-        <p>I used the Fearless Salary Negotiation strategy for negotiating an offer and went <strong>from $95,000</strong> with a title of Software Engineer 1 <strong>to $105,000</strong> with a title of Software Engineer 2. Now I can pay off my student loans and buy a house more quickly. Six months later, I did it again! This time, I one-upped that by turning a <strong>$125,000 offer</strong> to a <strong>$145,000 offer</strong>. That's $30,000 in additional salary thanks to this truly wonderful resource.”</p>
-        <div class="flex items-center mt-6">
-          <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
-          <div>
-            <p class="name m-0">First Name</p>
-            <p class="title m-0">Job Title</p>
-          </div>
-        </div>
-      </div>
-      <div>
-        <p>I used the Fearless Salary Negotiation strategy for negotiating an offer and went <strong>from $95,000</strong> with a title of Software Engineer 1 <strong>to $105,000</strong> with a title of Software Engineer 2. Now I can pay off my student loans and buy a house more quickly. Six months later, I did it again! This time, I one-upped that by turning a <strong>$125,000 offer</strong> to a <strong>$145,000 offer</strong>. That's $30,000 in additional salary thanks to this truly wonderful resource.”</p>
-        <div class="flex items-center mt-6">
-          <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
-          <div>
-            <p class="name m-0">First Name</p>
-            <p class="title m-0">Job Title</p>
-          </div>
-        </div>
-      </div>
-
+      {% include success-story.html story-id="aaron_batilo" %}
+      {% include success-story.html story-id="acree_m" %}
     </div><!-- /suc-quotes -->
 
     <div class="flex suc-control">
@@ -108,18 +78,18 @@ bodyClass: one-on-one
     <h2 class="text-3xl sans-serif uppercase">How much does it cost?</h2>
   </div>
 
-  <div class="flex grid grid-cols-3 gap-6 justify-items-center">
-    <div>
+  <div class="flex grid md:grid-cols-3 md:gap-6 sm:grid-cols-1 sm:gap-0 justify-items-center">
+    <div class="mb-8 md:mb-0">
       <h3 class="text-black sans-serif uppercase text-2xl">$3000 <br />Service Fee</h3>
       <hr class="hr-default w-16 my-6">
       <p class="serif">Briefly describe one of the primary benefits of this product, something the user will learn, etc. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
     </div>
-    <div>
+    <div class="mb-8 md:mb-0">
       <h3 class="text-black sans-serif uppercase text-2xl">10% First-year <br />Result Fee</h3>
       <hr class="hr-default w-16 my-6">
       <p class="serif">Briefly describe one of the primary benefits of this product, something the user will learn, etc. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
     </div>
-    <div>
+    <div class="mb-8 md:mb-0">
       <h3 class="text-black sans-serif uppercase text-2xl">Happy Client <br />Guarantee</h3>
       <hr class="hr-default w-16 my-6">
       <p class="serif">Briefly describe one of the primary benefits of this product, something the user will learn, etc. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
@@ -149,7 +119,7 @@ bodyClass: one-on-one
 
 <div class="container mx-auto">
 
-  <div class="book-questions mx-auto grid grid-cols-1 w-1/2 mb-28">
+  <div class="book-questions mx-auto grid grid-cols-1 lg:w-1/2 md:w-full mb-28 container">
 
     <div class="book-faq mb-12">
       <h2 class="text-3xl sans-serif uppercase mb-8">Still have questions?</h2>
@@ -185,59 +155,32 @@ bodyClass: one-on-one
 
   </div><!-- /book-questions -->
 
-  <div class="flex justify-between mb-8">
+  <div class="flex items-center grid md:grid-cols-2 mb-14">
     <div>
       <h2 class="text-3xl uppercase sans-serif">Success Stories</h2>
     </div>
-    <div>
+    <div class="md:text-right sm:text-left mt-6 sm:mt-8 md:mt-0">
       <a href="/results/" class="btn-primary btn text-right">More Success Stories</a>
     </div>
   </div>
-  <div class="success-slider">
+  <div class="success-slider mb-32">
     <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
-    <div class="suc-quotes-2">
+    <div class="success-slider mb-32">
+      <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
+      <div class="suc-quotes-2">
+        {% include success-story.html story-id="amy_esnep" %}
+        {% include success-story.html story-id="claire" %}
+        {% include success-story.html story-id="d" %}
+      </div><!-- /suc-quotes -->
 
-      <div>
-        <p>I used the Fearless Salary Negotiation strategy for negotiating an offer and went <strong>from $95,000</strong> with a title of Software Engineer 1 <strong>to $105,000</strong> with a title of Software Engineer 2. Now I can pay off my student loans and buy a house more quickly. Six months later, I did it again! This time, I one-upped that by turning a <strong>$125,000 offer</strong> to a <strong>$145,000 offer</strong>. That's $30,000 in additional salary thanks to this truly wonderful resource.”</p>
-        <div class="flex items-center mt-6">
-          <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
-          <div>
-            <p class="name m-0">First Name</p>
-            <p class="title m-0">Job Title</p>
-          </div>
-        </div>
-      </div>
+      <div class="flex suc-control-2">
+        <button type="button" class="suc-prev-2"><i class="fas fa-arrow-left"></i></button>
+        <button type="button" class="suc-next-2"><i class="fas fa-arrow-right"></i></button>
+      </div><!-- /suc-control -->
 
-      <div>
-        <p>I used the Fearless Salary Negotiation strategy for negotiating an offer and went <strong>from $95,000</strong> with a title of Software Engineer 1 <strong>to $105,000</strong> with a title of Software Engineer 2. Now I can pay off my student loans and buy a house more quickly. Six months later, I did it again! This time, I one-upped that by turning a <strong>$125,000 offer</strong> to a <strong>$145,000 offer</strong>. That's $30,000 in additional salary thanks to this truly wonderful resource.”</p>
-        <div class="flex items-center mt-6">
-          <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
-          <div>
-            <p class="name m-0">First Name</p>
-            <p class="title m-0">Job Title</p>
-          </div>
-        </div>
-      </div>
-
-      <div>
-        <p>I used the Fearless Salary Negotiation strategy for negotiating an offer and went <strong>from $95,000</strong> with a title of Software Engineer 1 <strong>to $105,000</strong> with a title of Software Engineer 2. Now I can pay off my student loans and buy a house more quickly. Six months later, I did it again! This time, I one-upped that by turning a <strong>$125,000 offer</strong> to a <strong>$145,000 offer</strong>. That's $30,000 in additional salary thanks to this truly wonderful resource.”</p>
-        <div class="flex items-center mt-6">
-          <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
-          <div>
-            <p class="name m-0">First Name</p>
-            <p class="title m-0">Job Title</p>
-          </div>
-        </div>
-      </div>
+      <div class="suc-dots-2"></div>
 
     </div><!-- /suc-quotes -->
-
-    <div class="flex suc-control-2">
-      <button type="button" class="suc-prev-2"><i class="fas fa-arrow-left"></i></button>
-      <button type="button" class="suc-next-2"><i class="fas fa-arrow-right"></i></button>
-    </div><!-- /suc-control -->
-
-    <div class="suc-dots-2"></div>
 
   </div><!-- /success-slider -->
 
