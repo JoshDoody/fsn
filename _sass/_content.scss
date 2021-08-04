@@ -713,6 +713,12 @@
   @media (max-width: 700px) {
     width: 100%;
   }
+  .book & {
+    width: 50%;
+  }
+  .complete-bundle & {
+    width: 55%;
+  }
   hr {
     border-top: 2px solid $brand-primary;
   }
@@ -982,6 +988,9 @@
     background-image: none;
     .w-3\/5 {
       display: none;
+    }
+    .w-2\/5 {
+      width: 100%;
     }
   }
   &.get-access-device {

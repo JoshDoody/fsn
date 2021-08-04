@@ -46,6 +46,31 @@
       }
     }
   }
+  .products & {
+    .container {
+      padding-bottom: 12rem;
+      @media (max-width: 1000px) {
+        padding-bottom: 7rem;
+      }
+      @media (max-width: 876px) {
+        padding-bottom: 4rem;
+      }
+    }
+  }
+  .get-a-raise & {
+    .relative {
+      img {
+        top: -3rem;
+      }
+    }
+  }
+  .complete-bundle & {
+    .relative {
+      img {
+        top: -3rem;
+      }
+    }
+  }
 }
 
 .hero-posts {
