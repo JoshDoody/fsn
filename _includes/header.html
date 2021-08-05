@@ -32,13 +32,23 @@
   <body class="{{ page.layout }} {{ page.bodyClass }}">
 
     <div class="main-nav-wrap bg-white">
+
       <div class="mx-auto py-4 px-8">
-        <div class="flex justify-center items-center">
+        <div class="flex justify-between items-center relative">
+
           <div class="brand">
             <a href="/">
               <img src="/assets/imgs/fsn-brand.svg" alt="Fearless Salary Negotiation">
             </a>
           </div>
+
+          <div class="mobile-nav">
+            <ul class="flex flex-row list-none">
+              <li class="btn-link"><a href="/coach/">Get 1-on-1 Help</a></li>
+              <li class="mobile-trigger"><a role="button" tabindex="0"></a></li>
+            </ul>
+          </div>
+
           <div class="main-nav flex flex-row flex-grow items-center justify-end">
             <ul class="flex flex-row list-none">
               {% assign navigation_pages = site.html_pages | sort: "navWeight" %}
@@ -83,6 +93,8 @@
               {% endfor %}
             </ul>
           </div><!-- /main-nav -->
+
         </div>
       </div>
+
     </div><!-- /main-nav-wrap -->
