@@ -86,33 +86,3 @@
     left: 0;
   }
 }
-
-
-// Navigation
-.main-nav-wrap {
-  >div {
-    width: 100%;
-    max-width: 1375px;
-    margin: 0 auto;
-  }
-}
-.main-nav {
-  ul {
-    margin: 0;
-    li {
-      margin: 0;
-    }
-  }
-  a {
-    color: $brand-black;
-    font: {
-      family: $font-serif;
-      size: 1.125em;
-      weight: 700;
-    }
-    text-decoration: none;
-    &:hover {
-      opacity: .75;
-    }
-  }
-}
