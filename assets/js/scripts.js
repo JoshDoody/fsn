@@ -5,6 +5,12 @@ $(document).ready(function() {
       $(this).find(".sub-nav-wrap").toggle();
   });
 
+  // Mobile nav
+  $(".mobile-trigger").click(function() {
+    $(".main-nav").toggle().toggleClass("active-nav");
+    $(".mobile-trigger a").toggleClass("close-nav");
+  });
+
   // Card carousels
   // Additional increments below when multiple carousels are on the same page
   $(".card-carousel").slick({
