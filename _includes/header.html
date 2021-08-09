@@ -57,6 +57,14 @@
                   <li class="{% if p.navTitle == "Get 1-on-1 Help" %}btn-link{% endif %}{% if p.navTitle == "Products" %}nav-drop{% endif %}">
                     <a href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>{{ p.navTitle }}{% if p.navTitle == "Products"%} <i class="fas fa-caret-down"></i>{% endif %}</a>
                     {% if p.navTitle == "Products" %}
+                      <div class="sub-nav-mobile">
+                        <ul>
+                          <li><a href="/book/">The Book</a></li>
+                          <li><a href="/crash-course/">The Crash Course</a></li>
+                          <li><a href="/get-a-raise/">Get a Raise</a></li>
+                          <li><a href="/complete-bundle/">The Complete Bundle</a></li>
+                        </ul>
+                      </div>
                       <div class="sub-nav-wrap">
                         <div class="sub-nav">
                           <div class="container mx-auto flex justify-center grid grid-cols-4 gap-x-14">
