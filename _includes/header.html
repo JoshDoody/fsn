@@ -4,6 +4,9 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {% if page.url == "/case-studies/" %}
+      <meta name="robots" content="noindex, nofollow">
+    {% endif %}
     <title>{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | strip_html | escape }}{% endif %} | Fearless Salary Negotiation</title>
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% elsif page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
     <meta property="og:url" content="{% if page.301_to_url %}{{ page.301_to_url }}{% elsif page.canonical_url %}{{ page.canonical_url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ page.url }}{% endif %}" />
@@ -57,6 +60,14 @@
                   <li class="{% if p.navTitle == "Get 1-on-1 Help" %}btn-link{% endif %}{% if p.navTitle == "Products" %}nav-drop{% endif %}">
                     <a href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>{{ p.navTitle }}{% if p.navTitle == "Products"%} <i class="fas fa-caret-down"></i>{% endif %}</a>
                     {% if p.navTitle == "Products" %}
+                      <div class="sub-nav-mobile">
+                        <ul>
+                          <li><a href="/book/">The Book</a></li>
+                          <li><a href="/crash-course/">The Crash Course</a></li>
+                          <li><a href="/get-a-raise/">Get a Raise</a></li>
+                          <li><a href="/complete-bundle/">The Complete Bundle</a></li>
+                        </ul>
+                      </div>
                       <div class="sub-nav-wrap">
                         <div class="sub-nav">
                           <div class="container mx-auto flex justify-center grid grid-cols-4 gap-x-14">

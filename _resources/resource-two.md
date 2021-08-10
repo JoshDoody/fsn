@@ -1,7 +1,6 @@
 ---
 layout: resource_page
 title: This is resource two
-description: Description of resource two with some longer test
 description: Culpa illum laborum veritatis vitae eligendi, assumenda consequuntur unde. Quibusdam veniam error tenetur.
 category: Category One
 heroResource:

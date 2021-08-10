@@ -1,0 +1,33 @@
+---
+layout: page
+---
+
+{% include header.html %}
+
+<div class="container mx-auto pb-20">
+
+  <div class="md:flex">
+
+    <div class="md:w-7/12 md:mr-12 blog-post-wrap">
+
+      {% include hero-posts.html %}
+
+      <div class="blog-post">
+
+        {{ content }}
+
+      </div>
+
+    </div><!-- /blog-post-wrap -->
+
+    <div class="md:w-4/12 md:ml-12 blog-sidebar pt-24"></div><!-- /blog-sidebar -->
+
+  </div>
+
+</div>
+
+{% include three-card-callout.html %}
+
+{% include one-on-one-help.html %}
+
+{% include footer.html %}

@@ -1,11 +1,22 @@
 $(document).ready(function() {
 
-  // Main nav dropdown
-  $(".nav-drop").hover(function() {
-      $(this).find(".sub-nav-wrap").toggle();
+  // Mobile nav
+  $(window).on("load resize",function(e){
+    if ($(this).width() < 1140) {
+      $(".nav-drop>a").attr("href", "#");
+      $(".nav-drop").click(function() {
+        $(this).find(".sub-nav-mobile").toggle();
+        $(this).find(".fa-caret-down").toggleClass("fa-caret-up");
+      });
+    } else {
+      // Main nav dropdown
+      $(".nav-drop").hover(function() {
+        $(this).find(".sub-nav-wrap").toggle();
+      });
+    }
   });
 
-  // Mobile nav
+  // Mobile nav trigger
   $(".mobile-trigger").click(function() {
     $(".main-nav").toggle().toggleClass("active-nav");
     $(".mobile-trigger a").toggleClass("close-nav");
