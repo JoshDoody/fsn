@@ -1,7 +1,6 @@
 ---
 layout: resource_page
 title: This is resource one - the kitchen sink
-description: Description of resource one with some longer test
 description: Nostrum dignissimos aut, ea modi saepe suscipit? Aspernatur necessitatibus unde optio magni esse ipsam, qui maxime animi.
 category: Category One
 heroResource: show
