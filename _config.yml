@@ -42,3 +42,5 @@ collections:
   case-studies:
     output: true
     permalink: /case-studies/:path/
+  media_podcasts:
+  media_podcasts:
