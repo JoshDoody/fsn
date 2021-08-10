@@ -39,3 +39,6 @@ collections:
   success-stories:
     output: true
     permalink: /results/:path/
+  case-studies:
+    output: true
+    permalink: /case-studies/:path/
