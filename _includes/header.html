@@ -5,7 +5,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     {% if page.url == "/case-studies/" %}
-      <meta name="robots" content="noindex nofollow">
+      <meta name="robots" content="noindex, nofollow">
     {% endif %}
     <title>{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | strip_html | escape }}{% endif %} | Fearless Salary Negotiation</title>
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% elsif page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
