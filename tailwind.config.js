@@ -1,8 +1,5 @@
 module.exports = {
-  purge: {
-  	enabled: false,
-		content: [`_site/**/*.html`],
-  },
+  purge: ['_site/**/*.html'],
   theme: {
     screens: {
       'sm': '640px',
