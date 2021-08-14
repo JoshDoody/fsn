@@ -1,5 +1,5 @@
 {
-  "name": "Fearless Salary Negotiation",
+  "name": "FearlessSalaryNegotiation",
   "version": "1.0.0",
   "description": "Fearless Salary Negotiation website based on Tailwind with Jekyll",
   "main": "gulpfile.babel.js",
