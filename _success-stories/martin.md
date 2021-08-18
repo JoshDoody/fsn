@@ -11,13 +11,11 @@ result_summary: An additional $100k in bonuses, a $50k signing bonus and a $50k 
 case_study_url: 
 ---
 
-### "I was feeling uncertain..."
-
-I was feeling uncertain about establishing a fair market price for my fairly senior and specialized skill set. The market seems pretty strong but just how strong is hard to tell. My other concern was whether I should make the significant investment of time and energy to bring multiple prospects to the point of making an offer or instead concentrate first on my preferred choice.
+**I was feeling uncertain** about establishing a fair market price for my fairly senior and specialized skill set. The market seems pretty strong but just how strong is hard to tell. My other concern was whether I should make the significant investment of time and energy to bring multiple prospects to the point of making an offer or instead concentrate first on my preferred choice.
 
 **I'd heard that my most preferred option made strong but fairly inflexible offers, and so I thought there may not be enough room to negotiate to make up for the up-front coaching fee.** And, where the company tended to move, it seemed to be primarily through a signing bonus, which would make Josh's performance fee relatively more expensive compared to, for example, an improvement in ongoing salary. I had also previously read Josh's book and it was good but most of the advice was not new to me, although I found the formula for counteroffers was novel and very good.
 
-### A $100k improvement
+**A $100k improvement**
 
 Despite these hesitations, I decided to work with Josh and got a great outcome. The company we negotiated with made a strong initial offer: over the next 4 years it may be worth $1M+ more than my current job. **With Josh's help, we added an additional $100k in bonuses — a $50k signing bonus and a $50k second-year bonus.**
 
