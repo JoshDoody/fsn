@@ -66,8 +66,8 @@ Here's an email template you can use to give your manager a heads-up that you wo
   </div>
   <div class="email-header">
     <p>
-			<strong>To: [Your manager]</strong><br>
-			<strong>Subject: A topic for our next 1-on-1</strong>
+			<strong>To:</strong> [Your manager]<br>
+			<strong>Subject:</strong> A topic for our next 1-on-1
 		</p>
   </div>
   <div class="email-copy">

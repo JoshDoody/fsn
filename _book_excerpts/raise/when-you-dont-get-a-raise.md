@@ -16,7 +16,7 @@ If you didn’t get what you [asked for]({{ site.bsaeurl }}/book/raise/ask-for-a
 Your manager may be able to work with you to put a plan and timeline in place so that you know exactly what you can do to earn your raise. This is also a good outcome as it provides clarity and gives you a clear path to follow.
 
 <div class='ad-box'>
-<p><strong>Get the email template to ask your manager for a plan:</strong> <a href="{{ site.baseurl }}/salary-increase-letter-sample#request-a-plan">Email template to request a plan for a raise</a></p>
+<p><strong>Get the email template to ask your manager for a plan:</strong> <a href="/salary-increase-letter-sample#request-a-plan">Email template to request a plan for a raise</a></p>
 </div>
 
 ## You may need to consider other options

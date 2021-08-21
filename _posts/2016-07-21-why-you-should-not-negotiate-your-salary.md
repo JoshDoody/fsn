@@ -37,7 +37,7 @@ Hm. Let's try another.
 
 There are tons of books and even entire college courses on negotiation, so it must be pretty hard to do. There's all this fancy terminology like "anchor" and "BATNA", and recruiters are *professional* salary negotiators. How could you possibly "win" in a negotiation against a professional?
 
-<p class='u-center'><img src="{{ site.baseurl }}/images/gifs/Titus.gif" alt="But I already did something today" style="display: block; width: 100%; max-width: 500px; margin: 0 auto;"/></p>
+<p class='u-center'><img src="/images/gifs/Titus.gif" alt="But I already did something today" style="display: block; width: 100%; max-width: 500px; margin: 0 auto;"/></p>
 
 Negotiation is a pretty big, complicated topic. But we're not talking about negotiation, we're talking about *salary negotiation*, which is much simpler. As long as you avoid [sharing your current or expected salary](/salary-expectations-interview-question/) and follow [these three steps](/salary-negotiation-script/), you'll do pretty well.
 

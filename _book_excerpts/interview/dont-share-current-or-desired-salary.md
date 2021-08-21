@@ -25,7 +25,7 @@ Once you’ve completed the interview process, the company will assess your skil
 
 Your objective with your salary negotiation is to get them as close as possible to the maximum they’re willing to pay. You will do this by giving them as many reasons as possible to pay you more and by avoiding giving them any reasons to pay you less.
 
-Sharing either your current salary or your desired salary could possibly give them a reason to pay you less (if either or both of those numbers is below the maximum they’re [willing to pay]({{ site.baseurl }}/book/salary-structures/what-is-a-salary-structure/)) and is very unlikely to give them reason to pay you more. So, disclosing either your current or desired salary is risky because it will most likely work against you and could cost you money. 
+Sharing either your current salary or your desired salary could possibly give them a reason to pay you less (if either or both of those numbers is below the maximum they’re [willing to pay](/book/salary-structures/what-is-a-salary-structure/)) and is very unlikely to give them reason to pay you more. So, disclosing either your current or desired salary is risky because it will most likely work against you and could cost you money. 
 
 ## How to respond to the dreaded salary question 
 
@@ -35,7 +35,7 @@ For the "current salary" part of the question, I recommend something like, "I’
  
 It’s true that they may do some digging and put together a good educated guess as to what you’re making anyway, but maybe they won’t. If they don’t know what you’re currently making, that makes it more difficult for them to base an offer on your current salary, and that’s probably going to mean a higher initial offer for you. It also means that their eventual offer will need to reflect both your market value and the value you’ll add to the company without being biased by what you currently make.
 
-The exception is if your current salary is high relative to the [market value]({{ site.baseurl }}/book/value/) for your skillset and experience in your industry. In that case, it may help you to tell them what you’re currently making to send a signal that you are highly valued at your current company, and that means they will need to work hard to persuade you to join their team by making a very strong offer. But when in doubt, don’t share your current salary.
+The exception is if your current salary is high relative to the [market value](/book/value/) for your skillset and experience in your industry. In that case, it may help you to tell them what you’re currently making to send a signal that you are highly valued at your current company, and that means they will need to work hard to persuade you to join their team by making a very strong offer. But when in doubt, don’t share your current salary.
  
 My pat answer to the "what are you looking for" part of the dreaded salary question is, "I want this move to be a big step forward for me in terms of both responsibility and compensation." This answer demonstrates that you want to contribute to the company by taking on additional responsibilities and that you want to be paid well for those contributions. 
 
@@ -45,4 +45,4 @@ Here is my recommendation for a good answer to the full dreaded salary question:
 
 > *"I’m not comfortable sharing my current salary. I would prefer to focus on the value I can add to this company rather than what I’m paid at my current job. I don’t have a specific number in mind for a desired salary, and you know better than I do what value my skillset and experience could bring to your company. I want this move to be a big step forward for me in terms of both responsibility and compensation."*
 
-Now you’re prepared to ace the [pre­-interview]({{ site.baseurl }}/book/interview/pre-interview-phase/).
+Now you’re prepared to ace the [pre­-interview](/book/interview/pre-interview-phase/).

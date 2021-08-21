@@ -13,7 +13,7 @@ section: 2
 ---
 You have two main objectives before you begin negotiating:
 
-1. [Understand why you are a valuable candidate for this job]({{ site.baseurl }}/book/negotiate/why-are-you-the-best-candidate)
+1. [Understand why you are a valuable candidate for this job](/book/negotiate/why-are-you-the-best-candidate)
 2. Determine the minimum salary you require to do this job
 
 You’ve probably heard that the key to negotiating is being willing to walk away. Your minimum salary requirement is how you pre-decide when you’re willing to walk away from this salary negotiation. This is also the single most important number you’ll use when negotiating your salary, and it’s your minimum metric for measuring success. 
@@ -42,13 +42,13 @@ Let’s take each of these items one by one to understand its significance and h
 
 Chances are your goal is to increase your salary by taking a new job, so this is your starting point. Plus, it’s what you’ll ultimately measure your results against when your negotiation is finished.
 
-As I mentioned in [The Dreaded Salary Question]({{ site.baseurl }}/book/interview/dont-share-current-or-desired-salary/), you should *not* share this with the company! This number is for your eyes only!
+As I mentioned in [The Dreaded Salary Question](/book/interview/dont-share-current-or-desired-salary/), you should *not* share this with the company! This number is for your eyes only!
 
 ## Your market value for this job
 
-Estimating the market range and [your market value]({{ site.baseurl }}/book/value/) for the job you’re pursuing is very important. This is your first step in determining the minimum salary you’ll accept for this job. Before you can set that minimum salary threshold, you need to understand what your skillset and experience are worth in your particular industry and for this particular job.
+Estimating the market range and [your market value](/book/value/) for the job you’re pursuing is very important. This is your first step in determining the minimum salary you’ll accept for this job. Before you can set that minimum salary threshold, you need to understand what your skillset and experience are worth in your particular industry and for this particular job.
 
-This is important for *all* salary negotiations, including [raises]({{ site.baseurl }}/book/raise/), so I wrote an entire chapter on the topic of [estimating your market value]({{ site.baseurl }}/book/value/). If you have not already, I recommend estimating your market value before you continue.
+This is important for *all* salary negotiations, including [raises](/book/raise/), so I wrote an entire chapter on the topic of [estimating your market value](/book/value/). If you have not already, I recommend estimating your market value before you continue.
 
 ## The amount you think you can get
 
@@ -58,7 +58,7 @@ My goal is to help you exceed this number.
 
 ## What people in your target job at your target company are currently making
 
-This step is similar to some of the steps for [estimating your market value]({{ site.baseurl }}/book/value/), but it’s slightly different. Rather than trying to learn about salaries in your own company or elsewhere in the industry, you’re specifically focused on people doing your target job at your target company.
+This step is similar to some of the steps for [estimating your market value](/book/value/), but it’s slightly different. Rather than trying to learn about salaries in your own company or elsewhere in the industry, you’re specifically focused on people doing your target job at your target company.
 
 There are a couple ways you could find this out. If you know a manager at this company, they may be able to give you a sense of what your target job pays there.
 

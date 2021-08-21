@@ -16,19 +16,25 @@ In this example, "Shawn" is the recruiter you've been working with and "Andy" is
 
 ## A sample check-in email you can send to the recruiter you've been working with
 
-<div class='sample-email'>
-<p>
-	<strong><u>To:</u></strong> Shawn Jones <shawn.jones@example.com><br>
-	<strong><u>Subject:</u></strong> Josh Doody interview—Follow-up and next steps
-</p>
-<hr>
-<p>Hi Shawn</p>
-<p>It’s been about a week since I talked with Andy, so I wanted to follow up to see if you need anything else from me. I’m also curious if you can give me a sense of our next steps in the process.</p>
-<p>Thanks for your time and I hope all is well!</p>
+<div class="email-block">
+  <div class="masthead">
+    <p><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i></p>
+  </div>
+  <div class="email-header">
+    <p>
+			<strong>To:</strong> Shawn Jones <shawn.jones@example.com><br>
+			<strong>Subject:</strong> Josh Doody interview—Follow-up and next steps
+		</p>
+  </div>
+  <div class="email-copy">
+		<p>Hi Shawn</p>
+		<p>It’s been about a week since I talked with Andy, so I wanted to follow up to see if you need anything else from me. I’m also curious if you can give me a sense of our next steps in the process.</p>
+		<p>Thanks for your time and I hope all is well!</p>
 
-<p>Josh Doody<br>
-josh@example.com<br>
-555-555-1234</p>
+		<p>Josh Doody<br>
+		josh@example.com<br>
+		555-555-1234</p>
+  </div>
 </div>
 
-Hopefully, Shawn will reach out and let you know they’re ready to schedule your next interview. In that case, you’re right back to the [interview]({{ site.baseurl }}/book/interview/the-interview-phase/) step, and you’ll rinse and repeat that step along with the [Post-interview]({{ site.baseurl }}/book/interview/post-interview-thank-you-emails/) step until you either get an offer or they let you know, explicitly or implicitly, that they’re not going to move forward with you.
+Hopefully, Shawn will reach out and let you know they’re ready to schedule your next interview. In that case, you’re right back to the [interview](/book/interview/the-interview-phase/) step, and you’ll rinse and repeat that step along with the [Post-interview](/book/interview/post-interview-thank-you-emails/) step until you either get an offer or they let you know, explicitly or implicitly, that they’re not going to move forward with you.

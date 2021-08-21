@@ -42,7 +42,7 @@ There are three interesting things here.
 
 ## 1. You can make up ground even if you didn't negotiate your starting salary
 
-Let's you started your job at $80,000 and didn't negotiate your starting salary. Then you found out [how powerful negotiating can be]({{ site.baseurl }}/book/negotiate/salary-negotiation-strategy-overview/), and realized you probably could've negotiated for a starting salary of $90,000. You like your job, but now you feel like you're underpaid. What can you do without changing jobs?
+Let's you started your job at $80,000 and didn't negotiate your starting salary. Then you found out [how powerful negotiating can be](/book/negotiate/salary-negotiation-strategy-overview/), and realized you probably could've negotiated for a starting salary of $90,000. You like your job, but now you feel like you're underpaid. What can you do without changing jobs?
 
 Take a look at the table above. If you negotiate an additional 5% raise every two years you'll make up that gap in your starting salary by Year 6. If you started at $80,000 and negotiated an additional 5% raise every two years, you're making more than if you had started at $90,000 and gotten the standard 3% raise every year!
 

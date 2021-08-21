@@ -14,7 +14,7 @@ Here are six things you can do to make sure you leave your job on good terms whi
 
 ## Ask your manager and coworkers what you can help with before you go
 
-I was let go during the third round of layoffs [that year]({{ site.baseurl }}/book/leave/leave-your-job-on-good-terms/). Earlier the same year, in the second round of layoffs, a very reliable coworker (let’s call him Jim) was let go.  They gave him the bad news in the morning, and told him he had until the end of the day to clear everything out and wrap things up. He immediately emailed my boss and me—he had been supporting us on that special project—to let us know he had been let go. But, more importantly, he also told us he was working to give us credentials to all the servers, databases, folders, etc., that we would need to take everything off his plate. He even put together a document with passwords, URLs, network addresses, instructions, etc. He left us a full manual to use once he was gone.
+I was let go during the third round of layoffs [that year](/book/leave/leave-your-job-on-good-terms/). Earlier the same year, in the second round of layoffs, a very reliable coworker (let’s call him Jim) was let go.  They gave him the bad news in the morning, and told him he had until the end of the day to clear everything out and wrap things up. He immediately emailed my boss and me—he had been supporting us on that special project—to let us know he had been let go. But, more importantly, he also told us he was working to give us credentials to all the servers, databases, folders, etc., that we would need to take everything off his plate. He even put together a document with passwords, URLs, network addresses, instructions, etc. He left us a full manual to use once he was gone.
 
 He didn’t have to do that. He could’ve just said, "Well, I guess that’s it for me," powered down his laptop and signed off for the day. No one would’ve faulted him for just clocking out and leaving the rest of us to fend for ourselves. Instead, he took care to make sure his coworkers had everything they needed to continue his projects in his absence.
 
@@ -56,21 +56,27 @@ The genuine part is that you’re giving your former coworkers a way to find you
 
 Here’s a short example you can use to say goodbye and make sure your former coworkers know how to find you if they need to. This is a real email—slightly modified—that I sent when I left a great job in 2015. 
 
-<div class='sample-email'>
-<p>
-	<strong><u>To:</u></strong> ACME Corp—Consulting Practice<br>
-	<strong><u>CC:</u></strong> Josh Doody <josh@example.com> [personal email address]<br>
-	<strong><u>Subject:</u></strong> See you around!
-</p>
-<hr>
-<p>Hi everyone</p>
-<p>Today is my last day working with this amazing team at this amazing company. It has been a pleasure working with all of you, and I'm grateful for the opportunity to work with such a great team of experts. The amount of talent in this group is really astounding.</p>
-<p>I've been in this industry for almost 10 years now, and I've learned that this is a very tight-knit industry where I continuously bump into old friends. I'm sure we'll cross paths again, and that's very comforting given how great this team is.</p>
-<p>If you ever need anything or have any questions for me about any of my projects or responsibilities please reach out and ask. Don't spin your wheels trying to figure something out when you could just email me for a quick answer!</p>
-<p>And of course, please stay in touch and feel free to reach out at any time to say hello.</p> 
-<p>My personal email address is: josh@example.com <br>
-I'm on LinkedIn at: https://www.linkedin.com/in/joshdoody</p>
-<p>Thank you for this tremendous opportunity, and for making this such a fantastic place to work!</p>
-<p>All the best</p>
-<p>Josh</p>
+<div class="email-block">
+  <div class="masthead">
+    <p><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i></p>
+  </div>
+  <div class="email-header">
+    <p>
+			<strong>To:</strong> ACME Corp—Consulting Practice<br>
+			<strong>CC:</strong> Josh Doody <josh@example.com> [personal email address]<br>
+			<strong>Subject:</strong> See you around!
+		</p>
+  </div>
+  <div class="email-copy">
+		<p>Hi everyone</p>
+		<p>Today is my last day working with this amazing team at this amazing company. It has been a pleasure working with all of you, and I'm grateful for the opportunity to work with such a great team of experts. The amount of talent in this group is really astounding.</p>
+		<p>I've been in this industry for almost 10 years now, and I've learned that this is a very tight-knit industry where I continuously bump into old friends. I'm sure we'll cross paths again, and that's very comforting given how great this team is.</p>
+		<p>If you ever need anything or have any questions for me about any of my projects or responsibilities please reach out and ask. Don't spin your wheels trying to figure something out when you could just email me for a quick answer!</p>
+		<p>And of course, please stay in touch and feel free to reach out at any time to say hello.</p> 
+		<p>My personal email address is: josh@example.com <br>
+		I'm on LinkedIn at: https://www.linkedin.com/in/joshdoody</p>
+		<p>Thank you for this tremendous opportunity, and for making this such a fantastic place to work!</p>
+		<p>All the best</p>
+		<p>Josh</p>
+  </div>
 </div>

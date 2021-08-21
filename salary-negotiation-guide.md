@@ -71,7 +71,7 @@ If you're expecting to negotiate a job offer soon (but haven't gotten your job o
 
 ### How to answer the "What's your current or expected salary?" interview question
 
-<p class='u-center'><a href="/salary-expectations-interview-question/" target="_blank"><img src="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" alt="The current and expected salary question" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
+<p class='u-center'><a href="/salary-expectations-interview-question/" target="_blank"><img src="/images/DreadedSalaryQuestion.png" alt="The current and expected salary question" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
 
 The salary negotiation could literally begin with your very first conversation with someone at the company you're considering. That first call is often called the "pre-screen" or "pre-interview", and you'll often talk with an internal recruiter at the company.
 
@@ -86,7 +86,7 @@ And there's an awkward moment that comes up in almost every one of these calls. 
 
 ### Set your minimum acceptable salary before you get an offer
 
-<p class='u-center'><a href="/minimum-acceptable-salary/" target="_blank"><img src="{{ site.baseurl }}/images/MinimumAcceptableSalary.png" alt="What is your minimum acceptable salary?" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
+<p class='u-center'><a href="/minimum-acceptable-salary/" target="_blank"><img src="/images/MinimumAcceptableSalary.png" alt="What is your minimum acceptable salary?" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
 
 There's one more thing you need to do before you get your job offer: Set your walk-alway number. This is a crucial step in your salary negotiation because it sets you up for a win-win result: Either the company meets or exceeds this number, and you start your job knowing you're paid enough to justify the work you will be doing, or they do not meet your number and you walk away knowing you made the right decision because they could not pay you enough to do the job.
 

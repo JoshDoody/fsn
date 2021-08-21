@@ -29,7 +29,7 @@ Eary in the interview process, sometimes before you even start interviewing, you
 
 Sound familiar? I bet it does.
 
-[Don't disclose your current or expected salary in a negotiation]({{ site.baseurl }}/salary-expectations-interview-question/) and you'll significantly increase your lifetime earning potential. Every time you get a new job, you'll give yourself the best chance for the highest salary the company will pay.
+[Don't disclose your current or expected salary in a negotiation](/salary-expectations-interview-question/) and you'll significantly increase your lifetime earning potential. Every time you get a new job, you'll give yourself the best chance for the highest salary the company will pay.
 
 ## 2. Negotiate starting salary
 			
@@ -41,7 +41,7 @@ When you get a job offer, **you should negotiate starting salary by countering 1
 
 Even if you counteroffer, you're not done negotiating—there's still another opportunity to get a raise before you finalize your compensation package!
 
-They'll usually come back to you with some sort of compromise—something less than your counter and more than their initial offer—to talk it over and finalize all the details. I call this [The Final Discussion]({{ site.baseurl }}/book/negotiate/prepare-for-the-final-salary-negotiation-discussion/).
+They'll usually come back to you with some sort of compromise—something less than your counter and more than their initial offer—to talk it over and finalize all the details. I call this [The Final Discussion](/book/negotiate/prepare-for-the-final-salary-negotiation-discussion/).
 			
 **This is a chance for you to keep negotiating for more base salary and other benefits like extra vacation, a signing bonus, equity, or even a different work schedule. This is one last chance to increase your lifetime earning potential.**
 
@@ -57,7 +57,7 @@ Promotions usually come with a salary increase. But most people sit back and wai
 			
 Promotions are important because they usually move you into a different pay grade, and that means you have more room for a bigger salary, and it usually means you get a raise just for moving into that new pay range!
 			
-Ready for your next promotion? Take [How to get promoted in 7 days]({{ site.baseurl }}/promotion-course) and get your first lesson right away!
+Ready for your next promotion? Take [How to get promoted in 7 days](/promotion-course) and get your first lesson right away!
 			
 ## 5. Get a raise the old fashioned way
 			

@@ -13,7 +13,7 @@ Hiring people is expensive and risky. Each new hire costs thousands of dollars. 
 
 This chapter is about getting a "big" raise of 8% or more—often described as a “market adjustment”—rather than a standard merit increase or a small “cost of living” increase. 
 
-As I discussed in [the introduction to this part of the book]({{ site.baseurl }}/book/should-you-pursue-a-promotion-or-raise/), getting a big raise can sometimes be difficult without changing companies because raises are often predetermined and limited. But it *can* be done, and there’s usually no harm in seeing how much of a raise you can get.
+As I discussed in [the introduction to this part of the book](/book/should-you-pursue-a-promotion-or-raise/), getting a big raise can sometimes be difficult without changing companies because raises are often predetermined and limited. But it *can* be done, and there’s usually no harm in seeing how much of a raise you can get.
 
 ## The raise process
 
@@ -39,9 +39,9 @@ In all three of these examples, there’s a common theme: You are more valuable 
 
 Here’s a high-level view of our process for requesting a raise:
 
-1. [Define your goal]({{ site.baseurl }}/book/raise/what-is-your-target-salary/)
-2. [Document your accomplishments and accolades]({{ site.baseurl }}/book/raise/raise-build-your-case/)
-3. [Prepare your case]({{ site.baseurl }}/book/raise/ask-for-a-raise-email-sample/)
-4. [Present your case]({{ site.baseurl }}/book/raise/ask-for-a-raise-in-person-first/)
+1. [Define your goal](/book/raise/what-is-your-target-salary/)
+2. [Document your accomplishments and accolades](/book/raise/raise-build-your-case/)
+3. [Prepare your case](/book/raise/ask-for-a-raise-email-sample/)
+4. [Present your case](/book/raise/ask-for-a-raise-in-person-first/)
 
-Ready to get started? Start by [defining your goal]({{ site.baseurl }}/book/raise/what-is-your-target-salary/).
+Ready to get started? Start by [defining your goal](/book/raise/what-is-your-target-salary/).
