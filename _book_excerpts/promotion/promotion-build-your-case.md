@@ -55,11 +55,3 @@ Here are a couple examples:
 * Spotlight Award—For working three straight weekends on pre-sales for the ACME Corp deal to close it before end of year 2014.
 
 While you're collecting examples of accolades, keep an eye out for accomplishments you forgot about. If you find any new accomplishments, make sure you go back and add them to your list of accomplishments.
-
-## Articles you may also like
-
-- [A **salary negotiation email** (to negotiate your starting salary)](https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/)
-- [A **salary increase letter** to ask your boss for a raise](https://fearlesssalarynegotiation.com/salary-increase-letter-sample/)
-- [How to answer the "What's your expected salary?" question](https://fearlesssalarynegotiation.com/salary-expectations-interview-question/)
-- [How to negotiate your salary (without leaving anything on the table)](https://fearlesssalarynegotiation.com/salary-negotiation-guide/)
-- [Got a job offer from Amazon? Learn how to negotiate your salary](https://fearlesssalarynegotiation.com/amazon-salary-negotiation/)

@@ -13,40 +13,46 @@ The best way to prepare your case is to write it down. As it turns out, you’ll
 
 Here’s what your case for a raise will look like once you’ve written it down. I’ve numbered each section on the left side so we can talk about it afterward.
 
-<div class='sample-email'>
-<p>
-	<strong>[1. Address] To: [Your manager]</strong><br>
-	<strong>[2. Subject] Subject: [Your name]</strong> salary adjustment discussion—follow-up
-</p>
-<hr>
-<p><strong>[3. Greeting]</strong> Hi <strong>[Your manager's name]</strong></p>
-<p><strong>[4. Introduction and request]</strong> Thanks for your time the other day. As we discussed, it has been <strong>[amount of time]</strong> since <strong>["my last significant salary adjustment" OR “since I was hired”]</strong>, and I would like to revisit my salary now that I’m contributing much more to the company. I’ve been researching salaries for </strong>[job title]</strong> in <strong>[industry]</strong> industry, and it looks like the mid-point is around <strong>[mid-point from your research]</strong>. So I would like to request a raise to </strong>[target salary]</strong>.</p> 
+<div class="email-block">
+  <div class="masthead">
+    <p><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i></p>
+  </div>
+  <div class="email-header">
+    <p>
+			<strong>[1. Address] To: [Your manager]</strong><br>
+			<strong>[2. Subject] Subject: [Your name]</strong> salary adjustment discussion—follow-up
+		</p>
+  </div>
+  <div class="email-copy">
+		<p><strong>[3. Greeting]</strong> Hi <strong>[Your manager's name]</strong></p>
+		<p><strong>[4. Introduction and request]</strong> Thanks for your time the other day. As we discussed, it has been <strong>[amount of time]</strong> since <strong>["my last significant salary adjustment" OR “since I was hired”]</strong>, and I would like to revisit my salary now that I’m contributing much more to the company. I’ve been researching salaries for </strong>[job title]</strong> in <strong>[industry]</strong> industry, and it looks like the mid-point is around <strong>[mid-point from your research]</strong>. So I would like to request a raise to </strong>[target salary]</strong>.</p> 
 
-<p><strong>[5. Accomplishments Intro]</strong> I’ve been working very hard to find ways to contribute value to our company. Here are some of my accomplishments over the past several months:</p>
+		<p><strong>[5. Accomplishments Intro]</strong> I’ve been working very hard to find ways to contribute value to our company. Here are some of my accomplishments over the past several months:</p>
 
-<p><strong>[6. Accomplishments]</strong></p>
-<ul>
-<li><strong>Activity to result</strong></li>
-<li><strong>Activity to result</strong></li>
-<li><strong>Activity to result</strong></li>
-<li><strong>Activity to result</strong></li>
-</ul>
+		<p><strong>[6. Accomplishments]</strong></p>
+		<ul>
+		<li><strong>Activity to result</strong></li>
+		<li><strong>Activity to result</strong></li>
+		<li><strong>Activity to result</strong></li>
+		<li><strong>Activity to result</strong></li>
+		</ul>
 
-<p><strong>[7. Accolades Intro]</strong> And here is some feedback I’ve received from clients and coworkers over the past several months—their feedback speaks louder than anything I could say:</p>
+		<p><strong>[7. Accolades Intro]</strong> And here is some feedback I’ve received from clients and coworkers over the past several months—their feedback speaks louder than anything I could say:</p>
 
-<p><strong>[8. Accolades]</strong></p>
-<ul>
-<li><strong>Client or coworker name—"Quote" or general feedback documented in email or survey</strong></li>
-<li><strong>Client or coworker name—“Quote” or general feedback documented in email or survey</strong></li>
-<li><strong>Client or coworker name—“Quote” or general feedback documented in email or survey</strong></li>
-</ul>
-<p><strong>[9. Conclusion and repeated request]</strong> I believe these accomplishments and feedback show that my work merits a higher salary, and <strong>[target salary]</strong> seems well aligned to the current market and with the additional value I am adding to our company since my current salary was set. I look forward to hearing what I can do to help make this happen.</p>
+		<p><strong>[8. Accolades]</strong></p>
+		<ul>
+		<li><strong>Client or coworker name—"Quote" or general feedback documented in email or survey</strong></li>
+		<li><strong>Client or coworker name—“Quote” or general feedback documented in email or survey</strong></li>
+		<li><strong>Client or coworker name—“Quote” or general feedback documented in email or survey</strong></li>
+		</ul>
+		<p><strong>[9. Conclusion and repeated request]</strong> I believe these accomplishments and feedback show that my work merits a higher salary, and <strong>[target salary]</strong> seems well aligned to the current market and with the additional value I am adding to our company since my current salary was set. I look forward to hearing what I can do to help make this happen.</p>
 
-<p><strong>[10. Signoff and signature]</strong> Thanks again for your time and consideration!</p>
+		<p><strong>[10. Signoff and signature]</strong> Thanks again for your time and consideration!</p>
 
-<p>All the best</p>
+		<p>All the best</p>
 
-<p><strong>[Your name]</strong></p>
+		<p><strong>[Your name]</strong></p>
+  </div>
 </div>
 
 Now, all you need to do is go through the template and replace anything in **bold** with the appropriate piece of information. This should be pretty easy because you’ve already done all the hard work when you did your research earlier. Feel free to edit this email to make it your own. This is just a template to get you started and show you the bare necessities you should include to make this as useful as possible.

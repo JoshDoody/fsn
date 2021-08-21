@@ -15,40 +15,46 @@ The best way to prepare your case for a promotion is to write it down. As it tur
 
 Here’s what your case for a promotion will look like once you’ve written it down. I’ve numbered each section in brackets so we can talk about it afterward.
 
-<div class='sample-email'>
-<p>
-	<strong>[1. Address] To: [Your manager]</strong><br>
-	<strong>[2. Subject] Subject: [Your name]</strong> promotion discussion—follow-up
-</p>
-<hr>
-<p><strong>[3. Greeting]</strong> Hi <strong>[Your manager's name]</strong></p>
-<p><strong>[4. Introduction and request]</strong> Thanks for your time the other day. As I mentioned in our conversation, I would like to be considered for a promotion to <strong>[target job title]</strong>.</p> 
+<div class="email-block">
+  <div class="masthead">
+    <p><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i></p>
+  </div>
+  <div class="email-header">
+    <p>
+			<strong>[1. Address] To: [Your manager]</strong><br>
+			<strong>[2. Subject] Subject: [Your name]</strong> promotion discussion—follow-up
+		</p>
+  </div>
+  <div class="email-copy">
+		<p><strong>[3. Greeting]</strong> Hi <strong>[Your manager's name]</strong></p>
+		<p><strong>[4. Introduction and request]</strong> Thanks for your time the other day. As I mentioned in our conversation, I would like to be considered for a promotion to <strong>[target job title]</strong>.</p> 
 
-<p><strong>[5. Accomplishments Intro]</strong> I’ve been working very hard to prepare for this opportunity, and I think I am ready. Here are some of my accomplishments over the past several months:</p>
+		<p><strong>[5. Accomplishments Intro]</strong> I’ve been working very hard to prepare for this opportunity, and I think I am ready. Here are some of my accomplishments over the past several months:</p>
 
-<p><strong>[6. Accomplishments]</strong></p>
-<ul>
-<li><strong>Activity to result</strong></li>
-<li><strong>Activity to result</strong></li>
-<li><strong>Activity to result</strong></li>
-<li><strong>Activity to result</strong></li>
-</ul>
+		<p><strong>[6. Accomplishments]</strong></p>
+		<ul>
+		<li><strong>Activity to result</strong></li>
+		<li><strong>Activity to result</strong></li>
+		<li><strong>Activity to result</strong></li>
+		<li><strong>Activity to result</strong></li>
+		</ul>
 
-<p><strong>[7. Accolades Intro]</strong> And here is some feedback I’ve received from clients and coworkers over the past several months—their feedback speaks louder than anything I could say:</p>
+		<p><strong>[7. Accolades Intro]</strong> And here is some feedback I’ve received from clients and coworkers over the past several months—their feedback speaks louder than anything I could say:</p>
 
-<p><strong>[8. Accolades]</strong></p>
-<ul>
-<li><strong>Client or coworker name—"Quote" or general feedback documented in email or survey</strong></li>
-<li><strong>Client or coworker name—“Quote” or general feedback documented in email or survey</strong></li>
-<li><strong>Client or coworker name—“Quote” or general feedback documented in email or survey</strong></li>
-</ul>
-<p><strong>[9. Conclusion and repeated request]</strong> I believe the accomplishments and feedback above show that I am ready for this move, and for greater responsibility and compensation. I look forward to hearing what else you need from me to help make this happen.</p>
+		<p><strong>[8. Accolades]</strong></p>
+		<ul>
+		<li><strong>Client or coworker name—"Quote" or general feedback documented in email or survey</strong></li>
+		<li><strong>Client or coworker name—“Quote” or general feedback documented in email or survey</strong></li>
+		<li><strong>Client or coworker name—“Quote” or general feedback documented in email or survey</strong></li>
+		</ul>
+		<p><strong>[9. Conclusion and repeated request]</strong> I believe the accomplishments and feedback above show that I am ready for this move, and for greater responsibility and compensation. I look forward to hearing what else you need from me to help make this happen.</p>
 
-<p><strong>[10. Signoff and signature]</strong> Thanks again for your time and consideration!</p>
+		<p><strong>[10. Signoff and signature]</strong> Thanks again for your time and consideration!</p>
 
-<p>All the best</p>
+		<p>All the best</p>
 
-<p><strong>[Your name]</strong></p>
+		<p><strong>[Your name]</strong></p>
+  </div>
 </div>
 
 Now, all you need to do is go through the template and replace anything in **bold** with the appropriate piece of information. This should be pretty easy because you’ve already done all the hard work. Feel free to edit this email to make it your own. This is just a template to get you started and show you the bare necessities you should include to make this as useful as possible.

@@ -30,11 +30,3 @@ Once you’ve sent the email, the actual promotion is largely out of your hands.
 If you get what you asked for, congratulations! Your work here is done! By earning this promotion, you have demonstrated that you’re already doing your new job at a level that merits that title. Start pursuing your next challenge by identifying the job you’ll target next time you pursue a promotion. The sooner you start learning and demonstrating the necessarily skills for your next job, the sooner you can revisit this process and start preparing your case for your next promotion.
 
 If you didn't get the promotion you asked for, [work with your manager to make a plan](/book/promotion/when-you-dont-get-promoted/).
-
-## Articles you may also like
-
-- [A **salary negotiation email** (to negotiate your starting salary)](https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/)
-- [A **salary increase letter** to ask your boss for a raise](https://fearlesssalarynegotiation.com/salary-increase-letter-sample/)
-- [How to answer the "What's your expected salary?" question](https://fearlesssalarynegotiation.com/salary-expectations-interview-question/)
-- [How to negotiate your salary (without leaving anything on the table)](https://fearlesssalarynegotiation.com/salary-negotiation-guide/)
-- [Got a job offer from Amazon? Learn how to negotiate your salary](https://fearlesssalarynegotiation.com/amazon-salary-negotiation/)

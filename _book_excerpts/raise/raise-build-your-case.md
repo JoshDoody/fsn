@@ -13,10 +13,6 @@ Your primary reason for requesting a raise is that the salary you’re being pai
 
 So you need to identify the specific reasons—the things you’ve done since your current salary was set—why your value exceeds your salary. These are your *accomplishments*. You should also document positive feedback from your colleagues and clients, demonstrating that your work has positive impact on the company, and showing that others have noticed the additional value you bring to the company. These bits of positive feedback are your *accolades*.
 
-<div class='ad-box'>
-<p><strong>Learn more about how to use your accomplishments and accolades to ask for a raise in an email:</strong> <a href="/salary-increase-letter-sample/">How to ask for a raise - email template</a></p>
-</div>
-
 ## <a name="accomplishments" class="below-nav"></a>Accomplishments
 
 *Accomplishments* are things you’ve done to add additional value to your company by helping it make more money or save money. 
