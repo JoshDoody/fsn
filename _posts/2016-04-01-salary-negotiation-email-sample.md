@@ -11,6 +11,7 @@ tags:
   - popular
   - blogFeatured
 og-image: salary-negotiation-email-make-your-case.png
+popularArticle: true
 date: 2020-05-07
 author: josh
 published: true
@@ -38,7 +39,7 @@ Just in case you're not convinced that you can or should negotiate a higher sala
 
 ## Should you negotiate your job offer? Even if it's already pretty good?
 
-Yes. 
+Yes.
 
 But you were probably looking for a little more information, weren't you? 😉
 
@@ -110,7 +111,7 @@ Here's an email template you can use to reply to your job offer letter while you
 
 ## Evaluate the job offer
 
-There are many components to most job offers, but base salary is usually far more important than all of the others. Base salary is what you can use to set your budget, pay your mortgage, make your car payment, and put food on your table while you work for this company. 
+There are many components to most job offers, but base salary is usually far more important than all of the others. Base salary is what you can use to set your budget, pay your mortgage, make your car payment, and put food on your table while you work for this company.
 
 Base salary is also the gift that keeps on giving: You'll get that salary every year *and* your raises, promotions, performance bonuses, and stock grants will usually be based on this number. You also get paid vacation time every year, but that doesn't tend to affect your raises or bonuses. Signing bonuses are nice, but they're a one-time thing.
 
@@ -162,7 +163,7 @@ Now it's time to counter offer. Here's how to write a counter offer email.
 The best way to counter offer is with an email. Not only does an email give you time to carefully outline your reasons for counter offering, but an email can be circulated within the company in the event that they need to use the financial approval process to allocate additional funds to grant your request.
 
 Here's a standard counter offer template, based on a *real* counter offer letter used in a *real* salary negotiation. I've changed the names and numbers, but otherwise it's copied and pasted from my Sent email folder.
-	
+
 <div class="email-block">
   <div class="masthead">
     <p><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i></p>
@@ -188,9 +189,9 @@ Here's a standard counter offer template, based on a *real* counter offer letter
 
 Let's review the essential components of a strong baseline sample counter offer letter section by section. Then we'll look at variations on the baseline template for specific situations.
 
-### Open with a greeting 
+### Open with a greeting
 
-You'll usuall address your counter offer email to the recruiter you've been working with throughout the hiring process, *not* the hiring manager who extended the verbal job offer. Ultimately, you'll address it to whoever has been your primary point of contact throughout the job interview process because you will probably negotiate with that same person as well. 
+You'll usuall address your counter offer email to the recruiter you've been working with throughout the hiring process, *not* the hiring manager who extended the verbal job offer. Ultimately, you'll address it to whoever has been your primary point of contact throughout the job interview process because you will probably negotiate with that same person as well.
 
 Including a personal comment like "I hope you had a great weekend!" can help build rapport with the recruiter. That could be beneficial later when you need them to go to bat for you.
 
@@ -298,7 +299,7 @@ When you're countering with your minimum, it's important to be sure you counter 
 
 The wording in this version of your salary negotiation letter will be much less collaborative and more firm: "...the base salary needs to be..." as opposed to "...I would be more comfortable if we could settle on..."
 
-That so you can be absolutely sure the recruiter understands that this number is no longer negotiable. 
+That so you can be absolutely sure the recruiter understands that this number is no longer negotiable.
 
 ### <a name="counter-other-offers-template">Counter offering and letting the company know you are considering other offers
 
