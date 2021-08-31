@@ -7,6 +7,7 @@ categories:
   - salary-questions
 tags:
 og-image: DreadedSalaryQuestion.png
+popularArticle: true
 date: 2020-05-07
 author: josh
 published: true
