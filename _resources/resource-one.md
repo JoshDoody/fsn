@@ -5,6 +5,7 @@ description: Nostrum dignissimos aut, ea modi saepe suscipit? Aspernatur necessi
 category: Category One
 heroResource: show
 featuredResource:
+showOnHomepage: true
 resourceCTA: Get the Template
 resourceURL: this-is-my-file-path-NULL.html
 ---

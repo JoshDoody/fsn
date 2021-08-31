@@ -5,6 +5,7 @@ description: Description of resource four with some longer test
 category: Category Test
 heroResource:
 featuredResource:
+showOnHomepage: true
 ---
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem facere repellat expedita dolor quas enim assumenda fuga ipsam atque eius adipisci ipsum saepe commodi nisi quos, accusantium voluptatem distinctio ipsa?

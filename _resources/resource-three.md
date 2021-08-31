@@ -5,6 +5,7 @@ description: Dignissimos est officia quibusdam commodi consectetur quo vero minu
 category: Category Two
 heroResource:
 featuredResource: show
+showOnHomepage: true
 ---
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem facere repellat expedita dolor quas enim assumenda fuga ipsam atque eius adipisci ipsum saepe commodi nisi quos, accusantium voluptatem distinctio ipsa?
