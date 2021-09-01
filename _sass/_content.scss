@@ -1165,3 +1165,32 @@
     right: 0;
   }
 }
+
+// Podcast episode
+.podcast-wrap {
+  max-width: $container-width;
+  margin: {
+    right: auto;
+    left: auto;
+  }
+  overflow: hidden;
+  .slick-list {
+    overflow: visible;
+  }
+}
+
+.podcast-episode {
+  position: relative;
+  .podcast-thumb {
+    max-width: 168px;
+    // margin-bottom: 1.375rem;
+    display: block;
+    position: relative;
+    top: -2.375rem;
+    left: 2rem;
+    z-index: 6666;
+  }
+  .podcast-title {
+    margin-top: -1.5rem;
+  }
+}

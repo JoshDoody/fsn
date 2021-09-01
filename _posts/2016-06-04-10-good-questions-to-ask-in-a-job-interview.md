@@ -7,7 +7,6 @@ categories:
   - interview
 tags:
 featured: true
-popularArticle: true
 og-image: JobInterviewQuestionsYouCanAsk.jpg
 date: 2018-08-29
 author: josh
