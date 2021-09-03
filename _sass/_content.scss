@@ -35,7 +35,9 @@
 .card-carousel .slick-slide,
 .card-carousel-2 .slick-slide,
 .card-carousel-3 .slick-slide,
-.toc-carousel .slick-slide {
+.toc-carousel .slick-slide,
+.in-press-inc .slick-slide,
+.podcast-inc .slick-slide {
   padding-right: 2em;
 }
 
@@ -90,7 +92,9 @@
 .card-control,
 .card-control-2,
 .card-control-3,
-.toc-control {
+.toc-control,
+.in-press-control,
+.podcast-control {
   margin-top: .6rem;
   @media (max-width: 876px) {
     display: none;
@@ -102,19 +106,27 @@
   .card-next-3,
   .card-prev-3,
   .toc-next,
-  .toc-prev {
+  .toc-prev,
+  .in-press-next,
+  .in-press-prev,
+  .podcast-next,
+  .podcast-prev {
     margin-bottom: 4px;
   }
   .card-next,
   .card-next-2,
   .card-next-3,
-  .toc-next {
+  .toc-next,
+  .in-press-next,
+  .podcast-next {
     margin-left: 7px;
   }
   .card-prev,
   .card-prev-2,
   .card-prev-3,
-  .toc-prev {
+  .toc-prev,
+  .in-press-prev,
+  .podcast-prev {
     margin-right: 5px;
   }
   .card-dots,

@@ -96,6 +96,54 @@ $(document).ready(function() {
     ]
   });
 
+  // In the Press
+  $(".in-press-inc").slick({
+    infinite: true,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    dots: false,
+    prevArrow: $(".in-press-prev"),
+    nextArrow: $(".in-press-next"),
+    responsive: [
+      {
+        breakpoint: 980,
+        settings: {
+          slidesToShow: 2
+        }
+      },
+      {
+        breakpoint: 720,
+        settings: {
+          slidesToShow: 1
+        }
+      }
+    ]
+  });
+
+  // In the Press
+  $(".podcast-inc").slick({
+    infinite: true,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    dots: false,
+    prevArrow: $(".podcast-prev"),
+    nextArrow: $(".podcast-next"),
+    responsive: [
+      {
+        breakpoint: 980,
+        settings: {
+          slidesToShow: 2
+        }
+      },
+      {
+        breakpoint: 720,
+        settings: {
+          slidesToShow: 1
+        }
+      }
+    ]
+  });
+
   // Book toc carousel
   $(".toc-carousel").slick({
     infinite: true,
@@ -262,6 +310,17 @@ $(document).ready(function() {
     }
     $btns.removeClass("btn-active");
     $(this).addClass("btn-active");
+  });
+
+  // "Lazy load"
+  // Shows all posts/resources after 9
+  var $ps = $(".blog-list").children(".bg-white");
+  // show first 9
+  $ps.slice(9).hide();
+  // show remaining posts
+  $(".load-more button").click(function() {
+    $(".load-more").remove();
+    $ps.show();
   });
 
 });
