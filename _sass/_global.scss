@@ -102,7 +102,14 @@ ul {
   }
   &.checklist {
     li {
-      display: block;
+      // text-indent: -40px;
+      // margin-left: 40px;
+      // display: block;
+      .fas {
+        &:before {
+          // margin-left: 40px;
+        }
+      }
     }
   }
   &.nope {

@@ -95,12 +95,12 @@ Dignissimos est officia quibusdam commodi consectetur quo vero minus sunt repell
 
 
 <ul class="checklist my-6">
-  <li><i class="checklist my-6"></i> Elementum fringilla proin</li>
-  <li><i class="checklist my-6"></i> Est tellus lacus nisl congue</li>
-  <li><i class="checklist my-6"></i> Tristique urna euismod eu tellus mollis. Pharetra consequat, eget tristique id nunc dui quam. At est sed mauris viverra in.</li>
-  <li><i class="checklist my-6"></i> Elementum fringilla proin</li>
-  <li><i class="checklist my-6"></i> Est tellus lacus nisl congue</li>
-  <li><i class="checklist my-6"></i> Accumsan pellentesque quam ut neque mi, potenti felis blandit.</li>
+  <li><i class="fas fa-check-circle"></i> Elementum fringilla proin</li>
+  <li><i class="fas fa-check-circle"></i> Est tellus lacus nisl congue</li>
+  <li><i class="fas fa-check-circle"></i> Tristique urna euismod eu tellus mollis. Pharetra consequat, eget tristique id nunc dui quam. At est sed mauris viverra in.</li>
+  <li><i class="fas fa-check-circle"></i> Elementum fringilla proin</li>
+  <li><i class="fas fa-check-circle"></i> Est tellus lacus nisl congue</li>
+  <li><i class="fas fa-check-circle"></i> Accumsan pellentesque quam ut neque mi, potenti felis blandit.</li>
 </ul>
 
 
