@@ -3,14 +3,14 @@
     <h2 class="text-3xl uppercase sans-serif">In the Press</h2>
   </div>
   <div>
-    <div class="flex card-control-2 justify-end">
-      <button type="button" class="card-prev-2"><i class="fas fa-arrow-left"></i></button>
-      <div class="card-dots-2"></div>
-      <button type="button" class="card-next-2"><i class="fas fa-arrow-right"></i></button>
+    <div class="flex in-press-control justify-end">
+      <button type="button" class="in-press-prev"><i class="fas fa-arrow-left"></i></button>
+      <!-- <div class="card-dots-2"></div> -->
+      <button type="button" class="in-press-next"><i class="fas fa-arrow-right"></i></button>
     </div>
   </div>
 </div>
-<div class="grid sm:grid-cols-1 lg:grid-cols-3 card-carousel-2">
+<div class="grid sm:grid-cols-1 lg:grid-cols-3 in-press-inc">
 
   {% for press in site.media_articles %}
     <div class="bg-white flex flex-col">
