@@ -9,7 +9,7 @@
   display: block;
   .fas {
     color: $brand-gray;
-    vertical-align: -0.80em;
+    vertical-align: -9px;
   }
 }
 
@@ -1204,5 +1204,11 @@
   }
   .podcast-title {
     margin-top: -1.5rem;
+  }
+  .category {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
   }
 }
