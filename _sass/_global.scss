@@ -12,10 +12,26 @@ body {
 
 a {
   text-decoration: none;
-  transition: .5s ease all;
+  position: relative;
+  transition: all .25s ease;
+  .fa, .fas {
+    vertical-align: middle;
+    transition: all .25s ease;
+  }
   &:visited {}
   &:hover {
     cursor: pointer;
+    .fa, .fas {
+      margin-left: 4px;
+    }
+  }
+  &.anchor-link {
+    text-decoration: none !important;
+    border-bottom: none !important;
+    cursor: text !important;
+    &:hover {
+      text: !important;
+    }
   }
 }
 
