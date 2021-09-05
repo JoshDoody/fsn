@@ -37,6 +37,9 @@
     text-decoration: none;
     &:hover {
       opacity: .75;
+      .fa, .fas {
+        margin-left: 0;
+      }
     }
   }
 }
