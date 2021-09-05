@@ -19,7 +19,12 @@
         <hr class="my-6 w-16 hr-article">
       </div>
       <div class="category items-center justify-between flex" data-mh="press-brand">
-        <div class="pl-8"><img src="assets/imgs/press/{{ press.thumbnail }}" alt=""></div>
+        <div class="pl-8">
+          {% if podcast.thumbnail %}
+            <img src="assets/imgs/press/{{ press.thumbnail }}" alt="">
+          {% else %}
+          {% endif %}
+        </div>
         <div><a href="{{ press.article_url }}" class="cat-arrow"><i class="fas fa-link"></i></a></div>
       </div>
     </div>
