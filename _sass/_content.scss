@@ -1086,59 +1086,6 @@
   }
 }
 
-.resource_page {
-  blockquote {
-    margin: 2.5em auto 2.5em 3em;
-    padding: 2em 2em 2em 4.5em;
-    border: 2px solid #315488;
-    position: relative;
-    p {
-      font: {
-        family: $font-serif;
-        size: 1.125em;
-      }
-      position: relative;
-      z-index: 1111;
-      &:first-of-type {
-        &:before {
-          content: "Note";
-          background-color: $brand-white;
-          color: #395382;
-          font-weight: 700;
-          line-height: 1;
-          text-transform: uppercase;
-          margin-right: 7px;
-          padding: 5px;
-        }
-      }
-    }
-    &:before {
-      content: "";
-      background: url("../imgs/ico-writing.svg") center no-repeat transparent;
-      background-size: cover;
-      width: 104px;
-      height: 104px;
-      margin-top: -52px;
-      position: absolute;
-      top: 50%;
-      left: -3.65em;
-    }
-    &:after {
-      content: "";
-      background-color: $brand-light-gray;
-      width: 86%;
-      height: 110%;
-      margin: 0 auto;
-      position: absolute;
-      top: -5px;
-      right: 0;
-      left: 0;
-      bottom: 0;
-      z-index: 1;
-    }
-  }
-}
-
 .img-caption {
   background-color: $brand-white;
   margin-bottom: 2.5em;
