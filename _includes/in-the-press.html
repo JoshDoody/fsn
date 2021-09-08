@@ -1,44 +1,46 @@
-<div class="md:flex justify-between mb-8">
-  <div>
-    <h2 class="text-3xl uppercase sans-serif">In the Press</h2>
-  </div>
-  <div>
-    <div class="flex in-press-control justify-end">
-      <button type="button" class="in-press-prev"><i class="fas fa-arrow-left"></i></button>
-      <!-- <div class="card-dots-2"></div> -->
-      <button type="button" class="in-press-next"><i class="fas fa-arrow-right"></i></button>
+<div class="in-the-press-wrap">
+  <div class="md:flex justify-between mb-16">
+    <div>
+      <h2 class="text-3xl uppercase sans-serif">In the Press</h2>
+    </div>
+    <div>
+      <div class="flex in-press-control justify-end">
+        <button type="button" class="in-press-prev"><i class="fas fa-arrow-left"></i></button>
+        <!-- <div class="card-dots-2"></div> -->
+        <button type="button" class="in-press-next"><i class="fas fa-arrow-right"></i></button>
+      </div>
     </div>
   </div>
-</div>
-<div class="grid sm:grid-cols-1 lg:grid-cols-3 in-press-inc">
+  <div class="grid sm:grid-cols-1 lg:grid-cols-3 in-press-inc">
 
-  {% for press in site.media_articles %}
-    <div class="bg-white flex flex-col">
-      <div class="p-8 pb-0 flex-grow flex-1" data-mh="press-title">
-        <p class="text-2xl serif"><a href="{{ press.article_url }}">{{ press.title }}</a></p>
+    {% for press in site.media_articles %}
+        <div class="bg-white flex flex-col press-article">
+          {% if press.thumbnail %}
+            <img src="/assets/imgs/press-images/{{ press.thumbnail }}" class="podcast-thumb" data-mh="press-thumb" />
+          {% else %}
+            <img src="/assets/imgs/press-images/ico-press.jpg" class="podcast-thumb" data-mh="press-thumb" />
+          {% endif %}
+          <div class="py-0 px-8 flex-grow flex-1 podcast-title" data-mh="press-title">
+            <p class="text-2xl serif" data-mh="press-title"><a href="{{ press.article_url }}">{{ press.title }}</a></p>
+            <!-- <hr class="my-6 w-16 hr-article"> -->
+          </div>
+          <div class="category items-center justify-between flex" data-mh="press-meta">
+            <div class="pl-8"><p class="text-xs uppercase sans-serif">{{ press.publication }}</p></div>
+            <div><a href="{{ press.article_url }}" class="cat-arrow"><i class="fas fa-link"></i></a></div>
+          </div>
+        </div>
+      {% endfor %}
+
+    <!-- <div class="bg-white flex flex-col">
+      <div class="p-8 pb-0 flex-grow flex-1">
+        <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
         <hr class="my-6 w-16 hr-article">
       </div>
-      <div class="category items-center justify-between flex" data-mh="press-brand">
-        <div class="pl-8">
-          {% if podcast.thumbnail %}
-            <img src="assets/imgs/press/{{ press.thumbnail }}" alt="">
-          {% else %}
-          {% endif %}
-        </div>
-        <div><a href="{{ press.article_url }}" class="cat-arrow"><i class="fas fa-link"></i></a></div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><img src="https://via.placeholder.com/220x28?text=Brand" alt=""></div>
+        <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
       </div>
-    </div>
-  {% endfor %}
+    </div> -->
 
-  <!-- <div class="bg-white flex flex-col">
-    <div class="p-8 pb-0 flex-grow flex-1">
-      <p class="text-2xl serif">Article title goes here spanning as many lines as needed to fit the title</p>
-      <hr class="my-6 w-16 hr-article">
-    </div>
-    <div class="category items-center justify-between flex">
-      <div class="pl-8"><img src="https://via.placeholder.com/220x28?text=Brand" alt=""></div>
-      <div><a href="#" class="cat-arrow"><i class="fas fa-link"></i></a></div>
-    </div>
-  </div> -->
-
-</div><!-- / card-carousel -->
+  </div><!-- / card-carousel -->
+</div>
