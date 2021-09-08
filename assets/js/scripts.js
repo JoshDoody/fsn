@@ -202,6 +202,9 @@ $(document).ready(function() {
     nextArrow: $(".suc-next-2")
   });
 
+  // Add class to anchor links
+  $('a[name]').addClass("anchor-link");
+
   // Accordion
   $(".acc-hide").hide();
   $(".accordion h6").click(function(){
