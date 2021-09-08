@@ -1125,8 +1125,8 @@
   }
 }
 
-// Podcast episode
-.podcast-wrap {
+// In the press/Podcast appearances
+.podcast-wrap, .in-the-press-wrap {
   max-width: $container-width;
   margin: {
     right: auto;
@@ -1138,7 +1138,7 @@
   }
 }
 
-.podcast-episode {
+.podcast-episode, .press-article {
   position: relative;
   .podcast-thumb {
     max-width: 168px;
@@ -1154,8 +1154,18 @@
   }
   .category {
     width: 100%;
-    position: absolute;
-    left: 0;
-    bottom: 0;
+    // position: absolute;
+    // left: 0;
+    // bottom: 0;
+    position: relative;
+    &:before {
+      content: ' ';
+      background-color: $brand-primary;
+      width: 4rem;
+      height: 2px;
+      position: absolute;
+      top: 0;
+      left: 2rem;
+    }
   }
 }
