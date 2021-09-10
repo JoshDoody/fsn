@@ -37,14 +37,18 @@ They may also include other components, but these are typically the components w
 
 Here's an example taken from a modified version of a real Apple job offer from one of my clients (all numbers are $1,000s). This client was a very experienced software developer with substantial background in embedded systems. This offer is for $210,000 base salary, $400,000 total equity (vesting over four years), and a $100,000 sign-on bonus:
 
-<table><tbody>
-<tr><th>Component</th><th></th><th>Year 1</th><th>Year 2</th><th>Year 3</th><th>Year 4</th><th>Total</th></tr>
-<tr><td>Base Salary</td><td></td><td>210</td><td>210</td><td>210</td><td>210</td><td>840</td></tr>
-<tr><td>Sign-on</td><td></td><td>100</td><td></td><td></td><td></td><td>100</td></tr>
-<tr><td><strong>Total Cash</strong></td><td></td><td><strong>310</strong></td><td><strong>210</strong></td><td><strong>210</strong></td><td><strong>210</strong></td><td><strong>940</strong></td></tr>
-<tr><td>New-Hire Equity</td><td></td><td>100</td><td>100</td><td>100</td><td>100</td><td>400</td></tr>
-<tr><td><strong>Total</strong> </td><td></td><td><strong>410</strong></td><td><strong>310</strong></td><td><strong>310</strong></td><td><strong>310</strong></td><td><strong>1,340</strong></td></tr>
-</tbody></table>
+<table>
+	<thead>
+		<tr><th>Component</th><th></th><th>Year 1</th><th>Year 2</th><th>Year 3</th><th>Year 4</th><th>Total</th></tr>
+	</thead>
+	<tbody>
+		<tr><td>Base Salary</td><td></td><td>210</td><td>210</td><td>210</td><td>210</td><td>840</td></tr>
+		<tr><td>Sign-on</td><td></td><td>100</td><td></td><td></td><td></td><td>100</td></tr>
+		<tr><td><strong>Total Cash</strong></td><td></td><td><strong>310</strong></td><td><strong>210</strong></td><td><strong>210</strong></td><td><strong>210</strong></td><td><strong>940</strong></td></tr>
+		<tr><td>New-Hire Equity</td><td></td><td>100</td><td>100</td><td>100</td><td>100</td><td>400</td></tr>
+		<tr><td><strong>Total</strong> </td><td></td><td><strong>410</strong></td><td><strong>310</strong></td><td><strong>310</strong></td><td><strong>310</strong></td><td><strong>1,340</strong></td></tr>
+	</tbody>
+</table>
 
 Let's look a little closer at the main components of an Apple job offer.
 

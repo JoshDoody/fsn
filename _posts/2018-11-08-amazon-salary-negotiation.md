@@ -35,16 +35,20 @@ They will often roll all these numbers together to describe the offer in terms o
 
 Here's an example taken from a modified version of a real Amazon job offer from one of my clients:
 
-<table><tbody>
-<tr><th>Component</th><th></th><th>Year 1</th><th>Year 2</th><th>Year 3</th><th>Year 4</th><th>Total</th></tr>
-<tr><td>Base Salary</td><td></td><td>$145k</td><td>$145k</td><td>$145k</td><td>$145k</td><td>$580k</td></tr>
-<tr><td>Sign-on</td><td></td><td>$30k</td><td>$20k</td><td></td><td></td><td>$50k</td></tr>
-<tr><td><strong>Total Cash</strong></td><td></td><td><strong>$175k</strong></td><td><strong>$165k</strong></td><td><strong>$145k</strong></td><td><strong>$145k</strong></td><td><strong>$630k</strong></td></tr>
-<tr><td>Equity (RSUs) Vesting</td><td></td><td>5%</td><td>15%</td><td>40%</td><td>40%</td><td>100%</td></tr>
-<tr><td>Equity (RSUs) </td><td></td><td>2.5</td><td>7.5</td><td>20</td><td>20</td><td>50</td></tr>
-<tr><td>Equity (RSUs) Value* </td><td></td><td><strong>$5k</strong></td><td><strong>$15k</strong></td><td><strong>$40k</strong></td><td><strong>$40k</strong></td><td><strong>$100k</strong></td></tr>
-<tr><td><strong>Total</strong> </td><td></td><td><strong>$180k</strong></td><td><strong>$180k</strong></td><td><strong>$185k</strong></td><td><strong>$185k</strong></td><td><strong>$730k</strong></td></tr>
-</tbody></table>
+<table>
+	<thead>
+		<tr><th>Component</th><th></th><th>Year 1</th><th>Year 2</th><th>Year 3</th><th>Year 4</th><th>Total</th></tr>
+	</thead>
+	<tbody>
+		<tr><td>Base Salary</td><td></td><td>$145k</td><td>$145k</td><td>$145k</td><td>$145k</td><td>$580k</td></tr>
+		<tr><td>Sign-on</td><td></td><td>$30k</td><td>$20k</td><td></td><td></td><td>$50k</td></tr>
+		<tr><td><strong>Total Cash</strong></td><td></td><td><strong>$175k</strong></td><td><strong>$165k</strong></td><td><strong>$145k</strong></td><td><strong>$145k</strong></td><td><strong>$630k</strong></td></tr>
+		<tr><td>Equity (RSUs) Vesting</td><td></td><td>5%</td><td>15%</td><td>40%</td><td>40%</td><td>100%</td></tr>
+		<tr><td>Equity (RSUs) </td><td></td><td>2.5</td><td>7.5</td><td>20</td><td>20</td><td>50</td></tr>
+		<tr><td>Equity (RSUs) Value* </td><td></td><td><strong>$5k</strong></td><td><strong>$15k</strong></td><td><strong>$40k</strong></td><td><strong>$40k</strong></td><td><strong>$100k</strong></td></tr>
+		<tr><td><strong>Total</strong> </td><td></td><td><strong>$180k</strong></td><td><strong>$180k</strong></td><td><strong>$185k</strong></td><td><strong>$185k</strong></td><td><strong>$730k</strong></td></tr>
+	</tbody>
+</table>
 
 \* Equity (RSUs) Value is computed using a round number of $2,000 per share to make things easy
 

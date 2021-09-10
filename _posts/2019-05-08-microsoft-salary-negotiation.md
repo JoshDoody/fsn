@@ -39,14 +39,18 @@ They will often roll all these numbers together to describe the offer in terms o
 
 Here's an example taken from a modified version of a real Microsoft job offer from one of my clients (all numbers are $1,000s):
 
-<table><tbody>
-<tr><th>Component</th><th></th><th>Year 1</th><th>Year 2</th><th>Year 3</th><th>Year 4</th><th>Total</th></tr>
-<tr><td>Base Salary</td><td></td><td>150</td><td>150</td><td>150</td><td>150</td><td>600</td></tr>
-<tr><td>Sign-on</td><td></td><td>50</td><td></td><td></td><td></td><td>50</td></tr>
-<tr><td><strong>Total Cash</strong></td><td></td><td><strong>200</strong></td><td><strong>150</strong></td><td><strong>150</strong></td><td><strong>150</strong></td><td><strong>650</strong></td></tr>
-<tr><td>New-Hire Equity</td><td></td><td>40</td><td>40</td><td>40</td><td>40</td><td>160</td></tr>
-<tr><td><strong>Total</strong> </td><td></td><td><strong>240</strong></td><td><strong>190</strong></td><td><strong>190</strong></td><td><strong>190</strong></td><td><strong>810</strong></td></tr>
-</tbody></table>
+<table>
+	<thead>
+		<tr><th>Component</th><th></th><th>Year 1</th><th>Year 2</th><th>Year 3</th><th>Year 4</th><th>Total</th></tr>
+	</thead>
+	<tbody>
+		<tr><td>Base Salary</td><td></td><td>150</td><td>150</td><td>150</td><td>150</td><td>600</td></tr>
+		<tr><td>Sign-on</td><td></td><td>50</td><td></td><td></td><td></td><td>50</td></tr>
+		<tr><td><strong>Total Cash</strong></td><td></td><td><strong>200</strong></td><td><strong>150</strong></td><td><strong>150</strong></td><td><strong>150</strong></td><td><strong>650</strong></td></tr>
+		<tr><td>New-Hire Equity</td><td></td><td>40</td><td>40</td><td>40</td><td>40</td><td>160</td></tr>
+		<tr><td><strong>Total</strong> </td><td></td><td><strong>240</strong></td><td><strong>190</strong></td><td><strong>190</strong></td><td><strong>190</strong></td><td><strong>810</strong></td></tr>
+	</tbody>
+</table>
 
 Let's look a little closer at the main components of a Microsoft job offer.
 

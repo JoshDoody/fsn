@@ -39,15 +39,19 @@ They will often roll all these numbers together to describe the offer in terms o
 
 Here's an example taken from a modified version of a real Google job offer from one of my clients (all numbers are $1,000s):
 
-<table><tbody>
-<tr><th>Component</th><th></th><th>Year 1</th><th>Year 2</th><th>Year 3</th><th>Year 4</th><th>Total</th></tr>
-<tr><td>Base Salary</td><td></td><td>140</td><td>140</td><td>140</td><td>140</td><td>560</td></tr>
-<tr><td>Target Bonus</td><td></td><td>20</td><td>20</td><td>20</td><td>20</td><td>80</td></tr>
-<tr><td>Sign-on</td><td></td><td>40</td><td></td><td></td><td></td><td>40</td></tr>
-<tr><td><strong>Total Cash</strong></td><td></td><td><strong>200</strong></td><td><strong>160</strong></td><td><strong>160</strong></td><td><strong>160</strong></td><td><strong>680</strong></td></tr>
-<tr><td>New-Hire Equity</td><td></td><td>75</td><td>75</td><td>75</td><td>75</td><td>300</td></tr>
-<tr><td><strong>Total</strong> </td><td></td><td><strong>275</strong></td><td><strong>235</strong></td><td><strong>235</strong></td><td><strong>235</strong></td><td><strong>980</strong></td></tr>
-</tbody></table>
+<table>
+	<thead>
+		<tr><th>Component</th><th></th><th>Year 1</th><th>Year 2</th><th>Year 3</th><th>Year 4</th><th>Total</th></tr>
+	</thead>
+	<tbody>
+		<tr><td>Base Salary</td><td></td><td>140</td><td>140</td><td>140</td><td>140</td><td>560</td></tr>
+		<tr><td>Target Bonus</td><td></td><td>20</td><td>20</td><td>20</td><td>20</td><td>80</td></tr>
+		<tr><td>Sign-on</td><td></td><td>40</td><td></td><td></td><td></td><td>40</td></tr>
+		<tr><td><strong>Total Cash</strong></td><td></td><td><strong>200</strong></td><td><strong>160</strong></td><td><strong>160</strong></td><td><strong>160</strong></td><td><strong>680</strong></td></tr>
+		<tr><td>New-Hire Equity</td><td></td><td>75</td><td>75</td><td>75</td><td>75</td><td>300</td></tr>
+		<tr><td><strong>Total</strong> </td><td></td><td><strong>275</strong></td><td><strong>235</strong></td><td><strong>235</strong></td><td><strong>235</strong></td><td><strong>980</strong></td></tr>
+	</tbody>
+</table>
 
 Let's look a little closer at the main components of a Google job offer.
 

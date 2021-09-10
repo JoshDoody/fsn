@@ -9,7 +9,7 @@
   display: block;
   .fas {
     color: $brand-gray;
-    vertical-align: -0.80em;
+    vertical-align: -9px;
   }
 }
 
@@ -1086,59 +1086,6 @@
   }
 }
 
-.resource_page {
-  blockquote {
-    margin: 2.5em auto 2.5em 3em;
-    padding: 2em 2em 2em 4.5em;
-    border: 2px solid #315488;
-    position: relative;
-    p {
-      font: {
-        family: $font-serif;
-        size: 1.125em;
-      }
-      position: relative;
-      z-index: 1111;
-      &:first-of-type {
-        &:before {
-          content: "Note";
-          background-color: $brand-white;
-          color: #395382;
-          font-weight: 700;
-          line-height: 1;
-          text-transform: uppercase;
-          margin-right: 7px;
-          padding: 5px;
-        }
-      }
-    }
-    &:before {
-      content: "";
-      background: url("../imgs/ico-writing.svg") center no-repeat transparent;
-      background-size: cover;
-      width: 104px;
-      height: 104px;
-      margin-top: -52px;
-      position: absolute;
-      top: 50%;
-      left: -3.65em;
-    }
-    &:after {
-      content: "";
-      background-color: $brand-light-gray;
-      width: 86%;
-      height: 110%;
-      margin: 0 auto;
-      position: absolute;
-      top: -5px;
-      right: 0;
-      left: 0;
-      bottom: 0;
-      z-index: 1;
-    }
-  }
-}
-
 .img-caption {
   background-color: $brand-white;
   margin-bottom: 2.5em;
@@ -1178,8 +1125,8 @@
   }
 }
 
-// Podcast episode
-.podcast-wrap {
+// In the press/Podcast appearances
+.podcast-wrap, .in-the-press-wrap {
   max-width: $container-width;
   margin: {
     right: auto;
@@ -1191,7 +1138,7 @@
   }
 }
 
-.podcast-episode {
+.podcast-episode, .press-article {
   position: relative;
   .podcast-thumb {
     max-width: 168px;
@@ -1204,5 +1151,21 @@
   }
   .podcast-title {
     margin-top: -1.5rem;
+  }
+  .category {
+    width: 100%;
+    // position: absolute;
+    // left: 0;
+    // bottom: 0;
+    position: relative;
+    &:before {
+      content: ' ';
+      background-color: $brand-primary;
+      width: 4rem;
+      height: 2px;
+      position: absolute;
+      top: 0;
+      left: 2rem;
+    }
   }
 }
