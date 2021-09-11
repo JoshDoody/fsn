@@ -29,7 +29,7 @@ Does this company's typical day sound like one you would enjoy?
 
 A similar and equally useful question is:
 
-> **“What is the greatest challenge for *this particular role*?"**
+<blockquote class="quote-callout note-text"><strong>“What is the greatest challenge for <em>this particular role</em>?"</strong></blockquote>
 
 These job interview questions show that you’re already thinking about the job itself and the answers will help you evaluate whether the job is a good fit for you. You could hear about the day-to-day and realized it's not a good fit for you. Or maybe hearing about the current challenges faced by the team will help you realize you wouldn’t function well in that environment.
 
