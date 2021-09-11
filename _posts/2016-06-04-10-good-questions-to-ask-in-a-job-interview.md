@@ -29,7 +29,22 @@ Does this company's typical day sound like one you would enjoy?
 
 A similar and equally useful question is:
 
-<blockquote class="quote-callout note-text"><strong>“What is the greatest challenge for <em>this particular role</em>?"</strong></blockquote>
+<blockquote class="quote-callout note-text">
+	<p><strong>“What is the greatest challenge for <em>this particular role</em>?"</strong></p>
+</blockquote>
+
+<blockquote class="quote-callout note-text">
+  <p><span>Note</span>Accumsan pellentesque quam ut neque mi, potenti felis blandit. Elementum fringilla proin arcu ipsum et, duis sed. Laoreet est, faucibus faucibus vel, in etiam quam congue vel.</p>
+</blockquote>
+
+<blockquote class="link-callout note-text">
+  <p><span>Check it out</span>Curabitur mi sed donec tincidunt ut sagittis. Blandit imperdiet nisl, enim risus urna luctus orci id. Integer ultrices habitasse in urabitur mi sed donec tincidunt ut.</p>
+  <p><a href="#">Link to another page or article <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
+
+<blockquote class="guarantee-callout note-text">
+  <p><span>Custom</span>This is a random quote I pulled out from assets/imgs/, made a class and let if fly. You can grab any SVG from the assets dir or bring your own in. Then add a new class at the bottom of _callout-boxes.scss and you're good to go!</p>
+</blockquote>
 
 These job interview questions show that you’re already thinking about the job itself and the answers will help you evaluate whether the job is a good fit for you. You could hear about the day-to-day and realized it's not a good fit for you. Or maybe hearing about the current challenges faced by the team will help you realize you wouldn’t function well in that environment.
 
