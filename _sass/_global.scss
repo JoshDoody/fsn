@@ -77,6 +77,27 @@ p {
   }
 }
 
+.blog-post, .about-content, .book-content, .longform-content {
+  h2, h3, h4, h5, h6 {
+    font-family: $font-serif;
+  }
+  h2 {
+    font-size: 1.77rem;
+  }
+  h3 {
+    font-size: 1.33rem;
+  }
+  h4 {
+    font-size: 1.11rem;
+  }
+  h5 {
+    font-size: 1rem;
+  }
+  h6 {
+    font-size: .88rem;
+  }
+}
+
 ul, ol {
   margin: 0 0 1em 20px;
   list-style-position: outside;
@@ -205,7 +226,7 @@ hr {
   }
 }
 
-.blog-post {
+.blog-post, .book-content {
   a {
     border-bottom: 1px solid $brand-secondary;
   }
