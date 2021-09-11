@@ -1,0 +1,31 @@
+---
+layout: longform
+title: Long form sales page
+subhead: This is the subhead/intro. Long form sales page template
+bodyClass: longform
+---
+
+<div class="container mx-auto py-20">
+
+  <div class="mx-auto md:w-9/12 lg:w-8/12">
+
+    <h1 class="text-4xl text-center">{{ page.title }}</h1>
+    <hr class="my-8 mx-auto w-16">
+    <p class="serif text-xl text-center pb-16">{{ page.subhead }}</p>
+
+    <p>You can do whatever you'd like here!</p>
+
+    <p>Bring in existing modules like success stories or the podcast carousel, all new content. The sky is the limit.</p>
+
+    <p>It is using its own layout, which is _includes/longform.html. I have the header box commented out in liquid, but it can be added in, or the layout modified whichever way you'd like it. I've also provided it with a bodyclass so it can be targeted very easily with CSS.</p>
+
+    <p>This page could also be duplicated and given a new layout, bodyclass, or left alone, and it would be a whole new sales page.</p>
+
+    <p>The only "major" thing to remember here is that the max-width is set just below 790 pixels wide at its largest. That was per Corey's note in Todoist. That can be adjusted in the div above page.title. That means that some of the modules that look good at full-width, may look a little squished or strange here. We're taking something that is used to being 1140px wide, and smashing it into a box half it's size. Things are responsive. But they still may need some tweaks once brought over. </p>
+
+    <p>The other option here is to move all of these divs into the layout. Then you'd be able to use markdown. I don't think that would be the case as it's a sales page, and there's probably going to be a lot of content and markup here, but it's an option. Keeping these few divs out of the layout gives you more flexibility when expanding this page into other layouts. What works for one long form page may not work for another, then you need to get into conditions to get around some basic divs.</p>
+
+  </div>
+
+</div>
+

@@ -16,15 +16,15 @@
     {% for podcast in site.media_podcasts %}
       <div class="bg-white flex flex-col podcast-episode">
         {% if podcast.thumbnail %}
-          <img src="assets/imgs/podcast-images/{{ podcast.thumbnail }}" class="podcast-thumb" />
+          <img src="/assets/imgs/podcast-images/{{ podcast.thumbnail }}" class="podcast-thumb" data-mh="podcast-thumb" />
         {% else %}
-          <img src="assets/imgs/podcast-images/ico-podcast.jpg" class="podcast-thumb" />
+          <img src="/assets/imgs/podcast-images/ico-podcast.jpg" class="podcast-thumb" data-mh="podcast-thumb" />
         {% endif %}
         <div class="py-0 px-8 flex-grow flex-1 podcast-title" data-mh="podcast-title">
           <p class="text-2xl serif"><a href="{{ podcast.podcast_url }}">{{ podcast.title }}</a></p>
-          <hr class="my-6 w-16 hr-article">
+          <!-- <hr class="my-6 w-16 hr-article"> -->
         </div>
-        <div class="category items-center justify-between flex" data-mh="podcast-meta">
+        <div class="category items-center justify-between flex" data-mh="podcast-category">
           <div class="pl-8"><p class="text-xs uppercase sans-serif">{{ podcast.podcast }}</p></div>
           <div><a href="{{ podcast.podcast_url }}" class="cat-arrow"><i class="fas fa-link"></i></a></div>
         </div>

@@ -1,0 +1,74 @@
+blockquote {
+  margin: 2.5em auto 2.5em 3em;
+  padding: 2em 2em 2em 4.5em;
+  border: 2px solid #315488;
+  position: relative;
+  p {
+    font: {
+      family: $font-serif;
+      size: 1.125em;
+    }
+    margin-bottom: 0;
+    position: relative;
+    z-index: 1111;
+    a {
+      color: $brand-primary;
+      font-weight: 700;
+      border: none !important;
+      position: relative;
+    }
+    span {
+      background-color: $brand-white;
+      color: #395382;
+      font-weight: 700;
+      line-height: 1;
+      text-transform: uppercase;
+      margin-right: 7px;
+      padding: 5px;
+      display: inline-block;
+    }
+  }
+  &:before {
+    content: "";
+    background: {
+      color: transparent;
+      position: center;
+      repeat: no-repeat;
+      size: cover;
+    }
+    width: 104px;
+    height: 104px;
+    margin-top: -52px;
+    position: absolute;
+    top: 50%;
+    left: -60px;
+  }
+  &:after {
+    content: "";
+    background-color: $brand-light-gray;
+    width: 86%;
+    height: 110%;
+    margin: 0 auto;
+    position: absolute;
+    top: -5px;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1;
+  }
+  &.quote-callout {
+    &:before {
+      background-image: url("../imgs/ico-writing.svg");
+    }
+  }
+  &.link-callout {
+    &:before {
+      background-image: url("../imgs/ico-link.svg");
+    }
+  }
+  &.guarantee-callout {
+    &:before {
+      background-image: url("../imgs/ico-guarantee.svg");
+    }
+  }
+}
