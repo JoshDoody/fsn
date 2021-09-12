@@ -78,16 +78,16 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem facere repellat e
 Nostrum dignissimos aut, ea modi saepe suscipit? Aspernatur necessitatibus unde optio magni esse ipsam, qui maxime animi.
 
 
-<blockquote class="quote-callout note-text">
+<blockquote class="ico quote-callout">
   <p><span>Note</span>Accumsan pellentesque quam ut neque mi, potenti felis blandit. Elementum fringilla proin arcu ipsum et, duis sed. Laoreet est, faucibus faucibus vel, in etiam quam congue vel.</p>
 </blockquote>
 
-<blockquote class="link-callout note-text">
+<blockquote class="ico link-callout">
   <p><span>Check it out</span>Curabitur mi sed donec tincidunt ut sagittis. Blandit imperdiet nisl, enim risus urna luctus orci id. Integer ultrices habitasse in urabitur mi sed donec tincidunt ut.</p>
   <p><a href="#">Link to another page or article <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
-<blockquote class="guarantee-callout note-text">
+<blockquote class="ico guarantee-callout">
   <p><span>Custom</span>This is a random quote I pulled out from assets/imgs/, made a class and let if fly. You can grab any SVG from the assets dir or bring your own in. Then add a new class at the bottom of _callout-boxes.scss and you're good to go!</p>
 </blockquote>
 
