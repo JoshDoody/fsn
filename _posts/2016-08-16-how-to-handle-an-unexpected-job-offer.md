@@ -58,7 +58,7 @@ I winced when I read this heading because I knew what was coming.
 
 Here's a quick reference you can use to handle The Dreaded Salary Question:
 
-<p class='u-center'><a href="/salary-expectations-interview-question/"><img src="/images/DreadedSalaryQuestion.png" width="100%" alt="The Dreaded Salary Question summary"></a></p>
+<a href="/salary-expectations-interview-question/"><img src="/assets/imgs/post-images/DreadedSalaryQuestion.png" alt="The Dreaded Salary Question summary"></a>
 
 ## I didn’t want to embarrass him/I wanted to be likable
 

@@ -15,6 +15,7 @@ date: 2016-12-20
 author: josh
 published: true
 ---
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b4pKH_mvlVo" title="Software Developer positioning to get more job offers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **See also:** [Sample résumé format review](/sample-resume-format-review/)—Stand out from other candidates by streamlining your résumé and highlighting your key qualifications

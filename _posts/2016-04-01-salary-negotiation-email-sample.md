@@ -223,12 +223,10 @@ When they need further approval, you need to make it as easy as possible for the
 
 Instead, give them a well-written counter offer email that they can circulate along with their request for additional budget. You will make your own case much better than they will, so giving them your case in writing allows you to make your best case to whoever needs to approve your final salary.
 
-<p class='u-center'>
-	<figure>
-		<a href="/images/salary-negotiation-email-make-your-case.png" target="_blank"><img src="/images/salary-negotiation-email-make-your-case.png" alt="Salary Negotiation Email - State your case" style="display: block; width: 100%; max-width: 750px; margin: 0 auto;"/></a>
-		<figcaption style="text-align: center;">Salary Negotiation Email Template - An example of how to state your case</figcaption>
-	</figure>
-</p>
+<figure>
+	<a href="/assets/imgs/post-images/salary-negotiation-email-make-your-case.png" target="_blank"><img src="/assets/imgs/post-images/salary-negotiation-email-make-your-case.png" alt="Salary Negotiation Email - State your case"/></a>
+	<figcaption>Salary Negotiation Email Template - An example of how to state your case</figcaption>
+</figure>
 
 #### How to write a compelling case to support your counter offer
 
@@ -308,26 +306,6 @@ One of the most common questions my coaching clients ask about negotiating salar
 In general, I don't think that's a good tactic. But! This moment in the salary negotiation—when you're delivering your counter offer—is the perfect time to alert the company that you're considering multiple job offers so they are incentivized to improve their offer to convince you to join their team.
 
 It doesn't take much, and you can do this very subtly.
-
-<div class='sample-email'>
-<p>
-	<strong><u>To:</u></strong> Brittany Jones <brittany.jones@example.com> [recruiter]<br>
-	<strong><u>CC:</u></strong> Katherine Thompson <katherine.thompson@example.com> [recruiter’s manager]<br>
-	<strong><u>Subject:</u></strong> Josh Doody - My thoughts on Tom’s verbal offer
-</p>
-<hr>
-<p>Hi Brittany</p>
-<p>I hope you had a great weekend!</p>
-<p>I've been considering Tom’s offer over the weekend and everything sounds good, although I would like to discuss the base salary component.</p>
-<p>I think I'm a particularly good match for this position, where I would add significant value to ACME Corp. and to the Tom’s Practice from Day One. I have a strong technical background and have built and managed teams of technical people. I am exceptionally good with clients, and have taught short courses on building rapport with and managing clients. I have an MBA and have successfully managed many portfolios of business in the Widget Making industry over the past seven years. I've been working with [Partner Company] for over two and a half years, and have experience with many of their partnership managers and leadership team. I have a strong technical writing background and can both create and delegate the creation of good collateral quickly and efficiently. </p>
-<p>All of these qualities contribute directly to the core components of this particular position, and that's why I'm excited for the opportunity to work with Tom and his Practice in this capacity at ACME Corp.</p>
-<p>Tom offered $50,000 and I would be more comfortable if we could settle on $56,000. I feel that amount reflects the importance and expectations of the position for ACME Corp’s business, and my qualifications and experience as they relate to this particular position. </p>
-<p><strong>I also want to let you know that I am considering a strong offer from another company right now as well. So I’m working to determine the best opportunity for me to contribute and propel my career forward. I appreciate you working with me throughout this process to understand this opportunity and design a compensation package that is beneficial to us both.</strong></p>
-<p>Thanks for your time, and I look forward to talking with you on Monday morning at 10:30 ET!</p>
-<p>All the best</p>
-<p>Josh Doody<br>
-josh@example.com</p>
-</div>
 
 <div class="email-block">
   <div class="masthead">

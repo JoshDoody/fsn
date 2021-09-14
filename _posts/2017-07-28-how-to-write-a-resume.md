@@ -24,7 +24,7 @@ The biggest value in writing a resume is gaining an understanding of the specifi
 
 Two years ago, when I was hiring to build out my marketing department, I read through dozens of resumes and cover letters. The biggest problem that kept me from selecting a candidate for an interview? They didn’t include any information that connected their resume with the position I was hiring for.
 
-<p class="resume-image"><img src="/images/how-to-write-a-resume/bad-cover-letter.png" alt="Bad Cover Letter"></p>
+<img src="/assets/imgs/post-images/how-to-write-a-resume/bad-cover-letter.png" alt="Bad Cover Letter">
 
 As a guy who has sat on both sides of the hiring table (hiring employees for a department, hiring freelancers for a small business, interviewing for positions, etc), let me tell you, the easiest way to have your resume shoot you in the foot is to have a disconnect between the position you’re applying for and the experience and story you share on your resume.
 
@@ -90,7 +90,7 @@ We’re in luck, this summary is full of these keywords and key phrases. I’ve 
 
 You can see my annotated copy here:
 
-<p class="resume-image"><img src="/images/how-to-write-a-resume/merchandising-manager-notes.jpg" alt="Annotated Merchandising Manager resume"></p>
+<img src="/assets/imgs/post-images/how-to-write-a-resume/merchandising-manager-notes.jpg" alt="Annotated Merchandising Manager resume">
 
 This position is very focused on profitability. Check out the keywords we can see in the summary: ‘Profitability’, ‘product development’, ‘control inventory’, ‘maximize sales and margin.’ Each of these words and phrases is something we want to highlight in our cover letter and our resume.
 
@@ -102,7 +102,7 @@ I tackle duties and responsibilities in two separate ways. First, I read through
 
 Now, let’s steps through this position description and highlight / underline all the words and phrases that relate to cost and revenue, project management, or specific skills that are called out for the job.
 
-<p class="resume-image"><img src="/images/how-to-write-a-resume/duties-and-responsibilities.jpg" alt="Annotated duties and responsibilities"></p>
+<img src="/assets/imgs/post-images/how-to-write-a-resume/duties-and-responsibilities.jpg" alt="Annotated duties and responsibilities">
 
 Once we do that, we can start to see the different ‘buckets’ that the duties and responsibilities fall into. Looking at this resume, it looks like they fall into four main buckets:
 
@@ -115,15 +115,15 @@ These buckets are just groupings of the different duties on the resume. I find t
 
 I copy the duties and responsibilities from the position description into a word editor (Word, Pages, Google Docs, etc). I break the duties and responsibilities apart so each individual sentence is on its own line.
 
-<p class="resume-image"><img src="/images/how-to-write-a-resume/duties-and-responsibilities-gdoc.png" alt="List of duties and responsibilities"></p>
+<img src="/assets/imgs/post-images/how-to-write-a-resume/duties-and-responsibilities-gdoc.png" alt="List of duties and responsibilities">
 
 I add the buckets to the top of the page.
 
-<p class="resume-image"><img src="/images/how-to-write-a-resume/duties-and-responsibilities-gdoc-buckets.png" alt="Duties and responsibilities empty buckets"></p>
+<img src="/assets/imgs/post-images/how-to-write-a-resume/duties-and-responsibilities-gdoc-buckets.png" alt="Duties and responsibilities empty buckets">
 
 I start sorting the different duty and responsibility sentences into the buckets. If a duty or responsibility seems to belong in two separate buckets, I’ll copy it and put it into both buckets.
 
-<p class="resume-image"><img src="/images/how-to-write-a-resume/duties-and-responsibilities-gdoc-filled-buckets.png" alt="Duties and responsibilities filled buckets"></p>
+<img src="/assets/imgs/post-images/how-to-write-a-resume/duties-and-responsibilities-gdoc-filled-buckets.png" alt="Duties and responsibilities filled buckets">
 
 Now that we have a summary of the different areas of responsibility that relate to the position (the buckets and their contents), we have an idea of the topics we should highlight in the resume and cover letter.
 
@@ -136,7 +136,7 @@ Once we’ve underlined this section, we’re going to add it to a new page in t
  - understand the employer’s needs and also
  - understand the specific language they use to communicate those needs
 
-<p class="resume-image"><img src="/images/how-to-write-a-resume/resume-skills.jpg" alt="Resume skills"></p>
+<img src="/assets/imgs/post-images/how-to-write-a-resume/resume-skills.jpg" alt="Resume skills">
 
 Okay, that’s the system I use to:
 
@@ -154,7 +154,7 @@ There’s 5 main sections to my template, let's step through them.
 
 ### Who are you? (The Header)
 
-<p class="resume-image"><img src="/images/how-to-write-a-resume/resume-header.png" alt="Resume header template"></p>
+<img src="/assets/imgs/post-images/how-to-write-a-resume/resume-header.png" alt="Resume header template">
 
 The header on the resume is all about you. It’s where you put your name and any contact information you want to include. As a bare minimum, include:
 
@@ -172,7 +172,7 @@ I do this tactic with Look Shiny, my marketing consulting company. When I send a
 
 This is what the header of my resume looks like:
 
-<p class="resume-image"><img src="/images/how-to-write-a-resume/resume-header-kai.png" alt="Resume header for Kai Davis"></p>
+<img src="/assets/imgs/post-images/how-to-write-a-resume/resume-header-kai.png" alt="Resume header for Kai Davis">
 
 ### Professional Profile (Defining your career)
 
@@ -182,7 +182,7 @@ On the plus side, they’re a quick way to define who you are and include the bu
 
 Here’s what the professional profile on my resume looks like:
 
-<p class="resume-image"><img src="/images/how-to-write-a-resume/resume-professional-profile.png" alt="Resume professional profile"></p>
+<img src="/assets/imgs/post-images/how-to-write-a-resume/resume-professional-profile.png" alt="Resume professional profile">
 
 Lead off with your current (or highest ranking) title. Don’t make up a title or embellish your current title. If you’ve had the title at a company on a business card or in a director, list it here.
 
@@ -202,11 +202,11 @@ The Core Competencies section is a place to highlight additional keywords and ke
 
 Here’s what my Core Competencies section looks like:
 
-<p class="resume-image"><img src="/images/how-to-write-a-resume/resume-core-comp.png" alt="Resume core competencies example"></p>
+<img src="/assets/imgs/post-images/how-to-write-a-resume/resume-core-comp.png" alt="Resume core competencies example">
 
 ### Work Experience / Previous Positions
 
-<p class="resume-image"><img src="/images/how-to-write-a-resume/resume-work-experience.png" alt="Resume work experience example"></p>
+<img src="/assets/imgs/post-images/how-to-write-a-resume/resume-work-experience.png" alt="Resume work experience example">
 
 You only want to show your 3–4 most recent positions over the past 5 years. Your resume should be under 2 pages, so don’t get carried away listing everything you’ve done. Remember, it’s better to have it be short and specific to the position you’re applying for than long and full of irrelevant information.
 
@@ -221,7 +221,7 @@ The second example includes specific, quantitative experience for that position.
 
 Each of the bullets in the job experience should connect to either one of the position ‘buckets’ or one of the specific job duties / skills / responsibilities you identified during the position description analysis.
 
-<p class="resume-image"><img src="/images/how-to-write-a-resume/resume-writing-bucket.png" alt="Resume buckets with work experience and previous positions"></p>
+<img src="/assets/imgs/post-images/how-to-write-a-resume/resume-writing-bucket.png" alt="Resume buckets with work experience and previous positions">
 
 You want two bullets per job. Try and have each bullet be from a different bucket. If you can’t, don’t stress, but it’s better to show a diversity of experience in past positions. I’ll talk more about this in Part 4.
 
@@ -233,11 +233,11 @@ Here’s what to do: split your experience section into Work Experience and Othe
 
 Visually, here’s what that will look like:
 
-<p class="resume-image"><img src="/images/how-to-write-a-resume/resume-work-experience-other-experience.png" alt="Resume work experience example"></p>
+<img src="/assets/imgs/post-images/how-to-write-a-resume/resume-work-experience-other-experience.png" alt="Resume work experience example">
 
 ### Education
 
-<p class="resume-image"><img src="/images/how-to-write-a-resume/resume-education.png" alt="Resume education example"></p>
+<img src="/assets/imgs/post-images/how-to-write-a-resume/resume-education.png" alt="Resume education example">
 
 List your relevant higher education experience. Don’t list your GPA. Don’t list any awards, honors, or scholarships.
 
@@ -270,7 +270,7 @@ Be wide and loose during this step. We want to brainstorm recent positions you�
 
 Here’s what this will look like:
 
-<p class="resume-image"><img src="/images/how-to-write-a-resume/past-job-experience.jpg" alt="Resume past job experience example"></p>
+<img src="/assets/imgs/post-images/how-to-write-a-resume/past-job-experience.jpg" alt="Resume past job experience example">
 
 ### Volunteer Experience / Other Things You’ve Done
 
@@ -378,7 +378,7 @@ We want to sort the experiences we brainstormed into different ‘buckets’. Op
 
 Add a header to the section that describes the common theme for that ‘bucket’. Here’s what an example could look like:
 
-<p class="resume-image"><img src="/images/how-to-write-a-resume/resume-buckets.png" alt="Resume buckets"></p>
+<img src="/assets/imgs/post-images/how-to-write-a-resume/resume-buckets.png" alt="Resume buckets">
 
 The **bolded** sections are the ‘buckets’, based on the keywords we brainstormed for each position. The (•) bulleted sections are the quantifiable experiences we brainstormed in the above section.
 
@@ -392,7 +392,7 @@ Repeat this for each company you brainstormed onto the list. At the end of the e
 
 Go back to the brainstorming you did for the position description and look at the different buckets and skills you pulled out of the position description. Here’s what we ended up with in our example:
 
-<p class="resume-image"><img src="/images/how-to-write-a-resume/resume-full-buckets.png" alt="Resume fulle buckets"></p>
+<img src="/assets/imgs/post-images/how-to-write-a-resume/resume-full-buckets.png" alt="Resume fulle buckets">
 
 Look at the different ‘buckets’ you found in the position description. Do any match up with the buckets you identified in your job experience? Are any close?
 
@@ -408,7 +408,7 @@ Whenever possible, reuse the exact language the position description used to des
 
 ## Taking credit for your accomplishments & defeating ‘Martyr Syndrome’
 
-<p class="resume-image"><img src="/images/how-to-write-a-resume/martyr.png" alt="Martyr or Hustler example"></p>
+<img src="/assets/imgs/post-images/how-to-write-a-resume/martyr.png" alt="Martyr or Hustler example"></p>
 
 > A martyr is all action with plenty of good work to talk about, but remains unable or unwilling to do the talking. — Chris Guillebeau
 

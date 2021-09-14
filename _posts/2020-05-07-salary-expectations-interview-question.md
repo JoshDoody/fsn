@@ -51,10 +51,6 @@ So when you hear the salary expectations question, you'll be thinking "What do I
 
 Here's a short video with the basics of how to respond when asked for your salary expectations or current salary. Then I'll tell you more about the nuances of this question and what to do when they don't give up so easily:
 
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4N7mOR9yv2U?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4N7mOR9yv2U?rel=0" title="'What's your current salary' is a trap question—Here's how to answer it" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 It's easier to understand the salary expectations questions if we answer another question first: What is the recruiter or hiring manager *really* asking for here?
@@ -210,7 +206,7 @@ Here is my recommendation for a good answer to the full version of this question
 
 > "I’m not comfortable sharing my current salary. I would prefer to focus on the value I can add to this company rather than what I’m paid at my current job. I don’t have a specific number in mind for a desired salary, and you know better than I do what value my skillset and experience could bring to your company. I want this move to be a big step forward for me in terms of both responsibility and compensation."
 
-<p class='u-center'><a href="/images/DreadedSalaryQuestion.png" target="_blank"><img src="/images/DreadedSalaryQuestion.png" alt="The current and expected salary question" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
+<img src="/assets/imgs/post-images/DreadedSalaryQuestion.png" alt="The current and expected salary question" width="100%">
 
 So let's say that you're playing a game, and your goal is to get past the salary expectations without sharing your salary requirements. This is Level 1, and the script I just gave you will usually win the game.
 
@@ -372,7 +368,7 @@ This is the most common objection I hear from recruiters who disagree with my ad
 
 Here's a typical comment on interview I did for [Glassdoor.com](https://www.glassdoor.com){:target = "blank"} about [9 Things to Never Say in a Salary Negotiation](https://www.glassdoor.com/blog/9-things-to-never-say-in-a-salary-negotiation/){:target = "blank"}:
 
-<p class='u-center'><a href="/images/DSQ_RecruiterWasteOfTime_4.png" target="_blank"><img src="/images/DSQ_RecruiterWasteOfTime_4.png" alt="I don't deal with candidates who don't disclose salaries. It's a waste of my time." style="display: block; max-width: 100%; margin: 0 auto; border: 1px solid #555;"/></a></p>
+<img src="/assets/imgs/post-images/DSQ_RecruiterWasteOfTime_4.png" alt="I don't deal with candidates who don't disclose salaries. It's a waste of my time." width="100%">
 
 I understand how this could be a problem for them.
 

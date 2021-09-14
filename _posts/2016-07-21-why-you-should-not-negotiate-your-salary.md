@@ -21,7 +21,7 @@ You applied, went through a number of interviews, finally got a job offer, and t
 
 But... this doesn't actually happen because it's *expensive* to interview people. Just as you've invested time and energy throughout the interview process, the company has invested its own resources.  And they're not just going to throw all that effort away because you counter offered. Worst-case, they'll say, "Our offer is firm.", but even that's pretty rare. Best case, they'll accept your counter offer. More likely, they'll work with you to end up somewhere between their offer and your counter.
 
-<p class='u-center'><img src="/images/gifs/yoink.gif" alt="Yoink!" style="display: block; width: 100%; max-width: 500px; margin: 0 auto;"/></p>
+<img src="/assets/gifs/yoink.gif" alt="Yoink!" style="width: 100%;"/>
 
 Shoot. Ok, let's try another one.
 
@@ -37,7 +37,7 @@ Hm. Let's try another.
 
 There are tons of books and even entire college courses on negotiation, so it must be pretty hard to do. There's all this fancy terminology like "anchor" and "BATNA", and recruiters are *professional* salary negotiators. How could you possibly "win" in a negotiation against a professional?
 
-<p class='u-center'><img src="/images/gifs/Titus.gif" alt="But I already did something today" style="display: block; width: 100%; max-width: 500px; margin: 0 auto;"/></p>
+<img src="/assets/gifs/Titus.gif" alt="But I already did something today" style="width: 100%;"/>
 
 Negotiation is a pretty big, complicated topic. But we're not talking about negotiation, we're talking about *salary negotiation*, which is much simpler. As long as you avoid [sharing your current or expected salary](/salary-expectations-interview-question/) and follow [these three steps](/salary-negotiation-script/), you'll do pretty well.
 
@@ -59,7 +59,7 @@ Negotiation can be stressful for everyone, and it's an unnecessary dance we do t
 
 Or maybe it's better to just let *them* tell *you* what they want and you can just say "Ok!"? But of course, if they tell you what they want and it's not quite what *you* wanted, then you'll still have to find some common ground.
 
-<p class='u-center'><img src="/images/gifs/KramerMoviePhone.gif" alt="Why don't you just tell me the name of the movie you selected?" style="display: block; width: 100%; max-width: 500px; margin: 0 auto;"/></p>
+<img src="/assets/gifs/KramerMoviePhone.gif" alt="Why don't you just tell me the name of the movie you selected?" style="width: 100%;"/>
 
 Wait a minute. This is starting to sound a lot like a negotiation.
 
@@ -81,7 +81,7 @@ This is probably true for most people and it's a legitimate concern. How can you
 
 That's pretty sound logic. But! Not knowing your worth could actually be even *more* reason to negotiate. Like, what if the salary they offer you isn't actually what they think you're worth? Then your strategy of just accepting the offer doesn't tell you anything new. But by negotiating, you could make more money *and* learn more about the current value of your skillset and experience.
 
-<p class='u-center'><img src="/images/gifs/TenDollars.gif" alt="I mean, it's a banana, Michael. What could it cost? Ten dollars?" style="display: block; width: 100%; max-width: 500px; margin: 0 auto;"/></p>
+<img src="/assets/gifs/TenDollars.gif" alt="I mean, it's a banana, Michael. What could it cost? Ten dollars?" style="width: 100%;"/>
 
 I almost had one!
 
@@ -107,7 +107,7 @@ Hm. But how do you *know* they made their best possible offer? And what if there
 
 Companies usually leave themselves some room just in case you negotiate. So they may be making a good offer, but it's pretty unlikely they're making their *best* offer.
 
-<p class='u-center'><img src="/images/gifs/BananaStand.gif" alt="There's always money in the banana stand." style="display: block; width: 100%; max-width: 500px; margin: 0 auto;"/></p>
+<img src="/assets/gifs/BananaStand.gif" alt="There's always money in the banana stand." style="width: 100%;"/>
 
 I guess that complicates things a little. Come to think of it, a good way to figure out if they *actually* made their best-possible offer is to counter offer and see if they budge. And even if they can't budge, you can always negotiate non-salary items like vacation, working from home a couple days a week, or a signing bonus.
 

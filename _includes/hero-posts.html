@@ -1,10 +1,16 @@
 <div class="hero hero-posts">
   <div class="container mx-auto pt-24">
     <p class="pb-3 mb-0 uppercase brand-primary text-lg font-black">{{ page.categories | join: ', ' }}</p>
-    <h1 class="text-4xl pb-6">{{ page.title }}</h1>
-    {% if page.excerpt %}
+    <h1 class="text-4xl pb-6">
+			{% if page.headline %}
+				{{ page.headline }}
+			{% else %}
+				{{ page.title }}
+			{% endif %}
+		</h1>
+    {% if page.subhead %}
       <div class="hero-excerpt">
-        {{ page.excerpt }}
+        {{ page.subhead }}
       </div>
     {% endif %}
     {% if page.layout == "resource_page" and page.resourceCTA %}
