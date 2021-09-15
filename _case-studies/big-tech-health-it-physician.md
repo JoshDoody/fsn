@@ -54,7 +54,9 @@ Although the company didn't reach the number she was originally hoping to get, L
 
 "**For me, the biggest thing was I finished the negotiations with the peace of mind that this is the fair market value for this niche role**," she says.
 
-"Instead of going off other niche friends who might say 'ask this and ask for that' and unrealistic numbers, **it really felt like the number ended up being what Josh had guessed from the get-go would be right.** My number had been too high and too ambitious. I can rest easy knowing that we tried our best and they moved a bit, but that it was time to stop pushing. **Had I gone it alone I wouldn't have felt as comfortable.**"
+<blockquote class="ico quote-callout">
+  <p>"Instead of going off other niche friends who might say 'ask this and ask for that' and unrealistic numbers, <strong>it really felt like the number ended up being what Josh had guessed from the get-go would be right.</strong> My number had been too high and too ambitious. I can rest easy knowing that we tried our best and they moved a bit, but that it was time to stop pushing. <strong>Had I gone it alone I wouldn't have felt as comfortable.</strong>"</p>
+</blockquote>
 
 Lucy appreciated our work together so much, she's already discussed her experience with other colleagues who are looking for their next big gig in Health IT and how helpful she found it.
 
