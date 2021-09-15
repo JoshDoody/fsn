@@ -68,9 +68,10 @@ When you counter offer on the phone, you're more likely to make mistakes due to 
 
 And even if you articulate your case well, then you're at the mercy of the recruiter to clearly communicate your case to the other decision makers. You're *literally* playing "The Telephone Game" with your salary negotiation, miscommunications during a salary negotiation aren't nearly as funny.
 
-<div class='ad-box'>
-<p><strong>Already counter offered and need to prepare for that final phone call?</strong> Here's a guide to your final salary negotiation: <a href="/salary-negotiation-script-example/">Salary negotiation script example</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Already counter offered and need to prepare for that final phone call?</span> Here's a guide to your final salary negotiation:</p>
+  <p><a href="/salary-negotiation-script-example/">Salary negotiation script example <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ## <a name="ask-for-time-template">First things first: Ask for time to consider the job offer
 
@@ -244,9 +245,10 @@ If there has been any miscommunication around your job offer, now is the time to
 
 State your counter offer in a firm but neutral way. "I would be more comfortable if we can settle on $56,000." is a good way to phrase your counter offer. It's not combative, but it is firm and makes it easy for the recruiter to simply reply with "Ok, we can do that." if it's within the approved salary range.
 
-<div class='ad-box'>
-	<p><strong>Need help determining your counter offer amount?</strong> Use this counter offer calculator to get started: <a href="/salary-negotiation-script/">Salary negotiation counter offer calculator</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Need help determining your counter offer amount?</span> Use this counter offer calculator to get started:</p>
+  <p><a href="/salary-negotiation-script/">Salary negotiation counter offer calculator <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 "Are you sure you can't do any better?" is not firm or neutral. That makes it _very_ easy for the recruiter to simply say, "I'm sorry, we can't." By stating the actual amount along with "...I would be more comfortable...", you're forcing the recruiter to acknowledge the amount you counter offered and respond _to that specific amount_ while making it tougher to simply say "No."
 
@@ -388,9 +390,10 @@ Once you send your counter offer email, there may be a short delay—typically l
 
 So as soon as you send your salary negotiation email, you need to prepare for your Final Discussion. This is what most people mean when they say "salary negotiation". It's a very short call—usually only 3–5 minutes—where they'll respond to your counter offer and you'll hash out all the final details of your compensation package.
 
-<div class="ad-box">
-	<p><strong>Are you ready for your Final Discussion?</strong> Use this script to get the most out of your final call with the recruiter: <a href="/salary-negotiation-script-example/">salary negotiation script example</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Are you ready for your Final Discussion?</span> Use this script to get the most out of your final call with the recruiter:</p>
+  <p><a href="/salary-negotiation-script-example/">Salary negotiation script example <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ## Conclusion
 
