@@ -112,10 +112,10 @@ Apple will hold on tight to these numbers and it can be very, very challenging t
 
 They may also ask you to tell them about any competing offers you have because they "need more data". I generally recommend that my clients confirm that they have one or more competing offers while being vague about the details of those offers. It's ok to mention that other big tech companies are interested, but sharing the specific companies or details of the offers could work against you in the early stages of the negotiation.
 
-<div class='guide-link'>
-<p><strong>For a deep dive on how to avoid sharing your current or expected salary when asked, see this guide:</strong></p>
-<p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> For a deep dive on how to avoid sharing your current or expected salary when asked, see this guide:</p>
+  <p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ### Once you receive your job offer from Apple
 
@@ -125,10 +125,10 @@ They will often respond to a request for a higher base salary by moving moderate
 
 Once they reveal where they're flexible and how flexible they are, you can use that information to focus the negotiation on the most flexible components to maximize your offer.
 
-<div class='guide-link'>
-<p><strong>More salary negotiation strategy and tactics...</strong></p>
-<p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> More salary negotiation strategy and tactics...</p>
+  <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ## What to look out for when negotiating an Apple job offer package
 

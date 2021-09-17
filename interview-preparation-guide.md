@@ -58,10 +58,10 @@ Your cover letter and résumé are a one-two punch. Before they look at your ré
 
 You have 60-seconds to make an impression with your cover letter. Why? The person reading your cover letter wants to ball it up, throw it away, and get on with their day. They’re burnt out and have a stack of applications on their deck. They’re an expert at reading resumes and they’ve seen all the tricks. In 30 seconds, they’re going to decide if you’re headed to the shredder or the interview pile. You need to make it easy or them to realize how interesting you are.
 
-<div class='guide-link'>
-<p><strong>Make sure your cover letter gets moved to the interview pile</strong></p>
-<p><a href="/how-to-write-a-cover-letter/">How to write a compelling cover letter →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> Make sure your cover letter gets moved to the interview pile</p>
+  <p><a href="/how-to-write-a-cover-letter/">How to write a compelling cover letter <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ### How to write a compelling résumé
 
@@ -71,10 +71,10 @@ Once you've convinced them that your application is worth their time, they'll mo
 
 The greatest value in the résumé writing process is gaining an understanding of the specific problems the company is facing and how to position your experience and qualifications to solve those problems.
 
-<div class='guide-link'>
-<p><strong>Write your résumé to show you will solve valuable problems for the company</strong></p>
-<p><a href="/how-to-write-a-resume/">How to write a compelling resume →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> Write your résumé to show you will solve valuable problems for the company</p>
+  <p><a href="/how-to-write-a-resume/">How to write a compelling resume <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ### What hiring managers are looking for in your résumé
 
@@ -84,19 +84,19 @@ Once you've written your résumé, take a step back and consider it from the hir
 
 Believe it or not, most hiring managers will only spend about 30 seconds looking at your résumé!
 
-<div class='guide-link'>
-<p><strong>See a real-time review of a real résumé from a hiring manager's perspective</strong></p>
-<p><a href="/sample-resume-format-review/">Sample résumé format review →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Video lesson</span> See a real-time review of a real résumé from a hiring manager's perspective</p>
+  <p><a href="/sample-resume-format-review/">Sample résumé format review <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ### 5 things you should know before applying for that job
 
 Once you start submitting applications, you've passed the point of no return. So take a few minutes to review these five things as you look ahead to a potentially long and draining interview process.
 
-<div class='guide-link'>
-<p><strong>Five things to consider before you start submitting those applications</strong></p>
-<p><a href="/5-things-you-should-know-before-you-apply-for-a-job/">5 things you should know before you apply for a job →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> Five things to consider before you start submitting those applications</p>
+  <p><a href="/5-things-you-should-know-before-you-apply-for-a-job/">5 things you should know before you apply for a job <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 Now that you're submitting applications and your cover letter and résumé have done their job, you'll start scheduling interviews and it's time for some interview preparation.
 
@@ -114,10 +114,10 @@ You've probably been asked "What's your current or expected salary?" in an inter
 
 That's because you intuitively know that this is an important question, and that your answer could be very costly if you get it wrong.
 
-<div class='guide-link'>
-<p><strong>What should you say when asked for your current salary or salary expectations during an interview?</strong></p>
-<p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> What should you say when asked for your current salary or salary expectations during an interview?</p>
+  <p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ### Preparing for your interviews—what to bring and what to expect
 
@@ -125,10 +125,10 @@ That's because you intuitively know that this is an important question, and that
 
 There are three main venues where you might have a job interview: in person, over the phone, or virtually (like Skype). Each venue is unique and you'll want to do different things to prepare for each one.
 
-<div class='guide-link'>
-<p><strong>Get checklists and preparation tips for in-person interviews, phone interviews, and virtual interviews</strong></p>
-<p><a href="/what-to-bring-to-a-job-interview/">Interview checklists to prepare for your job interview →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Key resource</span> Get checklists and preparation tips for in-person interviews, phone interviews, and virtual interviews</p>
+  <p><a href="/what-to-bring-to-a-job-interview/">Interview checklists to prepare for your job interview <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ## <a name="actively-interviewing" class="below-nav">Actively interviewing
 
@@ -146,10 +146,10 @@ They are hiring someone to solve a specific need or set of needs. Maybe they nee
 
 Your job is to understand those needs and describe how you'll address them.
 
-<div class='guide-link'>
-<p><strong>Learn the framework to answer any job interview question</strong></p>
-<p><a href="/how-to-answer-job-interview-questions/">How to answer “Why should we hire you?” and other job interview questions →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> Learn the framework to answer any job interview question</p>
+  <p><a href="/how-to-answer-job-interview-questions/">How to answer “Why should we hire you?” and other job interview questions <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ### A real-life example of how to find your positioning before your interviews
 
@@ -157,19 +157,19 @@ Your job is to understand those needs and describe how you'll address them.
 
 Now that you understand how to refine your positioning to describe how you'll help this particulate team accomplish their goals, it may help to see a real-world example of this process in action.
 
-<div class='guide-link'>
-<p><strong>See a real example of positioning research for a Software Developer</strong></p>
-<p><a href="/software-developer-positioning/">Software Developer positioning guide to get more job offers →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Video lesson</span> See a real example of positioning research for a Software Developer</p>
+  <p><a href="/software-developer-positioning/">Software Developer positioning guide to get more job offers <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ### How to handle dumb interview questions
 
 There's a fine line between challenging interview questions and dumb ones. Just in case, let's make sure you're ready for the dumb ones when you get them.
 
-<div class='guide-link'>
-<p><strong>Make sure you're ready for dumb interview questions</strong></p>
-<p><a href="/greatest-weakness/">Why “What's your greatest weakness?” is a dumb interview question →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> Make sure you're ready for dumb interview questions</p>
+  <p><a href="/greatest-weakness/">Why “What's your greatest weakness?” is a dumb interview question <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ### Ask good interview questions when you have the chance
 
@@ -181,10 +181,10 @@ Near the end of pretty much every interview, you'll be asked a different kind of
 
 You do! This is a great chance for you to demonstrate that you truly understand the needs of this company and this team *and* to gather more information to refine your positioning before your next interview.
 
-<div class='guide-link'>
-<p><strong>Don't pass up a golden opportunity to ask some questions of your own</strong></p>
-<p><a href="/10-good-questions-to-ask-in-a-job-interview/">10 questions to ask in an interview to really stand out →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> Don't pass up a golden opportunity to ask some questions of your own</p>
+  <p><a href="/10-good-questions-to-ask-in-a-job-interview/">10 questions to ask in an interview to really stand out <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ## <a name="expecting-a-job-offer" class="below-nav">Expecting a job offer
 
@@ -194,10 +194,10 @@ Once you've run the job interview gauntlet, you may be tempted to relax, but it'
 
 Until you actually have an offer in hand, you should not disclose your current or expected salary. Sharing this information will almost always cost you money when you negotiate your salary later on.
 
-<div class='guide-link'>
-<p><strong>What should you say when asked for your current salary or salary expectations during an interview?</strong></p>
-<p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> What should you say when asked for your current salary or salary expectations during an interview?</p>
+  <p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ### Following up after your interviews
 
@@ -207,10 +207,10 @@ Usually, the hiring manager, HR, recruiter, and your future colleagues will hudd
 
 Waiting the right amount of time and checking in with a short email can help keep you top-of-mind without being annoying.
 
-<div class='guide-link'>
-<p><strong>Follow up at the right time after each interview</strong></p>
-<p><a href="/how-long-until-i-hear-back-after-a-job-interview/">“How long until I hear back after a job interview?” →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> Follow up at the right time after each interview</p>
+  <p><a href="/how-long-until-i-hear-back-after-a-job-interview/">“How long until I hear back after a job interview?” <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ### Negotiate your offers with this Salary Negotiation Guide
 
@@ -222,9 +222,9 @@ It sounds so simple, but it's true. You can't know whether you got the best poss
 
 Check out our complete salary negotiation guide to make sure you get the best salary possible!
 
-<div class='guide-link'>
-<p><strong>How to tactfully negotiate your salary (without leaving anything on the table)</strong></p>
-<p><a href="/salary-negotiation-guide/">How to negotiate salary in 2021 - Complete salary negotiation guide →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>In-depth guide</span> How to tactfully negotiate your salary (without leaving anything on the table)</p>
+  <p><a href="/salary-negotiation-guide/">How to negotiate salary in 2021 - Complete salary negotiation guide <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 <div class="inline-ad hidden"></div>

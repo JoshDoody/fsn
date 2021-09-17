@@ -188,10 +188,10 @@ Also, because Amazon's equity vesting schedule is so unusual, and because they i
 
 You're much better off seeing what they offer, spending some time with it to understand what your actual pay will look like over the next few years, and negotiating from there.
 
-<div class='guide-link'>
-<p><strong>For a deep dive on how to avoid sharing your current or expected salary when asked, see this guide:</strong></p>
-<p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> For a deep dive on how to avoid sharing your current or expected salary when asked, see this guide:</p>
+  <p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ### Once you receive your job offer from Amazon
 
@@ -203,11 +203,10 @@ Once you counter on base salary, they will often adjust the job offer in multipl
 
 Be sure that if you ask for and receive more equity that you also try to improve your sign-on bonus to bridge the Year 1 and Year 2 gaps while you wait on the heavy vesting in Years 3 and 4.
 
-<div class='guide-link'>
-<p><strong>More salary negotiation strategy and tactics...</strong></p>
-<p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>
-</div>
-
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> More salary negotiation strategy and tactics...</p>
+  <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 ## What to look out for when negotiating an Amazon job offer package
 
 - **Amazon caps base salary for most job at around $165–175k, so make sure to see whether you're near the cap before you negotiate.**
