@@ -28,10 +28,10 @@ Here are some red flags to look out for when interviewing and negotiating your s
 
 You've probably heard me say that you should not disclose your current or expected salary when asked for it during your job interviews or salary negotiations. 
 
-<div class='guide-link'>
-<p><strong>What should you say when asked for your current salary or salary expectations during an interview?</strong></p>
-<p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> What to say when asked for your salary expectations during an interview</p>
+  <p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 A common follow up question to that guide is...
 

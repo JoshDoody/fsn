@@ -116,10 +116,10 @@ Do not tell them your salary expectations because you will essentially be guessi
 
 While they might have a good idea of the value of that job to Microsoft's business, you would only be guessing. You will practically always guess wrong and cost yourself money later on. So just don't guess.
 
-<div class='guide-link'>
-<p><strong>For a deep dive on how to avoid sharing your current or expected salary when asked, see this guide:</strong></p>
-<p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> What to say when asked for your salary expectations during an interview</p>
+  <p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ### Once you receive your job offer from Microsoft
 
@@ -133,10 +133,11 @@ This is a Microsoft-specific variation on the [lowball technique](https://fearle
 
 Of course the expectations for your performance will be higher as well, and that may mean more scrutiny of your work and higher standards for earning performance bonuses. There are trade-offs when pursuing a higher level, but that's often the best way to negotiate a higher salary.
 
-<div class='guide-link'>
-<p><strong>More salary negotiation strategy and tactics...</strong></p>
-<p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> More salary negotiation strategy and tactics...</p>
+  <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
+
 
 ## What to look out for when negotiating a Microsoft job offer package
 

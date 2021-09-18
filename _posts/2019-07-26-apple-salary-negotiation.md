@@ -147,8 +147,3 @@ Once they reveal where they're flexible and how flexible they are, you can use t
 		<a id="inline-cta" class="inline-cta-btn" data-event-label="Salary Negotiation Coaching" data-cta-label="coach-inline" href="/coach/" rel="nofollow"><strong>Learn more →</strong></a>
 	</div>
 </div>
-
-<div class='guide-link'>
-	<p><strong>Get professional help negotiating your Apple job offer</strong></p>
-	<p><a data-event-label="Salary Negotiation Coaching" data-cta-label="coach-inline" href="/coach/">Salary negotiation coaching for experienced software developers →</a></p>
-</div>

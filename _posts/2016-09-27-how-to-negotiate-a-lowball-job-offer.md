@@ -22,10 +22,10 @@ So what can you do to reset the salary negotiation? Here's a tactic you can use 
 
 <div class="inline-ad hidden"></div>
 
-<div class='guide-link'>
-<p><strong>What's next once you respond to your lowball job offer?</strong></p>
-<p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> What's next once you respond to your lowball job offer?</p>
+  <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ## You *could* go straight to your minimum acceptable salary
 

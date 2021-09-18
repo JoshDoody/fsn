@@ -384,10 +384,10 @@ As I mentioned earlier, this answer doesn't box you in to accepting a job offer 
 
 If they're serious about respecting everyone's time, then they'll tell you the range so you can confirm it's in the ballpark. And if they won't share a range, then it's clear they're simply trying to gain information to benefit them during your salary negotiation later on.
 
-<div class='guide-link'>
-<p><strong>What's next once you get past the current and expected salary question?</strong></p>
-<p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> What's next once you get past the current and expected salary question?</p>
+  <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ## <a name="already-shared-expected-salary">How to recover if you shared your salary expectations and the offer meets or exceeds them
 
@@ -436,10 +436,10 @@ If you do change their thinking from "minimum number" to "biggest number necessa
 
 That may be enough to break away from your current salary, but what if you try this and still get an offer that's based on your current salary?
 
-<div class='guide-link'>
-<p><strong>How to answer job interview questions to stand out as <em>the</em> candidate for the job</strong></p>
-<p><a href="/interview-preparation-guide/">Interview Preparation Guide →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> How to answer interview questions so you stand out</p>
+  <p><a href="/interview-preparation-guide/">Interview Preparation Guide <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ### 2. You already have a job offer
 
@@ -525,9 +525,9 @@ Next time you're asked for your current salary or desired in a job interview, us
 - [A **salary increase letter** to ask your boss for a raise](https://fearlesssalarynegotiation.com/salary-increase-letter-sample/)
 - [Got a job offer from Amazon? Learn how to negotiate your salary](https://fearlesssalarynegotiation.com/amazon-salary-negotiation/)
 
-<div class='guide-link'>
-<p><strong>Make sure you have everything you need for your next interview</strong></p>
-<p><a href="/interview-preparation-guide/">Interview Preparation Guide →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> Make sure you have everything you need for your next interview</p>
+  <p><a href="/interview-preparation-guide/">Interview Preparation Guide <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 <div class="inline-ad hidden"></div>

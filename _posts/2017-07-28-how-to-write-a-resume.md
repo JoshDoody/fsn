@@ -472,9 +472,9 @@ Own your hard work. Own the results you’ve created. Own the benefits you’ve 
 
 > A hustler represents the ideal combination: work and talk fused together. — Chris Guillebeau
 
-<div class='guide-link'>
-<p><strong>What do you need to know before you apply for a job?</strong></p>
-<p><a href="/interview-preparation-guide/">Interview Preparation Guide →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> What do you need to know before you apply for a job?</p>
+  <p><a href="/interview-preparation-guide/">Interview Preparation Guide <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 <div class="inline-ad hidden"></div>

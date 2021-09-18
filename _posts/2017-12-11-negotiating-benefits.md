@@ -33,10 +33,11 @@ Your list may be different depending on what you value the most. You may want t
 
 Your instinct will be to make sure you ask for everything you _might_ want so you don't miss out on something you _do_ want.
 
-<div class='guide-link'>
-<p><strong>Learn how to negotiate your salary without leaving anything on the table</strong></p>
-<p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> How to negotiate your salary without leaving anything on the table</p>
+  <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
+
 
 But what's important is that you identify which things are most valuable to you so you can focus the negotiation on those things. If you don't explicitly do this, the company will do it for you.
 

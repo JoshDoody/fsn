@@ -33,11 +33,6 @@ The nice thing about this list is that there’s value in just thinking about ea
 
 Let’s take each of these items one by one to understand its significance and how it helps you determine your minimum acceptable salary.
 
-<div class='guide-link'>
-<p><strong>What's next once you set your minimum acceptable salary?</strong></p>
-<p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>
-</div>
-
 ## Your current salary
 
 Chances are your goal is to increase your salary by taking a new job, so this is your starting point. Plus, it’s what you’ll ultimately measure your results against when your negotiation is finished.

@@ -29,9 +29,9 @@ Learn what hiring managers are looking for when they review your résumé!
 - When listing your experience, choose the most pertinent activities and describe how they benefited the business whenever possible.
 - Tailor your résumé to the particular job posting by mimicking the job posting language whenever possible.
 
-<div class='guide-link'>
-<p><strong>Is your résumé easy to read? Learn how to make it skimmable.</strong></p>
-<p><a href="/interview-preparation-guide/">Interview Preparation Guide →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> How to make your résumé skimmable and easy to read.</p>
+  <p><a href="/interview-preparation-guide/">Interview Preparation Guide <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 <div class="inline-ad hidden"></div>

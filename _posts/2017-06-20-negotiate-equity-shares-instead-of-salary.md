@@ -35,10 +35,10 @@ This is a big question that will be easier to answer as three smaller questions.
 
 Let's walk through a simple heuristic to help you decide if negotiating for more shares makes sense in your situation.
 
-<div class='guide-link'>
-<p><strong>How do you plan your salary negotiation once you decide whether to negotiate equity?</strong></p>
-<p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> How do you plan your salary negotiation once you decide whether to negotiate equity?</p>
+  <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ## Does your job offer include shares or other equity?
 

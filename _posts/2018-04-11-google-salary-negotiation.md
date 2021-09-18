@@ -125,10 +125,10 @@ Google will hold on tight to these numbers and it can be very, very challenging 
 
 As a final note on this, I've worked with clients whose Google recruiter told them they could not move forward with the interview process until my client shared their salary expectations. Eventually, they *did* move on despite my clients' refusal to share this information. So, in my experience, this is a bluff.
 
-<div class='guide-link'>
-<p><strong>For a deep dive on how to avoid sharing your current or expected salary when asked, see this guide:</strong></p>
-<p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> What to say when asked for your salary expectations during an interview</p>
+  <p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ### Once you receive your job offer from Google
 
@@ -138,10 +138,10 @@ They will often respond to a request for a higher base salary by moving slightly
 
 Once they reveal where they're flexible and how flexible they are, you can use that information to focus the negotiation on the most flexible components to maximize your offer.
 
-<div class='guide-link'>
-<p><strong>More salary negotiation strategy and tactics...</strong></p>
-<p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> More salary negotiation strategy and tactics...</p>
+  <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ## What to look out for when negotiating a Google job offer package
 
@@ -159,9 +159,4 @@ Once they reveal where they're flexible and how flexible they are, you can use t
 	<div class='cta u-center'>
 		<a id="inline-cta" class="inline-cta-btn" data-event-label="Salary Negotiation Coaching" data-cta-label="coach-inline" href="/coach/" rel="nofollow"><strong>Learn more →</strong></a>
 	</div>
-</div>
-
-<div class='guide-link'>
-	<p><strong>Get professional help negotiating your Google job offer</strong></p>
-	<p><a data-event-label="Salary Negotiation Coaching" data-cta-label="coach-inline" href="/coach/">Salary negotiation coaching for experienced software developers →</a></p>
 </div>

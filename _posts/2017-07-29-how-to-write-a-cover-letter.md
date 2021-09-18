@@ -89,9 +89,9 @@ The closing paragraph of your cover letter is all about next steps. Your cover l
 
 That’s how I approach writing a cover letter.
 
-<div class='guide-link'>
-<p><strong>How's your résumé? Make sure it's updated for each opportunity</strong></p>
-<p><a href="/interview-preparation-guide/">Interview Preparation Guide →</a></p>
-</div>
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> Make sure your résumé is updated for each opportunity</p>
+  <p><a href="/interview-preparation-guide/">Interview Preparation Guide <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 <div class="inline-ad hidden"></div>
