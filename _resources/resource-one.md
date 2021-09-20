@@ -78,7 +78,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem facere repellat e
 Nostrum dignissimos aut, ea modi saepe suscipit? Aspernatur necessitatibus unde optio magni esse ipsam, qui maxime animi.
 
 
-<blockquote class="ico quote-callout">
+<blockquote class="ico writing-callout">
   <p><span>Note</span>Accumsan pellentesque quam ut neque mi, potenti felis blandit. Elementum fringilla proin arcu ipsum et, duis sed. Laoreet est, faucibus faucibus vel, in etiam quam congue vel.</p>
 </blockquote>
 
