@@ -17,13 +17,13 @@ published: true
 ---
 Use this interview preparation guide to jump right to your current stage in the job interview process or read it straight through and learn all the valuable strategies and tactics to ace your interviews and get more job offers.
 
-<h2 class='u-center'>Where are you in the job interview process?</h2>
+## Where are you in the job interview process?
 
-<ul class="buttons">
-	<li><a class="guide-btn" href="#applying-for-jobs">Applying for jobs</a></li>
-	<li><a class="guide-btn" href="#interviews-start-soon">Interviews start soon</a></li>
-	<li><a class="guide-btn" href="#actively-interviewing">Actively interviewing</a></li>
-	<li><a class="guide-btn" href="#expecting-a-job-offer">Expecting a job offer</a></li>
+<ul>
+	<li><a href="#applying-for-jobs">Applying for jobs</a></li>
+	<li><a href="#interviews-start-soon">Interviews start soon</a></li>
+	<li><a href="#actively-interviewing">Actively interviewing</a></li>
+	<li><a href="#expecting-a-job-offer">Expecting a job offer</a></li>
 </ul>
 
 ## Quick overview: How the job interview process works
@@ -65,7 +65,7 @@ You have 60-seconds to make an impression with your cover letter. Why? The perso
 
 ### How to write a compelling résumé
 
-<p class='u-center'><a href="/how-to-write-a-resume/" target="_blank"><img src="/images/HowToWriteAResume.png" alt="How to write a compelling resume" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
+<a href="/how-to-write-a-resume/" target="_blank"><img src="/assets/imgs/post-images/HowToWriteAResume.png" alt="How to write a compelling resume" style="width: 100%;"/></a>
 
 Once you've convinced them that your application is worth their time, they'll move on to skim your résumé. Notice I said "skim"—hiring managers and recruiters aren't going to take their time savoring every word of your résumé. They're going to skim it for a few seconds to see if anything stands out.
 
@@ -78,7 +78,7 @@ The greatest value in the résumé writing process is gaining an understanding o
 
 ### What hiring managers are looking for in your résumé
 
-<p class='u-center'><a href="/sample-resume-format-review/" target="_blank"><img src="/images/sample-resume-format-review_thumbnail.png" alt="Sample resume format review" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
+<a href="/sample-resume-format-review/" target="_blank"><img src="/assets/imgs/post-images/sample-resume-format-review_thumbnail.png" alt="Sample resume format review" style="width: 100%;"/></a>
 
 Once you've written your résumé, take a step back and consider it from the hiring manager's perspective. What are they looking for? How do you get their attention?
 
@@ -108,7 +108,7 @@ This is typically a short 5- or 10-minute call where they will verify that you c
 
 ### How to answer the "What's your current or expected salary?" interview question
 
-<p class='u-center'><a href="/salary-expectations-interview-question/" target="_blank"><img src="/images/DreadedSalaryQuestion.png" alt="The current and expected salary question" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
+<a href="/salary-expectations-interview-question/" target="_blank"><img src="/assets/imgs/post-images/DreadedSalaryQuestion.png" alt="The current and expected salary question" style="width: 100%;"/></a>
 
 You've probably been asked "What's your current or expected salary?" in an interview before. And it probably made you very uncomfortable.
 
@@ -121,7 +121,7 @@ That's because you intuitively know that this is an important question, and that
 
 ### Preparing for your interviews—what to bring and what to expect
 
-<p class='u-center'><a href="/what-to-bring-to-a-job-interview/" target="_blank"><img src="/images/InterviewChecklists.png" alt="What to bring to a job interview" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
+<a href="/what-to-bring-to-a-job-interview/" target="_blank"><img src="/assets/imgs/post-images/InterviewChecklists.png" alt="What to bring to a job interview" style="width: 100%;"/></a>
 
 There are three main venues where you might have a job interview: in person, over the phone, or virtually (like Skype). Each venue is unique and you'll want to do different things to prepare for each one.
 
@@ -153,7 +153,7 @@ Your job is to understand those needs and describe how you'll address them.
 
 ### A real-life example of how to find your positioning before your interviews
 
-<p class='u-center'><a href="/software-developer-positioning/" target="_blank"><img src="/images/software-developer-positioning_thumbnail.png" alt="Software Developer positioning walkthrough" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
+<a href="/software-developer-positioning/" target="_blank"><img src="/assets/imgs/post-images/software-developer-positioning_thumbnail.png" alt="Software Developer positioning walkthrough" style="width: 100%;"/></a>
 
 Now that you understand how to refine your positioning to describe how you'll help this particulate team accomplish their goals, it may help to see a real-world example of this process in action.
 
@@ -173,7 +173,7 @@ There's a fine line between challenging interview questions and dumb ones. Just 
 
 ### Ask good interview questions when you have the chance
 
-<p class='u-center'><a href="/10-good-questions-to-ask-in-a-job-interview/" target="_blank"><img src="/images/JobInterviewQuestionsYouCanAsk.jpg" alt="10 good interview questions you can ask" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
+<a href="/10-good-questions-to-ask-in-a-job-interview/" target="_blank"><img src="/assets/imgs/post-images/JobInterviewQuestionsYouCanAsk.jpg" alt="10 good interview questions you can ask" style="width: 100%;"/></a>
 
 Near the end of pretty much every interview, you'll be asked a different kind of question:
 
@@ -214,7 +214,7 @@ Waiting the right amount of time and checking in with a short email can help kee
 
 ### Negotiate your offers with this Salary Negotiation Guide
 
-<p class='u-center'><a href="/salary-negotiation-guide/" target="_blank"><img src="/images/SalaryNegotiationGuide.png" alt="How to negotiate your salary" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
+<a href="/salary-negotiation-guide/" target="_blank"><img src="/assets/imgs/post-images/SalaryNegotiationGuide.png" alt="How to negotiate your salary" style="width: 100%;"/></a>
 
 Once you've finally gotten that job offer, you should negotiate it. Why? Because there might be room to negotiate.
 
