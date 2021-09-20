@@ -3,7 +3,11 @@
 {% for story in stories %}
 
   <div id="{{ include.story-id | slugify }}">
-    <p>{{ story.excerpt }}</p>
+		{% if include.short == true and story.short_version %}
+	    <p>{{ story.short_version | markdownify }}</p>
+		{% else %}
+	    <p>{{ story.excerpt }}</p>
+		{% endif %}
     <div class="flex items-center mt-6">
       {% if story.headshot %}
         <div class="mr-4">
