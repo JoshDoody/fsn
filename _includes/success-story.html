@@ -3,7 +3,7 @@
 {% for story in stories %}
 
   <div id="{{ include.story-id | slugify }}">
-		{% if include.short == true and story.short_version %}
+		{% if story.short_version %}
 	    <p>{{ story.short_version | markdownify }}</p>
 		{% else %}
 	    <p>{{ story.excerpt }}</p>
