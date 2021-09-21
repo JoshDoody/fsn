@@ -69,14 +69,3 @@ Based on those factors, Jamie came to the decision to accept GitHub’s offer.
 
 	<p>“The offers got close enough to each other that I could decide based on other more intangible factors. <strong>I think without Josh's help, I wouldn't have been able to narrow that gap and be able to even think about the ultimately more important factors</strong> of where I actually want to work, what I want to devote my efforts to, what I want the next chapter of my career to be oriented around. I was able to choose the opportunity that was the most compelling for me personally.” </p>
 </blockquote>
-
-<div class="ad-box">
-	<h2 class='u-center'>Negotiating a job offer from GitHub, Microsoft, or another big tech company? I'll help!</h2>
-	<div class="inline-body">
-		<p><img src="/images/josh-doody-200px-circle.png" style="padding-right: 10px;" width="125" alt="Josh Doody headshot" class="author__image" align="left">I'm Josh Doody, a professional salary negotiation coach who helps experienced Software Developers negotiate job offers from big tech companies. <strong>On average, Software Developers improve their job offers by {{ site.avg_coach_increase_devs }}.</strong></p>
-		<p>Apply for a free 15-minute intro call to learn how I can help.</p>
-	</div>
-	<div class='cta u-center'>
-		<a id="inline-cta" class="inline-cta-btn" data-event-label="Salary Negotiation Coaching" data-cta-label="coach-inline" href="/coach/" rel="nofollow"><strong>Learn more →</strong></a>
-	</div>
-</div>

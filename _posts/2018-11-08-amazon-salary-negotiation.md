@@ -9,6 +9,7 @@ tags:
   - recommended
   - popular
   - blogFeatured
+company: Amazon
 date: 2018-11-13
 author: josh
 published: true
@@ -213,14 +214,3 @@ Be sure that if you ask for and receive more equity that you also try to improve
 - **Amazon has a very unique equity vesting schedule that ramps significantly in Years 3 and 4.**
 - **Amazon frequently offers two sign-on bonuses—Year 1 and Year 2—to help bridge the gap during the slow part of the equity vesting ramp.**
 - **Do the math for each year's compensation based on their offer so you can see how your pay will change as sign-on bonuses are paid out and equity vesting ramps up later on.**
-
-<div class="ad-box">
-	<h2 class='u-center'>Negotiating a job offer from Amazon? I'll help!</h2>
-	<div class="inline-body">
-		<p><img src="/images/josh-doody-200px-circle.png" style="padding-right: 10px;" width="125" alt="Josh Doody headshot" class="author__image" align="left">I'm Josh Doody, a professional salary negotiation coach who helps experienced Software Developers negotiate job offers from big tech companies. <strong>On average, Software Developers improve their job offers by {{ site.avg_coach_increase_devs }}.</strong></p>
-		<p>Apply for a free 15-minute intro call to learn how I can help.</p>
-	</div>
-	<div class='cta u-center'>
-		<a id="inline-cta" class="inline-cta-btn" data-event-label="Salary Negotiation Coaching" data-cta-label="coach-inline" href="/coach/" rel="nofollow"><strong>Learn more →</strong></a>
-	</div>
-</div>

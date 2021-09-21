@@ -61,14 +61,3 @@ Although the company didn't reach the number she was originally hoping to get, L
 Lucy appreciated our work together so much, she's already discussed her experience with other colleagues who are looking for their next big gig in Health IT and how helpful she found it.
 
 "**The types of jobs we are applying to these days as clinicians didn’t exist a decade ago and in some cases even 3 years ago**," she says. "So having someone with expertise in salary negotiation with major tech companies, coaching you in the strategy and nuances associated with this type of negotiation is **invaluable and difficult to find**. I would 100% recommend working with Josh to others."
-
-<div class="ad-box">
-	<h2 class='u-center'>Negotiating a job offer from a big tech company? I'll help!</h2>
-	<div class="inline-body">
-		<p><img src="/images/josh-doody-200px-circle.png" style="padding-right: 10px;" width="125" alt="Josh Doody headshot" class="author__image" align="left">I'm Josh Doody, a professional salary negotiation coach who helps experienced Software Developers negotiate job offers from big tech companies. <strong>On average, Software Developers improve their job offers by {{ site.avg_coach_increase_devs }}.</strong></p>
-		<p>Apply for a free 15-minute intro call to learn how I can help.</p>
-	</div>
-	<div class='cta u-center'>
-		<a id="inline-cta" class="inline-cta-btn" data-event-label="Salary Negotiation Coaching" data-cta-label="coach-inline" href="/coach/" rel="nofollow"><strong>Learn more →</strong></a>
-	</div>
-</div>

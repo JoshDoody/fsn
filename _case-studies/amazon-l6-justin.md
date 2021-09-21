@@ -69,14 +69,3 @@ Through the experience, Justin says he gained a mindset shift around job offers 
 <blockquote class="ico quote-callout">
  <p>"Five, ten years from now, if I'm looking to move, or looking for a raise, I can lean back on what I learned," he says. "<strong>The fact that Josh helped me get an additional $74,000 was amazing, but I almost value what I learned more.</strong>"</p>
 </blockquote>
-
-<div class="ad-box">
-	<h2 class='u-center'>Negotiating a job offer from Amazon or another big tech company? I'll help!</h2>
-	<div class="inline-body">
-		<p><img src="/images/josh-doody-200px-circle.png" style="padding-right: 10px;" width="125" alt="Josh Doody headshot" class="author__image" align="left">I'm Josh Doody, a professional salary negotiation coach who helps experienced Software Developers negotiate job offers from big tech companies. <strong>On average, Software Developers improve their job offers by {{ site.avg_coach_increase_devs }}.</strong></p>
-		<p>Apply for a free 15-minute intro call to learn how I can help.</p>
-	</div>
-	<div class='cta u-center'>
-		<a id="inline-cta" class="inline-cta-btn" data-event-label="Salary Negotiation Coaching" data-cta-label="coach-inline" href="/coach/" rel="nofollow"><strong>Learn more →</strong></a>
-	</div>
-</div>

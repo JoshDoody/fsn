@@ -108,14 +108,3 @@ Ben says having an expert on his side to walk him through what he could expect d
 
 	<p>"It would have been worth the coaching fee even if we hadn't gotten a bump at all. At least I would know I did the best that I could. I had an expert. <strong>I didn't leave anything on the table. If I hadn't hired Josh, I probably would be sitting here today still wondering, 'Man, could I have easily bumped this by a bunch of more money?</strong>' It's a much better experience having an expert on your side than trying to do it alone."</p>
 </blockquote>
-
-<div class="ad-box">
-	<h2 class='u-center'>Negotiating a job offer from Google or another big tech company? I'll help!</h2>
-	<div class="inline-body">
-		<p><img src="/images/josh-doody-200px-circle.png" style="padding-right: 10px;" width="125" alt="Josh Doody headshot" class="author__image" align="left">I'm Josh Doody, a professional salary negotiation coach who helps experienced Software Developers negotiate job offers from big tech companies. <strong>On average, Software Developers improve their job offers by {{ site.avg_coach_increase_devs }}.</strong></p>
-		<p>Apply for a free 15-minute intro call to learn how I can help.</p>
-	</div>
-	<div class='cta u-center'>
-		<a id="inline-cta" class="inline-cta-btn" data-event-label="Salary Negotiation Coaching" data-cta-label="coach-inline" href="/coach/" rel="nofollow"><strong>Learn more →</strong></a>
-	</div>
-</div>

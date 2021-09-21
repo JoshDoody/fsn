@@ -9,6 +9,7 @@ tags:
   - recommended
   - popular
   - blogFeatured
+company: Microsoft
 date: 2019-05-08
 author: josh
 published: true
@@ -144,14 +145,3 @@ Of course the expectations for your performance will be higher as well, and that
 - **Microsoft job titles can span multiple levels, so there may be an opportunity to negotiate for a higher level, which could include more compensation.**
 - **Microsoft's offers tend to be slightly lower than other big tech companies'.** They often promote a better work-life balance and other perks, so there may be a tradeoff if you're considering other offers along with a Microsoft offer.
 - **The equity component of a Microsoft offer may be small relative to the total value of the offer, and that means there is often room to substantially improve the equity component through negotiation relative to the initial baseline.**
-
-<div class="ad-box">
-	<h2 class='u-center'>Negotiating a job offer from Microsoft? I'll help!</h2>
-	<div class="inline-body">
-		<p><img src="/images/josh-doody-200px-circle.png" style="padding-right: 10px;" width="125" alt="Josh Doody headshot" class="author__image" align="left">I'm Josh Doody, a professional salary negotiation coach who helps experienced Software Developers negotiate job offers from big tech companies. <strong>On average, Software Developers improve their job offers by {{ site.avg_coach_increase_devs }}.</strong></p>
-		<p>Apply for a free 15-minute intro call to learn how I can help.</p>
-	</div>
-	<div class='cta u-center'>
-		<a id="inline-cta" class="inline-cta-btn" data-event-label="Salary Negotiation Coaching" data-cta-label="coach-inline" href="/coach/" rel="nofollow"><strong>Learn more →</strong></a>
-	</div>
-</div>

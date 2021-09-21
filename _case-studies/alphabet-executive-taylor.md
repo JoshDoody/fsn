@@ -5,7 +5,7 @@ headline: 'Case Study: Negotiating an additional $160,000 in annual compensation
 description: How Taylor negotiated a $160,000 increase in annual compensation for an executive role at Alphabet
 name: Taylor
 job_title: Executive
-company: Alphabet
+company: Alphabet or Google
 industry:
 headshot:
 product: Salary Negotiation Coaching
@@ -82,14 +82,3 @@ Our work together was very collaborative and Taylor's willingness to go outside 
 Taylor and I enjoyed working with each other immensely. I'm honored that he was so happy with our work together and the excellent result that he connected me with a colleague of his who is also negotiating with a big tech firm (and has even paid my coaching fee on his colleague's behalf).
 
 "Bringing on Josh made a huge difference for me — no way I would have ended up with that number without his help," Taylor says. "**Whether you're a mid-level engineer or an executive — to me it's a no brainer to work with Josh.** Even just a $10,000 difference in your annual compensation is a lot of money over time and a career."
-
-<div class="ad-box">
-	<h2 class='u-center'>Negotiating a job offer from Alphabet or another big tech company? I'll help!</h2>
-	<div class="inline-body">
-		<p><img src="/images/josh-doody-200px-circle.png" style="padding-right: 10px;" width="125" alt="Josh Doody headshot" class="author__image" align="left">I'm Josh Doody, a professional salary negotiation coach who helps experienced Software Developers negotiate job offers from big tech companies. <strong>On average, Software Developers improve their job offers by {{ site.avg_coach_increase_devs }}.</strong></p>
-		<p>Apply for a free 15-minute intro call to learn how I can help.</p>
-	</div>
-	<div class='cta u-center'>
-		<a id="inline-cta" class="inline-cta-btn" data-event-label="Salary Negotiation Coaching" data-cta-label="coach-inline" href="/coach/" rel="nofollow"><strong>Learn more →</strong></a>
-	</div>
-</div>

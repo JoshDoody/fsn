@@ -9,6 +9,7 @@ tags:
   - recommended
   - popular
   - blogFeatured
+company: Google
 date: 2018-09-26
 author: josh
 published: true
@@ -149,14 +150,3 @@ Once they reveal where they're flexible and how flexible they are, you can use t
 - **Google will often respond to a request for higher base salary by slightly improving base salary *and* significantly improving the equity component.**
 - **Google is often rigid with respect to the "level" offered.** Because they use equity as a primary negotiating lever, they have lots of flexibility within pay bands and therefore rarely change pay bands—or levels—as part of the negotiation.
 - **Google will often ask for competing offers—sharing those offers *may* be beneficial.** Many companies ask for competing offers to gather data on competitors or to dissuade the "I have lots of offers" bluff that many candidates use. But when Google is competing with companies like Facebook and Apple for candidates, they will often match competing offers if they're superior. 
-
-<div class="ad-box">
-	<h2 class='u-center'>Negotiating a job offer from Google? I'll help!</h2>
-	<div class="inline-body">
-		<p><img src="/images/josh-doody-200px-circle.png" style="padding-right: 10px;" width="125" alt="Josh Doody headshot" class="author__image" align="left">I'm Josh Doody, a professional salary negotiation coach who helps experienced Software Developers negotiate job offers from big tech companies. <strong>On average, Software Developers improve their job offers by {{ site.avg_coach_increase_devs }}.</strong></p>
-		<p>Apply for a free 15-minute intro call to learn how I can help.</p>
-	</div>
-	<div class='cta u-center'>
-		<a id="inline-cta" class="inline-cta-btn" data-event-label="Salary Negotiation Coaching" data-cta-label="coach-inline" href="/coach/" rel="nofollow"><strong>Learn more →</strong></a>
-	</div>
-</div>

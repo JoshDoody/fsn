@@ -9,6 +9,7 @@ tags:
   - recommended
   - popular
   - blogFeatured
+company: Apple
 date: 2019-07-26
 author: josh
 published: true
@@ -136,14 +137,3 @@ Once they reveal where they're flexible and how flexible they are, you can use t
 - **Apple will often respond to a request for higher base salary by slightly improving base salary *and* significantly improving the equity component or sign-on bonus.** This will give you good insight into where they are flexible so you can focus there during the later stages of your negotiation.
 - **Apple is often rigid with respect to the "level" offered.** Because they use equity as a primary negotiating lever, they have lots of flexibility within pay bands and therefore rarely change pay bands—or levels—as part of the negotiation.
 - **For more junior engineers, Apple tends to make competitive offers with less room to negotiate.** So many junior engineers want to work at Apple that they don't need to negotiate very much to get good candidates at these levels. This doesn't mean you shouldn't negotiate, just expect them to be pretty stubborn when you do.
-
-<div class="ad-box">
-	<h2 class='u-center'>Negotiating a job offer from Apple? I'll help!</h2>
-	<div class="inline-body">
-		<p><img src="/images/josh-doody-200px-circle.png" style="padding-right: 10px;" width="125" alt="Josh Doody headshot" class="author__image" align="left">I'm Josh Doody, a professional salary negotiation coach who helps experienced Software Developers negotiate job offers from big tech companies. <strong>On average, Software Developers improve their job offers by {{ site.avg_coach_increase_devs }}.</strong></p>
-		<p>Apply for a free 15-minute intro call to learn how I can help.</p>
-	</div>
-	<div class='cta u-center'>
-		<a id="inline-cta" class="inline-cta-btn" data-event-label="Salary Negotiation Coaching" data-cta-label="coach-inline" href="/coach/" rel="nofollow"><strong>Learn more →</strong></a>
-	</div>
-</div>
