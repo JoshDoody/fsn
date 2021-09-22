@@ -18,25 +18,34 @@
 
     <div class="md:w-4/12 md:ml-12 blog-sidebar pt-24">
 
-      <h3 class="text-2xl mb-8 text-center uppercase sans-serif">You Might Also Like</h3>
+      {% if page.company %}
+	      <div class="help-callout p-8 pb-12">
+	        <h4 class="sans-serif uppercase text-lg brand-secondary mb-4">Get 1-on-1 Help</h4>
+	        <h3 class="sans-serif uppercase text-2xl text-black mb-10">Need full-service 1-on-1 support to help guide you through your {{ page.company }} salary negotiation?</h3>
+	        <p><a href="/coach/" class="btn btn-primary">Get 1-On-1 Help</a></p>
+	      </div>
+			{% else %}
+				<h3 class="text-2xl mb-8 text-center uppercase sans-serif">You Might Also Like</h3>
 
-      <div class="related-posts">
-        {% capture category %}{{ page.categories | first }}{% endcapture %}
-        {% for post in site.categories[category] limit: 3 %}
-          <div class="bg-white mb-8 flex flex-col">
-            <div class="p-8 flex-grow flex-1">
-              <p class="text-2xl serif"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></p>
-              <hr class="my-6 w-16 hr-article">
-              <p class="text-sm mb-6 sans-serif">{{ post.excerpt }}</p>
-            </div>
-            <div class="category flex justify-between items-center">
-              <div class="pl-8"><p class="sans-serif text-xs">{{ post.categories | join: ', ' }}</p></div>
-              <div><a href="{{ post.url | relative_url }}" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
-            </div>
-          </div>
-        {% endfor %}
-        <p class="text-center"><a href="/articles/" class="btn btn-primary">Back to Articles</a></p>
-      </div><!-- /related-posts -->
+	      <div class="related-posts">
+	        {% capture category %}{{ page.categories | first }}{% endcapture %}
+	        {% for post in site.categories[category] limit: 3 %}
+	          <div class="bg-white mb-8 flex flex-col">
+	            <div class="p-8 flex-grow flex-1">
+	              <p class="text-2xl serif"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></p>
+	              <hr class="my-6 w-16 hr-article">
+	              <p class="text-sm mb-6 sans-serif">{{ post.excerpt }}</p>
+	            </div>
+	            <div class="category flex justify-between items-center">
+	              <div class="pl-8"><p class="sans-serif text-xs">{{ post.categories | join: ', ' }}</p></div>
+	              <div><a href="{{ post.url | relative_url }}" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+	            </div>
+	          </div>
+	        {% endfor %}
+	        <p class="text-center"><a href="/articles/" class="btn btn-primary">Back to Articles</a></p>
+	      </div><!-- /related-posts -->
+			
+			{% endif %}
 
     </div><!-- /blog-sidebar -->
 
