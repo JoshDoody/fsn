@@ -42,7 +42,7 @@ collections:
     permalink: /results/:path/
   case-studies:
     output: true
-    permalink: /case-studies/:path/
+    permalink: /results/:path/
   media_podcasts:
     output: false
   media_articles:
