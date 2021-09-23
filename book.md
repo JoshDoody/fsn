@@ -4,7 +4,7 @@ title: Read Fearless Salary Negotiation online for free
 description: Fearless Salary Negotiation will show you how to estimate your market value, ace your job interviews, negotiate starting salary, and get raises and promotions throughout your career. Read it here for free.
 heroImg: hero-book.png
 ---
-*Fearless Salary Negotiation* by [Josh Doody](/josh-doody/) walks you through every phase of the interview and salary negotiation processes, and it's packed with specific tactics so you always know what to do next. That's why it quickly became a #1 Best Seller on Amazon.
+*Fearless Salary Negotiation* by [Josh Doody](/about/) walks you through every phase of the interview and salary negotiation processes, and it's packed with specific tactics so you always know what to do next. That's why it quickly became a #1 Best Seller on Amazon.
 
 ## Where should you start?
 
