@@ -56,11 +56,11 @@ In this article, you’ll learn how to maximize the value of your skillset by ge
 </ul>
 
 
-## <a name="no-offer-yet">Don’t have an offer just yet?
+## <a name="no-offer-yet"></a>Don’t have an offer just yet?
 
 There are two things you need to know to get more high-quality job offers and to set yourself up to have maximum latitude to negotiate those offers when the time comes.
 
-### <a name="positioning">Positioning yourself as the best candidate for a particular Site Reliability Engineer role
+### <a name="positioning"></a>Positioning yourself as the best candidate for a particular Site Reliability Engineer role
 
 Companies desperately need SREs, but they only need so many of them. You’ve chosen a very valuable specialty, and one of the valuable aspects of that speciality is that one engineer can do a lot of valuable work for a company.
 
@@ -68,7 +68,7 @@ This means companies will pay top dollar for your expertise, but they’re only 
 
 [How to position yourself as the best candidate for the role](/how-to-answer-job-interview-questions/)
 
-### <a name="salary-expectations">Avoiding the biggest negotiation pitfall: How to interview questions about your salary expectations
+### <a name="salary-expectations"></a>Avoiding the biggest negotiation pitfall: How to interview questions about your salary expectations
 
 Your salary negotiation may actually begin before your interviews even start. How?
 
@@ -86,7 +86,7 @@ This is so important that I’ve written an exhaustive article on how to avoid s
 
 You can recover if you’ve already shared this information with your recruiter—that’s covered in the article too—but it’s much, much easier to negotiate job offers when the first number is suggested by them during the offer stage.
 
-## <a name="how-to-counter-offer">How to negotiate - Counter offer
+## <a name="how-to-counter-offer"></a>How to negotiate - Counter offer
 
 Now let’s talk about how to negotiate your SRE offer once you have the offer in hand. 
 
@@ -95,11 +95,11 @@ To get started, you need two major components:
 1. Your counter offer amount
 2. The highlights of your case for more compensation
 
-### <a name="counter-offer">Determining our counter offer
+### <a name="counter-offer"></a>Determining our counter offer
 
 First, you need to decide which dimension you’ll counter on. Then you need to decide how much to ask for.
 
-#### <a name="counter-dimension">Which dimension should you counter on?
+#### <a name="counter-dimension"></a>Which dimension should you counter on?
 
 One tendency that seems common to engineers in particular is they want to address *all* possible contingencies at once. This often leads engineers to try to negotiate on many dimensions at the same time—I call this the “kitchen sink” method because they throw everything but the kitchen sink into their counter offer.
 
@@ -119,7 +119,7 @@ One last note on this: Before you choose the primary dimension you’ll focus on
 
 When it comes to equity, my rule of thumb is to stay away from equity unless you’re talking to a public company whose stock value is a known quantity. If a public company is offering you RSUs you can put a value on those RSUs and, while they’re not as valuable as cash in hand from salary, their value—at least right now—is a known quantity. If it’s any other kind of equity, I steer clients away because it’s extremely difficult or impossible to accurately put a value on that equity; it’s a lottery ticket.
 
-#### <a name="counter-amount">How much to ask for
+#### <a name="counter-amount"></a>How much to ask for
 
 If you’re skimming this, here’s the punchline: ask for 10% to 20% more than they offered you. 
 
@@ -131,7 +131,7 @@ What we’re really talking about here is how *aggressive* you should be with yo
 
 Sometimes they’ll make this really easy by telling you exactly how badly they want to hire you during your interviews. “We’ve been trying to fill this role for months!” is a pretty good indicator that they want *you* on their team pretty badly. On the other hand, “We’ve got one opening and we’re considering seven different candidates—it’s amazing how much interest we’ve had in this role.” is a pretty good indicator that they may not specifically be interested in hiring *you* so you don’t have as much latitude to be aggressive as you might otherwise be.
 
-### <a name="your-case">Your case
+### <a name="your-case"></a>Your case
 
 The second major component of your counter offer is your case for why you’re more valuable than their offer indicates.
 
@@ -139,7 +139,7 @@ Earlier in this article, I suggested you would get more high-quality SRE job off
 
 In case you missed it before, here's where you can learn more about how to use positioning to show them that you're *the* candidate for this particular role: [How to position yourself as the best candidate for the role](/how-to-answer-job-interview-questions/)
 
-#### <a name="positioning-why">Why your positioning is an important component of your counter offer
+#### <a name="positioning-why"></a>Why your positioning is an important component of your counter offer
 
 This may seem like an afterthought, but it’s very important—here’s why: You should send your counter offer in an email. This is so that you don’t engage in a real-time negotiation with professional negotiator ifs you don’t have to. But it’s also because your counter will often trigger the company’s internal approval process since you’re requesting a non-trivial improvement to the offer they made you.
 
@@ -147,7 +147,7 @@ When your recruiter submits your counter offer to the Comp team or whoever needs
 
 This is your chance to make your case on your own behalf in writing so that the approvers see it. The alternative is that your recruiter offers a half-hearted summary of you as a candidate, and chances are they will not make your case as well as you’ll make your own case.
 
-#### <a name="positioning-how">How to use positioning to bolster your case for your counter offer
+#### <a name="positioning-how"></a>How to use positioning to bolster your case for your counter offer
 
 As an SRE, a major component of your case should be that you have specialized as an SRE—there are many software engineers, but very few have pursued SRE. Most companies have relatively few SREs and finding good, experienced SREs is difficult.
 
@@ -167,13 +167,13 @@ That's a simple example, but if the hiring manager is struggling to solve big pr
 
 That will encourage them to accomodate your counter offer the best they can since they know they can get help immediately if they can just persuade you to join their team.
 
-#### <a name="self-promotion">This is uncomfortable for most engineers
+#### <a name="self-promotion"></a>This is uncomfortable for most engineers
 
 There’s a good chance your reaction to “you have to make your own case” was something like “I don’t like self-promotion” or “I’m not comfortable talking about myself”. This is a common reaction.
 
 **You are the best-qualified person to advocate for you.** Your recruiter or hiring manager will not only understand, but they will *appreciate* that you are thinking about your skillset and experience as they pertain to the business needs of the company. SREs who understand and care about achieving business objectives are more valuable and useful than those who don’t.
 
-### <a name="counter-offer-email">Send your counter offer in an email
+### <a name="counter-offer-email"></a>Send your counter offer in an email
 
 Now that you’ve decided which dimension you’ll focus on, determined how much you’ll ask for, and summarized your case for why you’re uniquely valuable for this particular SRE opportunity, it’s time to send your counter.
 
@@ -181,11 +181,11 @@ I recommend doing this in an email and you can read more about how to assemble t
 
 Once you’ve sent that counter offer, most of the heavy lifting for your negotiation is done. But there’s still going to be an opportunity to continue improving your offer beyond concessions they make in response to your counter offer, so let’s get ready for the final phase of your negotiation.
 
-## <a name="final-discussion">Finishing your negotiation strong
+## <a name="final-discussion"></a>Finishing your negotiation strong
 
 Remember how you chose a single dimension to focus on for your counter offer? Now’s your chance to see about improving the other dimensions of your offer as well.
 
-### <a name="phone-call">It’s probably time for the phone call you’ve been dreading
+### <a name="phone-call"></a>It’s probably time for the phone call you’ve been dreading
 
 You managed to keep things in email until now, but most recruiters will respond to your counter with “Thanks for considering our offer! Do you have a few minutes to chat?” They want to move to the phone and wrap things up quickly. 
 
@@ -193,7 +193,7 @@ The rest of this section is about how to prepare for that phone call, which will
 
 Because things happen quickly, and because you’ll probably be very stressed on your next call with the recruiter, I recommend creating a script you can use to navigate that call.
 
-### <a name="script">Writing your script for your Final Discussion
+### <a name="script"></a>Writing your script for your Final Discussion
 
 In addition to the dimension you chose to counter on, choose three more dimensions of your offer that you care about and list them in descending order of importance or value to you.
 
@@ -203,7 +203,7 @@ The company will respond to your counter offer and they likely won’t say “ye
 
 Before I describe this process, here’s an article that will help you visualize what you’re doing here: [Salary negotiation script example](/salary-negotiation-script-example/)
 
-#### <a name="script-plan">Plan for each increment in your negotiation window
+#### <a name="script-plan"></a>Plan for each increment in your negotiation window
 
 Now that you’ve countered, you’ve narrowed the universe of possibilities to a pretty tight range of values. For example—following the link above—if they offered you $50,000 salary and you countered at $56,000, then they will most likely respond somewhere in that range. 
 
@@ -217,13 +217,13 @@ What if they meet you in the middle? That’s a good sign they’re flexible in 
 
 For each of their possible responses, plan your next move. Then include some backup requests for when they seem to be stuck on a dimension. Have you maxed out salary? Maybe you can ask for more equity. Have they maxed out equity? Maybe you can ask for a sign-on bonus.
 
-#### <a name="script-stop">Stop when you get a 'yes' or run out of dimensions
+#### <a name="script-stop"></a>Stop when you get a 'yes' or run out of dimensions
 
 The general idea is that if they say “yes” to something you ask for, then you’re finished negotiating. If they say “no” or give you a partial “yes”, then you ask for the next thing on your list. You don’t want to do this forever, so you let them know, “If you can do this, then I’m on board”—you signal to them that *they* can end the negotiation by saying “yes”. At most, you’ll ask for three additional things beyond your initial request.
 
 Use the script example linked above as your guide. I recommend literally writing up your script and having it in front of you for your negotiation because things will happen quickly and you may miss something or even totally forget your plan once you’re negotiating in real-time.
 
-## <a name="summary">Summary - How to negotiate your SRE job offer
+## <a name="summary"></a>Summary - How to negotiate your SRE job offer
 
 When you’re interviewing for SRE roles, make sure to [position yourself](/how-to-answer-job-interview-questions/) as *the* candidate for each particular role by describing how you’ll make their team or company better when you’re a part of it. How will you help them meet their goals and overcome challenges they’re facing?
 

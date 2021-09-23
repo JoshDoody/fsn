@@ -23,7 +23,7 @@ What's going on?
 
 This is almost always a sign that the you need better *positioning*. 
 
-## <a name="positioning-definition">"What is positioning?"
+## <a name="positioning-definition"></a>"What is positioning?"
 
 Your job interviews are a part of your negotiation. The better you perform, the better your offer will be *and* the better you'll be able make your case when you begin the formal salary negotiation.
 
@@ -91,7 +91,7 @@ Here's what your answer might sound like when you leveraging strong positioning 
 
 Well, hello there! That's a compelling answer that will impress your interviewer and significantly increase your chances of getting another interview and ultimately getting a high-quality job offer. And there's a straightforward process you can follow to consistently give strong answers like the second one.
 
-## <a name="gathering-data">Learning about the job and company
+## <a name="gathering-data"></a>Learning about the job and company
 
 In a nutshell, positioning is how you show a company that you're *the* person they need for a specific job.
 
@@ -130,7 +130,7 @@ This doesn't need to be complicated—you're simply doing the work that others w
 
 In general, bigger companies will have more information available than smaller companies. That's ok. For now, all you're doing is building a list of data sources you can use.
 
-## <a name="answering-questions">Using your research to answer interview questions
+## <a name="answering-questions"></a>Using your research to answer interview questions
 
 
 Use the short list of above to discover exactly what the company needs. Most of the information is publicly available, and some companies will have more information than others. But that's ok because you just need basic information to get through the first interview or two.

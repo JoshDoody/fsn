@@ -46,7 +46,7 @@ Finally, once you complete your negotiation and set a start date for your new ro
 
 That's a high-level overview of the salary negotiation process. The rest of this guide is a step-by-step deep-dive to help you get the best results possible when negotiating your salary.
 
-## <a name="expecting-job-offer" class="below-nav">Expecting a job offer soon
+## <a name="expecting-job-offer"></a>Expecting a job offer soon
 
 Just in case you're not quite ready to negotiate your salary—maybe you're skeptical that negotiating salary actually works, or you're concerned about coming off as too aggressive or rubbing someone the wrong way—let's start with *why* you should negotiate your salary.
 
@@ -98,7 +98,7 @@ There's one more thing you need to do before you get your job offer: Set your wa
 
 By avoiding sharing your salary history or compensation expectations, you'll give yourself the most opportunity to negotiate the highest salary possible. By setting your minimum acceptable salary before you get your job offer, you'll give yourself an objective way to evaluate the final result of your negotiation so you can make the best decision about whether to accept the job.
 
-## <a name="job-offer-in-hand" class="below-nav">Once you have your job offer in hand
+## <a name="job-offer-in-hand"></a>Once you have your job offer in hand
 
 Finally have a job offer? Here's how to negotiate your salary in person, on the phone, and over email.
 
@@ -179,7 +179,7 @@ But there are several unique situations that might call for a slightly modified 
   <p><a href="/salary-negotiation-email-sample/">Salary negotiation email templates <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
-## <a name="currently-negotiating" class="below-nav">Currently negotiating - after you send your counter offer
+## <a name="currently-negotiating"></a>Currently negotiating - after you send your counter offer
 
 Once you've sent your counter offer, you should immediately begin preparing for your Final Discussion. This is what most people think of when they think of "salary negotiation". You'll usually have this discussion over the phone—usually this call will just last a few minutes—where the recruiter or hiring manager will respond to your counter offer, and you'll have your final opportunity to maximize your base salary and other non-salary benefits that are important to you.
 
@@ -230,7 +230,7 @@ Run your script a few times before your Final Discussion. If you can find someon
 
 With your script in hand, you're ready for your Final Discussion. The recruiter or hiring manager will call you and respond to your counter offer. Because you have your script prepared and you've practiced it, you're ready to go. This call will only last a few minutes, and it'll be over before you know it!
 
-## <a name="negotiation-complete" class="below-nav">After you finished negotiating your salary
+## <a name="negotiation-complete"></a>After you finished negotiating your salary
 
 <a href="/resignation-letter/" target="_blank"><img src="/assets/imgs/post-images/ResignationLetterTemplate.png" alt="Resignation letter templates - free, simple example emails" style="width: 100%;"/></a>
 

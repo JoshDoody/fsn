@@ -44,7 +44,7 @@ Your primary objective throughout the interview process is to differentiate your
 
 <div class="inline-ad hidden"></div>
 
-## <a name="applying-for-jobs" class="below-nav">Applying for jobs
+## <a name="applying-for-jobs"></a>Applying for jobs
 
 If you're applying for jobs via a job board or just submitting résumés to individual companies, you need to be sure that your application is different than everyone else who is applying for the job.
 
@@ -100,7 +100,7 @@ Once you start submitting applications, you've passed the point of no return. So
 
 Now that you're submitting applications and your cover letter and résumé have done their job, you'll start scheduling interviews and it's time for some interview preparation.
 
-## <a name="interviews-start-soon" class="below-nav">Interviews start soon
+## <a name="interviews-start-soon"></a>Interviews start soon
 	
 Before you schedule an interview with a hiring manager or someone on your future team, you'll probably have a "pre-screen" or "pre-interview" call with a recruiter.
 
@@ -130,7 +130,7 @@ There are three main venues where you might have a job interview: in person, ove
   <p><a href="/what-to-bring-to-a-job-interview/">Interview checklists to prepare for your job interview <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
-## <a name="actively-interviewing" class="below-nav">Actively interviewing
+## <a name="actively-interviewing"></a>Actively interviewing
 
 You've lined up some interviews and you know how to prepare for them. But now comes the tough part: answering interview questions in real time without any sort of script to follow. 
 
@@ -186,7 +186,7 @@ You do! This is a great chance for you to demonstrate that you truly understand 
   <p><a href="/10-good-questions-to-ask-in-a-job-interview/">10 questions to ask in an interview to really stand out <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
-## <a name="expecting-a-job-offer" class="below-nav">Expecting a job offer
+## <a name="expecting-a-job-offer"></a>Expecting a job offer
 
 Once you've run the job interview gauntlet, you may be tempted to relax, but it's not *quite* time to take it easy!
 

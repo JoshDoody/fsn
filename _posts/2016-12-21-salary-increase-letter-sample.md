@@ -52,7 +52,7 @@ The first step to collaborating with your manager to ask for a raise is to sched
 
 Here are a two ways to initiate a conversation to ask for a salary increase.
 
-#### <a name="regular-meeting">If you have a regular 1-on-1 with your manager
+#### <a name="regular-meeting"></a>If you have a regular 1-on-1 with your manager
 
 If you have a regular 1-on-1 with your manager, even as infrequently as once a month, that's the perfect time to discuss a salary increase. All you need to do is give your manager a heads-up so they have time to prepare for the discussion and maybe even do some research to see what might be possible.
 
@@ -79,7 +79,7 @@ Here's an email template you can use to give your manager a heads-up that you wo
   </div>
 </div>
 
-#### <a name="dedicated-meeting">If you  do NOT have a regular 1-on-1 with your manager
+#### <a name="dedicated-meeting"></a>If you  do NOT have a regular 1-on-1 with your manager
 
 This situation is similar, but you'll also need to schedule a meeting since you don't have a regular meeting on the books.
 
@@ -133,7 +133,7 @@ Before you use those templates to schedule a time to ask for a raise, I recommen
 
 The process of putting your case in writing will either help you to clearly see how strong your case is or to identify gaps that you should address before you schedule that meeting to make a formal request.
 
-### <a name="request-template">How to build a compelling case to request a salary increase
+### <a name="request-template"></a>How to build a compelling case to request a salary increase
 
 Once you've scheduled a time with your manager, it will help to be as organized and prepared as possible. Remember, you're collaborating with your manager to ask a raise, so you want to make it as easy as possible for them to help you achieve your goal.
 
@@ -237,7 +237,7 @@ Finish your letter with a summary of your salary increase request along with you
 
 Thank your manager for their time and keep it brief.
 
-### <a name="in-person-script"> What to say to your boss in your 1-on-1 asking for a raise (do this *before* you send your salary increase letter!)
+### <a name="in-person-script"></a>What to say to your boss in your 1-on-1 asking for a raise (do this *before* you send your salary increase letter!)
 
 I recommend asking for a raise in person *before* you send this salary increase letter. Writing your case ahead of time is the *perfect* way to prepare for that discussion so you're sure that your case is rock solid before you ask for a raise.
 
@@ -261,7 +261,7 @@ The reason this email is so important is that your manager will likely forward i
 
 So this email gives you the opportunity to make your case *in your own words* to whoever needs to approve your request. And that gives you the greatest chance getting your salary increase.
 
-### <a name="follow-up">Follow-up on your request with a short email
+### <a name="follow-up"></a>Follow-up on your request with a short email
 
 Getting a raise is a top priority for you, but it probably isn't your manager's top priority. Even if you schedule a good time to talk with your manager and bring a strong case when asking for a raise, you may not hear back for a while. 
 
@@ -295,7 +295,7 @@ I recommend waiting a week or two before sending a followup email. If you don't 
 
 You may need to follow up several times to get the ball rolling.
 
-### <a name="request-a-plan">What if your salary increase request is put on hold for now?
+### <a name="request-a-plan"></a>What if your salary increase request is put on hold for now?
 
 One last thing: *Asking* for a raise—even with a strong case—doesn't guarantee you'll get the raise you asked for. Sometimes you'll get a clear "yes" or "no", but sometimes your manager will say "It's just not a good time right now" or "I don't think you're quite ready yet. Let's revisit this later."
 

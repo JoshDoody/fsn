@@ -57,7 +57,7 @@ It's easier to understand the salary expectations questions if we answer another
 
 Let's take each question—salary expectations and current salary–separately.
 
-## <a name="expected-salary-question">“What are your salary expectations?”
+## <a name="expected-salary-question"></a>“What are your salary expectations?”
 
 This question is tricky because it *sounds* like they're giving you a chance to set the baseline for your new salary. It *sounds* like they're asking you to contribute to the terms of the job offer you'll hopefully get later.
 
@@ -158,7 +158,7 @@ If you had told them your salary expectations, you may not have even gotten this
 
 And all of this is just to get a strong *initial* job offer. You can *continue* telling your story when you counter offer (see this [salary negotiation email sample](/salary-negotiation-email-sample/) for an example of how you continue telling your story even as you counter offer), and that may drive their budget even higher.
 
-## <a name="current-salary-question">“What's your current salary?”
+## <a name="current-salary-question"></a>“What's your current salary?”
 
 This question is pretty straightforward, but not nearly as innocuous as it may sound. Here's a different way of looking at this question:
 
@@ -178,7 +178,7 @@ Now that we've talked about why sharing your salary expectations or current sala
 
 We'll break this down into two parts: "What are your salary expectations?" and "What's your current salary?"
 
-## <a name="expected-salary-answer">How to answer the "What's your expected salary?" interview question
+## <a name="expected-salary-answer"></a>How to answer the "What's your expected salary?" interview question
 
 My pat answer to the "what are you looking for" part of the salary expectations question is this:
 
@@ -186,7 +186,7 @@ My pat answer to the "what are you looking for" part of the salary expectations 
 
 This answer demonstrates that you want to contribute to the company by taking on additional responsibilities and that you want to be well compensated for those contributions.
 
-## <a name="current-salary-answer">How to answer the "What's your current salary?" interview question
+## <a name="current-salary-answer"></a>How to answer the "What's your current salary?" interview question
 
 For the "current salary" part of the question, I recommend answering something like this:
 
@@ -196,7 +196,7 @@ It’s true that they may do some digging and put together a good educated guess
 
 It also means that their eventual offer will need to reflect both your [market value](/book/value/market-value-overview/) and the value you’ll add to the company without being biased by your current salary.
 
-## <a name="combined-answer">How to answer the "What's your current and expected salary?" interview question
+## <a name="combined-answer"></a>How to answer the "What's your current and expected salary?" interview question
 
 Sometimes, they'll ask both of these questions at once:
 
@@ -210,7 +210,7 @@ Here is my recommendation for a good answer to the full version of this question
 
 So let's say that you're playing a game, and your goal is to get past the salary expectations without sharing your salary requirements. This is Level 1, and the script I just gave you will usually win the game.
 
-## <a name="when-they-ask-again">What if they ask again?
+## <a name="when-they-ask-again"></a>What if they ask again?
 
 So you got to the end of Level 1, and you're feeling pretty good that you didn't disclose your salary expectations. Excellent!
 
@@ -258,7 +258,7 @@ Let's compare that to the unique pieces of information the company has:
 
 See what I mean? If you give them two of the three unique pieces of information you have, you're down to 1. And they're up from *a lot of information that you don't have* to *all but one piece of information*.
 
-## <a name="when-they-insist">What if they threaten to stop interviewing you?
+## <a name="when-they-insist"></a>What if they threaten to stop interviewing you?
 
 What if they tell you the interview process simply can't continue unless you share your current salary or expected salary?
 
@@ -322,7 +322,7 @@ This is a heavy-handed answer, but it's necessary because of the situation. You'
 
 If they *still* press after this answer, I'm all out of ideas because I've never seen anyone fail to complete the game with this script.
 
-## <a name="special-circumstances">Answering salary questions on applications
+## <a name="special-circumstances"></a>Answering salary questions on applications
 
 It's more and more common to see salary questions on job applications—both paper and online. So let's talk about how to use this strategy when confronted with the salary expectations questions on an application.
 
@@ -354,7 +354,7 @@ Every time I've seen this, it's usually a rogue recruiter who has created their 
 
 Regardless, you shouldn't share this information because it has nothing to do with how qualified you are for the job they're trying to fill, and your previous salary has no bearing on how valuable you will be in this role for their company.
 
-## <a name="recruiter-pushback">Common pushback from recruiters
+## <a name="recruiter-pushback"></a>Common pushback from recruiters
 
 I've been talking about the salary expectations question for years now. My coaching clients have used this advice to get much better job offers and negotiate better compensation than they ever had before. These tactics *work*.
 
@@ -389,7 +389,7 @@ If they're serious about respecting everyone's time, then they'll tell you the r
   <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
-## <a name="already-shared-expected-salary">How to recover if you shared your salary expectations and the offer meets or exceeds them
+## <a name="already-shared-expected-salary"></a>How to recover if you shared your salary expectations and the offer meets or exceeds them
 
 What if you already declared your salary expectations and they made an offer that meets or exceeds them, but you want to negotiate for something even higher. How do you do that?
 
@@ -405,7 +405,7 @@ Once you identify one or more things, wait for them to make an offer, which will
 It's problematic to declare your salary expectations early in the interview process because you don't know enough about the job, the company, and the available perks to pick a salary. But even if you already shared an expected salary, there are still ways to negotiate and improve your job offer.
 
 
-## <a name="already-shared-current-salary">How to recover if you've already disclosed your current salary
+## <a name="already-shared-current-salary"></a>How to recover if you've already disclosed your current salary
 
 So how do you recover if you've already disclosed your current salary depends how early you are in the interview process? Let's take the interview process in two phases:
 
@@ -456,7 +456,7 @@ Once you get this far, it's much harder to recover and drastically improve your 
 
 Your options are slim, but you do have options even if you've already disclosed your current salary!
 
-## <a name="summary">Summarizing your options for answering  salary expectations questions
+## <a name="summary"></a>Summarizing your options for answering  salary expectations questions
 
 We've covered a lot of ground here, so let me give you a short-and-sweet summary of the scripts you can use to avoid sharing your salary expectations and current salary when asked for your salary expectations in a job interview.
 

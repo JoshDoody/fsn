@@ -24,7 +24,7 @@ Here are some red flags to look out for when interviewing and negotiating your s
  * [Private company is offended when you question their equity valuation](#equity-trouble){:data-template="Private equity valuation"}
  * [They retract your offer when you negotiate](#offer-retracted)
 
-## <a name="recruiter-stops">The recruiter won't continue unless you disclose your current or expected salary
+## <a name="recruiter-stops"></a>The recruiter won't continue unless you disclose your current or expected salary
 
 You've probably heard me say that you should not disclose your current or expected salary when asked for it during your job interviews or salary negotiations. 
 
@@ -87,7 +87,7 @@ But if you you don't share your current or expected salary and the recruiter shu
 
 Don't be a commodity.
 
-## <a name="equity-trouble">They're a private company and they argue over the value of their equity
+## <a name="equity-trouble"></a>They're a private company and they argue over the value of their equity
 
 The negotiation began pretty normally, and they even moved a little bit on salary. But then the recruiter suddenly tightened up and even became defensive and a little combative.
 
@@ -129,7 +129,7 @@ In the end, my client decided to go with a better option at a company who didnâ€
 
 You have agency when choosing where you work. If you see red flags during your negotiation, pay attention to them and consider other options if the red flags start to pile up.
 
-## <a name="offer-retracted">They retract your job offer when you negotiate your salary
+## <a name="offer-retracted"></a>They retract your job offer when you negotiate your salary
 
 Jim felt like he ran into a dead end at his job, and missed being challenged and having opportunities to try new things. Hehad a strong Mechanical Engineering resume that landed him plenty of job interviews, but he struggled to get call-backs. So he hired me to help.
 
