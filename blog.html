@@ -32,7 +32,7 @@ navWeight: 2
         <div class="p-10 border-4 border-white">
           <h4 class="text-xl pb-4 uppercase sans-serif">Featured</h4>
           <h3 class="color-black text-4xl uppercase sans-serif mb-4"><a href="{{ feat.url }}">{{ feat.title }}</a></h3>
-          <p class="mb-10 serif">{{ feat.description }}</p>
+          <p class="mb-10">{{ feat.description }}</p>
           <p><a href="{{ feat.url }}" class="btn-primary btn">Read More</a></p>
         </div>
       {% endfor %}
@@ -43,7 +43,7 @@ navWeight: 2
     {% for post in site.posts %}
       <div class="bg-white flex flex-col {{ post.categories }}">
         <div class="p-8 flex-grow flex-1">
-          <p class="text-2xl serif"><a href="{{ post.url }}">{{ post.title }}</a></p>
+          <p class="text-2xl"><a href="{{ post.url }}">{{ post.title }}</a></p>
           <hr class="my-6 w-16 hr-article">
           <p class="text-sm mb-6 sans-serif">{{ post.description }}</p>
         </div>
