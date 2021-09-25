@@ -1084,6 +1084,8 @@
   background-color: $brand-white;
   outline: 2px solid $brand-secondary;
   border: 5px solid $brand-light-gray;
+	position: sticky;
+	top: 10px;
 }
 
 .about-callout {
