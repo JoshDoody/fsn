@@ -4,9 +4,9 @@
 
   <div id="{{ include.story-id | slugify }}">
 		{% if story.short_version %}
-	    <p>{{ story.short_version | markdownify }}</p>
+      {{ story.short_version | markdownify }}
 		{% else %}
-	    <p>{{ story.excerpt }}</p>
+      {{ story.excerpt }}
 		{% endif %}
     <div class="flex items-center mt-6">
       {% if story.headshot %}

@@ -2,7 +2,7 @@ body {
   background: url(../imgs/bg.png) right top no-repeat $brand-light-gray;
   color: $brand-black;
   font: {
-    family: $font-base;
+    family: $font-serif;
     size: $font-size-base;
     weight: 400;
   }
@@ -12,6 +12,7 @@ body {
 
 a {
   text-decoration: none;
+  border-bottom: 1px solid $brand-secondary;
   position: relative;
   transition: all .25s ease;
   .fa, .fas {
@@ -24,6 +25,9 @@ a {
     .fa, .fas {
       margin-left: 4px;
     }
+  }
+  &.no-border {
+    border-bottom: none;
   }
   &.anchor-link {
     text-decoration: none !important;
@@ -102,6 +106,7 @@ ul, ol {
   margin: 0 0 1em 20px;
   list-style-position: outside;
   li {
+    font-family: $font-serif;
     margin-bottom: .25em;
   }
 }
@@ -115,8 +120,8 @@ ul {
     list-style-type: none;
     li {
       font-family: $font-serif;
-      text-indent: -26px;
-      margin-left: 20px;
+      text-indent: -34px;
+      margin-left: 27px;
       // display: flex;
       display: inline-block;
       .fas {
@@ -125,12 +130,13 @@ ul {
         height: 22px;
         width: 22px;
         // margin-right: .75em;
-        margin-right: 9px;
+        margin-right: 11px;
+        vertical-align: text-bottom;
         &:before {
           color: $brand-white;
           font-size: 24px;
           // margin-left: -1px;
-          margin-left: 26px;
+          margin-left: 33px;
         }
       }
     }
@@ -235,7 +241,7 @@ hr {
 
 .blog-post, .book-content {
   a {
-    border-bottom: 1px solid $brand-secondary;
+    // border-bottom: 1px solid $brand-secondary;
   }
   hr {
     max-width: 64px;
@@ -299,17 +305,17 @@ table {
 }
 
 .sans-serif {
-  font-family: $font-sans-serif;
+  font-family: $font-sans-serif !important;
 }
 
 .serif {
-  font-family: $font-serif;
+  font-family: $font-serif !important;
 }
 
 .brand-primary {
-  color: $brand-primary;
+  color: $brand-primary !important;
 }
 
 .brand-secondary {
-  color: $brand-secondary;
+  color: $brand-secondary !important;
 }

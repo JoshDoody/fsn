@@ -9,7 +9,8 @@
   display: block;
   .fas {
     color: $brand-gray;
-    vertical-align: -9px;
+    // vertical-align: -9px;
+    vertical-align: -16px;
   }
 }
 
@@ -193,6 +194,9 @@
     color: $brand-black;
     font-size: 2em;
   }
+  a {
+    border: none;
+  }
   img {
     position: absolute;
     // bottom: -56px;
@@ -203,6 +207,9 @@
 
 // Product grid
 .product-grid {
+  a {
+    border: none;
+  }
   .grid-cols-2 {
     .product-column {
       &:nth-child(1) { background-color: #28282D; }
@@ -298,7 +305,12 @@
 
 .blog-sidebar {
   h3 {
-    color: $brand-primary;
+    color: $brand-black;
+  }
+  .related-posts {
+    a {
+      border: none;
+    }
   }
 }
 
@@ -441,6 +453,10 @@
     position: absolute;
     top: 3.875em;
     left: 2.5em;
+    @media (max-width: 660px) {
+      top: 26px;
+      left: 11px;
+    }
   }
 }
 
@@ -515,7 +531,8 @@
 .suc-indi-quotes {
   padding: 6.75em 4em 2.75em 4.25em;
   @media (max-width: 660px) {
-    padding-bottom: 6em;
+    padding: 3em 2em 6em;
+    // padding-bottom: 6em;
   }
   p {
     color: $brand-white;
@@ -684,6 +701,15 @@
   }
   h4 {
     color: $brand-primary;
+  }
+  a {
+    border: none;
+  }
+}
+
+.blog-list {
+  a {
+    border: none;
   }
 }
 
@@ -880,6 +906,7 @@
         color: $brand-gray;
         text-decoration: none;
         font-size: .875em;
+        border: none;
         &:hover {
           text-decoration: underline;
         }
