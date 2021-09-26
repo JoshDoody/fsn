@@ -26,8 +26,8 @@ The [_Fearless Salary Negotiation_](/get-started/) method is easy to use while g
 **How does it work?**
 
 1.  **Calculate your counter offer.** The counter offer calculator accounts for four factors—the base salary of your job offer, your minimum acceptable salary ("walk away" number), how badly the company needs you to accept the job offer, and how badly you need the job.
-2.  **Email your counter offer.** Learn how to write your [salary negotiation email](/salary-negotiation-email-sample) with this guide. Or get 10 salary negotiation email templates sent directly to your inbox...
-3.  **Prepare for your final discussion.** Use the [salary negotiation script example](/salary-negotiation-script-example) as your guide.
+2.  **Email your counter offer.** Learn how to write your [salary negotiation email](/salary-negotiation-email-sample/) with this guide. Or get 10 salary negotiation email templates sent directly to your inbox...
+3.  **Prepare for your final discussion.** Use the [salary negotiation script example](/salary-negotiation-script-example/) as your guide.
 
 **You're less than 1 minute away from having a complete salary negotiation script to successfully negotiate starting salary!**
 	
@@ -68,6 +68,6 @@ Once you've maximized your starting salary, then pursue additional benefits that
 2.  Signing bonus
 3.  Work from home
 
-Here's a salary negotiation script example you can use to plan for your salary negotiation: [Salary negotiation script example](/salary-negotiation-script-example)
+Here's a salary negotiation script example you can use to plan for your salary negotiation: [Salary negotiation script example](/salary-negotiation-script-example/)
 
 <div class="inline-ad hidden"></div>

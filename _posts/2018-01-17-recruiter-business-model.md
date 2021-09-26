@@ -43,7 +43,7 @@ What's going on here? *They* reached out to *you*, right? Plus, they get a commi
 
 I'm a salary negotiation expert. My goal *is* to maximize my clients' salaries with simple, proven salary negotiation tactics. The most important tactic is *don't disclose your current salary or your salary expectations before they make you an offer*. This one tactic is worth thousands of dollars to the average candidate, and could be worth tens of thousands of dollars *or even more* for many candidates.
 
-You can read all about this tactic, how to deploy it—even with extremely insistent recruiters and hiring managers—in this article: [How to answer the "What's your current salary?" interview question](/the-dreaded-salary-question).
+You can read all about this tactic, how to deploy it—even with extremely insistent recruiters and hiring managers—in this article: [How to answer the "What's your current salary?" interview question](/the-salary-expectations-interview-question/).
 
 And if I know this, your recruiter *definitely* knows this since they're deeper in the process than I am.
 

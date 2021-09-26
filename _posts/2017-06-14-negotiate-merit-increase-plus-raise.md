@@ -43,8 +43,8 @@ But that doesn't mean you shouldn't ask! Most likely, your manager will let you 
 Before you ask for a raise in addition to your merit increase, I recommend establishing the following three things:
 
 1. **Your [target salary](/book/raise/what-is-your-target-salary/)**—What is the specific raise amount you feel you have earned? You'll start with your market value—[Glassdoor](https://www.glassdoor.com/Salaries/index.htm) will help with this—and then adjust your market value for your specific situation.
-2. **Your [accomplishments](/book/raise/raise-build-your-case#accomplishments)**—What are the valuable responsibilities you've taken on that were unanticipated when your salary was last set? Make sure to identify the accomplishment itself *and* the business value of the accomplishment whenever possible.
-3. **Your [accolades](/book/raise/raise-build-your-case#accolades)**—What awards or recognition have you gotten from colleagues, other managers, or clients? These can help your manager understand the value of your work even if they've been focused on other things.
+2. **Your [accomplishments](/book/raise/raise-build-your-case/#accomplishments)**—What are the valuable responsibilities you've taken on that were unanticipated when your salary was last set? Make sure to identify the accomplishment itself *and* the business value of the accomplishment whenever possible.
+3. **Your [accolades](/book/raise/raise-build-your-case/#accolades)**—What awards or recognition have you gotten from colleagues, other managers, or clients? These can help your manager understand the value of your work even if they've been focused on other things.
 
 It's important to do this homework before asking your manager for a raise because managers are very busy people. The more work they need to do to help you out, the less likely they are to find the time to do it.
 

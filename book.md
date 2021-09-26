@@ -18,7 +18,7 @@ I like [helping people](/testimonials/), and this is another way I can help peop
 
 ## How do I make money if I'm giving it away?
 
-Some people will be happy reading the book for free online, and others are happy to pay for more for the expert interviews, self-paced video courses, worksheets and email templates that come with [the Complete Bundle](/get-started#complete).
+Some people will be happy reading the book for free online, and others are happy to pay for more for the expert interviews, self-paced video courses, worksheets and email templates that come with [the Complete Bundle](/get-started/#complete).
 
 And for those considering [expert salary negotiation coaching](/coach/) for accountability and a customized plan, or a [personalized strategy session](/call/) this is a great way to show them that I know what I'm talking about.
 

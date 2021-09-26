@@ -60,7 +60,7 @@ You're going to work very hard to build your skillset, find good opportunities a
 
 Most people will hold relatively few jobs over their lifetime. And changing jobs usually provides the best opportunity to significantly increase your salary. So take advantage of it and negotiate—don't just accept their initial offer.
 
-This [salary negotiation script generator and counteroffer calculator](/salary-negotiation-script) is a good place to start for an overview of my strategy.
+This [salary negotiation script generator and counteroffer calculator](/salary-negotiation-script/) is a good place to start for an overview of my strategy.
 
 <blockquote class="ico link-callout">
   <p><span>Learn more</span> Ready to start applying? Here's how to prepare for your interviews</p>

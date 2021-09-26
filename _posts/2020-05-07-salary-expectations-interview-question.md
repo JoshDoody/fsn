@@ -152,7 +152,7 @@ To recap:
 - They had a salary range in mind.
 - You convinced them that *you* are the candidate they need.
 - They redefined the role to give them more room to pay you.
-- They made a strong offer with room to [counter offer](/salary-negotiation-script) and negotiate.
+- They made a strong offer with room to [counter offer](/salary-negotiation-script/) and negotiate.
 
 If you had told them your salary expectations, you may not have even gotten this far. True, maybe your guess would've been good. But what if you guessed lower? You would've cost yourself money. What if you guess higher? They may not have continued interviewing you if you were "too expensive", and you never would have had the opportunity to show them that you're the ideal candidate for the position they're trying to fill.
 

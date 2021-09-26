@@ -59,7 +59,7 @@ Let's look a little closer at the main components of a Microsoft job offer.
 
 As with most job offers, this is the stable, predictable component that you can use to pay your mortgage or car payment. You can't know what company performance might look like in the future, so it's hard to estimate how much of a bonus you'll get or what your RSUs will be worth when they vest.
 
-Microsoft's base salary offers tend to be pretty competitive with other big tech firms. If you're wondering whether the salary you're offered is competitive, [paysa.com](https://www.paysa.com) and [levels.fyi](https://www.levels.fyi) are good places to start.
+Microsoft's base salary offers tend to be pretty competitive with other big tech firms. If you're wondering whether the salary you're offered is competitive, [blind](https://www.teamblind.com) and [levels.fyi](https://www.levels.fyi) are good places to start.
 
 #### How flexible is Microsoft on Base Salary?
 
@@ -124,7 +124,7 @@ While they might have a good idea of the value of that job to Microsoft's busine
 
 ### Once you receive your job offer from Microsoft
 
-Consider whether the offer is about what you would expect based on your experience and publicly available data. I recommend using [levels.fyi](https://levels.fyi) or [paysa.com](https://paysa.com) to get a sense of where your offer falls for the job you're considering.
+Consider whether the offer is about what you would expect based on your experience and publicly available data. I recommend using [levels.fyi](https://levels.fyi) or [blind](https://www.teamblind.com) to get a sense of where your offer falls for the job you're considering.
 
 Here's why this matters: Microsoft is unique because they typically assign multiple "levels" to a particular job title. For example, you may be offered a job as "Senior Software Development Engineer", but that could be at a Level 63 (common for candidates brought in from outside Microsoft) or a Level 64 (typically reserved for internal promotions).
 

@@ -57,7 +57,7 @@ Let's look a little closer at the main components of an Apple job offer.
 
 Base salary is the most stable component of your job offer, and the one you can budget around for the coming year. My clients often focus here first because it's the most predictable component, and because it impacts their bank account immediately and indefinitely.
 
-Apple's base salary offers tend to be pretty competitive with, and are often slightly higher than other big tech firms. If you're wondering whether the salary you're offered is competitive, [paysa.com](https://www.paysa.com) and [levels.fyi](https://www.levels.fyi) are good places to start.
+Apple's base salary offers tend to be pretty competitive with, and are often slightly higher than other big tech firms. If you're wondering whether the salary you're offered is competitive, [blind](https://www.teamblind.com) and [levels.fyi](https://www.levels.fyi) are good places to start.
 
 #### How flexible is Apple on Base Salary?
 

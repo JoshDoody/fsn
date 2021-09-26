@@ -15,7 +15,7 @@ published: true
 ---
 **Once you've responded to your job offer with a counter offer, the company will probably respond with something between your job offer and your counteroffer.** That's your negotiation window. Your goal is to maximize your salary within that window.
 
-Here's a salary negotiation counteroffer calculator you can use to determine your counter offer: [Salary negotiation script and counter offer calculator](/salary-negotiation-script)
+Here's a salary negotiation counteroffer calculator you can use to determine your counter offer: [Salary negotiation script and counter offer calculator](/salary-negotiation-script/)
 
 ## Salary negotiation script example from a real negotiation
 
