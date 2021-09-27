@@ -35,5 +35,3 @@ Let’s look at the high-level process for earning a promotion. It’s pretty si
 5. [Present your case](/book/promotion/ask-for-a-promotion-in-person-first/)
 
 The goal is that once you present your case, it’ll be such a good case for a promotion that your manager and her manager, plus the Finance person who has to approve things, will be impressed and immediately see that you’re doing your target job, so they’ll say, "Well, it seems like he’s already doing the job, so let’s make it official and promote him!" Or, at the very least, you’ll understand that although you feel that you’ve already demonstrated your readiness for a promotion, your company simply can’t accommodate you, so you’ll either need to put a plan in place to achieve your goal, or you may need to look at other options.
-
-If you prefer to learn by doing, take a look at "How to get promoted in 7 days". It's a free, 7-lesson crash course on how to show your boss that you deserve a promotion.. Get it for free here: [FearlessSalaryNegotiation.com/promotion-course](/promotion-course/)

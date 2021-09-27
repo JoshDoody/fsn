@@ -14,20 +14,20 @@ If you're happy where you are but want more from your current job, start with [H
 
 ## Why am I giving this away for free?
 
-I like [helping people](/testimonials/), and this is another way I can help people by making sure everyone has access to my book.
+I like [helping people](/results/), and this is another way I can help people by making sure everyone has access to my book.
 
 ## How do I make money if I'm giving it away?
 
 Some people will be happy reading the book for free online, and others are happy to pay for more for the expert interviews, self-paced video courses, worksheets and email templates that come with [the Complete Bundle](/get-started/#complete).
 
-And for those considering [expert salary negotiation coaching](/coach/) for accountability and a customized plan, or a [personalized strategy session](/call/) this is a great way to show them that I know what I'm talking about.
+And for Senior Software Engineers and Engineering Managers considering [expert salary negotiation coaching](/coach/) this is a great way to show them that I know what I'm talking about.
 
 My book is the *foundation* for everything else I offer, and those other things are very valuable.
 
 ## Why would you buy it if you can get it here for free?
 
 <ul class="checklist my-6">
-   <li><i class="fas fa-check-circle"></i><strong>Convenience.</strong> I've tried to make the online version of <em>Fearless Salary Negotiation</em> easy to read and navigate, but it's still a collection of web pages. When you buy <a href="/#basic">The Basic Bundle</a> or any of the <a href="/video-courses/">video course bundles</a>, you can download the eBook to your own eReader where you can read offline, take notes, and own the book. When you buy the video course bundles, you can download the video courses and you own them forever.</li>
+   <li><i class="fas fa-check-circle"></i><strong>Convenience.</strong> I've tried to make the online version of <em>Fearless Salary Negotiation</em> easy to read and navigate, but it's still a collection of web pages. When you buy <a href="/get-started/">a book bundle</a> or <a href="/salary-negotiation-video-course/">The Salary Negotiation Crash Course</a>, you can download the eBook to your own eReader where you can read offline, take notes, and own the book. When you buy the video course bundles, you can download the video courses and you own them forever.</li>
 	 <li><i class="fas fa-check-circle"></i><strong>Worksheets.</strong> Several of the chapters have companion worksheets that you get when you buy the book. Those worksheets will help you get better results (more money).</li>
 	 <li><i class="fas fa-check-circle"></i><strong>Email templates.</strong> Several of the chapters have email templates, which are hard to replicate from an HTML page. When you buy the book, you also get your own editable copy of those templates so you can use them yourself and get better results (more money).</li>
 	 <li><i class="fas fa-check-circle"></i><strong>Case studies.</strong> When you buy the book, you get case studies that are real stories from real people about how they negotiated a higher salary.</li>

@@ -56,9 +56,7 @@ Promotions usually come with a salary increase. But most people sit back and wai
 **But you should actively pursue your next promotion**, then your next one, and your next one so that you're always moving forward. You'll get more promotions and make more money that way.
 			
 Promotions are important because they usually move you into a different pay grade, and that means you have more room for a bigger salary, and it usually means you get a raise just for moving into that new pay range!
-			
-Ready for your next promotion? Take [How to get promoted in 7 days](/promotion-course) and get your first lesson right away!
-			
+						
 ## 5. Get a raise the old fashioned way
 			
 And last but not least, the way to get a raise that you probably already had in mind.

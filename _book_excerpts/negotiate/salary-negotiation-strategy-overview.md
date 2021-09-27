@@ -1,6 +1,6 @@
 ---
 layout: book_page
-title: Why negotiate starting salary?
+title: Why you should negotiate your starting salary
 subhead: You should negotiate staring salary. Here's why.
 description: You should negotiate your starting salary to maximize your pay when starting a new job. Here's why.
 context: negotiate

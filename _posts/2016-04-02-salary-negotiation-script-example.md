@@ -60,7 +60,7 @@ I've changed the names and numbers, but this salary negotiation script example i
 
 Here are the steps I took after receiving a verbal job offer from the hiring manager:
 
-1.  Asked for time to consider the offer using one of these [job offer letter response templates](/job-offer-letter-response-templates/)
+1.  Asked for time to consider the offer using [this email template](/salary-negotiation-email-sample/#ask-for-time-template)
 2.  [Calculated my counter offer](/salary-negotiation-script/).
 3.  Drafted my response using this [salary negotiation email template](/salary-negotiation-email-sample/).
 4.  Sent the draft email to a friend to get his feedback.
