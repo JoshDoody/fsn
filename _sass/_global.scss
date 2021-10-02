@@ -59,6 +59,12 @@ h1 {
 
 h2 {
   color: $brand-primary;
+  font: {
+    family: $font-sans-serif;
+    size: 1.875rem;
+  }
+  line-height: 2.25rem;
+  text-transform: uppercase;
 }
 
 h3 {
@@ -66,13 +72,43 @@ h3 {
   &.alt {
     color: $brand-primary;
   }
+  font: {
+    family: $font-sans-serif;
+    size: 1.5rem;
+  }
+  line-height: 2rem;
+  text-transform: uppercase;
 }
 
-h4 {}
+h4 {
+  color: $brand-secondary;
+  font: {
+    family: $font-sans-serif;
+    size: 1.875rem;
+  }
+  line-height: 2.25rem;
+  text-transform: uppercase;
+}
 
-h5 {}
+h5 {
+  color: $brand-black;
+  font: {
+    family: $font-sans-serif;
+    size: 1.25rem;
+  }
+  line-height: 1.75rem;
+  text-transform: uppercase;
+}
 
-h6 {}
+h6 {
+  color: $brand-black;
+  font: {
+    family: $font-sans-serif;
+    size: 1rem;
+  }
+  line-height: 1.25rem;
+  text-transform: uppercase;
+}
 
 p {
   margin-bottom: 1.25rem;
@@ -84,6 +120,7 @@ p {
 .blog-post, .about-content, .book-content, .longform-content {
   h2, h3, h4, h5, h6 {
     font-family: $font-serif;
+    text-transform: none;
   }
   h2 {
     font-size: 1.77rem;

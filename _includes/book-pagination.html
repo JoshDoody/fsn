@@ -32,7 +32,7 @@
       <div class="book-prev md:text-right text-center sm:mb-12 mb-0">
         {% if previous_excerpt == nil %}
           <a class="text-base uppercase sans-serif font-black" rel="prev" href="/book/introduction/"><i class="fas fa-angle-double-left"></i> Prev</a>
-          <h5 class="uppercase mt-8 sans-serif text-xl">Book Home</h5>
+          <h5 class="uppercase mt-8 sans-serif text-xl md:text-right">Book Home</h5>
         {% else %}
           <a class="text-base uppercase sans-serif font-black" rel="prev" href="{{ previous_excerpt.url }}"><i class="fas fa-angle-double-left"></i> Prev</a>
           <h5 class="uppercase mt-8 sans-serif text-xl">{{ previous_excerpt.title }}</h5>
@@ -72,10 +72,10 @@
 
     <div class="book-nav md:flex grid md:grid-cols-2 md:gap-20 pt-8{% if previous_chapter.url and next_chapter.url %} add-border{% endif %}">
 
-      <div class="book-prev tmd:text-right text-center sm:mb-12 mb-0">
+      <div class="book-prev md:text-right text-center sm:mb-12 mb-0">
         {% if previous_chapter == nil %}
           <a class="text-base uppercase sans-serif font-black" rel="prev" href="/book/introduction/"><i class="fas fa-angle-double-left"></i> Prev</a>
-          <h5 class="uppercase mt-8 sans-serif text-xl">Book Home</h5>
+          <h5 class="uppercase mt-8 sans-serif text-xl md:text-right">Book Home</h5>
         {% else %}
           <a class="text-base uppercase sans-serif font-black" rel="prev" href="{{ previous_chapter.url }}"><i class="fas fa-angle-double-left"></i> Prev</a>
           <h5 class="uppercase mt-8 sans-serif text-xl">{{ previous_chapter.title }}</h5>
