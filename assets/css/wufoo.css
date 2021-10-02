@@ -115,9 +115,8 @@
 }
 
 /* First, Last, Email */
-.wufoo #Field1,
-.wufoo #Field2,
-.wufoo #Field3 {
+.wufoo input[type=text],
+.wufoo input[type=email] {
   width: 100%;
 }
 
@@ -143,3 +142,7 @@
   opacity: .75;
   cursor: pointer;
 }
+
+/* Specific fields */
+/* Coaching → Apply */
+#Field4_other { width: 25%; }
