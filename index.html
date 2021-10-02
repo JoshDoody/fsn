@@ -88,9 +88,11 @@ bodyClass: home
   </div>
   <div class="grid sm:grid-cols-1 lg:grid-cols-3 gap-4">
 
+		{% comment %}
+		{% killing automated loop to manually populate %}
     {% assign popular = site.posts | where: 'popularArticle', 'true' %}
     {% for popular in popular limit:3 %}
-      <div class="bg-white flex flex-col">
+      <!-- <div class="bg-white flex flex-col">
         <div class="p-8 flex-grow flex-1">
           <p class="text-2xl serif"><a href="{{ popular.url }}" class="no-border">{{ popular.title }}</a></p>
           <hr class="my-6 w-16 hr-article">
@@ -100,8 +102,43 @@ bodyClass: home
           <div class="pl-8"><p class="text-xs">{{ popular.categories | join: ', ' }}</p></div>
           <div><a href="{{ popular.url }}" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
         </div>
-      </div>
+      </div> -->
     {% endfor %}
+		{% endcomment %}
+		
+    <div class="bg-white flex flex-col">
+      <div class="p-8 flex-grow flex-1">
+        <p class="text-2xl serif"><a href="/coach/" class="no-border">Salary Negotiation Service</a></p>
+        <hr class="my-6 w-16 hr-article">
+        <p class="text-sm mb-6">Are you looking at an offer letter wondering, "How am I supposed to negotiate this?" My <a href="/coach/">salary negotiation service</a> can help you negotiate a higher offer. (I’ve helped Software Engineers at <a href="/facebook-salary-negotiation/">Facebook</a>, <a href="/apple-salary-negotiation/">Apple</a>, <a href="/amazon-salary-negotiation/">Amazon</a>, <a href="/microsoft-salary-negotiation/">Microsoft</a>, <a href="/google-salary-negotiation/">Google</a>, and more.)</p>
+      </div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="text-xs">Salary Negotiation Coaching</p></div>
+        <div><a href="/coach/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+      </div>
+    </div>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 flex-grow flex-1">
+        <p class="text-2xl serif"><a href="/salary-negotiation-script/" class="no-border">Counter offer calculator and email script</a></p>
+        <hr class="my-6 w-16 hr-article">
+        <p class="text-sm mb-6">Struggling to calculate your counter offer? This <a href="/salary-negotiation-script/">calculator and email script</a> will help. You can also read a free chapter on <a href="/book/negotiate/how-to-determine-your-counter-offer/">how to negotiate your salary counter-offer</a> from <a href="/book/">my book</a>.</p>
+      </div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="text-xs">Negotiate</p></div>
+        <div><a href="/salary-negotiation-script/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+      </div>
+    </div>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 flex-grow flex-1">
+        <p class="text-2xl serif"><a href="/salary-negotiation-script-example/" class="no-border">Salary Negotiation Script</a></p>
+        <hr class="my-6 w-16 hr-article">
+        <p class="text-sm mb-6">Use this script to maximize your starting salary and benefits. This is the real <a href="/salary-negotiation-script-example/">salary negotiation script</a> that I use during my salary negotiations. You’ll also learn my recommended steps to take after receiving a verbal job offer from a hiring manager.</p>
+      </div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="text-xs">Negotiate</p></div>
+        <div><a href="/salary-negotiation-script-example/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+      </div>
+    </div>
 
     <!-- <div class="bg-white flex flex-col">
       <div class="p-8 flex-grow flex-1">
@@ -247,20 +284,20 @@ bodyClass: home
     <div class="sm:pr-12 md:pr-16 lg:pr-24 mb-16 md:mb-0">
       <h3 class="text-2xl mb-8 alt uppercase sans-serif">Recommended</h3>
       <hr class="mb-6 w-16 hr-article">
-      <p>Looking for help with your Salary Negotiation? Check out how I can help you <a href="/amazon-salary-negotiation/">negotiate a higher offer at Amazon</a> or <a href="/google-salary-negotiation/">help with Google Salary Negotiation</a></p>
+      <p>Wondering ‘how does this salary negotiation thing work?’ Read my free <a href="/salary-negotiation-guide/">salary negotiation guide and learn how to negotiate your salary offer</a>.</p>
       <hr class="my-6 w-16 hr-default">
-      <p>Need a <a href="/salary-negotiation-email-sample/">Salary Negotiation Email Sample?</a> Use my 5-star template to reply to a salary offer.</p>
+      <p>The word-for-word scripts included in this article will help you <a href="/salary-expectations-interview-question/">respond when a recruiter asks about salary</a></p>
       <hr class="my-6 w-16 hr-default">
-      <p>You can even get 1-on1- help with <a href="/google-salary-negotiation/">Google Salary Negotiation</a> or <a href="microsoft-salary-negotiation/">Microsoft Salary Negotiation</a></p>
+      <p>My <a href="/salary-negotiation-email-sample/">salary negotiation email sample</a> will help you write + send your counter-offer email</p>
     </div>
     <div class="sm:pr-12 md:pr-16 lg:pr-24">
       <h3 class="text-2xl mb-8 alt uppercase sans-serif">Popular</h3>
       <hr class="mb-6 w-16 hr-article">
-      <p>Looking for help with your Salary Negotiation? Check out how I can help you <a href="/amazon-salary-negotiation/">negotiate a higher offer at Amazon</a> or <a href="/google-salary-negotiation/">help with Google Salary Negotiation</a></p>
+      <p>The most popular question I’ve ever been asked? “<a href="/salary-expectations-interview-question/">How to respond when a recruiter asks about your salary expectations?</a>”</p>
       <hr class="my-6 w-16 hr-default">
-      <p>Need a <a href="/salary-negotiation-email-sample/">Salary Negotiation Email Sample?</a> Use my 5-star template to reply to a salary offer.</p>
+      <p>Lots of people love my advice on <a href="/how-to-negotiate-a-lowball-job-offer/">how to respond to a low salary offer</a></p>
       <hr class="my-6 w-16 hr-default">
-      <p>You can even get 1-on1- help with <a href="/google-salary-negotiation/">Google Salary Negotiation</a> or <a href="microsoft-salary-negotiation/">Microsoft Salary Negotiation</a></p>
+      <p>And my "<a href="/salary-increase-letter-sample/">how to ask for a raise</a>" email will help you ask your boss for a salary increase</p>
     </div>
   </div>
 </div><!-- /articles -->
