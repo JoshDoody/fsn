@@ -14,11 +14,6 @@
     // vertical-align: -9px;
     vertical-align: -10px;
   }
-  .blog-sidebar & {
-    .fas {
-      vertical-align: -16px;
-    }
-  }
 }
 
 .category p {
@@ -315,7 +310,7 @@
     color: $brand-black;
   }
   .related-posts {
-    a {
+    p a {
       border: none;
     }
   }
@@ -716,7 +711,7 @@
 }
 
 .blog-list {
-  a {
+  p a {
     border: none;
   }
 }
