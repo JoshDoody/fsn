@@ -57,8 +57,11 @@ h1 {
   text-transform: uppercase;
 }
 
-h2 {
+h2, h3, h4, h5, h6 {
   color: $brand-primary;
+}
+
+h2 {
   font: {
     family: $font-sans-serif;
     // size: 1.875rem;
@@ -69,10 +72,6 @@ h2 {
 }
 
 h3 {
-  color: $brand-primary;
-  &.alt {
-    color: $brand-primary;
-  }
   font: {
     family: $font-sans-serif;
     // size: 1.5rem;
@@ -80,10 +79,12 @@ h3 {
   }
   line-height: 2rem;
   text-transform: uppercase;
+  &.alt {
+    color: $brand-primary;
+  }
 }
 
 h4 {
-  color: $brand-primary;
   font: {
     family: $font-sans-serif;
     // size: 1.875rem;
@@ -94,7 +95,6 @@ h4 {
 }
 
 h5 {
-  color: $brand-primary;
   font: {
     family: $font-sans-serif;
     // size: 1.25rem;
@@ -105,7 +105,6 @@ h5 {
 }
 
 h6 {
-  color: $brand-primary;
   font: {
     family: $font-sans-serif;
     // size: 1rem;
@@ -123,26 +122,24 @@ p {
 }
 
 .blog-post, .about-content, .book-content, .longform-content {
-  h2, h3, h4, h5, h6 {
-    color: $brand-primary;
-    font-family: $font-serif;
-    text-transform: none;
-  }
-  h2 {
-    font-size: 1.77rem;
-  }
-  h3 {
-    font-size: 1.33rem;
-  }
-  h4 {
-    font-size: 1.11rem;
-  }
-  h5 {
-    font-size: 1rem;
-  }
-  h6 {
-    font-size: .88rem;
-  }
+  // h2, h3, h4, h5, h6 {
+  //   color: $brand-primary;
+  // }
+  // h2 {
+  //   font-size: 1.77rem;
+  // }
+  // h3 {
+  //   font-size: 1.33rem;
+  // }
+  // h4 {
+  //   font-size: 1.11rem;
+  // }
+  // h5 {
+  //   font-size: 1rem;
+  // }
+  // h6 {
+  //   font-size: .88rem;
+  // }
 }
 
 ul, ol {
