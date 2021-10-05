@@ -57,54 +57,58 @@ h1 {
   text-transform: uppercase;
 }
 
-h2 {
+h2, h3, h4, h5, h6 {
   color: $brand-primary;
+}
+
+h2 {
   font: {
     family: $font-sans-serif;
-    size: 1.875rem;
+    // size: 1.875rem;
+    size: 1.777rem;
   }
   line-height: 2.25rem;
   text-transform: uppercase;
 }
 
 h3 {
-  color: $brand-black;
-  &.alt {
-    color: $brand-primary;
-  }
   font: {
     family: $font-sans-serif;
-    size: 1.5rem;
+    // size: 1.5rem;
+    size: 1.333rem;
   }
   line-height: 2rem;
   text-transform: uppercase;
+  &.alt {
+    color: $brand-primary;
+  }
 }
 
 h4 {
-  color: $brand-secondary;
   font: {
     family: $font-sans-serif;
-    size: 1.875rem;
+    // size: 1.875rem;
+    size: 1.111rem;
   }
   line-height: 2.25rem;
   text-transform: uppercase;
 }
 
 h5 {
-  color: $brand-black;
   font: {
     family: $font-sans-serif;
-    size: 1.25rem;
+    // size: 1.25rem;
+    size: 1rem;
   }
   line-height: 1.75rem;
   text-transform: uppercase;
 }
 
 h6 {
-  color: $brand-black;
   font: {
     family: $font-sans-serif;
-    size: 1rem;
+    // size: 1rem;
+    size: .888rem;
   }
   line-height: 1.25rem;
   text-transform: uppercase;
@@ -118,29 +122,28 @@ p {
 }
 
 .blog-post, .about-content, .book-content, .longform-content {
-  h2, h3, h4, h5, h6 {
-    font-family: $font-serif;
-    text-transform: none;
-  }
-  h2 {
-    font-size: 1.77rem;
-  }
-  h3 {
-    font-size: 1.33rem;
-  }
-  h4 {
-    font-size: 1.11rem;
-  }
-  h5 {
-    font-size: 1rem;
-  }
-  h6 {
-    font-size: .88rem;
-  }
+  // h2, h3, h4, h5, h6 {
+  //   color: $brand-primary;
+  // }
+  // h2 {
+  //   font-size: 1.77rem;
+  // }
+  // h3 {
+  //   font-size: 1.33rem;
+  // }
+  // h4 {
+  //   font-size: 1.11rem;
+  // }
+  // h5 {
+  //   font-size: 1rem;
+  // }
+  // h6 {
+  //   font-size: .88rem;
+  // }
 }
 
 ul, ol {
-  margin: 0 0 1em 20px;
+  margin: 0 0 1em 30px;
   list-style-position: outside;
   li {
     font-family: $font-serif;
@@ -160,7 +163,7 @@ ul {
       text-indent: -34px;
       margin-left: 27px;
       // display: flex;
-      display: inline-block;
+      // display: inline-block;
       .fas {
         background-color: $brand-secondary;
         border-radius: 50%;

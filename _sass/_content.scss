@@ -4,13 +4,15 @@
   text-align: center;
   width: 56px;
   height: 56px;
+  text-decoration: none;
   border-left: 12px solid $brand-light-gray;
   border-top: 12px solid $brand-light-gray;
+  border-bottom: none;
   display: block;
   .fas {
     color: $brand-gray;
     // vertical-align: -9px;
-    vertical-align: -16px;
+    vertical-align: -10px;
   }
 }
 
@@ -246,7 +248,7 @@
   h2, h3, h4, h5, h6 {
     margin: {
       top: 1rem;
-      bottom: 1.25em;
+      bottom: 1rem;
     }
   }
   p {
@@ -308,7 +310,7 @@
     color: $brand-black;
   }
   .related-posts {
-    a {
+    p a {
       border: none;
     }
   }
@@ -362,6 +364,7 @@
       weight: 400;
     }
     margin-bottom: 0;
+    text-transform: none;
     position: relative;
     &:hover {
       cursor: pointer;
@@ -708,7 +711,7 @@
 }
 
 .blog-list {
-  a {
+  p a {
     border: none;
   }
 }
@@ -893,14 +896,10 @@
     margin: 0;
     list-style: none;
     li {
-      text-indent: -17px;
-      margin: {
-        bottom: .875em;
-        left: 17px;
-      }
+      margin-bottom: .875em;
       &.no-indent {
-        text-indent: 0;
-        margin-left: 0;
+        text-indent: 0 !important;
+        margin-left: 0 !important;
       }
       a {
         color: $brand-gray;
@@ -913,7 +912,10 @@
       }
     }
     &.toc {
-      li {}
+      li {
+        text-indent: -17px;
+        margin-left: 17px;
+      }
     }
   }
   .toc-chapter {

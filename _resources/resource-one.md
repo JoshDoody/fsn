@@ -91,6 +91,10 @@ Nostrum dignissimos aut, ea modi saepe suscipit? Aspernatur necessitatibus unde 
   <p><span>Custom</span>This is a random quote I pulled out from assets/imgs/, made a class and let if fly. You can grab any SVG from the assets dir or bring your own in. Then add a new class at the bottom of _callout-boxes.scss and you're good to go!</p>
 </blockquote>
 
+<blockquote class="ico quote-callout">
+  <p><span>Check it out</span>Curabitur mi sed donec tincidunt ut sagittis. Blandit imperdiet nisl, enim risus urna luctus orci id. Integer ultrices habitasse in urabitur mi sed donec tincidunt ut.</p>
+</blockquote>
+
 
 Architecto unde obcaecati fugiat dolorem. Nemo ab ullam corporis! Quos quidem possimus veritatis.
 Ea, explicabo excepturi? Asperiores alias adipisci reiciendis quia, aperiam nostrum laboriosam corrupti? Eaque adipisci quod neque quaerat perferendis voluptatibus recusandae animi, sit iste placeat nam, veritatis, ipsum sed explicabo fugit.
@@ -113,6 +117,33 @@ Dignissimos est officia quibusdam commodi consectetur quo vero minus sunt repell
   <li><i class="fas fa-check-circle"></i> Est tellus lacus nisl congue</li>
   <li><i class="fas fa-check-circle"></i> Accumsan pellentesque quam ut neque mi, potenti felis blandit.</li>
 </ul>
+
+<ul class="arrows my-6">
+  <li><i class="fas fa-arrow-circle-right"></i> Elementum fringilla proin</li>
+  <li><i class="fas fa-arrow-circle-right"></i> Est tellus lacus nisl congue</li>
+  <li><i class="fas fa-arrow-circle-right"></i> Tristique urna euismod eu tellus mollis. Pharetra consequat, eget tristique id nunc dui quam. At est sed mauris viverra in.</li>
+  <li><i class="fas fa-arrow-circle-right"></i> Elementum fringilla proin</li>
+  <li><i class="fas fa-arrow-circle-right"></i> Est tellus lacus nisl congue</li>
+  <li><i class="fas fa-arrow-circle-right"></i> Accumsan pellentesque quam ut neque mi, potenti felis blandit.</li>
+</ul>
+
+<ul class="my-6">
+  <li>Elementum fringilla proin</li>
+  <li>Est tellus lacus nisl congue</li>
+  <li>Tristique urna euismod eu tellus mollis. Pharetra consequat, eget tristique id nunc dui quam. At est sed mauris viverra in.</li>
+  <li>Elementum fringilla proin</li>
+  <li>Est tellus lacus nisl congue</li>
+  <li>Accumsan pellentesque quam ut neque mi, potenti felis blandit.</li>
+</ul>
+
+<ol class="my-6">
+  <li>Elementum fringilla proin</li>
+  <li>Est tellus lacus nisl congue</li>
+  <li>Tristique urna euismod eu tellus mollis. Pharetra consequat, eget tristique id nunc dui quam. At est sed mauris viverra in.</li>
+  <li>Elementum fringilla proin</li>
+  <li>Est tellus lacus nisl congue</li>
+  <li>Accumsan pellentesque quam ut neque mi, potenti felis blandit.</li>
+</ol>
 
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem facere repellat expedita dolor quas enim assumenda fuga ipsam atque eius adipisci ipsum saepe commodi nisi quos, accusantium voluptatem distinctio ipsa?
