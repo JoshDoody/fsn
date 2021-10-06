@@ -9,7 +9,8 @@
       {% include hero-posts.html %}
 
       <div class="blog-post">
-
+      	{% include author.html %}
+				
         {{ content }}
 
       </div>
@@ -34,7 +35,7 @@
               <div class="p-8 flex-grow flex-1">
                 <p class="text-2xl"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></p>
                 <hr class="my-6 w-16 hr-article">
-                <p class="text-sm mb-6 sans-serif">{{ post.excerpt }}</p>
+                <p class="text-sm mb-6 sans-serif">{{ post.description }}</p>
               </div>
               <div class="category flex justify-between items-center">
                 <div class="pl-8"><p class="sans-serif text-xs">{{ post.categories | join: ', ' }}</p></div>
