@@ -1,7 +1,7 @@
 ---
 name: Joel Parker
 job_title: Academic Advisor
-company: University of Florida College of Engineering
+company:
 industry: 
 headshot: joel_parker.jpg
 short_version: >

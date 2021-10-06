@@ -1,7 +1,7 @@
 ---
 name: John Smith
 jobTitle: Web Developer
-company: Goolge
+company: Google
 industry: Infrastructure
 headshot:
 description: Sequi facilis eos aspernatur explicabo illo illum accusantium eveniet harum, laborum obcaecati voluptatem perspiciatis vel quas, nemo enim est aliquam praesentium repellat inventore non.

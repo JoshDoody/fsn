@@ -12,12 +12,12 @@
           <li class="cat-active inline-block"><button id="show-all">All</button></li>
           {% assign categories_array = "" | split:"|" %}
           {% for post in site.success-stories %}
-            {% for industry in post.industry %}
-              {% assign categories_array = categories_array | push: industry | uniq %}
+            {% for company in post.company %}
+              {% assign categories_array = categories_array | push: company | uniq %}
             {% endfor %}
           {% endfor %}
-          {% for industry in categories_array %}
-            <li class="inline-block"><button class="resource-filter" id="{{ industry | slugify }}">{{ industry }}</button></li>
+          {% for company in categories_array %}
+            <li class="inline-block"><button class="resource-filter" id="{{ company | slugify }}">{{ company }}</button></li>
           {% endfor %}
         </ul>
       </div><!-- /cat-nav -->
