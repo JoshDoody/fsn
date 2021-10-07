@@ -100,7 +100,7 @@
     <p>
       <strong class="uppercase">You are here</strong> <a href="/book/introduction/">Book</a> &gt;
       {% unless page.chapter == nil %}
-        <a href="/book/{{ page.chapter }}">Chapter {{ this_chapter.chapter_number }}</a> &gt;
+        <a href="/book/{{ page.chapter }}/">Chapter {{ this_chapter.chapter_number }}</a> &gt;
       {% endunless %}
       <a href="{{ page.url }}">{{ page.title }}</a>
     </p>
