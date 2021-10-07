@@ -96,7 +96,7 @@ bodyClass: success-stories
 
 
   {% for story in site.success-stories %}
-    <div class="success-indi success-light {{ story.industry | slugify }}">
+    <div class="success-indi success-light {{ story.company | slugify }}">
       <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
       <div class="suc-indi-quotes">
 
@@ -126,8 +126,8 @@ bodyClass: success-stories
     </div><!-- /success-indi -->
   {% endfor %}
 
-  <div class="load-more mt-16">
+  <!-- <div class="load-more mt-16">
     <p class="text-center uppercase sans-serif"><button>Load More Articles <i class="fas fa-angle-double-down ml-2" aria-hidden="true"></i></button></p>
-  </div>
+  </div> -->
 
 </div>
