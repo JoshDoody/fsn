@@ -28,7 +28,7 @@ I call this the The Dreaded Salary Question:
 
 When The Dreaded Salary Question comes up, you're usually focused on simply getting to the next stage of your interview. It seems like an interview question, and since the point of a job interview is to answer questions, you might as well answer this one, right?
 
-Nope. [Don't disclose your current or expected salary](/the-salary-expectations-interview-question/) in your job interview or salary negotiation. You want the company to focus on what they need to offer to convince you to take the job, not on the minimum they need to offer to approximate your current salary.
+Nope. [Don't disclose your current or expected salary](/salary-expectations-interview-question/) in your job interview or salary negotiation. You want the company to focus on what they need to offer to convince you to take the job, not on the minimum they need to offer to approximate your current salary.
 
 So what should you say when asked for your current or desired salary? Here is an answer you can give to continue progressing in your job interview without costing yourself money later on:
 
