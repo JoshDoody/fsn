@@ -49,3 +49,5 @@ collections:
     output: false
   media_articles:
     output: false
+
+include: [_redirects]
