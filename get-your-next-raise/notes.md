@@ -1,15 +1,9 @@
 ---
-layout: default
-metatags: noindex
-sitemap: false
-title: Get Your Next Raise
-tagline: Lesson notes and resources
-excerpt: Lesson notes and resources to accompany Get Your Next Raise
-context: sales-page
+layout: posts
+title: Course notes for Get Your Next Raise
+subhead: Notes, action items, materials, and resources for each lesson
+description: Lesson notes and resources to accompany Get Your Next Raise
 last_modified_at: 2018-07-25
-lesson_number: 1
-extra_js:
-  - gynr_access.js
 ---
 ## Jump to lesson...
 
