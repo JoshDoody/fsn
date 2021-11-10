@@ -35,6 +35,8 @@ We'll end with a look at the email template that you will use to build and docum
 *   [_Get Your Next Raise_ worksheet (download)](/download/GetYourNextRaise_Worksheet.docx)
 *  [Read more about how to ask for a raise in writing](/salary-increase-letter-sample/)
 
+---
+
 ## <a name="estimate"></a>Lesson 2: Estimate your market value
 
 ### What you'll accomplish in this lesson
@@ -61,6 +63,8 @@ Your market value will give you a baseline that you can adjust to set your targe
 *   [Glassdoor.com](https://glassdoor.com)
 *   [paysa.com](https://paysa.com)
 
+---
+
 ## <a name="goal"></a>Lesson 3: Set your goal
 
 ### What you'll accomplish in this lesson
@@ -83,6 +87,8 @@ You will set your target salary, which is your goal for your next raise. You wil
 *   [Glassdoor.com](https://glassdoor.com)
 *   [paysa.com](https://paysa.com)
 
+---
+
 ## <a name="build"></a>Lesson 4: Build your case
 
 ### What you'll accomplish in this lesson
@@ -103,6 +109,8 @@ Once you’ve documented your accomplishments and accolades, you will have every
 *   [_Get Your Next Raise_ worksheet (download)](/download/GetYourNextRaise_Worksheet.docx)
 *   [Read more about how to ask for a raise in writing](/salary-increase-letter-sample/)
 
+---
+
 ## <a name="write"></a>Lesson 5: Put your case in writing
 
 ### What you'll accomplish in this lesson
@@ -119,6 +127,8 @@ You have documented your target salary and all of your accomplishments and accol
 *   [_Get Your Next Raise_ worksheet (download)](/download/GetYourNextRaise_Worksheet.docx)
 *   [Read more about how to ask for a raise in writing](/salary-increase-letter-sample/)
 
+---
+
 ## <a name="ask"></a>Lesson 6: Ask for your raise
 
 ### What you'll accomplish in this lesson
@@ -133,6 +143,8 @@ You will schedule a meeting to ask your manager for your raise to your target sa
 ### Materials
 
 *   [_Get Your Next Raise_ worksheet (download)](/download/GetYourNextRaise_Worksheet.docx)
+
+---
 
 ## <a name="plan"></a>Lesson 7: Plan your next steps
 
