@@ -363,8 +363,9 @@
       size: 1.125em;
       weight: 400;
     }
-    margin-bottom: 0;
     text-transform: none;
+    margin-bottom: 0;
+    padding-right: 30px;
     position: relative;
     &:hover {
       cursor: pointer;
@@ -383,7 +384,7 @@
       -webkit-font-smoothing: antialiased;
     }
     &.active {
-      font-weight: 700;
+      // font-weight: 700;
     }
   }
   p {

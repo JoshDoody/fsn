@@ -17,13 +17,17 @@
     margin: 0;
     li {
       margin: 0;
+      display: grid;
+      @media (max-width: 1125px) {
+        display: block;
+      }
       &.btn-link a {
         background-color: $brand-secondary;
         color: $brand-white;
         font-size: 1em;
         font-weight: 900;
         text-transform: uppercase;
-        padding: 9px 12px 11px;
+        padding: 9px 12px;
         overflow: hidden;
         display: inline-block;
         &:after {
@@ -139,10 +143,16 @@
     &.nav-drop {
       .fas {
         color: $brand-secondary;
+        vertical-align: text-bottom;
       }
       a:first-of-type {
         @media (max-width: 1140px) {
           // pointer-events: none;
+        }
+      }
+      a {
+        &:hover {
+          cursor: pointer;
         }
       }
       // @media (min-width: 1140px) {

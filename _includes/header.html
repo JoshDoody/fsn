@@ -54,7 +54,7 @@
           </div>
 
           <div class="main-nav flex flex-row flex-grow items-center justify-end">
-            <ul class="flex flex-row list-none">
+            <ul class="flex flex-row list-none items-center">
               {% assign navigation_pages = site.html_pages | sort: "navWeight" %}
               {% for p in navigation_pages %}
                 {% if p.navWeight %}
