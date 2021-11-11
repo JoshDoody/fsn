@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: gynr
 title: Set your goal
 headline: Set your goal
 subhead: Get Your Next Raise - Lesson 3

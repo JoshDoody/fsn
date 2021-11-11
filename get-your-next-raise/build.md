@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: gynr
 title: Build your case
 headline: Build your case
 subhead: Get Your Next Raise - Lesson 4

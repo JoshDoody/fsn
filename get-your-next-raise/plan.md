@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: gynr
 title: Plan your next steps
 headline: Plan your next steps
 subhead: Get Your Next Raise - Lesson 7

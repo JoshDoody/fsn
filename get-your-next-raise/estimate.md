@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: gynr
 title: Ask for a raise based on your market value
 headline: Estimate your market value
 subhead: Get Your Next Raise - Lesson 2

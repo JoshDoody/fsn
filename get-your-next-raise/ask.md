@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: gynr
 title: Ask for your raise
 headline: Ask for your raise
 subhead: Get Your Next Raise - Lesson 6

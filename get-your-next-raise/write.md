@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: gynr
 title: Put your case in writing
 headline: Put your case in writing
 subhead: Get Your Next Raise - Lesson 5

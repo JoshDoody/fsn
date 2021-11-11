@@ -1,0 +1,41 @@
+{% include header.html %}
+
+<div class="container mx-auto pb-20">
+
+  <div class="md:flex">
+
+    <div class="md:w-7/12 md:mr-12 blog-post-wrap">
+
+      {% include hero-posts.html %}
+
+      <div class="blog-post">
+      	{% include author.html %}
+				
+        {{ content }}
+
+      </div>
+
+    </div><!-- /blog-post-wrap -->
+
+    <div class="md:w-4/12 md:ml-12 blog-sidebar pt-24">
+        <div class="help-callout p-8 pb-12">
+          <h4 class="sans-serif uppercase text-lg brand-secondary mb-4">Get the full course</h4>
+          <h3 class="sans-serif uppercase text-2xl text-black mb-10">Finally get the raise you deserve</h3>
+          <p><a href="/get-your-next-raise/#buy" class="btn btn-primary">Get Instant Access</a></p>
+        </div>
+    </div><!-- /blog-sidebar -->
+
+  </div>
+
+</div>
+
+{% comment %}
+  Not using this right now - might use it later
+  Could also be a CK CTA
+  {% include three-card-callout.html %}
+
+	{% include one-on-one-help.html %}
+{% endcomment %}
+
+
+{% include footer.html %}

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: gynr
 title: Start now
 headline: Want to ask for a raise at work? Start here
 subhead: Get Your Next Raise - Lesson 1
