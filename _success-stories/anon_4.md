@@ -1,7 +1,7 @@
 ---
 name: Anonymous
 job_title: Senior iOS Engineer
-company: Apple
+company: 
 industry: 
 headshot: 
 short_version: >

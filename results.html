@@ -109,9 +109,19 @@ bodyClass: success-stories
               </div>
             {% endif %}
             <div>
-              <p class="name m-0">{{ story.name }}</p>
-              {% if story.jobTitle %}
-                <p class="title m-0">{{ story.jobTitle }}</p>
+              {% if story.name %}
+	              <p class="name m-0">{{ story.name }}</p>
+							{% else %}
+	              <p class="name m-0">Anonymous</p>
+							{% endif %}
+              {% if story.job_title %}
+                <p class="title m-0">{{ story.job_title }}</p>
+              {% endif %}
+              {% if story.level %}
+                <p class="title m-0">{{ story.level }}</p>
+              {% endif %}
+              {% if story.company %}
+                <p class="title m-0">{{ story.company }}</p>
               {% endif %}
             </div>
           </div>

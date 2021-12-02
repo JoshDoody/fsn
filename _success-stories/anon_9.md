@@ -1,7 +1,7 @@
 ---
 name: 
 job_title: Quantitative User Experience Researcher
-company: 
+company: Google
 industry: 
 headshot: 
 short_version: >
@@ -15,4 +15,4 @@ I had no idea how to negotiate an offer or how much more I could ask for. **I wa
 
 It went great! **We negotiated $11,000 more salary and $55,000 more in equity, plus a front-loaded vesting schedule** (33%, 33%, 22%, 12% as opposed to 4 x 25%). The compensation already seemed very generous before we negotiated, but **a total increase of $99k over 4 years** will make a huge difference in my life. I feel like I assertively stated my value, which feels like a good start to this new work relationship.
 
-I really liked Josh 's responsiveness and how he explained his reasoning and approach (as well as what was probably going on in the background while we waited) in detail along the way. **I now actually feel more confident about potentially negotiating another offer myself in the future.**
+I really liked Josh's responsiveness and how he explained his reasoning and approach (as well as what was probably going on in the background while we waited) in detail along the way. **I now actually feel more confident about potentially negotiating another offer myself in the future.**
