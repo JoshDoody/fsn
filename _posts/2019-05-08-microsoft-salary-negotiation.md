@@ -145,3 +145,5 @@ Of course the expectations for your performance will be higher as well, and that
 - **Microsoft job titles can span multiple levels, so there may be an opportunity to negotiate for a higher level, which could include more compensation.**
 - **Microsoft's offers tend to be slightly lower than other big tech companies'.** They often promote a better work-life balance and other perks, so there may be a tradeoff if you're considering other offers along with a Microsoft offer.
 - **The equity component of a Microsoft offer may be small relative to the total value of the offer, and that means there is often room to substantially improve the equity component through negotiation relative to the initial baseline.**
+
+{% include standalone-success-story.html story-id="jamie" %}

@@ -136,3 +136,6 @@ Once they reveal where they're flexible and how flexible they are, you can use t
 - **Facebook will often ask for competing offers—sharing those offers *may* be beneficial.** Many companies ask for competing offers to gather data on competitors or to dissuade the "I have lots of offers" bluff that many candidates use. But when Facebook is competing with companies like Google and Apple for candidates, they will often match competing offers if they're superior. 
 - **Facebook will often respond to a request for higher base salary by slightly improving base salary *and* significantly improving the equity component.**
 - **Facebook is often rigid with respect to the "level" offered.** Because they use equity as a primary negotiating lever, they have lots of flexibility within pay bands and therefore rarely change pay bands—or levels—as part of the negotiation. 
+
+{% include standalone-success-story.html story-id="anon_engineer_4" %}
+{% include standalone-success-story.html story-id="anon_3" %}

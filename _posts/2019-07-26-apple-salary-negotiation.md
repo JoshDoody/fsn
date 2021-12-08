@@ -137,3 +137,5 @@ Once they reveal where they're flexible and how flexible they are, you can use t
 - **Apple will often respond to a request for higher base salary by slightly improving base salary *and* significantly improving the equity component or sign-on bonus.** This will give you good insight into where they are flexible so you can focus there during the later stages of your negotiation.
 - **Apple is often rigid with respect to the "level" offered.** Because they use equity as a primary negotiating lever, they have lots of flexibility within pay bands and therefore rarely change pay bands—or levels—as part of the negotiation.
 - **For more junior engineers, Apple tends to make competitive offers with less room to negotiate.** So many junior engineers want to work at Apple that they don't need to negotiate very much to get good candidates at these levels. This doesn't mean you shouldn't negotiate, just expect them to be pretty stubborn when you do.
+
+{% include standalone-success-story.html story-id="anon_engineer_3" %}

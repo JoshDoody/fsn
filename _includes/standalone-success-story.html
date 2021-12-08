@@ -1,0 +1,41 @@
+{% assign id = "/results/" | append: include.story-id %}
+{% assign story = site.success-stories | where:"id", id | first %}
+
+<div class="success-indi success-light {{ story.company | slugify }}">
+  <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
+  <div class="suc-indi-quotes">
+
+    <div>
+      {{ story.content | markdownify }}
+      <div class="flex items-center mt-6">
+        {% if story.headshot %}
+          <div class="mr-4">
+            <img src="/assets/imgs/results/{{ story.headshot }}" class="rounded-full h-20 w-20">
+          </div>
+        {% endif %}
+        <div>
+          {% if story.name %}
+            <p class="name m-0">{{ story.name }}</p>
+					{% else %}
+            <p class="name m-0">Anonymous</p>
+					{% endif %}
+          {% if story.job_title %}
+            <p class="title m-0">{{ story.job_title }}</p>
+          {% endif %}
+          {% if story.level %}
+            <p class="title m-0">{{ story.level }}</p>
+          {% endif %}
+          {% if story.company %}
+            <p class="title m-0">{{ story.company }}</p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+
+  </div><!-- /suc-quotes -->
+  <div class="suc-indi-dots">
+    <ul class="slick-dots" role="tablist" style="display: block;">
+      <li class="slick-active" role="presentation"><p>1</p></li>
+    </ul>
+  </div>
+</div><!-- /success-indi -->
