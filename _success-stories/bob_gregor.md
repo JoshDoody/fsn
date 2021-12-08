@@ -4,7 +4,7 @@ job_title: Coding BootCamp Instructor
 company: 
 industry: 
 headshot: bob_gregor.jpg
-short_version: >
+short_version: |
  **The extra 17% base salary I negotiated allowed me to save up a cash reserve so I had greater peace of mind.**
 product: Salary Negotiation Coaching
 result_summary: 17% extra base salary.

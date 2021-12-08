@@ -4,7 +4,7 @@ job_title: Technical Program Manager
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **The coaching fee initially seemed high, but Salary Negotiation Coaching was a great investment that improved my base salary by $15,000.**
 product: Salary Negotiation Coaching
 result_summary: $15k additional salary.

@@ -4,7 +4,7 @@ job_title: Executive
 company: Alphabet
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **Josh helped me negotiate with Alphabet to get an additional $160k in annual compensation.**
  
  It's like professional sports — if you don't have film on your opponent and you go into a game without any scouting report, you're in big trouble. **Josh has 'the film' on Alphabet and other tech companies. He knows who you're dealing with and that's a huge advantage.**

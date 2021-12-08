@@ -4,7 +4,7 @@ job_title: Software Engineer
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **Thanks to your insight, I was able to negotiate a low-ball offer (less than I was currently making) up 27%!**
 product: Fearless Salary Negotiation
 result_summary: Low-ball offer increased by 27%.

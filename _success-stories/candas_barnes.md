@@ -4,7 +4,7 @@ job_title:
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  As one who had not really ever negotiated my salary (certainly not successfully) before, **I was able to increase the original offer by $9,000 (12%)**.
 product: Salary Negotiation Crash Course
 result_summary: $9k additional salary

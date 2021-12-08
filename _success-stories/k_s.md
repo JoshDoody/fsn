@@ -4,7 +4,7 @@ job_title: Software Engineering Manager
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  "**I wanted to maximize offer value and come off as a professional when asking for more money.** I wasn't sure if I'd get an ROI from hiring Josh, given the high cost.
  
  Josh gave me great email drafts and talking points. **I negotiated $75k more in salary and a $25k bonus.** It’s good to know I’m valued at the company and helps with my motivation."

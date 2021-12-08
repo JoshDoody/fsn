@@ -4,7 +4,7 @@ job_title:
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **The money I spent on your book was the best ROI on anything I've bought. :)**
 product: Salary Negotiation Crash Course
 result_summary: $11k additional salary

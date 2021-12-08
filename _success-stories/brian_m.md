@@ -4,7 +4,7 @@ job_title: Operations Manager
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **I was able to negotiate an extra $3k into my base. The template was easy to use, and I was able to tailor it to make it my own.**
 product: Fearless Salary Negotiation
 result_summary: Extra $3k on base salary.

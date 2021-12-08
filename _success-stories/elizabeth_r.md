@@ -4,7 +4,7 @@ job_title: Senior Product Manager
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  I perceived the upfront cost of a strategy session with Josh as really high. I was also worried the advice would be too generic, too geared to large companies, and not informed about startup equity packages. **The advice I received was comprehensive and very precisely tuned to my situation.** I negotiated $5,000 more salary and came away with the confidence I wasn't leaving money on the table.
 product: Salary Negotiation Coaching
 result_summary: $5k additional salary.

@@ -4,7 +4,7 @@ job_title: Senior Global Supply Manager
 company:
 industry:
 headshot:
-short_version: >
+short_version: |
   **I got an initial offer that was low relative to the market rate.** The recruiter was stern during initial salary negotiations over the phone. Working with Josh, I gained lots of confidence and insights into key drivers going into negotiations. He helped me write down my specific skill sets that are relevant to the job and then carefully build those into a counteroffer. **We increased my baseline salary by $10,000, my 1st-year bonus by $9,000 and 2nd-year bonus by $5,000.**
 product: Salary Negotiation Coaching
 result_summary: $10,000 increase in baseline salary, $9,000 increase in 1st-year bonus, $5,000 increase in 2nd-year bonus

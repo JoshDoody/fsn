@@ -5,7 +5,7 @@ level: L6
 company:
 industry:
 headshot:
-short_version: >
+short_version: |
   The coaching fee isn't a small cost and I was worried I'd spend money for nothing since I wasn't sure if I would be accepting an offer. I really needed a big jump up in compensation to convince me to leave where I was. I ended up accepting the position and **I got a 6x return on my investment in year one alone.** I now feel comfortable leaving my job of more than 20 years.
 product: Salary Negotiation Coaching
 result_summary: 6x return on investment in year one alone

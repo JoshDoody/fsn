@@ -4,7 +4,7 @@ job_title: Marketing Specialist
 company: 
 industry: 
 headshot: 
-short_version: > 
+short_version: | 
  **I accepted an offer and was able to negotiate an increase in base salary of $4k, an extra week of vacation, and a change in title.**
 product: Fearless Salary Negotiation
 result_summary: $4k additional salary, an extra week of vacation, and a change in title.

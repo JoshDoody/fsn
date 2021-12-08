@@ -4,7 +4,7 @@ job_title: CTO in the fintech space
 company: 
 industry: 
 headshot: d_o.jpg
-short_version: >
+short_version: |
  **Using the excellent techniques in _Fearless Salary Negotiation_, I was able to push one offer up £18,000, increased my equity and negotiated a better work/life balance as I now work full time from home.**
 product: Salary Negotiation Coaching
 result_summary: £18,000 additional salary, and a 10% lump sum salary bonus at the end of year 1 based on some goals that were set in the deal.

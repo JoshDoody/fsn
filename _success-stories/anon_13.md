@@ -5,7 +5,7 @@ level: L6
 company: Amazon AWS
 industry:
 headshot:
-short_version: >
+short_version: |
   I truly appreciated having Josh walking me through the process and the script/words he provided to help me in every conversation. **I had more confidence in my asks and value because of those scripts and knowing I was relying on Josh's data and experiences.** I negotiated an **additional $65,000 cash bonus over two years** and an **additional 13 shares**. I'm thrilled with the result and am confident that I was able to negotiate the best deal possible for this role because of Josh's help.
 product: Salary Negotiation Coaching
 result_summary: Additional $65,000 cash bonus over two years and an additional 13 shares

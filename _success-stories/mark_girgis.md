@@ -4,7 +4,7 @@ job_title: Federal Contracts Manager
 company: 
 industry: 
 headshot: mark_girgis.jpg
-short_version: >
+short_version: |
  **Your book helped me negotiate an additional $10k to my salary offer!**
 product: Fearless Salary Negotiation
 result_summary: $10k additional salary (self negotiated).

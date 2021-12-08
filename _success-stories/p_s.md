@@ -4,7 +4,7 @@ job_title: Software Engineer
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  Perhaps the only concern I had about hiring Josh was that I hadn't seen a lot of personal references online and I was going off Patrick McKenzie's word on Twitter alone. But it went well! I negotiated a $25,000 signing bonus.
 product: Salary Negotiation Coaching
 result_summary: Negotiated a $25,000 signing bonus.

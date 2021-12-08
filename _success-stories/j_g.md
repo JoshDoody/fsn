@@ -4,7 +4,7 @@ job_title:
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **I purchased your Complete Bundle. It was well worth the investment. I negotiated a new job offer up $15,000 from the initial offer.**
 product: Fearless Salary Negotiation
 result_summary: Additional $15k salary.

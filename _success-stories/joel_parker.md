@@ -4,7 +4,7 @@ job_title: Academic Advisor
 company:
 industry: 
 headshot: joel_parker.jpg
-short_version: >
+short_version: |
  **The University of Florida's Career Showcase was the week after Josh's talk, and a number of students were able to translate Josh’s strategies into successful interviews.**
 product: Public Speaking—Talks, Seminars, Webinars
 result_summary: Many students who where able to translate Josh's strategies into successful interviews.

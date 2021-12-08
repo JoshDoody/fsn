@@ -4,7 +4,7 @@ job_title: SVP Data Technology Executive
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **I was able to get an additional $5k added to my base by simply asking. That $5k has the potential for another $3.5K in additional performance compensation which is almost $8.5-9k more dollars.**
 product: Fearless Salary Negotiation
 result_summary: Additional $5k salary.

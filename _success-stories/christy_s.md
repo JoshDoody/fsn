@@ -4,7 +4,7 @@ job_title:
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **My offer improved by $7,500! And, my employer told me that this showed a side of me that makes them even more excited to have me on their team! :)**
 product: How to get promoted in 7 days
 result_summary: $7,500 additional salary.

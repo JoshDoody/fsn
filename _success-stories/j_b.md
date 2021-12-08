@@ -4,7 +4,7 @@ job_title: Software Engineer
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **I negotiated a $300,000 higher RSU grant, $20,000 higher base salary, and $20,000 higher signing bonus.**
 product: Salary Negotiation Coaching
 result_summary: $300,000 higher RSU grant, $20,000 higher base salary, and $20,000 higher signing bonus.

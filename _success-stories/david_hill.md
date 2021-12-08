@@ -4,8 +4,8 @@ job_title: Lead Software Engineer
 company: 
 industry: 
 headshot: 
-short_version: >
- **My new job is paying me 15% more than what they initially offered!**
+short_version: |
+ For the first time in my professional career I countered a job offer. And it worked! My new job is paying me **15% more than what they initially offered!** I honestly don't think I would have ever attempted this without having read Fearless Salary Negotiation.
 product: Fearless Salary Negotiation
 result_summary: 15% salary increase over initial offer.
 case_study_url: 

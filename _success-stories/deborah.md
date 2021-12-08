@@ -4,7 +4,7 @@ job_title:
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **Using the counter offer template along with the Essential Salary Negotiation Email Pack, I negotiated an additional $24,000.**
 product: Fearless Salary Negotiation
 result_summary: Additional $24k salary.

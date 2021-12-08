@@ -4,7 +4,7 @@ job_title: Georgia Institute of Technology Graduate Career & Co-op Advisor
 company: 
 industry: 
 headshot: robbie_ouzts.jpg
-short_version: >
+short_version: |
  **Josh's talk is one of the best I have heard on salary negotiation, and our students gave him rave reviews! He is a dynamic speaker, with clear ideas that students can easily remember and apply as a student and continue to apply his negotiation principals as a professional.**
 product: How to get promoted in 7 days
 result_summary: 

@@ -4,7 +4,7 @@ job_title: Engineer 2
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **My main concern before engaging Josh was whether it would be worthwhile. What if the change was so small I could have negotiated it on my own?** Everything went better than I expected. With Josh’s help, I negotiated $10,000 more salary on an offer I was willing to take – which turned a lateral move job offer into a raise.
 product: Salary Negotiation Coaching
 result_summary: $10k additional salary on an already solid offer.

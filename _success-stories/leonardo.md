@@ -4,7 +4,7 @@ job_title: Senior Manager
 company: Amazon
 industry: 
 headshot: 
-short_version: >
+short_version: |
  I weighed the cost/benefit of hiring Josh. **There are other far less expensive options and I believe I could have done pretty well negotiating myself, but you tend to “get what you pay for”.**
  
  The process was enjoyable, Josh was quick to help, and the results were strong. I ended up with **a $50k+ increase in compensation year one** and I have a good four-year outlook that I’m happy with.

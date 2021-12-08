@@ -11,11 +11,14 @@
         <ul class="list-none ml-0 mb-16 resource-cat-nav">
           <li class="cat-active inline-block"><button id="show-all">All</button></li>
           {% assign categories_array = "" | split:"|" %}
-          {% for post in site.success-stories %}
-            {% for company in post.company %}
-              {% assign categories_array = categories_array | push: company | uniq %}
-            {% endfor %}
-          {% endfor %}
+          {% assign categories_array = categories_array | push: "Alphabet" %}
+          {% assign categories_array = categories_array | push: "Amazon" %}
+          {% assign categories_array = categories_array | push: "Amazon AWS" %}
+          {% assign categories_array = categories_array | push: "Apple" %}
+          {% assign categories_array = categories_array | push: "Facebook" %}
+          {% assign categories_array = categories_array | push: "Google" %}
+          {% assign categories_array = categories_array | push: "Github" %}
+
           {% for company in categories_array %}
             <li class="inline-block"><button class="resource-filter" id="{{ company | slugify }}">{{ company }}</button></li>
           {% endfor %}
@@ -24,3 +27,14 @@
     </div>
   </div>
 </div><!-- /hero section -->
+
+{% comment %}
+	Leaving this here for posterity - it's how to look at ALL companies available
+	{% raw %}
+	{% for post in site.success-stories %}
+	{% for company in post.company %}
+	{% assign categories_array = categories_array | push: company | uniq %}
+	{% endfor %}
+	{% endfor %}
+	{% endraw %}
+{% endcomment %}

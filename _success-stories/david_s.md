@@ -4,7 +4,7 @@ job_title: Software Developer
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **I got a $5,000 increase in my starting salary by asking!**
 product: Fearless Salary Negotiation
 result_summary: $5,000 increase in starting salary.

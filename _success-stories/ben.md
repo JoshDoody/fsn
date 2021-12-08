@@ -4,7 +4,7 @@ job_title: Software Engineer L4
 company: Google
 industry: 
 headshot: 
-short_version: >
+short_version: |
  I've set myself up for compounding increases in incoming cash by starting my Google salary and equity higher than I would have otherwise. I feel like I got the best deal that was available to me and I didn't leave anything on the table. **If I hadn't hired Josh, I probably would be sitting here today still wondering, "Man, could I have easily bumped this by a bunch of more money?"**.
 product: Salary Negotiation Coaching
 result_summary: Higher salary and equity than would have been possible otherwise.

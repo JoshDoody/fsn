@@ -4,7 +4,7 @@ job_title: Director of Human Resources
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **I negotiated a $5,000 base salary increase, a $5,000 sign-on bonus and a 9:45–4:00 work schedule.**
 product: Salary Negotiation Coaching
 result_summary: Negotiated a $5,000 base salary increase, a $5,000 sign-on bonus and a 9:45–4:00 work schedule.

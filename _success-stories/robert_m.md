@@ -4,7 +4,7 @@ job_title:
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **We used the information to get my wife an additional $7,000 in salary using your counter offer emails.**
 product: Fearless Salary Negotiation
 result_summary: $7k additional salary.

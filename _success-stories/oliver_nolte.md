@@ -4,7 +4,7 @@ job_title: Inside Sales Rep
 company: 
 industry: 
 headshot: oliver_nolte.jpg
-short_version: >
+short_version: |
  **I am so fired up! The Salary Negotiation Crash Course totally worked!**
 product: Salary Negotiation Crash Course
 result_summary: From $22 an hour to $24.50 an hour.

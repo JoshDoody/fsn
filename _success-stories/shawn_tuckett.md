@@ -4,7 +4,7 @@ job_title: Vice President of Sales and Service
 company: 
 industry: 
 headshot: shawn_tuckett.jpg
-short_version: >
+short_version: |
  **With research and a good plan, I got a $17,000 raise! Now I know I'm valued and I can finally stop worrying about whether I was underpaid.**
 product: Salary Negotiation Coaching
 result_summary: $17,000 raise.

@@ -4,7 +4,7 @@ job_title: Senior Software Engineer
 company: 
 industry: 
 headshot: josh_j.jpg
-short_version: >
+short_version: |
  **The value added by working with Josh is clearly more than the cost of his service.** I negotiated a higher compensation package with $8,000 in additional base salary. The company also set the expectation that I would be promoted (performance pending) within a year to a staff engineer position with a higher pay band ranging from $175,000 to $195,000.
 product: Salary Negotiation Coaching
 result_summary: $8k additional base salary.

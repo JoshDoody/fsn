@@ -4,7 +4,7 @@ job_title: Senior Software Engineer
 company: Red Hat
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **A small investment, compared to what I had to lose.**
 product: Salary Negotiation Coaching
 result_summary: Negotiated the best result possible.

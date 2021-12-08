@@ -4,7 +4,7 @@ job_title:
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **Thank you for the counteroffer email template. I received an initial offer from a company for $125K. We settled on $135K. Thank you so much!!**
 product: Salary Negotiation Crash Course
 result_summary: Negotiated salary from $125k to $135k.

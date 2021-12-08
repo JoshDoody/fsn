@@ -4,7 +4,7 @@ job_title:
 company: 
 industry: 
 headshot: tim_eccleston.jpg
-short_version: >
+short_version: |
  Letting the company name the first number led to an offer of 2x what I currently make and negotiating quickly increased it by another $10k. I was looking for more flexibility in scheduling, which didn't happen, but I felt Josh gave me the best chance of realizing that if it were an option. Knowing I gave it my best, now I can let the job go and be more confident sticking to my values and commitments in future job searches and negotiations.
 product: Salary Negotiation Coaching
 result_summary: An offer 2x of the original and after negotiating increased by another $10k.

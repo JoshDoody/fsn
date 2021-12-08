@@ -4,7 +4,7 @@ job_title:
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **I followed all of your advice to the letter, and it really paid off.**
 product: Fearless Salary Negotiation
 result_summary: 23% increase in base salary.

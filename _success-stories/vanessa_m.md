@@ -4,7 +4,7 @@ job_title: Integrations Project Manager
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **I negotiated $8,000 more salary, and I can confidently walk through the door on my first day knowing that my employer values me and that I am an asset to the company.**
 product: Salary Negotiation Coaching
 result_summary: $8k additional salary.

@@ -4,7 +4,7 @@ job_title: Software Engineer
 company: 
 industry: 
 headshot: ilya_krasnov.jpg
-short_version: >
+short_version: |
  **The salary increase alone was worth much more than the initial investment.**
 product: Salary Negotiation Coaching
 result_summary: Additional salary negotiated.

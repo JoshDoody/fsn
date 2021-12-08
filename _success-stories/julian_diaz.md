@@ -4,7 +4,7 @@ job_title: Software Engineer
 company: Google
 industry: 
 headshot: julian_diaz.jpg
-short_version: >
+short_version: |
  The $3000 upfront fee was my biggest concern about hiring Josh. I was worried that maybe Google would be unwilling to negotiate or perhaps even rescind the offer and I would end up with nothing. **I ended up negotiating more equity** (and it more than covered the coaching fee). I know that I got the best possible offer. I also learned about negotiation strategy and how to handle this situation in the future.
 product: Salary Negotiation Coaching
 result_summary: Negotiated more equity.

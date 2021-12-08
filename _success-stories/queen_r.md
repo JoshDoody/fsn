@@ -4,7 +4,7 @@ job_title: Regulatory Affairs Business Operations Specialist
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **IT WORKED!! 😊 I counteroffered $12,000 more than what they offered and we met right in the middle for salary and they gave a $5000 signing bonus!!**
 product: Fearless Salary Negotiation
 result_summary: $5000 signing bonus.

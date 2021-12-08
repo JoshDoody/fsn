@@ -4,7 +4,7 @@ job_title: Software Engineering Manager
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **The process worked like magic.** I got a nice 42k increase, or over 25% more than what they provided first.
 product: Fearless Salary Negotiation
 result_summary: $42k salary increase (25% more than initially provided)

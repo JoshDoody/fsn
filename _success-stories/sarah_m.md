@@ -4,8 +4,8 @@ job_title: Web Developer
 company: 
 industry: 
 headshot: sarah_m.jpg
-short_version: >
- **Thanks so much for the email templates! They helped me figure out what my goal was: to not leave money on the table!**
+short_version: |
+ **Thanks so much for the email templates! They helped me figure out what my goal was: to not leave money on the table!** I used your "Low-Ball Offer" Template to pull their offer up before negotiating. It was fun negotiating up from their original lowball offer and I was thrilled that they improved their initial offer by 25%.
 product: Fearless Salary Negotiation
 result_summary: 
 case_study_url: 

@@ -4,7 +4,7 @@ job_title:
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  Josh was super responsive during what can be such a rapid-fire process. **I felt like I was in good hands and could say and do the right things.** I think the part that was most helpful was the template Josh provided that indicated what to say if they came back with a certain offer. **This really took the pressure out of messing up the phone call and optimized for the best outcome.**
 product: Salary Negotiation Coaching
 result_summary: $19k additional salary, a $5k signing bonus, and a more flexible start date.

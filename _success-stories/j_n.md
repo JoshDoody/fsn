@@ -4,7 +4,7 @@ job_title: DevOps Engineer
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **I improved my job offer by nearly $16,000 by working with Josh. I also gained a lot of reassurance in the process and he helped me fine-tune specific points as I planned my negotiation.**
 product: Salary Negotiation Coaching
 result_summary: Job offer improved by nearly $16k.

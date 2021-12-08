@@ -5,7 +5,7 @@ level: L6
 company: Amazon AWS
 industry:
 headshot:
-short_version: >
+short_version: |
   Before hiring Josh, I wasn't sure if paying $3,000 was worth the money or not. Now, I am convinced beyond doubt. **I negotiated a $45,000 increase in signing bonus and vesting equity.** I'm very excited and grateful for the outcome. It means salary, etc. is out of my mind now and I can just walk into the job with single-minded focus on getting the job done.
 product: Salary Negotiation Coaching
 result_summary: Additional $45,000 in signing bonus and vesting equity 

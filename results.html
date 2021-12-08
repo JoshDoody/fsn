@@ -81,7 +81,15 @@ bodyClass: success-stories
     <div class="suc-quotes">
 
       {% include success-story.html story-id="aaron_batilo" %}
-      {% include success-story.html story-id="acree_m" %}
+      {% include success-story.html story-id="amy_utley" %}
+      {% include success-story.html story-id="john_li" %}
+      {% include success-story.html story-id="david_hill" %}
+      {% include success-story.html story-id="j_g" %}
+      {% include success-story.html story-id="sarah_m" %}
+      {% include success-story.html story-id="jason_voegele" %}
+      {% include success-story.html story-id="d_o" %}
+      {% include success-story.html story-id="frank_bueckert" %}
+      {% include success-story.html story-id="jeff_yang" %}	
 
     </div><!-- /suc-quotes -->
 
@@ -93,48 +101,27 @@ bodyClass: success-stories
     <div class="suc-dots"></div>
 
   </div><!-- /success-slider -->
-
-
-  {% for story in site.success-stories %}
-    <div class="success-indi success-light {{ story.company | slugify }}">
-      <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
-      <div class="suc-indi-quotes">
-
-        <div>
-          {{ story.content | markdownify }}
-          <div class="flex items-center mt-6">
-            {% if story.headshot %}
-              <div class="mr-4">
-                <img src="/assets/imgs/results/{{ story.headshot }}" class="rounded-full h-20 w-20">
-              </div>
-            {% endif %}
-            <div>
-              {% if story.name %}
-	              <p class="name m-0">{{ story.name }}</p>
-							{% else %}
-	              <p class="name m-0">Anonymous</p>
-							{% endif %}
-              {% if story.job_title %}
-                <p class="title m-0">{{ story.job_title }}</p>
-              {% endif %}
-              {% if story.level %}
-                <p class="title m-0">{{ story.level }}</p>
-              {% endif %}
-              {% if story.company %}
-                <p class="title m-0">{{ story.company }}</p>
-              {% endif %}
-            </div>
-          </div>
-        </div>
-
-      </div><!-- /suc-quotes -->
-      <div class="suc-indi-dots">
-        <ul class="slick-dots" role="tablist" style="display: block;">
-          <li class="slick-active" role="presentation"><p>1</p></li>
-        </ul>
-      </div>
-    </div><!-- /success-indi -->
-  {% endfor %}
+	
+{% include standalone-success-story.html story-id="justin_garrison" %}
+{% include standalone-success-story.html story-id="jamie" %}
+{% include standalone-success-story.html story-id="taylor" %}
+{% include standalone-success-story.html story-id="oliver_steenbuck" %}
+{% include standalone-success-story.html story-id="william_cro" %}
+{% include standalone-success-story.html story-id="ben" %}
+{% include standalone-success-story.html story-id="anon_engineer_3" %}
+{% include standalone-success-story.html story-id="leonardo" %}
+{% include standalone-success-story.html story-id="julian_diaz" %}
+{% include standalone-success-story.html story-id="k_s" %}
+{% include standalone-success-story.html story-id="anon_15" %}
+{% include standalone-success-story.html story-id="anon_3" %}
+{% include standalone-success-story.html story-id="anon_9" %}
+{% include standalone-success-story.html story-id="martin" %}
+{% include standalone-success-story.html story-id="jane" %}
+{% include standalone-success-story.html story-id="anon_engineer_4" %}
+{% include standalone-success-story.html story-id="anon_11" %}
+{% include standalone-success-story.html story-id="anon_13" %}
+{% include standalone-success-story.html story-id="k_k" %}
+{% include standalone-success-story.html story-id="s_l" %}
 
   <!-- <div class="load-more mt-16">
     <p class="text-center uppercase sans-serif"><button>Load More Articles <i class="fas fa-angle-double-down ml-2" aria-hidden="true"></i></button></p>

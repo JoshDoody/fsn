@@ -4,7 +4,7 @@ job_title: Real Estate Accounting Manager
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  I started my job search and I decided to purchase Josh's $49 book and templates, which I've been eyeing for a year. **I can't believe it, but thanks to Josh's strategy and system of salary negotiation, I just got an offer of $80k for a new job – a $35k raise (77% more) over what I make now!!!! :)**
 product: Fearless Salary Negotiation
 result_summary: A salary increase of 77% ($35k) to $80k

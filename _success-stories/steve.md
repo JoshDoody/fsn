@@ -4,7 +4,7 @@ job_title: Senior Mechanical Engineer
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **Working with Josh was the best decision of my career so far. I felt like I had a secret weapon for job interviews and salary negotiation.**
 product: Salary Negotiation Coaching
 result_summary: Ended up getting two job offers that each paid nearly 20% above old position.

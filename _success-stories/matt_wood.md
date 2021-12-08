@@ -4,7 +4,7 @@ job_title: retired US Army Sergeant First Class, Assistant Construction Superint
 company: 
 industry: 
 headshot: matt_wood.jpg
-short_version: >
+short_version: |
  **_Fearless Salary Negotiation_ helped me pick up $10,000 that I almost left on the table. Now I'm not concerned about the cost of relocating.**
 product: Fearless Salary Negotiation
 result_summary: $10k additional salary.

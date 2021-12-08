@@ -4,7 +4,7 @@ job_title:
 company: 
 industry: 
 headshot: josh_thompson.jpg
-short_version: >
+short_version: |
  **They came back with an almost $25,000 per year raise, which was way more than I would have even imagined would have happened.**
 product: Fearless Salary Negotiation
 result_summary: 

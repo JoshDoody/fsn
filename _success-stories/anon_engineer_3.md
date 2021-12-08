@@ -4,7 +4,7 @@ job_title: Software Engineering Manager
 company: Apple
 industry: 
 headshot: 
-short_version: >
+short_version: |
  My past negotiations have honestly been terrible where I never felt like I had the upper hand. Josh's coaching gave me confidence in the negotiation process. Because I knew Josh had gone through this before, I knew I wasn't asking anything too crazy / offensive of Apple. We ended up negotiating **$35,000 more in base salary, $300,000 more total equity (vesting over four years), and $25,000 more sign on bonus**.
 product: Salary Negotiation Coaching
 result_summary: $35,000 more in base salary, $300,000 more total equity (vesting over four years), and $25,000 more sign on bonus

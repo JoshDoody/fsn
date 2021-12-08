@@ -4,7 +4,7 @@ job_title:
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **I just used your email templates to get an increase of $11k for my offer after negotiation. I'm honestly shocked that it worked!**
 product: Salary Negotiation Crash Course
 result_summary: $11k additional salary

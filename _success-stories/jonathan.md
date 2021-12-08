@@ -4,7 +4,7 @@ job_title: Staff Design Engineer
 company: Tesla
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **I would highly recommend Josh as a salary negotiation coach because has the knowledge and experience of what it takes to maximize your salary and total compensation.**
 product: Salary Negotiation Coaching
 result_summary: 

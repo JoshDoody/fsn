@@ -4,7 +4,7 @@ job_title: Software Engineer
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **My major concern was making sure I get the maximum compensation package that was available to me.** Working with Josh, I successfully negotiated $100,000 more equity over the course of four years and overall feel like I achieved a very competitive level of compensation. Most importantly for me, I learned how to communicate my financial asks and about the general process and the methodology of salary negotiation.
 product: Salary Negotiation Coaching
 result_summary: $100k more equity over the course of four years.

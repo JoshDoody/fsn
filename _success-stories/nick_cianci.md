@@ -4,7 +4,7 @@ job_title: Ruby on Rails Software Developer
 company: 
 industry: 
 headshot: nick_cianci.jpg
-short_version: >
+short_version: |
  **For a small amount of money I was able to speak to Josh about my situation. With his help, I was able to gain $2K in base salary. All I needed to do was send an email and make a phone call.**
 product: Salary Negotiation Coaching
 result_summary: $2k additional salary.

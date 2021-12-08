@@ -4,7 +4,7 @@ job_title: Manager of Administration and Finance
 company: 
 industry: 
 headshot: natalie_m.jpg
-short_version: >
+short_version: |
  **At first it seemed pricey, but it was absolutely worth it.**
 product: Salary Negotiation Coaching
 result_summary: 

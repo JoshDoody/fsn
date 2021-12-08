@@ -4,7 +4,7 @@ job_title: Software Developer
 company: 
 industry: 
 headshot: emily_kaneff.jpg
-short_version: >
+short_version: |
  **The extra $6,000 helped me afford my dream apartment in a safe, well-kept area where my family can rest easy.**
 product: Salary Negotiation Coaching
 result_summary: $6k additional salary.

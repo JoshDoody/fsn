@@ -4,7 +4,7 @@ job_title: Front End Web Developer
 company: 
 industry: 
 headshot: jeremy.jpg
-short_version: >
+short_version: |
  **I just landed a new remote position with a significantly higher salary than I was making before.**
 product: Fearless Salary Negotiation
 result_summary: A new remote job with a significantly higher salary than previous job.

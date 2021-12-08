@@ -4,7 +4,7 @@ job_title: Software Developer
 company: 
 industry: 
 headshot: pat_maddox.jpg
-short_version: >
+short_version: |
  **My employer adjusted my comp today to $160k. So $123k to $160k = $37k raise overnight.**
 product: Get Your Next Raise
 result_summary: $37k salary raise over night.

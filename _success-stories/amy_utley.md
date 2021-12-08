@@ -4,7 +4,7 @@ job_title: Field Sales Engineer
 company: 
 industry: Semiconductor Industry
 headshot: amy_utley.jpg
-short_version: >
+short_version: |
   The most helpful thing about the Crash Course was having exact word-for-word scripts at each step of the process – they gave me the confidence to ask for way more than I would have otherwise. **I used the email templates to successfully negotiate an offer $12,000 higher than my original offer (an increase of about 10%)!**
 product: Salary Negotiation Crash Course
 result_summary: 

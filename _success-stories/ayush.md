@@ -4,7 +4,7 @@ job_title:
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **I bought _Fearless Salary Negotiation_ and applied the scripts to get a new job with a 15% increase in salary along with an extra week of vacation.**
 product: Fearless Salary Negotiation
 result_summary: 15% increase in salary along with an extra week of vacation

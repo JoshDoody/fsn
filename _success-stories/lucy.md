@@ -4,7 +4,7 @@ job_title: Physician working in Health IT
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
   Because it’s **a niche role** and because my situation was unique, coming at me with a one-size-fits-all type approach to the negotiations would have been such a turnoff because that’s not what I needed. I wouldn’t have felt confident that we had optimized the plan if I’d been given cookie-cutter advice. Josh was really in-tune with the details. **I finished the negotiations with the peace of mind that this is the fair market value for this niche role.**
 product: Salary Negotiation Coaching
 result_summary: $60,000 increase in total RSUs, $70,000 increase in sign-on bonuses

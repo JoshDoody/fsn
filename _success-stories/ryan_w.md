@@ -4,7 +4,7 @@ job_title:
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **I am glad to have found your quick salary negotiation tool kit; it was well worth it.**
 product: Salary Negotiation Crash Course
 result_summary: An additional $20k per annum.

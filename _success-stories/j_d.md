@@ -4,7 +4,7 @@ job_title:
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **Because of _Fearless Salary Negotiation_ I got an extra $25,000 in salary...which means it could be realistic for my family to stay here instead of having to move somewhere cheaper.**
 product: Fearless Salary Negotiation
 result_summary: Additional $15k salary.

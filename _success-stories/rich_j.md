@@ -5,7 +5,7 @@ level:
 company:
 industry:
 headshot:
-short_version: >
+short_version: |
   Josh helped me get the strongest possible offer. It wound up being pretty close to the initial offer, but **I got a higher signing bonus (+$15,000 over the original offer)**. It was really helpful to have someone I could trust to check in and get an opinion. **I feel a lot better about starting my new job knowing that I’m at the top of the salary band.** I don’t feel like I’m trying to play catch-up to where I “should” be valued.
 product: Salary Negotiation Coaching
 result_summary: Additional $15,000 in signing bonus 

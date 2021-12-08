@@ -4,7 +4,7 @@ job_title: Software Development Advocate
 company: Amazon
 industry: 
 headshot: justin_garrison.jpg
-short_version: >
+short_version: |
  I've never negotiated an extra dollar for myself in any job offer or raise, and I had tried a couple times before. **The fact that Josh helped me get an additional $74,000 was amazing.** It wasn't unexpected to get more money, but it was unexpected to get that much more money.
 product: Salary Negotiation Coaching
 result_summary: Earned an additional $74,000.

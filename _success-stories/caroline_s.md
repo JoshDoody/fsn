@@ -4,7 +4,7 @@ job_title:
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  My manager said she agrees that my promotion is deserved and that she's going to do whatever she can to help make it happen.
 product: How to get promoted in 7 days
 result_summary: Manager was convinced to give a promotion.

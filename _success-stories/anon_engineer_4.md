@@ -4,7 +4,7 @@ job_title: Engineer
 company: Facebook
 industry: 
 headshot: 
-short_version: >
+short_version: |
  I hired Josh because I didn't want to leave money on the table. **I negotiated a $10k sign-on bonus and $7k more in base salary.** I feel it adds more credibility to my own worth – and I know I shouldn't use a number to justify my self-worth, but it helps :)
 product: Salary Negotiation Coaching
 result_summary: $10k sign-on bonus and $7k more in base salary.

@@ -4,7 +4,7 @@ job_title:
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **Using your template and modifying it to suit me, I was able to get 22k more than what they offered.**
 product: Fearless Salary Negotiation
 result_summary: $22k more than intially offered.

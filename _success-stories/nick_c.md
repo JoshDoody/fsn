@@ -4,7 +4,7 @@ job_title: Pharmaceutical Chemist, B.S. in Biochemistry
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  **I was able to negotiate up from an original offer for a contract position at $30/hr (about $62,000/yr) with no benefits to a direct-hire Senior Chemist position paying $76,000/year plus overtime.**
 product: Fearless Salary Negotiation
 result_summary: From an original offer for a contract position at $30/hr (about $62,000/yr) with no benefits to a direct-hire Senior Chemist position paying $76,000/year plus overtime.

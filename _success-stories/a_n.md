@@ -5,7 +5,7 @@ level: Level 3
 company:
 industry:
 headshot:
-short_version: >
+short_version: |
   I was originally offered $165,000 in base salary. As a result of negotiation, I received $170,000 plus an additional $5,000 signing bonus. Even beyond the salary negotiation per se, **I found that having a coach guiding me made an otherwise anxiety-ridden process so much easier.** My situation was particularly complicated because I used a third-party recruitment firm and they were adding unnecessary pressure and noise. Having an experienced negotiator helped clear the fog. I'd absolutely recommend working with Josh for **peace of mind, confidence in negotiation, and avoiding silly mistakes**.
 product: Salary Negotiation Coaching
 result_summary: Additional $5,000 in base salary, $5,000 signing bonus 

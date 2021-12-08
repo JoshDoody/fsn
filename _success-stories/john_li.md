@@ -4,7 +4,7 @@ job_title: Senior Android Engineer
 company: Twitter
 industry: 
 headshot: john_li.jpeg
-short_version: >
+short_version: |
  **Josh’s course helped me practice and get comfortable with salary negotiation and has really changed my life for the better.** I needed a push and a process, and this course gave me both. When I started the course, I was earning $75k. I’ve used what I learned in this course again and again over the last four years to **negotiate several compensation increases ranging between $15k and $40k/year**. It’s been a huge part of reaching where I am today—**earning 400% more in total compensation** than when I first took the course.
 product: Get Your Next Raise
 result_summary: Negotiated several compensation increases ranging between $15k and $40k/year.

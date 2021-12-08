@@ -4,7 +4,7 @@ job_title: Software Engineer
 company: 
 industry: 
 headshot: 
-short_version: >
+short_version: |
  The coaching cost was a concern for me. Josh's result fee makes sense, but **the $3,000 service fee is not inexpensive**. It was well worth it. Josh helped me negotiate an extra $3,000 in base salary, $40,000 in extra sign-on over two years, and around $32,000 in extra equity over 4 years. **That's roughly $84,000 in extra income over four years.** I also now have a better understanding of the negotiating process and the confidence to handle this myself next time.
 product: Salary Negotiation Coaching
 result_summary: Extra $3000 in base salary, $40,000 in extra sign-on over two years, and around $32,000 in extra equity over 4 years.

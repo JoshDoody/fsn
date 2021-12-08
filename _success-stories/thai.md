@@ -4,7 +4,7 @@ job_title: Senior Software Engineer
 company: 
 industry: 
 headshot: thai.jpg
-short_version: >
+short_version: |
  **I wasn’t sure if the value was there but now that I’ve taken it I can say that EVERYONE should take this course.**
 product: Get Your Next Raise
 result_summary: 
