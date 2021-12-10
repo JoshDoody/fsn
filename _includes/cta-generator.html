@@ -1,13 +1,13 @@
 {% if page.categories contains "negotiate" %}   
-<script async data-uid="6273bcce86" src="https://fsn.ck.page/6273bcce86/index.js"></script>
+	{% include /convertkit-forms/negotiate-inline.html %}
 {% elsif page.categories contains "negotiate-lowball" %}   
-<script async data-uid="1f1ad589e9" src="https://fsn.ck.page/1f1ad589e9/index.js"></script>
+	{% include /convertkit-forms/negotiate-lowball-inline.html %}
 {% elsif page.categories contains "interview" %}   
-	{% include interview-checklist-inline.html %}
+	{% include /convertkit-forms/interview-checklist-inline.html %}
 {% elsif page.categories contains "salary-questions" %}   
-<script async data-uid="bc6bb8641c" src="https://fsn.ck.page/bc6bb8641c/index.js"></script>
+	{% include /convertkit-forms/salary-question-scripts-inline.html %}
 {% elsif page.categories contains "raise" %}   
-<script async data-uid="1670be216c" src="https://fsn.ck.page/1670be216c/index.js"></script>
+	{% include /convertkit-forms/raise-inline.html %}
 {% elsif page.categories contains "promotion" %}   
-<script async data-uid="131a67b3f3" src="https://fsn.ck.page/131a67b3f3/index.js"></script>
+	{% include /convertkit-forms/promotion-inline.html %}
 {% endif %}
