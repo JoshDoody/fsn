@@ -74,5 +74,3 @@ If we add 50% to $55k—the W-2 wage he thinks they might offer—we get $82,500
 Since his employer is covering some of his taxes and likely matching retirement contributions and offering paid vacation, he may take home a little *more* money as a W-2 worker making $55k than as a 1099 contractor making $80k.
 
 Keep this handy for the next time you move from contractor to full-time or vice versa—it could make a tough decision much easier.
-
-<div class="inline-ad hidden"></div>

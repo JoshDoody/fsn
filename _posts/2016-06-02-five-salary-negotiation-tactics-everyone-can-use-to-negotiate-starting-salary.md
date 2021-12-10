@@ -72,5 +72,3 @@ Prepare a script so you know exactly how you'll respond to each increment in the
 Here's a [salary negotiation script example](/salary-negotiation-script-example/) you can use to help get you started.
 
 With these five salary negotiation tips, you can significantly increase your starting salary when you start a new job. 
-
-<div class="inline-ad hidden"></div>

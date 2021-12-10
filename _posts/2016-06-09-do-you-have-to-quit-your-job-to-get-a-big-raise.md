@@ -68,5 +68,3 @@ I’ll leave you with a few specific things to help you determine if you can get
 * **Are the pay increases for promotions predetermined?** Sometimes it doesn’t matter when you get a raise or promotion—your potential is predetermined. In these cases, getting a "big" raise is very, very difficult and you’ll need to consider moving to a new company if that is important to you.
 
 This should help you determine if you can get a big raise by staying put, or if you may need to start looking elsewhere.
-
-<div class="inline-ad hidden"></div>

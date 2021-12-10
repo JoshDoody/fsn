@@ -78,7 +78,7 @@ Here’s what your case for a promotion will look like once you’ve written it 
 
 Now, all you need to do is go through the template and replace anything in **bold** with the appropriate piece of information. This should be pretty easy because you’ve already done all the hard work. Feel free to edit this email to make it your own. This is just a template to get you started and show you the bare necessities you should include to make this as useful as possible.
 
-<div class="inline-ad hidden"></div>
+{% include cta-generator.html %}
 
 Let’s go section by section to build your email and make your case.
 
@@ -145,5 +145,3 @@ Once you've presented your case to your manager, you should follow up wiht your 
 - [How to answer the "What's your expected salary?" question](https://fearlesssalarynegotiation.com/salary-expectations-interview-question/)
 - [How to negotiate your salary (without leaving anything on the table)](https://fearlesssalarynegotiation.com/salary-negotiation-guide/)
 - [Got a job offer from Amazon? Learn how to negotiate your salary](https://fearlesssalarynegotiation.com/amazon-salary-negotiation/)
-
-<div class="inline-ad hidden"></div>

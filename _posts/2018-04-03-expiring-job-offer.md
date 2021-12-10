@@ -52,5 +52,3 @@ I think this allows you to front-load your efforts to get the best offers possib
 ## Final Thoughts
 
 One reason I like to just negotiate the comp package up front is that it leaves out the “timeline” aspect of the negotiation, which the company may use as leverage. I prefer to say, “Ok, here’s the best and final comp package I can negotiate - thanks for working with me. Now, I need some time to think this over and talk about it with my family before I make my final decision about which opportunity is best for me. Is that ok?” Once they’ve gone through the entire negotiation with you, they’re *very* likely to give you whatever you need in terms of time.
-
-<div class="inline-ad hidden"></div>

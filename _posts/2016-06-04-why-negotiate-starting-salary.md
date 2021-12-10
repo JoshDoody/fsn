@@ -46,5 +46,3 @@ Recruiters and hiring managers like to present an offer in terms of "your total 
 Your base salary is  more dependable. And your *initial* base salary affects your salary every year going forward, so that’s where you should focus during the negotiation.
 
 In some jobs commission comes into play, but I won’t address that directly. Commission is different, and the amount of commission available to a worker varies by industry and job. So I think it’s best to just treat commission like a second component of salary and negotiate them together.
-
-<div class="inline-ad hidden"></div>

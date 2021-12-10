@@ -42,7 +42,7 @@ You may find a great opportunity that yields an offer right away, or you may go 
 
 Your primary objective throughout the interview process is to differentiate yourself as *the* candidate for the position. You need to stand out, and that's what you'll learn to do in this interview preparation guide.
 
-<div class="inline-ad hidden"></div>
+{% include cta-generator.html %}
 
 ## <a name="applying-for-jobs"></a>Applying for jobs
 
@@ -226,5 +226,3 @@ Check out our complete salary negotiation guide to make sure you get the best sa
   <p><span>In-depth guide</span> How to tactfully negotiate your salary (without leaving anything on the table)</p>
   <p><a href="/salary-negotiation-guide/">How to negotiate salary in 2021 - Complete salary negotiation guide <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
-
-<div class="inline-ad hidden"></div>

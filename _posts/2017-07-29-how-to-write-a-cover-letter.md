@@ -93,5 +93,3 @@ That’s how I approach writing a cover letter.
   <p><span>Learn more</span> Make sure your résumé is updated for each opportunity</p>
   <p><a href="/interview-preparation-guide/">Interview Preparation Guide <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
-
-<div class="inline-ad hidden"></div>

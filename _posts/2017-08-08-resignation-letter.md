@@ -101,5 +101,3 @@ Here’s a short farewell email sample you can use to say goodbye and make sure 
 </div>
 
 You're making a big career move by leaving your company, and there are big things ahead to focus on. But make sure your resignation letter and goodbye message allow you to leave on the best possible terms so you can continue building your professional network and positioning yourself for greater opportunities in the future.
-
-<div class="inline-ad hidden"></div>

@@ -122,5 +122,3 @@ As you get more experience, some of these things will happen naturally. For exam
 So [keep track](/book/raise/raise-build-your-case/) of the ways you grow and add value. Keep track of your salary increases. When your salary lags your value, proactively talk to your manager to make sure your salary is adjusted to reflect the additional value you're bringing to to the company since your salary was last set. Every couple of years is a reasonable cadence for those conversations.
 
 **Do that consistently, and you'll make a lot more money over your career**.
-
-<div class="inline-ad hidden"></div>

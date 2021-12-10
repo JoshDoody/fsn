@@ -95,5 +95,3 @@ One last thing—don't force it! Having these 10 questions to ask in an intervie
   <p><span>Learn more</span> How long should you wait to follow up after your interview?</p>
   <p><a href="/interview-preparation-guide/">Interview Preparation Guide <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
-
-<div class="inline-ad hidden"></div>

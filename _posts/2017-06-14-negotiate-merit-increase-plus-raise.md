@@ -88,5 +88,3 @@ Follow these five steps to negotiate a raise in addition to your annual merit in
 5. Work with your manager to reach your goal
 
 If you follow these five steps and find that a larger raise isn't available within a reasonable timeline, you may need to begin looking for better opportunities with more flexibility to pay you what you're worth.
-
-<div class="inline-ad hidden"></div>

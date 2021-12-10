@@ -262,7 +262,3 @@ Here's another story from Carrie, who read about Jim's story and reached out to 
 		<p>Carrie</p>
   </div>
 </div>
-
-
-
-<div class="inline-ad hidden"></div>

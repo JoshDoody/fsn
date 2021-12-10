@@ -476,5 +476,3 @@ Own your hard work. Own the results you’ve created. Own the benefits you’ve 
   <p><span>Learn more</span> What do you need to know before you apply for a job?</p>
   <p><a href="/interview-preparation-guide/">Interview Preparation Guide <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
-
-<div class="inline-ad hidden"></div>

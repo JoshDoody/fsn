@@ -62,5 +62,3 @@ This requires understanding how the Shark and entrepreneur are thinking during t
 You’ll realize that the Sharks are actively doing this exercise (the one I’m writing about here) for every deal in the Tank—they’re watching the negotiation, trying to anticipate the next offer by a Shark or entrepreneur, and evaluating the deals in real time to determine if they can make a better deal or add more value. They're also gathering information they will use to their advantage in future negotiations.
 
 You can do this too. The more episodes you watch, the better you'll get at anticipating offers and evaluating deals. And that means your own negotiation skills will improve, just by watching Shark Tank.
-
-<div class="inline-ad hidden"></div>

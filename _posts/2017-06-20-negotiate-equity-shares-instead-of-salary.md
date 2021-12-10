@@ -93,5 +93,3 @@ I'll wrap up by sharing the method I recommend that my [coaching clients](/coach
 3. **Have you exhausted your better options like base salary and paid vacation?** If not, then start with those more valuable things. If you were unable to negotiate for those other things, then you might want to negotiate for more shares in lieu of pay.
 
 I recommend negotiating more shares in lieu of pay as a last resort for my coaching clients. That might be a good strategy for you too.
-
-<div class="inline-ad hidden"></div>

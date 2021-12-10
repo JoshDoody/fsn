@@ -293,5 +293,3 @@ Do that for every opportunity and you'll stand out from other candidates and get
   <p><span>Learn more</span> See a real-life example of the positioning process in action</p>
   <p><a href="/interview-preparation-guide/">Interview Preparation Guide <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
-
-<div class="inline-ad hidden"></div>

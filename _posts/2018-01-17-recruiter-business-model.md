@@ -160,5 +160,3 @@ Look out for your own interests. Don't share your current, previous, or expected
 It's inconvenient for them to spend a lot of time on dead-ends because they're playing a volume game. But you're not playing a volume game—you'll only interview with a few companies at a time—and it's no big deal for you to invest a few more hours in an opportunity that doesn't pan out.
 
 Tell your recruiter you prefer to handle the salary part of the discussion, and that you aren't comfortable sharing your salary information. If that's a problem for them, find a different recruiter.
-
-<div class="inline-ad hidden"></div>

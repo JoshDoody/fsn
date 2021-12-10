@@ -55,5 +55,3 @@ _Their_ list is ordered from the least to most expensive things for them to give
 Notice their order, driven by what’s cheapest for them, is almost the exact opposite if yours.
 
 To get the best compensation package, focus on one thing at a time, and start with what's most valuable to you. For most people, that's base salary. Once you maximize base salary, move on to something like paid vacation or whatever is the next-most-valuable thing on _your_ list.
-
-<div class="inline-ad hidden"></div>

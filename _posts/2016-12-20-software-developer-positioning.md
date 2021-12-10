@@ -28,5 +28,3 @@ Special thanks to [Eric Normand](https://twitter.com/ericnormand) of [PurelyFunc
   <p><span>Learn more</span> Are you ready for any interview question? Even the dumb ones?</p>
   <p><a href="/interview-preparation-guide/">Interview Preparation Guide <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
-
-<div class="inline-ad hidden"></div>

@@ -33,5 +33,3 @@ Learn what hiring managers are looking for when they review your résumé!
   <p><span>Learn more</span> How to make your résumé skimmable and easy to read.</p>
   <p><a href="/interview-preparation-guide/">Interview Preparation Guide <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
-
-<div class="inline-ad hidden"></div>

@@ -22,7 +22,7 @@ Everything seems pretty straightforward—you talk about your background, how yo
 
 Your salary expectations are one of the few things you know that the company doesn't. That makes them extremely valuable and sharing them can make your salary negotiations very difficult and even cost you a lot of money.
 
-<div class="inline-ad hidden"></div>
+{% include cta-generator.html %}
 
 **Get the answer for your specific situation**
 
@@ -529,5 +529,3 @@ Next time you're asked for your current salary or desired in a job interview, us
   <p><span>Learn more</span> Make sure you have everything you need for your next interview</p>
   <p><a href="/interview-preparation-guide/">Interview Preparation Guide <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
-
-<div class="inline-ad hidden"></div>

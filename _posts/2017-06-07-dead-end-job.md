@@ -151,5 +151,3 @@ You can also look for opportunities to add new skills *outside* of work that mig
 Maybe that podcast idea you've been knocking around will give a chance to work with the Marketing department to edit their new podcast. Or maybe that little toy React app you've been building on the weekends could give you a chance to build a prototype for a new app your company wants to launch.
 
 Keep a lookout for new skills you can stack so you're ready when valuable new opportunities open up at work. Those opportunities will increase your earnings and add variety to your career.
-
-<div class="inline-ad hidden"></div>

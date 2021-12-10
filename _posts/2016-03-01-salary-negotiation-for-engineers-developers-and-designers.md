@@ -64,5 +64,3 @@ I’m just linking to my answers (I usually repeat the question).
 - [(1:05:31) Why might a company break a market increase up into chunks over time instead of just doing it all at once?](https://youtu.be/sN19aNmjBoU#t=1h5m31s)
 - [(1:06:44) What do you do when the word “budget” is used a blocker for continuing negotiation?](https://youtu.be/sN19aNmjBoU#t=1h6m44s)
 - [(1:08:37) Does it help to negotiate using non-round numbers?](https://youtu.be/sN19aNmjBoU#t=1h8m37s)
-
-<div class="inline-ad hidden"></div>

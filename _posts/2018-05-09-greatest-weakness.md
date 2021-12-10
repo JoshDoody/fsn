@@ -81,5 +81,3 @@ That's a first-cousin of the "greatest weakness" question, and it will actually 
   <p><span>Learn more</span> “Do you have any questions for me?” Make sure you do!</p>
   <p><a href="/interview-preparation-guide/">Interview Preparation Guide <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
-
-<div class="inline-ad hidden"></div>

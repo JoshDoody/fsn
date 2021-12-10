@@ -54,5 +54,3 @@ Or you might have started working from home every Friday so you can make sure to
 Do more of that.
 
 The great thing about "Start. Stop. Continue." is that it's useful for lots of different situations. You can use it to evaluate last year and plan for this year, or you can use it when you finish a small project before you start your next one.
-
-<div class="inline-ad hidden"></div>

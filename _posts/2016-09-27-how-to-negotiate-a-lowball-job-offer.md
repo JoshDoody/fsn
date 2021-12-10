@@ -20,7 +20,7 @@ Occasionally you'll ace your interviews and still get a lowball job offer, with 
 
 So what can you do to reset the salary negotiation? Here's a tactic you can use when negotiating a lowball salary offer.
 
-<div class="inline-ad hidden"></div>
+{% include cta-generator.html %}
 
 <blockquote class="ico link-callout">
   <p><span>Learn more</span> What's next once you respond to your lowball job offer?</p>
@@ -136,5 +136,3 @@ But sometimes they _will_ try again! "Let us see if we can do better. We'll get 
 Once they send a revised job offer, then you can proceed with a standard [starting salary negotiation](/book/negotiate/salary-negotiation-strategy-overview/).
 
 Beware that companies will often revise their lowball job offer to be pretty close to their best-possible job offer, which means your standard salary negotiation strategy may not yield as big a return when used in conjunction with this technique. The ultimate result is what you want—you've determined how much the company is willing to pay you to do the job—and you just got there combining *two* techniques instead of a single salary negotiation technique.
-
-<div class="inline-ad hidden"></div>

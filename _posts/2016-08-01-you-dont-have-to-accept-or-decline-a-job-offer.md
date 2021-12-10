@@ -50,5 +50,3 @@ Let's loop back on the conversation at the beginning of the article to see how i
 > "I'm not quite to that point. I'm going to see if they'll increase the starting salary, and I want to see about getting another week of paid vacation."
 
 By negotiating, you can determine if the salary they offered is really the highest they can pay for your skillset and experience. Or maybe you can get an additional week of paid vacation each year. But you won't know if those options are available unless you negotiate.
-
-<div class="inline-ad hidden"></div>

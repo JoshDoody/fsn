@@ -97,5 +97,3 @@ Just in case you don't have time to review all the suggestions I made above, her
 **Ask for time to think it over.**
 
 Then you can go back and review the situation to make a plan for your negotiation.
-
-<div class="inline-ad hidden"></div>

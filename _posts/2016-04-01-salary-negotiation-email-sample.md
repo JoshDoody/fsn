@@ -24,7 +24,7 @@ The brief phase of the negotiation between the time you get a job offer and when
 
 This guide will show you how to negotiate your salary over email with a step-by-step process. First, we'll discuss why you should bother negotiating your salary at all. Then you'll learn  whether the best way to negotiate your job offer is through email or on the phone. Then you'll get a detailed example of a counter offer letter along with a simple process to build your case and write your own counter offer email.
 
-<div class="inline-ad hidden"></div>
+{% include cta-generator.html %}
 
 **In this article, you'll learn how to...**
 
@@ -341,7 +341,7 @@ You don't need to tell them which companies have made you offers or share the de
 
 When you're negotiating salary over email, simply mentioning competing offers is sufficient. No need to go into great detail.
 
-<div class="inline-ad hidden"></div>
+{% include cta-generator.html %}
 
 ## Send your draft counter offer email to someone you trust for review
 
@@ -413,5 +413,3 @@ Then it's time to prepare for your [Final Discussion](/salary-negotiation-script
 
 - [A **salary increase letter** to ask your boss for a raise](https://fearlesssalarynegotiation.com/salary-increase-letter-sample/)
 - [Got a job offer from Amazon? Learn how to negotiate your salary](https://fearlesssalarynegotiation.com/amazon-salary-negotiation/)
-
-<div class="inline-ad hidden"></div>

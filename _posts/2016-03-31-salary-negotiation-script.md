@@ -69,5 +69,3 @@ Once you've maximized your starting salary, then pursue additional benefits that
 3.  Work from home
 
 Here's a salary negotiation script example you can use to plan for your salary negotiation: [Salary negotiation script example](/salary-negotiation-script-example/)
-
-<div class="inline-ad hidden"></div>

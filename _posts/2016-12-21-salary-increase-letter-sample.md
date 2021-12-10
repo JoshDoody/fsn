@@ -32,7 +32,8 @@ The process starts and ends with email, so we'll do a deep dive into how to ask 
 <div data-offer-plinko="optional">
 	<p><strong>...or get the salary increase letter template sent directly to your inbox right away!</strong></p>
 </div>
-<div class="inline-ad hidden"></div>
+
+{% include cta-generator.html %}
 
 Some companies address employee compensation in small salary increments—a percent or two every now and then—rather than big jumps. And some companies will grant big raises for exceptional employees.
 
@@ -352,5 +353,3 @@ What to say when asking for a raise at work is a big topic. But we can break it 
 ### Ask for a specific plan to get a salary increase if your request wasn't granted
 
  - [Ask for a specific action plan to get a salary increase](#request-a-plan)
-
-<div class="inline-ad hidden"></div>

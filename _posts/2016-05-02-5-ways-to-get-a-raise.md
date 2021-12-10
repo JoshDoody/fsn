@@ -78,5 +78,3 @@ Let's review the five ways to get a raise and supercharge your lifetime earning 
 </ul>
 
 Take advantage of these five ways to get a raise and you'll supercharge your lifetime earning potential by doing the work you're already doing anyway.
-
-<div class="inline-ad hidden"></div>

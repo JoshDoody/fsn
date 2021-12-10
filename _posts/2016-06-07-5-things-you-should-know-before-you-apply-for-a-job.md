@@ -66,5 +66,3 @@ This [salary negotiation script generator and counteroffer calculator](/salary-n
   <p><span>Learn more</span> Ready to start applying? Here's how to prepare for your interviews</p>
   <p><a href="/interview-preparation-guide/">Interview Preparation Guide <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
-
-<div class="inline-ad hidden"></div>
