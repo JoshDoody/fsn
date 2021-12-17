@@ -52,7 +52,87 @@
     </div><!-- /blog-sidebar -->
 
   </div>
+	
+	{% if page.company %}
+		<div class="container mx-auto mt-28 mb-20 blog-post">
+			<div>
+	      <h2 class="text-3xl uppercase sans-serif">Still feeling uncertain about negotiating your offer with {{ page.company }}?</h2>
+	    </div>
+		
+			<p>I offer <a href="/coach/">full-service 1-on-1 support</a> to help Senior Software Engineers and Engineering Managers negotiate the best offer possible and with more confidence and less stress.</p>
 
+		{% case page.company %}
+			{% when "Apple" %}
+				<p>Here is one example of the results I've helped others achieve in their negotiations with {{ page.company }}.</p>
+				
+				{% include standalone-success-story.html story-id="anon_engineer_3" %}
+			{% when "Amazon" %}
+				<p>Here are examples of results I've helped others achieve in their negotiations with {{ page.company }}.</p>
+						
+				<div class="success-slider mb-32">
+				  <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
+				  <div class="success-slider mb-32">
+				    <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
+				    <div class="suc-quotes-2">
+				      {% include success-story.html story-id="leonardo" %}
+				      {% include success-story.html story-id="oliver_steenbuck" %}
+				      {% include success-story.html story-id="anon_15" %}
+				      {% include success-story.html story-id="jane" %}
+				      {% include success-story.html story-id="anon_13" %}
+				    </div><!-- /suc-quotes -->
+
+				    <div class="flex suc-control-2">
+				      <button type="button" class="suc-prev-2"><i class="fas fa-arrow-left"></i></button>
+				      <button type="button" class="suc-next-2"><i class="fas fa-arrow-right"></i></button>
+				    </div><!-- /suc-control -->
+
+				    <div class="suc-dots-2"></div>
+
+				  </div><!-- /suc-quotes -->
+
+				</div><!-- /success-slider -->
+				
+				{% include standalone-success-story.html story-id="justin_garrison" %}
+			{% when "Google" %}
+				<p>Here are examples of results I've helped others achieve in their negotiations with {{ page.company }}.</p>
+				
+				<div class="success-slider mb-32">
+				  <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
+				  <div class="success-slider mb-32">
+				    <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
+				    <div class="suc-quotes-2">
+				      {% include success-story.html story-id="julian_diaz" %}
+				      {% include success-story.html story-id="taylor" %}
+				      {% include success-story.html story-id="anon_11" %}
+				      {% include success-story.html story-id="anon_9" %}
+				      {% include success-story.html story-id="k_k" %}
+				      {% include success-story.html story-id="s_l" %}
+				    </div><!-- /suc-quotes -->
+
+				    <div class="flex suc-control-2">
+				      <button type="button" class="suc-prev-2"><i class="fas fa-arrow-left"></i></button>
+				      <button type="button" class="suc-next-2"><i class="fas fa-arrow-right"></i></button>
+				    </div><!-- /suc-control -->
+
+				    <div class="suc-dots-2"></div>
+
+				  </div><!-- /suc-quotes -->
+
+				</div><!-- /success-slider -->
+
+				{% include standalone-success-story.html story-id="ben" %}
+	    {% when "Microsoft" %}
+				<p>Here is one example of the results I've helped others achieve in their negotiations with {{ page.company }}.</p>
+							
+				{% include standalone-success-story.html story-id="jamie" %}
+	    {% when "Facebook" %}
+				<p>Hsere are examples of results I've helped others achieve in their negotiations with {{ page.company }}.</p>
+			
+				{% include standalone-success-story.html story-id="anon_engineer_4" %}
+				{% include standalone-success-story.html story-id="anon_3" %}
+		{% endcase %}
+		</div>
+	{% endif %}
 </div>
 
 {% comment %}
