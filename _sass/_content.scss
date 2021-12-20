@@ -1013,6 +1013,12 @@
       background-image: none;
     }
   }
+  &.get-access-device-gynr {
+    background-image: url("../imgs/prod-devices-gynr.png");
+    @media (max-width: 867px) {
+      background-image: none;
+    }
+  }
   h4 {
     color: $brand-secondary;
   }
