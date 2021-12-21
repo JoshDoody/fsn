@@ -1014,7 +1014,25 @@
     }
   }
   &.get-access-device-gynr {
-    background-image: url("../imgs/prod-devices-gynr.png");
+    background-image: url("../imgs/gynr-product-image.png");
+    @media (max-width: 867px) {
+      background-image: none;
+    }
+  }
+  &.get-access-device-fsn-basic {
+    background-image: url("../imgs/fsn-basic-product-image.png");
+    @media (max-width: 867px) {
+      background-image: none;
+    }
+  }
+  &.get-access-device-fsn-complete {
+    background-image: url("../imgs/fsn-complete-product-image.png");
+    @media (max-width: 867px) {
+      background-image: none;
+    }
+  }
+  &.get-access-device-sncc {
+    background-image: url("../imgs/sncc-product-image.png");
     @media (max-width: 867px) {
       background-image: none;
     }
