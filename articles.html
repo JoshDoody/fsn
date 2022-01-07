@@ -21,7 +21,25 @@ navWeight: 2
         {% endfor %}
       {% endfor %}
       {% for category in categories_array %}
-        <li class="inline-block"><button class="resource-filter" id="{{ category | slugify }}">{{ category }}</button></li>
+		  {% case category %}
+		    {% when "raise" %}
+				<li class="inline-block"><button class="resource-filter" id="{{ category | slugify }}">Getting a raise</button></li>
+				{% when "negotiate" %}
+		    <li class="inline-block"><button class="resource-filter" id="{{ category | slugify }}">Negotiating job offers</button></li>
+		    {% when "salary-questions" %}
+		    <li class="inline-block"><button class="resource-filter" id="{{ category | slugify }}">Answering salary expectations questions</button></li>
+		    {% when "promotion" %}
+		    <li class="inline-block"><button class="resource-filter" id="{{ category | slugify }}">Getting promoted</button></li>
+		    {% when "coach" %}
+		    <li class="inline-block"><button class="resource-filter" id="{{ category | slugify }}">Negotiating with big tech</button></li>
+		    {% when "negotiate-lowball" %}
+		    <li class="inline-block"><button class="resource-filter" id="{{ category | slugify }}">Negotiating lowball offers</button></li>
+		    {% when "interview" %}
+		    <li class="inline-block"><button class="resource-filter" id="{{ category | slugify }}">Interview prep</button></li>
+				{% else %}
+				<li class="inline-block"><button class="resource-filter" id="{{ category | slugify }}">{{ category }}</button></li>
+		  {% endcase %}
+        
       {% endfor %}
       <!-- <li class="inline-block">Search</li> -->
     </ul>

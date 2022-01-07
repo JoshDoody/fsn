@@ -31,6 +31,7 @@
     <link rel="stylesheet" href="/assets/css/main.css" />
     <link rel="stylesheet" href="/slick/slick.css" />
     <link rel="stylesheet" href="/slick/slick-theme.css" />
+		<link rel="canonical" href="{% if page.301_to_url %}{{ page.301_to_url }}{% elsif page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endif %}">
 		
 		<!-- Begin production-only code -->
 		{% if jekyll.environment == 'production' %}
