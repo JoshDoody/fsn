@@ -39,7 +39,7 @@
                 <p class="text-sm mb-6 sans-serif">{{ post.description }}</p>
               </div>
               <div class="category flex justify-between items-center">
-                <div class="pl-8"><p class="sans-serif text-xs">{{ post.categories | join: ', ' }}</p></div>
+                <div class="pl-8"><p class="sans-serif text-xs">{{ site.data.categories[post.categories.first].title }}</p></div>
                 <div><a href="{{ post.url | relative_url }}" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
               </div>
             </div>

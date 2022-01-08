@@ -21,25 +21,7 @@ navWeight: 2
         {% endfor %}
       {% endfor %}
       {% for category in categories_array %}
-		  {% case category %}
-		    {% when "raise" %}
-				<li class="inline-block"><button class="resource-filter" id="{{ category | slugify }}">Getting a raise</button></li>
-				{% when "negotiate" %}
-		    <li class="inline-block"><button class="resource-filter" id="{{ category | slugify }}">Negotiating job offers</button></li>
-		    {% when "salary-questions" %}
-		    <li class="inline-block"><button class="resource-filter" id="{{ category | slugify }}">Answering salary expectations questions</button></li>
-		    {% when "promotion" %}
-		    <li class="inline-block"><button class="resource-filter" id="{{ category | slugify }}">Getting promoted</button></li>
-		    {% when "coach" %}
-		    <li class="inline-block"><button class="resource-filter" id="{{ category | slugify }}">Negotiating with big tech</button></li>
-		    {% when "negotiate-lowball" %}
-		    <li class="inline-block"><button class="resource-filter" id="{{ category | slugify }}">Negotiating lowball offers</button></li>
-		    {% when "interview" %}
-		    <li class="inline-block"><button class="resource-filter" id="{{ category | slugify }}">Interview prep</button></li>
-				{% else %}
-				<li class="inline-block"><button class="resource-filter" id="{{ category | slugify }}">{{ category }}</button></li>
-		  {% endcase %}
-        
+			<li class="inline-block"><button class="resource-filter" id="{{ category | slugify }}">{{ site.data.categories[category].title }}</button></li>        
       {% endfor %}
       <!-- <li class="inline-block">Search</li> -->
     </ul>
@@ -68,7 +50,7 @@ navWeight: 2
           <p class="text-sm mb-6 sans-serif">{{ post.description }}</p>
         </div>
         <div class="category items-center justify-between flex">
-          <div class="pl-8"><p class="sans-serif text-xs">{{ post.categories | join: ', ' }}</p></div>
+          <div class="pl-8"><p class="sans-serif text-xs">{{ site.data.categories[post.categories.first].title }}</p></div>
           <div><a href="{{ post.url }}" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
         </div>
       </div>
