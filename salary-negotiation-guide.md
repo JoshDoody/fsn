@@ -62,7 +62,7 @@ And why not have a little fun with it?
 </blockquote>
 
 
-Most of those reasons come from a place of fear, *which is totally understandable*! That's why it's called [***Fearless** Salary Negotiation*](/get-started/). This guide will who you how to replace that fear and skepticism with confidence.
+Most of those reasons come from a place of fear, *which is totally understandable*! That's why it's called [***Fearless** Salary Negotiation*](/get-started/). This guide will show you how to replace that fear and skepticism with confidence.
 
 Now let's get into *how* to negotiate your salary.
 
