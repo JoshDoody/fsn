@@ -192,7 +192,7 @@ Let's review the essential components of a strong baseline sample counter offer 
 
 ### Open with a greeting
 
-You'll usuall address your counter offer email to the recruiter you've been working with throughout the hiring process, *not* the hiring manager who extended the verbal job offer. Ultimately, you'll address it to whoever has been your primary point of contact throughout the job interview process because you will probably negotiate with that same person as well.
+You'll usually address your counter offer email to the recruiter you've been working with throughout the hiring process, *not* the hiring manager who extended the verbal job offer. Ultimately, you'll address it to whoever has been your primary point of contact throughout the job interview process because you will probably negotiate with that same person as well.
 
 Including a personal comment like "I hope you had a great weekend!" can help build rapport with the recruiter. That could be beneficial later when you need them to go to bat for you.
 
