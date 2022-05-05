@@ -17,7 +17,7 @@ last_modified_at: 2020-08-04
 Justin Garrison was looking for his next career opportunity and had interviewed with several companies including Amazon for a Senior Developer Advocate role, which was a natural fit for his deep expertise and prolific contributions in the open source software community. When he reached the point where he had an offer incoming from Amazon and potentially a few other offers to follow, he considered working with me for salary negotiation coaching.
 
 <blockquote class="ico quote-callout">
-  <p>"I found Josh through a podcast interview he did and read some of the free materials he had," says Justin. "I had some ideas of how I could approach the negotiation myself. But at the same time,<em>* I've never negotiated an extra dollar for myself in any job offer or raise, and I had tried a couple times before.</em>*"</p>
+  <p>"I found Josh through a podcast interview he did and read some of the free materials he had," says Justin. "I had some ideas of how I could approach the negotiation myself. But at the same time,<em> I've never negotiated an extra dollar for myself in any job offer or raise, and I had tried a couple times before.</em>"</p>
 </blockquote>
 
 Justin knew it would be beneficial to get advice from someone who understands the position and hiring practices of the companies he was considering. His main hesitation to hiring me as a coach was the fact he didn't know anyone personally who had used my services. He wasn't sure if he could trust me to get a good outcome to make the cost worth it.
