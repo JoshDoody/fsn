@@ -9,7 +9,7 @@ short_version: >
   I did not want to get to my next job and realize I came in too low or underleveled because I didn't believe in myself or thought I would prove myself after I was hired rather than entering at my value. **With Josh's inside knowledge of how leveling works, I was able to hit pause on an L6 offer and inception my way to an L7 over six months.** In the negotiation, we left NOTHING on the table. NOTHING. I negotiated for an additional **$80k signing bonus, or $40k a year**. 
 product: Salary Negotiation Coaching
 result_summary: Landing an L7 offer (after pausing an L6 offer), additional $80,000 in sign-on bonus ($40,000 more in year one + $40,000 more in year two)
-case_study_url: 
+case_study_url: /amazon-l7-erica/
 ---
 I did not want to get to my next job and realize I came in too low or underleveled because I didn't believe in myself or thought I would prove myself after I was hired rather than entering at my value.
 

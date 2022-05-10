@@ -12,7 +12,7 @@ short_version: |
  Bringing on Josh made a huge difference for me — no way I would have ended up with that number without his help. **Whether you're a mid-level engineer or an executive — to me it's a no brainer to work with Josh.**
 product: Salary Negotiation Coaching
 result_summary: Negotiated additional $160k in annual compensation.
-case_study_url: 
+case_study_url: /alphabet-executive-taylor/
 ---
 
 **Josh helped me negotiate with Alphabet to get an additional $160k in annual compensation.**

@@ -8,7 +8,7 @@ short_version: |
  With Josh’s help, I negotiated increased offers from Facebook, Amazon and GitHub. GitHub was the lowest offer, but they came up quite a lot with a **$25k signing bonus, a $15k increase in salary, and a $32k annual increase in equity**. The offers got close enough to each other that I could decide based on other more intangible factors and choose the opportunity that was the most compelling for me personally.
 product: Salary Negotiation Coaching
 result_summary: $25k signing bonus, a $15k increase in salary, and a $32k annual increase in equity.
-case_study_url: 
+case_study_url: /github-senior-software-engineer-jamie/
 ---
 
 **Negotiating job offers at Facebook, Amazon, GitHub and Stripe**
