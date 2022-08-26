@@ -1,7 +1,7 @@
 {% assign id = "/results/" | append: include.story-id %}
 {% assign story = site.success-stories | where:"id", id | first %}
 
-<div class="success-indi success-light {{ story.company | slugify }}">
+<div id="{{ include.story-id }}" class="success-indi success-light {{ story.company | slugify }}">
   <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
   <div class="suc-indi-quotes">
 
