@@ -1043,6 +1043,10 @@
       background-image: none;
     }
   }
+  &.get-access-no-image {
+		background: $brand-gray;
+    background-image: none;
+  }
   h4 {
     color: $brand-secondary;
   }
