@@ -3,3 +3,18 @@
 {% include hero.html %}
 
 {{ content }}
+
+{% if page.showAccessModal == "show" or page.layout == "resource_page" or page.layout == "default" %}
+  {% include access-gate.html %}
+{% endif %}
+
+<script src="https://transactions.sendowl.com/assets/sendowl.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://kit.fontawesome.com/d903f84f49.js" crossorigin="anonymous"></script>
+<script src="/slick/slick.min.js"></script>
+<script src="/assets/js/bootstrap-slider.js"></script>
+<script src="/assets/js/match-height.js"></script>
+<script src="/assets/js/scripts.js"></script>
+
+</body>
+</html>
