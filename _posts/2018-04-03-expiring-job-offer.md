@@ -25,7 +25,7 @@ Here are some things you can do to move forward while still using a solid strate
 
 ## Ask for more time, then negotiate
 
-The first thing I recommend after you receive any offer is to ask for time to consider it. It’s the first “counter offer” template in the packet of emails that comes with the Complete Bundle of [_Fearless Salary Negotiation_](/get-started/), and it’s the first thing I coach my clients to do. You need time to think, talk it over, etc. This is really important.
+The first thing I recommend after you receive any offer is to ask for time to consider it. It’s one of the first lessons in [_Salary Negotiation Mastery_](/salary-negotiation-mastery/), and it’s the first thing I coach my clients to do. You need time to think, talk it over, etc. This is really important.
 
 From there, you should continue moving the negotiation forward without explicitly sharing the details of competing offers among firms if you have them. I do think it’s a good idea to disclose competing offers in general (there’s an email template in the Complete Bundle for this as well), but not the details of those offers.
 
