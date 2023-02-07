@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Interview preparation guide - How to prepare for job interviews (2022)
+title: Interview preparation guide - How to prepare for job interviews
 headline: The Ultimate Job Interview Preparation Guide
 subhead: How to prepare for your job interviews and get more job offers
 description: How to turn each job interview into another opportunity to make a strong impression and land more job offers.
@@ -224,5 +224,5 @@ Check out our complete salary negotiation guide to make sure you get the best sa
 
 <blockquote class="ico link-callout">
   <p><span>In-depth guide</span> How to tactfully negotiate your salary (without leaving anything on the table)</p>
-  <p><a href="/salary-negotiation-guide/">How to negotiate salary in 2022 - Complete salary negotiation guide <i class="fas fa-angle-double-right"></i></a></p>
+  <p><a href="/salary-negotiation-guide/">How to negotiate salary - Complete salary negotiation guide <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
