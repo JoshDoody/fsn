@@ -1037,6 +1037,12 @@
       background-image: none;
     }
   }
+  &.get-access-device-snm {
+    background-image: url("../imgs/snm-product-image.png");
+    @media (max-width: 867px) {
+      background-image: none;
+    }
+  }
   &.get-access-coach {
     background-image: url("../imgs/callout-josh-headshot.png");
     @media (max-width: 867px) {
