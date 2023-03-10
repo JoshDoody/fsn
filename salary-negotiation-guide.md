@@ -30,7 +30,7 @@ You might do this dozens of times throughout your career, but the salary negotia
 
 Use this salary negotiation guide to jump right to your current stage in the salary negotiation cycle or read it straight through and learn all the valuable strategies and tactics to get paid what you're worth by negotiating starting salary.
 
-<div class="rm-area-inline"></div>
+{% include cta-generator.html %}
 
 ## Quick overview: How to negotiate your starting salary
 
@@ -97,6 +97,8 @@ There's one more thing you need to do before you get your job offer: Set your wa
 </blockquote>
 
 By avoiding sharing your salary history or compensation expectations, you'll give yourself the most opportunity to negotiate the highest salary possible. By setting your minimum acceptable salary before you get your job offer, you'll give yourself an objective way to evaluate the final result of your negotiation so you can make the best decision about whether to accept the job.
+
+{% include cta-generator.html %}
 
 ## <a name="job-offer-in-hand"></a>Once you have your job offer in hand
 
@@ -179,6 +181,8 @@ But there are several unique situations that might call for a slightly modified 
   <p><a href="/salary-negotiation-email-sample/">Salary negotiation email templates <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
+{% include cta-generator.html %}
+
 ## <a name="currently-negotiating"></a>Currently negotiating - after you send your counter offer
 
 Once you've sent your counter offer, you should immediately begin preparing for your Final Discussion. This is what most people think of when they think of "salary negotiation". You'll usually have this discussion over the phone—usually this call will just last a few minutes—where the recruiter or hiring manager will respond to your counter offer, and you'll have your final opportunity to maximize your base salary and other non-salary benefits that are important to you.
@@ -229,6 +233,8 @@ Run your script a few times before your Final Discussion. If you can find someon
 ### The Final Discussion
 
 With your script in hand, you're ready for your Final Discussion. The recruiter or hiring manager will call you and respond to your counter offer. Because you have your script prepared and you've practiced it, you're ready to go. This call will only last a few minutes, and it'll be over before you know it!
+
+{% include cta-generator.html %}
 
 ## <a name="negotiation-complete"></a>After you finished negotiating your salary
 
