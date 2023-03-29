@@ -51,7 +51,7 @@ So when you hear the salary expectations question, you'll be thinking "What do I
 
 Here's a short video with the basics of how to respond when asked for your salary expectations or current salary. Then I'll tell you more about the nuances of this question and what to do when they don't give up so easily:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4N7mOR9yv2U?rel=0" title="'What's your current salary' is a trap question—Here's how to answer it" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Euhpm-O_D6I?rel=0" title="How to answer the salary expectations question" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 It's easier to understand the salary expectations questions if we answer another question first: What is the recruiter or hiring manager *really* asking for here?
 
