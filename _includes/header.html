@@ -7,6 +7,9 @@
     {% if page.url == "/case-studies/" %}
       <meta name="robots" content="noindex, nofollow">
     {% endif %}
+    {% if page.metatags == "noindex" %}
+      <meta name="robots" content="noindex, nofollow">
+    {% endif %}
     <title>{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | strip_html | escape }}{% endif %} | Fearless Salary Negotiation</title>
     <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
     <meta property="og:url" content="{% if page.301_to_url %}{{ page.301_to_url }}{% elsif page.canonical_url %}{{ page.canonical_url }}{% else %}{{ site.url }}{{ page.url }}{% endif %}" />
