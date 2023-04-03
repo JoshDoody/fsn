@@ -32,8 +32,8 @@ The [_Fearless Salary Negotiation_](/get-started/) method is easy to use while g
 **You're less than 1 minute away from having a complete salary negotiation script to successfully negotiate starting salary!**
 	
 <blockquote class="ico link-callout">
-  <p><span>Learn more</span> What's next once you calculate your counter offer?</p>
-  <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide <i class="fas fa-angle-double-right"></i></a></p>
+  <p><span>Learn more</span> Get valuable tips to negotiate your job offer without endangering the opportunity or leaving anything on the table</p>
+  <p><a href="/salary-negotiation-guide/">How to negotiate salary: 9 tips from a pro salary negotiator <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
 ## 1. Calculate your counter offer

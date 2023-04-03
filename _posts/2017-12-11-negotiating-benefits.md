@@ -35,7 +35,7 @@ Your instinct will be to make sure you ask for everything you _might_ want so
 
 <blockquote class="ico link-callout">
   <p><span>Learn more</span> How to negotiate your salary without leaving anything on the table</p>
-  <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide <i class="fas fa-angle-double-right"></i></a></p>
+  <p><a href="/salary-negotiation-guide/">How to negotiate salary: 9 tips from a pro salary negotiator <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
 

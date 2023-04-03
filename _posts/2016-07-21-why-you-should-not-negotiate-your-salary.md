@@ -117,5 +117,5 @@ Sorry about that.
 
 <blockquote class="ico link-callout">
   <p><span>Learn more</span> Ready to learn how to negotiate your salary?</p>
-  <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide <i class="fas fa-angle-double-right"></i></a></p>
+  <p><a href="/salary-negotiation-guide/">How to negotiate salary: 9 tips from a pro salary negotiator <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>

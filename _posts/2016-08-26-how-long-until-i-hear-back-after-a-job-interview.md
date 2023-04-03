@@ -76,5 +76,5 @@ You can ping the recruiter (or your contact) about once a week for a few weeks. 
 
 <blockquote class="ico link-callout">
   <p><span>Learn more</span> Ready to learn how to negotiate your job offer?</p>
-  <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide <i class="fas fa-angle-double-right"></i></a></p>
+  <p><a href="/salary-negotiation-guide/">How to negotiate salary: 9 tips from a pro salary negotiator <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>

@@ -1,9 +1,7 @@
 ---
 layout: posts
-title: How to negotiate your salary without leaving anything on the table
-headline: How to tactfully negotiate your salary (without leaving anything on the table)
-subhead: How to negotiate salary over email, in person, or over the phone
-description: You finally got a job offer, and you feel you should ask for more, but how? This guide will show you how to tactfully negotiate your job offer though email, in person, and over the phone so you don't leave anything on the table.
+title: 'How to negotiate salary: 9 tips from a pro salary negotiator'
+description: You finally got a job offer, and you feel you should ask for more, but how? These 9 tips will help you negotiate with confidence from a strong position.
 categories:
   - negotiate
 tags:
@@ -11,168 +9,163 @@ tags:
   - popular
   - blogFeatured
 og-image: SalaryNegotiationGuide.png
-date: 2020-05-07
+date: 2023-04-03
 author: josh
 published: true
 ---
-## Where are you in the salary negotiation cycle?
 
-<ul>
-	<li><a href="#expecting-job-offer">Expecting a job offer</a></li>
-	<li><a href="#job-offer-in-hand">Just got a job offer</a></li>
-	<li><a href="#currently-negotiating">Currently negotiating</a></li>
-	<li><a href="#negotiation-complete">Finished negotiating</a></li>
+Negotiating salary is _stressful_, and you will only get a handfull of chances try. But there are things you can do to ensure a successful salary negotiation without endangering your job offer or leaving anything on the table.
+
+<ul class="arrows">
+  <li><i class="fas fa-arrow-circle-right"></i><a href="#them-first">1. Make them go first</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="#ask-for-time">2. Ask for time so you can plan your salary negotiation</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="#know-what-you-want">3. Know what you really want</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="#be-aggressive">4. Be aggressive</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="#be-specific">5. Choose a specific number for your counter offer, but don't get cute</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="#negotiate-over-email">6. Negotiate salary over email</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="#quick-response">7. Be ready for a quick response</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="#dont-give-up">8. Don’t give up too early</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="#you-can-say-no">9. You don’t have to say 'yes'</a></li>	
 </ul>
 
-Salary negotiation is a cycle that repeats throughout your career. You interview for a new position, negotiate a job offer, leave your old position, start your new job, ask for a raise or two, seek out new opportunities and begin interviewing and negotiating all over again. 
+##  <a name="them-first"></a>1. Make them go first
 
-You might do this dozens of times throughout your career, but the salary negotiation process will always be the same. All that changes is where you currently are in the salary negotiation cycle.
+Your salary negotiation could literally begin with your very first conversation with someone at the company. That first call is often called the "pre-screen" or "pre-interview", and you'll usually talk with an internal recruiter at the company.
 
-Use this salary negotiation guide to jump right to your current stage in the salary negotiation cycle or read it straight through and learn all the valuable strategies and tactics to get paid what you're worth by negotiating starting salary.
+This question might sound familiar because it's become a standard part of the recruiting process: 
 
-{% include cta-generator.html %}
+"Before we go any further, would you mind telling me your salary expectations?"
 
-## Quick overview: How to negotiate your starting salary
+And you _do_ mind!
 
-Before we jump into the detailed process, let's start with a *very* broad overview of how to negotiate your salary.
+While it's tempting to try to figure out the best number to say, your best move is to say nothing at all. Don't share your salary expectations (or your current salary if it's legal for them to ask for that where you are).
 
-Salary negotiation starts early in the interview process, when you'll often be asked for your current salary or expected salary. Rule #1 of salary negotiation is this: Do not disclose your salary history or salary requirements. This can be uncomfortable, but it's your first opportunity to negotiate a much higher salary.
+This lesson from [Salary Negotiation Mastery](/salary-negotiation-mastery/) walks you through exactly how to avoid sharing your salary expectations:
 
-Once they make an offer, you'll counter offer by sending a carefully written email that includes a strong case to support your counter offer. Typically, your counter offer will be 10–20% more than their offer, and you'll focus on your base salary at first.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Euhpm-O_D6I?rel=0" title="How to answer the salary expectations question" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-After you send your counter, you'll prepare a script ahead of the "Final Discussion", which is typically a 3–5 minute conversation over the phone where the recruiter or hiring manager responds to your counter offer and you hash out all the final details of your offer. This is your last chance to improve your compensation package before you decide whether to accept their offer.
+And here's a script you can use to reply when they ask for either your salary expectations or your current salary:
 
-Finally, once you complete your negotiation and set a start date for your new role, you'll want to give your notice and wrap things up at your current company. This is an important step because you can bolster your reputation while building your network before you leave your current role.
-
-That's a high-level overview of the salary negotiation process. The rest of this guide is a step-by-step deep-dive to help you get the best results possible when negotiating your salary.
-
-## <a name="expecting-job-offer"></a>Expecting a job offer soon
-
-Just in case you're not quite ready to negotiate your salary—maybe you're skeptical that negotiating salary actually works, or you're concerned about coming off as too aggressive or rubbing someone the wrong way—let's start with *why* you should negotiate your salary.
-
-And why not have a little fun with it?
-
-### 10 reasons you should *not* negotiate your salary
-
-<a href="/why-you-should-not-negotiate-your-salary/" target="_blank"><img src="/assets/imgs/post-images/YoinkScreenCap.jpg" alt="10 reasons you should NOT negotiate your salary" style="max-width: 600px; width: 100%;"/></a>
-
-<blockquote class="ico link-callout">
-  <p>You might recognize a few of these from your own experience...</p>
-  <p><a href="/why-you-should-not-negotiate-your-salary/">10 reasons you should <em>not</em> negotiate your salary <i class="fas fa-angle-double-right"></i></a></p>
+<blockquote>
+  <p>“I’m not comfortable sharing my current salary. I would prefer to focus on the value I can add to this company rather than what I’m paid at my current job. I don’t have a specific number in mind for a desired salary, and you know better than I do what value my skillset and experience could bring to your company. I want this move to be a big step forward for me in terms of both responsibility and compensation.”</p>
 </blockquote>
-
-
-Most of those reasons come from a place of fear, *which is totally understandable*! That's why it's called [***Fearless** Salary Negotiation*](/get-started/). This guide will show you how to replace that fear and skepticism with confidence.
-
-Now let's get into *how* to negotiate your salary.
-
-Your salary negotiation will begin *before* you get a job offer. There are two things you need to do to get ready for your job offer and make sure you're ready to negotiate the best salary possible.
-
-If you're expecting to negotiate a job offer soon (but haven't gotten your job offer quite yet), there are two things you can do *now* to ensure a successful salary negotiation later on. In fact, you may already be negotiating your salary if you've been asked for your current salary or salary expectations!
-
-### How to answer the "What's your current or expected salary?" interview question
-
-<a href="/salary-expectations-interview-question/" target="_blank"><img src="/assets/imgs/post-images/DreadedSalaryQuestion.png" alt="The current and expected salary question" style="width: 100%;"/></a>
-
-The salary negotiation could literally begin with your very first conversation with someone at the company you're considering. That first call is often called the "pre-screen" or "pre-interview", and you'll often talk with an internal recruiter at the company.
-
-This is usually a short conversation—5–10 minutes at most—where the recruiter will explore whether it's worth while to schedule further interviews with you for the position you're pursuing.
-
-And there's an awkward moment that comes up in almost every one of these calls. You've probably been asked "What's your current or expected salary?" in an interview before. That's what you're looking out for.
 
 <blockquote class="ico link-callout">
   <p><span>Learn more</span> What should you say when asked for your current salary or salary expectations during an interview?</p>
-  <p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question <i class="fas fa-angle-double-right"></i></a></p>
+  <p><a href="/salary-expectations-interview-question/">Salary Expectations Questions - How should you answer? <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
-### Set your minimum acceptable salary before you get an offer
+## <a name="ask-for-time"></a>2. Ask for time so you can plan your salary negotiation
 
-<a href="/minimum-acceptable-salary/" target="_blank"><img src="/assets/imgs/post-images/MinimumAcceptableSalary.png" alt="What is your minimum acceptable salary?" style="width: 100%;"/></a>
+As soon as you actually get a job offer, ask for time to consider it so you can plan your salary negotiation. This seems so simple, but there are a lot of good reasons for this tactic.
 
-There's one more thing you need to do before you get your job offer: Set your walk-alway number. This is a crucial step in your salary negotiation because it sets you up for a win-win result: Either the company meets or exceeds this number, and you start your job knowing you're paid enough to justify the work you will be doing, or they do not meet your number and you walk away knowing you made the right decision because they could not pay you enough to do the job.
+First, you need time to determine your best salary negotiation strategy based on their offer, your minimum acceptable salary, and other factors. This takes time and you don't want to rush it. 
 
-<blockquote class="ico link-callout">
-  <p><span>How to</span> Learn how to set your minimum acceptable salary</p>
-  <p><a href="/minimum-acceptable-salary/">What is your minimum acceptable salary? <i class="fas fa-angle-double-right"></i></a></p>
+Second, the job offer itself will often be made over the phone, but the best way to negotiate salary is over email. That's because when you counter offer over email, you'll be able to clearly articulate your case, make a specific counter offer, and avoid any sort of miscommunication as to what you were offered and what you're requesting.
+
+So when they make you an offer—whether it's over a phone call or in email–it's best to just thank them for the offer, ask for some time to consider it, and ask if they can send a brief summary of the numbers so you can be sure you didn't mishear anything.
+
+The offer itself could be a formal offer, or even a "soft offer" that sounds like, "We're going to make you an offer. I'm thinking of taking these numbers to the Comp team, but before I do that, what do you think of those numbers?"
+
+Regardless of what form the offer takes—verbal or written—here's a short script you can use to reply to your job offer to buy some time as you build your strategy to negotiate salary:
+
+<blockquote>
+  <p>"Thanks for the offer—I appreciate it! If you don't mind, I would like to take a few days to think it over before I respond. And would you mind emailing a summary of the numbers you mentioned? I don't need anything formal—bullet points will be fine."</p>
 </blockquote>
 
-By avoiding sharing your salary history or compensation expectations, you'll give yourself the most opportunity to negotiate the highest salary possible. By setting your minimum acceptable salary before you get your job offer, you'll give yourself an objective way to evaluate the final result of your negotiation so you can make the best decision about whether to accept the job.
+And here's the same sentiment in an email template:
 
-{% include cta-generator.html %}
-
-## <a name="job-offer-in-hand"></a>Once you have your job offer in hand
-
-Finally have a job offer? Here's how to negotiate your salary in person, on the phone, and over email.
-
-### Ask for time to consider the job offer
-
-First things first, ask for time to consider the offer. This seems so simple, but there are a lot of good reasons to do this.
-
-First, you need time to determine your best negotiation strategy based on their offer, your minimum acceptable salary, and other factors. This takes time and you don't want to rush it. 
-
-Second, your best bet is to reply to any job offer with an email. You'll be able to clearly articulate your case, make a specific counter offer, and avoid any sort of miscommunication as to what you were offered and what you're requesting.
+<div class="email-block">
+  <div class="masthead">
+    <p><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i></p>
+  </div>
+  <div class="email-header">
+    <p>	<strong><u>To:</u> [Recruiter]</strong><br>
+	<strong><u>Subject:</u> [Name of person who made the offer]</strong>’s verbal offer</p>
+  </div>
+  <div class="email-copy">
+		<p>Hi <strong>[Recruiter name]</strong></p>
+		<p>Thanks for the offer—I appreciate it! If you don't mind, I would like to take a few days to think it over before I respond. And would you mind emailing a summary of the numbers you mentioned? I don't need anything formal—bullet points will be fine.</p>
+		<p>Thanks for your time</p>
+		<p><strong>[Your name]</strong><br>
+		<strong>[Your email address]</strong></p>
+  </div>
+</div>
 
 <blockquote class="ico link-callout">
   <p><span>Key resource</span> Get the email template to ask for time to consider the offer</p>
   <p><a href="/salary-negotiation-email-sample/#ask-for-time-template">Salary negotiation email templates <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
-### Choose your salary negotiation strategy based on their offer and your minimum acceptable salary
+{% include cta-generator.html %}
 
-Remember when you set your minimum acceptable salary *before* they made you an offer? This is why: Now that you have the offer, you can compare your minimum to it and determine if you can negotiate with a standard, straightforward counter offer, or if you need to use more advanced tactics to try to get them to improve the offer so you can negotiate it normally.
+## <a name="know-what-you-want"></a>3. Know what you really want
 
-#### When you get a lowball job offer
-
-<a href="/how-to-negotiate-a-lowball-job-offer/" target="_blank"><img src="/assets/imgs/post-images/LowballJobOffer.png" alt="How to negotiate a lowball job offer" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a>
-
-If your offer is more than 20% below your minimum acceptable salary, you'll need a different strategy to save the negotiation. As it stands, their offer is very far away from your minimum, which means you can't and won't accept the offer as-is.
-
-Before you continue with your salary negotiation, you need to see if you can get a new offer that can be negotiated up to your minimum. You'll start with the "lowball technique", get the best result possible, and then move on to calculating your counter offer.
+Before you get your job offer, set your minimum acceptable salary (AKA, your "walk-alway number"). This is a crucial step in your salary negotiation because it sets you up for a win-win result: Either the company meets or exceeds this number, and you start your job knowing you're paid enough to justify the work you will be doing, or they do not meet your number and you walk away knowing you made the right decision because they could not pay you enough to do the job.
 
 <blockquote class="ico link-callout">
-  <p><span>How to</span> Learn how to negotiate a lowball job offer</p>
-  <p><a href="/how-to-negotiate-a-lowball-job-offer/">Lowball job offers: How to negotiate them <i class="fas fa-angle-double-right"></i></a></p>
+  <p><span>How to</span> Learn how to set your minimum acceptable salary</p>
+  <p><a href="/minimum-acceptable-salary/">What is your minimum acceptable salary? <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
-#### When your offer is *not* a lowball offer
+By avoiding sharing your salary history or salary expectations like we discussed earlier, you'll give yourself the best opportunity to negotiate the highest salary possible. And by setting your minimum acceptable salary before you get your job offer, you'll give yourself an objective way to evaluate the final result of your salary negotiation so you can make the best decision about whether to accept the job.
 
-This is much easier: Just continue with the standard salary negotiation process outlined in this guide.
+It's also important to consider what the most important components of this job offer are _for you_. Most of the time, it will be base salary. Sometimes it's equity. But sometimes it could be whether you're able to work remotely, and how often you have to go into the office. Or it might be your bonus structure.
 
-### Calculate your counter offer
+Just make sure you know what you really want from this particular job offer before you begin negotiating salary so that you can be sure you get improvements in things that matter to you (and avoid negotiating for things that don't matter as much).
 
-Now you have your job offer, you have your minimum acceptable salary, and you need to counter offer. But first, you need to determine how much to counter offer.
+## <a name="be-aggressive"></a>4. Be aggressive
 
-This process is pretty straight forward.
+A very common salary negotiation mistake is asking for _too little_. Someone gets an offer for $150,000 total compensation and the counter with $153,000 total compensation or something like that. That sort of counter is not aggressive enough, and is a great way to experience all the stress of negotiating salary with almost none of the payoff.
 
-#### When your offer is at least 20% below your minimum acceptable salary
+So how aggressive should you be when negotiating salary?
 
-If you received a lowball offer and were not able to get it improved, your counter offer will be your minimum acceptable salary.
+A good rule of thumb is to counter offer between 10% and 20% above the offer amount. Ten percent is pretty conservative, but is still enough to figure out if the offer itself left any room to maneuver in case you counter offered. Twenty percent is a pretty strong counter offer that you might consider if you're in a strong negotiating position, and that will most likely push the envelope on their budget.
 
-<blockquote class="ico link-callout">
-  <p><span>Key resource</span> Get the email template to counter offer with your bottom line</p>
-  <p><a href="/salary-negotiation-email-sample/#counter-minimum-template">Salary negotiation email templates <i class="fas fa-angle-double-right"></i></a></p>
-</blockquote>
+## <a name="be-specific"></a>5. Choose a specific number for your counter offer, but don't get cute
 
-#### When your offer can be negotiated using standard techniques
+You might be tempted to negotiate salary by counter offering a _range_ rather than a specific number. After all, companies often post salary ranges for various positions, right?
 
-<a href="/salary-negotiation-script/" target="_blank"><img src="/assets/imgs/post-images/SalaryNegotiationScript.png" alt="How to counter a job offer - salary negotiation script & calculator" style="width: 100%;"/></a>
+The issue is that if you counter offer on a range, then the company will most likely latch onto the lower number in the range. If you say "I would be more comfortable with something between $160,000 and $170,000.", then you have pretty much just counter offered at $160,000 because you gave them an easy out.
 
-If your offer is not a lowball offer, then your counter offer will be 10–20% above their offer. Ten percent means that you don't have any particular reason to believe they're compelled to hire you. Twenty percent means you have reason to believe that they want you specifically in this role and they're willing to work to make that happen.
+If you're thinking of countering a range, just pick the top number and go with that.
 
-You can use the *Fearless Salary Negotiation* counter offer calculator to determine the appropriate counter offer for your specific situation.
+It's also fine to just counter on a round number. There's really no benefit to countering $161,255. Just say $161,000. That makes the math easier for everyone.
 
-<blockquote class="ico link-callout">
-  <p><span>Calculator</span> Determine your counter offer with this calculator</p>
-  <p><a href="/salary-negotiation-script/">How to counter a job offer - salary negotiation script & calculator <i class="fas fa-angle-double-right"></i></a></p>
-</blockquote>
+{% include cta-generator.html %}
 
-### Send a salary negotiation email with your counter offer and your case
+## <a name="negotiate-over-email"></a>6. Send your counter offer over email
 
-<a href="/salary-negotiation-email-sample/" target="_blank"><img src="/assets/imgs/post-images/SalaryNegotiationEmailSample.png" alt="Salary negotiation email sample - free counter offer letter templates" style="width: 100%;"/></a>
+Recruiters are essentially professional salary negotiators. They extend offers every day, and their job is to close those deals. They've probably gone through more salary negotiations in the past month than you will in your entire career. They're pretty good at it.
 
-Once you've determined your counter offer, it's time to formally begin your starting salary negotiation by counter offering. 
+So you don't want to find yourself negotiating salary on a phone call with a professional negotiator who will have the upper hand.
+
+Instead, send your counter offer over email. Not only will you avoid negotiating salary in real-time against a professional negotiator, but you'll have a chance to clearly articulate your case and carefully construct your request so that whoever sees it—the recruiter, the finance team, or anyone else in the approval chain—gets your counter offer in your own carefully-written words.
 
 When in doubt, use the [baseline salary negotiation email template](/salary-negotiation-email-sample/#baseline-counter-template) to send your counter offer.
+
+<div class="email-block">
+  <div class="masthead">
+    <p><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i></p>
+  </div>
+  <div class="email-header">
+    <p><strong>To:</strong> Brittany Jones <brittany.jones@example.com> [recruiter]<br />
+    <strong>CC:</strong> Katherine Thompson <k.thompson@example.com> [recruiter’s manager]<br />
+    <strong>Subject:</strong> Josh Doody - My thoughts on Tom’s verbal offer</p>
+  </div>
+  <div class="email-copy">
+    <p>Hi Brittany</p>
+    <p>I hope you had a great weekend!</p>
+    <p>I've been considering Tom’s offer over the weekend and everything sounds good, although I would like to discuss the base salary component.</p>
+    <p>I think I'm a particularly good match for this position, where I would add significant value to ACME Corp. and to the Tom’s Practice from Day One. I have a strong technical background and have built and managed teams of technical people. I am exceptionally good with clients, and have taught short courses on building rapport with and managing clients. I have an MBA and have successfully managed many portfolios of business in the Widget Making industry over the past seven years. I've been working with [Partner Company] for over two and a half years, and have experience with many of their partnership managers and leadership team. I have a strong technical writing background and can both create and delegate the creation of good collateral quickly and efficiently.</p>
+    <p>All of these qualities contribute directly to the core components of this particular position, and that's why I'm excited for the opportunity to work with Tom and his Practice in this capacity at ACME Corp.</p>
+    <p>Tom offered $50,000 and I would be more comfortable if we could settle on $56,000. I feel that amount reflects the importance and expectations of the position for ACME Corp’s business, and my qualifications and experience as they relate to this particular position.</p>
+    <p>Thanks for your time, and I look forward to talking with you on Monday morning at 10:30 ET!</p>
+    <p>All the best</p>
+    <p>Josh Doody<br />
+    josh@example.com</p>
+  </div>
+</div>
 
 But there are several unique situations that might call for a slightly modified version of the salary negotiation email template, so you might want to consult this article—look specifically at the table of contents up top—to find the right template for you:
 
@@ -181,105 +174,63 @@ But there are several unique situations that might call for a slightly modified 
   <p><a href="/salary-negotiation-email-sample/">Salary negotiation email templates <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
-{% include cta-generator.html %}
+## <a name="quick-response"></a>7. Be ready for a quick response
 
-## <a name="currently-negotiating"></a>Currently negotiating - after you send your counter offer
+Negotiating salary is stressful, and you'll almost certainly want to relax and regroup once you have sent your counter offer email. But it's important that you immediately start thinking through your next steps because your recruiter may pick up the phone can try calling you within just a few minutes of receiving your counter offer (or they might also just email you, which is much lower-stress).
 
-Once you've sent your counter offer, you should immediately begin preparing for your Final Discussion. This is what most people think of when they think of "salary negotiation". You'll usually have this discussion over the phone—usually this call will just last a few minutes—where the recruiter or hiring manager will respond to your counter offer, and you'll have your final opportunity to maximize your base salary and other non-salary benefits that are important to you.
+There are a few things they might say when they call you:
 
-### What non-salary benefits do you care most about?
+### 1. Immediate decision
 
-Most of the time, your goal will be to maximize your starting salary. But you may also want to negotiate for other non-salary benefits like vacation time, signing bonus, relocation stipend, or additional equity, and now is the time to choose your top three non-salary benefits to focus on.
+They might say “We can do that!” Or “There’s no way we can budge.” Or “We can’t do that, but here’s what we can do. What do you think?”
 
-<blockquote class="ico link-callout">
-  <p><span>Learn more</span> Learn more about negotiating non-salary benefits</p>
-  <p><a href="/negotiating-benefits/">Negotiating benefits like paid vacation or a signing bonus <i class="fas fa-angle-double-right"></i></a></p>
+For this sort of response, you can say something like “Ok, thanks for considering this and getting back to me. Do you mind if I think this over for a day and get back to you? I just want to be absolutely sure I make the right decision.”
+
+For the first answer (“We can do that!”), I think it’s also ok to just say, “Great! That works for me—what’s next?” If you’re happy with the numbers, there’s no reason to extend the discussion.
+
+### 2. Request for information
+
+Most of the time, the first “Immediate decision” is what happens. Occasionally, they might say something like, “Can you help me understand where you got this number? It’s quite a bit higher than we were budgeting for and I’m not sure we can do that. But if you can give me some data, I might be able to make something work.”
+
+In this case, less is more, meaning you don’t want to get into a detailed discussion about “Market data” or your salary history and things like that. Instead, you want to answer their question with just enough information that they can talk to whomever is in charge of approving a potential increase to see about moving that process along.
+
+In this case, you might say something like this:
+
+<blockquote>
+	<p>“Thanks for taking the time to talk and considering my request—I appreciate that. A couple things influenced my request. First, based on what I’ve seen for this type of role, the offer seemed to have quite a bit of room to improve for this role and I feel the value I’m bringing to this team is better aligned with compensation at the upper end of pay for this role. And as I mentioned in my last email, I also believe my unique skillset will make me uniquely valuable to the team. Again thanks for working with me on this—I look forward to seeing what’s possible with respect to improving the compensation for this role as I make my final decision.”</p>
 </blockquote>
 
-#### Should you negotiate for more equity or more base salary?
+That’s pretty straightforward, reiterates the value you bring, and doesn’t open a lot of doors for counterargument.
 
-Equity is a special case of a non-salary benefit where it might be particularly valuable or totally worthless. A good rule of thumb is that if you can put a value on the equity right now, then it might be worth negotiating. If you *cannot* put a value on it right now, then it's probably better to negotiate for other things with a known value.
+### 3. Something unexpected
 
-<blockquote class="ico link-callout">
-  <p><span>Learn more</span> Learn more about negotiating more equity</p>
-  <p><a href="/negotiate-equity-shares-instead-of-salary/">Can you negotiate more equity shares instead of salary? <i class="fas fa-angle-double-right"></i></a></p>
+This is difficult to anticipate, but pretty easy to plan for. If they throw you a curveball and their response doesn’t look something like the first two options, you can just ask for some time to think things over and get back to them. The response is identical to “Immediate decision” above:
+
+<blockquote>
+	<p>“Ok, thanks for considering this and getting back to me. Do you mind if I think this over for a day and get back to you? I just want to be absolutely sure I make the right decision.”</p>
 </blockquote>
 
-### Writing your salary negotiation script for the Final Discussion
+So you really only need two responses ready, and both are very short and straightforward.
 
-Once you have identified your top three non-salary benefits, you have everything you need to plan for your Final Discussion.
+The general rule of thumb for this sort of phone call—when they call to talk about your counter offer—is to listen to what they have to say, get any information you might need, then get off the phone to consider their response.
 
-Here are all the inputs you need to write your salary negotiation script:
+## <a name="dont-give-up"></a>8. Don’t give up too early
 
- - Their offer amount
- - Your counter offer amount
- - Your minimum acceptable salary
- - Your top three non-salary benefits
+Your initial counter offer is probably 80% of the work to negotiate salary. But there's still 20% left to do!
 
-With those items ready to go, you can write the script you'll use for negotiating your salary on your final call with the recruiter or hiring manager. This is a *crucial* step for your salary negotiation for two reasons:
+Once they've responded and you have bought some more time to think things through, then consider how you can improve the job offer given everything you know.
 
-1. Although most of the heavy lifting for your negotiation was finished when you counter offered, there's still room to negotiate and improve your offer.
-2. The Final Discussion happens *very* quickly, and you're likely to miss an opportunity to improve your offer if you don't have a script to guide you through the discussion.
+Perhaps they opened the door to a larger salary, and there could be another salary improvement available if you ask.
 
-<blockquote class="ico link-callout">
-  <p><span>Key resource</span> Write your salary negotiation script with this example</p>
-  <p><a href="/salary-negotiation-script-example/">Salary negotiation script example <i class="fas fa-angle-double-right"></i></a></p>
-</blockquote>
+Or maybe the salary seems capped, but you could get a sign-on bonus added on.
 
-#### Practice, practice, practice!
+There's usually still value in another "ask" or two, so don't give up too early. Think strategically about what you want and find another ask or two to make sure you get the best possible job offer before you decide whether to accept or decline it.
 
-Run your script a few times before your Final Discussion. If you can find someone to play the role of recruiter, have them respond to your counter offer so you can use your script to negotiate with them. Even just going through the script a few times will give you a feel for how this conversation will go, making you much more comfortable when it's time for the real thing.
+## <a name="you-can-say-no"></a>9. You don’t have to say 'yes'
 
-### The Final Discussion
+Did you notice how I said "...before you decide whether to accept or decline..." your job offer?
 
-With your script in hand, you're ready for your Final Discussion. The recruiter or hiring manager will call you and respond to your counter offer. Because you have your script prepared and you've practiced it, you're ready to go. This call will only last a few minutes, and it'll be over before you know it!
+This is crucial: You do not have to accept a job offer, even if your salary negotiation succeeded in improving it! Your goal when negotiating salary is to determine absolute best version of the job offer so that you can decide whether that's good enough for you.
 
-{% include cta-generator.html %}
+If they didn't meet your minimum acceptable salary, or if you have better alternatives, or if you just don't have a good feeling about this particular job, you can decline the offer. This is your _ultimate_ leverage in the negotiation!
 
-## <a name="negotiation-complete"></a>After you finished negotiating your salary
-
-<a href="/resignation-letter/" target="_blank"><img src="/assets/imgs/post-images/ResignationLetterTemplate.png" alt="Resignation letter templates - free, simple example emails" style="width: 100%;"/></a>
-
-Once you've finalized your compensation package and set your start date, you'll need to wrap things up at your current company. It's easy to gloss over this step because you're so excited for your new opportunity, but make sure you tie up all loose ends and leave on the best possible terms!
-
-### Tendering your resignation
-
-Once you know your start date for your new role, you should put in your notice at your current job. It's standard to give two weeks notice, but you might consider offering to stick around longer if you need more time to wrap everything up and transition all of your work to someone else before you go.
-
-<blockquote class="ico link-callout">
-  <p><span>Key resource</span> Use this resignation letter template to give your notice</p>
-  <p><a href="/resignation-letter/">Resignation letter templates <i class="fas fa-angle-double-right"></i></a></p>
-</blockquote>
-
-### Expand your professional network before you leave your current job
-
-On your last day at your current job, you have a great opportunity to leave on good terms and expand your professional network. This is crucial because you may get great future jobs from your professional network. To make sure people know how to find you when they have a great opportunity for you, let them know how to get in touch.
-
-<blockquote class="ico link-callout">
-  <p><span>Key resource</span> Use this email template to say goodbye on your final day</p>
-  <p><a href="/resignation-letter/#last-day-template">Resignation letter templates <i class="fas fa-angle-double-right"></i></a></p>
-</blockquote>
-
-### When you're ready to start searching again, use this interview preparation guide
-
-<a href="/salary-negotiation-guide/" target="_blank"><img src="/assets/imgs/post-images/InterviewPreparationGuide.png" alt="How to prepare for your job interviews" style="width: 100%;"/></a>
-
-It's never too early to start thinking ahead to your next opportunity. The more prepared you are for your interviews, the better you'll take advantage of doors that open in your career.
-
-Check out this interview preparation guide to learn more about how to use positioning to stand out as *the* candidate for the job next time you interview!
-
-<blockquote class="ico link-callout">
-  <p><span>Learn more</span> How to stand out in your job interviews and get more job offers</p>
-  <p><a href="/interview-preparation-guide/">Interview Preparation Guide <i class="fas fa-angle-double-right"></i></a></p>
-</blockquote>
-
-### Start planning to ask for your first raise
-
-Once you've started a new job, it can help to have a plan of action for requesting your first raise. This guide will help you start making that plan.
-
-<blockquote class="ico link-callout">
-  <p><span>How to</span> How to write a salary increase letter to ask your boss for a raise</p>
-  <p><a href="/salary-increase-letter-sample/">Schedule a meeting, ask for a raise, and follow up with these templates <i class="fas fa-angle-double-right"></i></a></p>
-</blockquote>
-
-<div class="rm-area-inline"></div>

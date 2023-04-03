@@ -128,7 +128,7 @@ Once they reveal where they're flexible and how flexible they are, you can use t
 
 <blockquote class="ico link-callout">
   <p><span>Learn more</span> More salary negotiation strategy and tactics...</p>
-  <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide <i class="fas fa-angle-double-right"></i></a></p>
+  <p><a href="/salary-negotiation-guide/">How to negotiate salary: 9 tips from a pro salary negotiator <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
 ## What to look out for when negotiating an Apple job offer package

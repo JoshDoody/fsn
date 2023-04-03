@@ -37,7 +37,7 @@ Let's walk through a simple heuristic to help you decide if negotiating for more
 
 <blockquote class="ico link-callout">
   <p><span>Learn more</span> How do you plan your salary negotiation once you decide whether to negotiate equity?</p>
-  <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide <i class="fas fa-angle-double-right"></i></a></p>
+  <p><a href="/salary-negotiation-guide/">How to negotiate salary: 9 tips from a pro salary negotiator <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
 ## Does your job offer include shares or other equity?

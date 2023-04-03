@@ -206,7 +206,7 @@ Be sure that if you ask for and receive more equity that you also try to improve
 
 <blockquote class="ico link-callout">
   <p><span>Learn more</span> More salary negotiation strategy and tactics...</p>
-  <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide <i class="fas fa-angle-double-right"></i></a></p>
+  <p><a href="/salary-negotiation-guide/">How to negotiate salary: 9 tips from a pro salary negotiator <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 ## What to look out for when negotiating an Amazon job offer package
 

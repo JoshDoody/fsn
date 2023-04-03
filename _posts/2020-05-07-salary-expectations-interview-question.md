@@ -385,8 +385,8 @@ As I mentioned earlier, this answer doesn't box you in to accepting a job offer 
 If they're serious about respecting everyone's time, then they'll tell you the range so you can confirm it's in the ballpark. And if they won't share a range, then it's clear they're simply trying to gain information to benefit them during your salary negotiation later on.
 
 <blockquote class="ico link-callout">
-  <p><span>Learn more</span> What's next once you get past the current and expected salary question?</p>
-  <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide <i class="fas fa-angle-double-right"></i></a></p>
+  <p><span>Learn more</span> What should you do once you get past the salary expectations question?</p>
+  <p><a href="/salary-negotiation-guide/">How to negotiate salary: 9 tips from a pro salary negotiator <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
 ## <a name="already-shared-expected-salary"></a>How to recover if you shared your salary expectations and the offer meets or exceeds them

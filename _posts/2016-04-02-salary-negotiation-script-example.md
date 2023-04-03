@@ -50,8 +50,8 @@ When the company responds to your counter, _use this script to maximize your sta
 Regardless of whether they accept your response, then you're finished. You have maximized your base salary and maximized your benefits as well.
 	
 <blockquote class="ico link-callout">
-  <p><span>Learn more</span> What's next once you've prepared your salary negotiation script?</p>
-  <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide <i class="fas fa-angle-double-right"></i></a></p>
+  <p><span>Learn more</span> What else do you need to know to negotiate salary?</p>
+  <p><a href="/salary-negotiation-guide/">How to negotiate salary: 9 tips from a pro salary negotiator <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
 ## This is a real salary negotiation script I used during a salary negotiation

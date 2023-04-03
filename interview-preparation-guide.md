@@ -212,17 +212,15 @@ Waiting the right amount of time and checking in with a short email can help kee
   <p><a href="/how-long-until-i-hear-back-after-a-job-interview/">“How long until I hear back after a job interview?” <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
-### Negotiate your offers with this Salary Negotiation Guide
-
-<a href="/salary-negotiation-guide/" target="_blank"><img src="/assets/imgs/post-images/SalaryNegotiationGuide.png" alt="How to negotiate your salary" style="width: 100%;"/></a>
+### Negotiate your offers with these 9 valuable tips from a salary negotiation pro
 
 Once you've finally gotten that job offer, you should negotiate it. Why? Because there might be room to negotiate.
 
 It sounds so simple, but it's true. You can't know whether you got the best possible offer until you negotiate your salary.
 
-Check out our complete salary negotiation guide to make sure you get the best salary possible!
+Start with these 9 tips to help get you started!
 
 <blockquote class="ico link-callout">
-  <p><span>In-depth guide</span> How to tactfully negotiate your salary (without leaving anything on the table)</p>
-  <p><a href="/salary-negotiation-guide/">How to negotiate salary - Complete salary negotiation guide <i class="fas fa-angle-double-right"></i></a></p>
+  <p><span>Valuable Tips</span> The 9 things you should know before you try to negotiate your job offer</p>
+  <p><a href="/salary-negotiation-guide/">How to negotiate salary: 9 tips from a pro salary negotiator <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
