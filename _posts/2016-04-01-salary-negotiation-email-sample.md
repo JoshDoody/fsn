@@ -29,7 +29,7 @@ So you decided to negotiate—fantastic! But how do you reply to an offer letter
  * [Who to send your salary negotiation email to](#who-to-send-to)
  * [The Subject of your salary negotiation email](#salary-negotiation-email-subject)
  * [The contents of your salary negotiation email](#salary-negotiation-email-contents)
- * [Follow up after counter offering](#follow-up-template)
+ * [Common questions about writing a salary negotiation email](#common-questions)
 
 ## <a name="why-salary-negotiation-email">Why you should negotiate your salary over email
 
@@ -228,11 +228,39 @@ Just as you opened your salary negotiation email with a kind greeting to emphasi
 
 That is a kind sign-off _and_ it makes clear that the next action is with your recruiter since you have now counter offered. The ball is in their court!
 
-## <a name="ask-for-time-template"></a>First things first: Ask for time to consider the job offer
+After you write your own salary negotiation email, send it to a couple friends or family members for review. They might find typos or suggest some ways you can tighten it up or make it better. You can always remove the specific details of your job offer and counter offer if you’re not comfortable sharing them.
 
-Hopefully you're convinced that you should negotiate your salary and that a counter offer email is the way to go.
+## <a name="common-questions"></a> Common questions about writing a salary negotiation email
 
-Where to begin? The first thing you should do is ask for some time to consider the job offer so that you can regroup and use this article to write a compelling salary negotiation email.
+Here are some of the most common questions about writing a salary negotiation email.
+
+### How much should I counter offer?
+
+This is extremely dependent on your specific situation, but the general answer is somewhere between 10% and 20% above their offer.
+
+If you need help deciding how much to counter offer, or which dimension(s) to counter on, then [Salary Negotiation Mastery](/salary-negotiation-mastery/) could be right for you!
+
+### What happens after I counter offer?
+
+The short answer is that your recruiter will probably call you pretty quickly (often within just a few minutes) to respond. You'll want to be ready for that call so you know what to do, and this article has tips to help you prep for this stage of your negotiation: [How to negotiate salary: 9 tips from a pro salary negotiator](/salary-negotiation-guide/).
+
+### What if they rescind my offer when I negotiate?
+
+This almost never happens. If it _does_ happen, it's a serious red flag about the company you are negotiating with and you might want to consider waiting for a better opportunity. Read about this red flag and others here: [Are you sure you want to accept that job offer? Avoid these red flags](/red-flags-you-should-not-accept-a-job-offer/)
+
+### How many times can I go back and forth asking for more?
+
+Two or three requests is the sweet spot. Any more than that and you might start to affect your reputation within your new company.
+
+[Salary Negotiation Mastery](/salary-negotiation-mastery/) will walk you through how to decide what to ask for and how to know when you have negotiated the best possible compensation.
+
+## Salary negotiation email templates you can use to negotiate salary
+
+Here are some salary negotiation email templates you can use to negotiate your job offer.
+
+### <a name="ask-for-time-template"></a>First things first: Ask for time to consider the job offer
+
+As soon as you get your offer, the first thing you should do is ask for some time to consider the job offer so that you can regroup and use this article to write a compelling salary negotiation email.
 
 Your job offer will probably be of the *informal* variety, and you'll either be told the details on a phone call with a hiring manager or recruiter, or the details will be emailed to you.
 
@@ -265,21 +293,6 @@ Here's an email template you can use to reply to your job offer letter while you
   </div>
 </div>
 
-## Evaluate the job offer
-
-There are many components to most job offers, but base salary is usually far more important than all of the others. Base salary is what you can use to set your budget, pay your mortgage, make your car payment, and put food on your table while you work for this company.
-
-Base salary is also the gift that keeps on giving: You'll get that salary every year *and* your raises, promotions, performance bonuses, and stock grants will usually be based on this number. You also get paid vacation time every year, but that doesn't tend to affect your raises or bonuses. Signing bonuses are nice, but they're a one-time thing.
-
-Because it's so important, we'll primarily focus your counter offer on the *base salary* component.
-
-### Does the base salary component meet your minimum requirements?
-
-Now that you've gotten a job offer and asked for time to think it over, you should... think it over.
-
-Specifically, you need to determine if the offer is close enough to your [minimum acceptable salary](/minimum-acceptable-salary/) to negotiate as-is, or if it's too low to work with.
-
-As a general rule of thumb, if the job offer is more than 20% below your minimum acceptable salary, the offer is too low to negotiate using a standard approach. I call these "lowball" job offers.
 
 ### <a name="lowball-template"></a>Negotiating a lowball job offer
 
@@ -397,9 +410,6 @@ When you're negotiating salary over email, simply mentioning competing offers is
 
 {% include cta-generator.html %}
 
-## Send your draft counter offer email to someone you trust for review
-
-After you use the counter offer letter sample above to write your own email, send it to a couple friends or family members for review. They might find typos or suggest some ways you can tighten it up or make it better. You can always remove the specific details of your job offer and counter offer if you’re not comfortable sharing them.
 
 ## <a name="follow-up-template"></a>Following up on your counter offer email
 
@@ -436,18 +446,7 @@ But if you haven't heard back from them after two or three *business* days (week
   </div>
 </div>
 
-You don't need to akd how they feel about your counter offer, whether they can accommodate it, or anything like that. You don't want them to know you're sweating the negotiation—you're just casually checking in to make sure they're not waiting on you.
-
-## What happens next?
-
-Once you send your counter offer email, there may be a short delay—typically less than 24 hours—and the recruiter or hiring manager will respond with something like, "Thanks for considering our offer. Do you have some time later today or early tomorrow to talk?" They want to move the conversation to the phone because it's faster and because it favors them—they're a lot more comfortable having this conversation than you are.
-
-So as soon as you send your salary negotiation email, you need to prepare for your Final Discussion. This is what most people mean when they say "salary negotiation". It's a very short call—usually only 3–5 minutes—where they'll respond to your counter offer and you'll hash out all the final details of your compensation package.
-
-<blockquote class="ico link-callout">
-  <p><span>Are you ready for your Final Discussion?</span> Use this script to get the most out of your final call with the recruiter:</p>
-  <p><a href="/salary-negotiation-script-example/">Salary negotiation script example <i class="fas fa-angle-double-right"></i></a></p>
-</blockquote>
+You don't need to ask how they feel about your counter offer, whether they can accommodate it, or anything like that. You don't want them to know you're sweating the negotiation—you're just casually checking in to make sure they're not waiting on you.
 
 ## Conclusion
 
@@ -469,3 +468,35 @@ Just in case you're not convinced that you can or should negotiate a higher sala
 
 - [A **salary increase letter** to ask your boss for a raise](https://fearlesssalarynegotiation.com/salary-increase-letter-sample/)
 - [Got a job offer from Amazon? Learn how to negotiate your salary](https://fearlesssalarynegotiation.com/amazon-salary-negotiation/)
+
+
+
+
+
+
+## Evaluate the job offer
+
+There are many components to most job offers, but base salary is usually far more important than all of the others. Base salary is what you can use to set your budget, pay your mortgage, make your car payment, and put food on your table while you work for this company.
+
+Base salary is also the gift that keeps on giving: You'll get that salary every year *and* your raises, promotions, performance bonuses, and stock grants will usually be based on this number. You also get paid vacation time every year, but that doesn't tend to affect your raises or bonuses. Signing bonuses are nice, but they're a one-time thing.
+
+Because it's so important, we'll primarily focus your counter offer on the *base salary* component.
+
+### Does the base salary component meet your minimum requirements?
+
+Now that you've gotten a job offer and asked for time to think it over, you should... think it over.
+
+Specifically, you need to determine if the offer is close enough to your [minimum acceptable salary](/minimum-acceptable-salary/) to negotiate as-is, or if it's too low to work with.
+
+As a general rule of thumb, if the job offer is more than 20% below your minimum acceptable salary, the offer is too low to negotiate using a standard approach. I call these "lowball" job offers.
+
+## What happens next?
+
+Once you send your counter offer email, there may be a short delay—typically less than 24 hours—and the recruiter or hiring manager will respond with something like, "Thanks for considering our offer. Do you have some time later today or early tomorrow to talk?" They want to move the conversation to the phone because it's faster and because it favors them—they're a lot more comfortable having this conversation than you are.
+
+So as soon as you send your salary negotiation email, you need to prepare for your Final Discussion. This is what most people mean when they say "salary negotiation". It's a very short call—usually only 3–5 minutes—where they'll respond to your counter offer and you'll hash out all the final details of your compensation package.
+
+<blockquote class="ico link-callout">
+  <p><span>Are you ready for your Final Discussion?</span> Use this script to get the most out of your final call with the recruiter:</p>
+  <p><a href="/salary-negotiation-script-example/">Salary negotiation script example <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
