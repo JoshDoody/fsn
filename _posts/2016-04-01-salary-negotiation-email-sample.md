@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: How to write a salary negotiation email (with sample and 7 templates)
-headline: How to write a salary negotiation email (with sample and 7 templates)
+title: How to write a salary negotiation email (7 templates & sample)
+headline: How to write a salary negotiation email (with 7 templates and a sample)
 subhead: Everything you need to write the perfect salary negotiation email to make your counter offer
 description: A professional salary negotiator walks through every piece of a real-world salary negotiation email sample to show you how to negotiate the best compensation possible.
 categories:
