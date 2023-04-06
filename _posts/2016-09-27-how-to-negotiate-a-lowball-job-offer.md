@@ -79,32 +79,25 @@ Rather than counter offering their lowball job offer directly, you will give the
 
 It's best to do that by sending a short email to let them know that the offer is disappointing while asking if they can improve the offer so you can consider it.
 
-<!--div class="email-block">
+<div class="email-block">
   <div class="masthead">
     <p><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i></p>
   </div>
   <div class="email-header">
-    <p>
-			<strong><u>To:</u></strong> <strong>[Recruiter]</strong><br>
-			<strong><u>Subject:</u></strong> <strong>[Your name]</strong> - My thoughts on <strong>[name of person who made the offer]</strong>'s verbal offer
-		</p>
+    <p><strong>To:</strong> [Recruiter]<br />
+    <strong>Subject:</strong> [Your name] - My thoughts on [Company name]'s job offer</p>
   </div>
   <div class="email-copy">
-		<p>Hi <strong>[Recruiter name]</strong></p>
-		<p><strong>[Company name]</strong> seems like a great company and this particular opportunity is an exciting one for me because I’m a great fit for <strong>[company name]</strong>'s needs right now and it’s a great chance for me to continue growing as a <strong>[job title you're pursuing]</strong>.</p>
-
-		<p>Thank you for extending an offer. It is somewhat disappointing as it seems to be a bit below what I’ve seen for similar jobs in my market research. This is an exciting opportunity, but I want to be sure this move is a step forward for me in my career.</p>
-
-		<p>Are there improvements that can be made to this offer so I can consider them?</p>
-
-		<p>Thanks for your time!</p>
-
-		<p><strong>[Your name]</strong><br>
-		<strong>[Your email address]</strong></p>
+    <p>Hi [Recruiter name]</p>
+    <p>I hope you had a great weekend!</p>
+    <p>I've been considering your offer over the weekend and everything sounds good, although I would like to discuss the [counter dimension].</p>
+    <p>I think I'm a particularly good match for this position, where I would add significant value to [company name] and to [hiring manager’s name]’s team right away. [I have a strong technical background and have built and managed teams of technical people. I am exceptionally good with clients, and have taught short courses on building rapport with and managing clients. I have an MBA and have successfully managed many portfolios of business in the Widget Making industry over the past seven years. I've been working with [Partner Company] for over two and a half years, and have experience with many of their partnership managers and leadership team. I have a strong technical writing background and can both create and delegate the creation of good collateral quickly and efficiently.]</p>
+    <p>All of these qualities contribute directly to the core components of this particular position, and that's why I'm excited for the opportunity to work with [manager name] and his team in this capacity at [Company name].</p>
+    <p>You offered [offer amount], which I found disappointing considering how well-aligned I am with this role, and I would be more comfortable if we could settle on [counter offer amount]. I feel that amount reflects the importance and expectations of the position for [company]’s business, and my qualifications and experience as they relate to this particular position.</p>
+    <p>All the best</p>
+    <p>[Your name]</p>
   </div>
 </div>
-
-Replace all the **[bold text in brackets]** with your own details and this template should give you a great starting point. -->
 
 ## How this works
 
