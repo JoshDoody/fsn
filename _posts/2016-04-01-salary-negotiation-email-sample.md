@@ -500,7 +500,7 @@ Two or three requests is the sweet spot. Any more than that and you might start 
 
 ## Conclusion
 
-You should negotiate your job offer even if it already seems pretty good. The best way to begin the salary negotiation is by sending a counter offer email. Eventually, the negotiation will move to the phone, but it's best to negotiate over email as long as you can because it's easier to manage the process and avoid mistakes.
+The best way to begin the salary negotiation is by sending a salary negotiation email.
 
 The first thing you should do when you get a job offer is ask for some time to think it over using [this template](#ask-for-time-template).
 
@@ -508,11 +508,9 @@ Then, evaluate your job offer relative to your minimum acceptable salary to dete
 
 Once you're ready to counter offer, use the [salary negotiation email sample](#baseline-counter-template) to build your case and send your counter offer. There are also a couple of minor variations that may come in handy if your situation is unique.
 
-If you don't hear back after a few days, you might want to follow-up to make sure you're still on the recruiter's radar and that you didn't miss any emails or phone calls. [This template](#follow-up-template){:data-template="Follow-up after counter"}{:data-action="Choose counter offer template"} will help you check in.
+If you don't hear back after a few days, you might want to follow-up to make sure you're still on the recruiter's radar and that you didn't miss any emails or phone calls. [This template](#follow-up-template) will help you check in.
 
 Then it's time to prepare for your [Final Discussion](/salary-negotiation-script-example/), where you'll hash out all the final details of your compensation package.
-
-Just in case you're not convinced that you can or should negotiate a higher salary after a job offer, let's cover a few common questions about the process.
 
 ## Articles you may also like
 
