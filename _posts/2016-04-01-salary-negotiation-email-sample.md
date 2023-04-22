@@ -254,6 +254,8 @@ That is a kind sign-off _and_ it makes clear that the next action is with your r
 
 After you write your own salary negotiation email, send it to a couple friends or family members for review. They might find typos or suggest some ways you can tighten it up or make it better. You can always remove the specific details of your job offer and counter offer if you’re not comfortable sharing them.
 
+{% include cta-generator.html %}
+
 ## <a name="11-salary-negotiation-email-templates">11 Salary negotiation email templates you can use to negotiate salary
 
 Here are some salary negotiation email templates you can use to negotiate your job offer.
