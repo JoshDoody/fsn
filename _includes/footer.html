@@ -10,5 +10,18 @@
 <script src="/assets/js/match-height.js"></script>
 <script src="/assets/js/scripts.js"></script>
 
+<!-- add JS for CK modal -->
+{% if page.categories contains "negotiate" %}   
+{% include /convertkit-forms/salary-negotiation-mastery-roadmap-modal.html %}
+{% elsif page.categories contains "interview" %}   
+{% include /convertkit-forms/salary-negotiation-mastery-roadmap-modal.html %}
+{% elsif page.categories contains "salary-questions" %}   
+{% include /convertkit-forms/salary-negotiation-mastery-roadmap-modal.html %}
+{% elsif page.categories contains "raise" %}   
+{% include /convertkit-forms/salary-negotiation-mastery-roadmap-modal.html %}
+{% elsif page.categories contains "promotion" %}   
+{% include /convertkit-forms/salary-negotiation-mastery-roadmap-modal.html %}
+{% endif %}
+
 </body>
 </html>
