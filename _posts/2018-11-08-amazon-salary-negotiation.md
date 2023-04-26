@@ -10,7 +10,7 @@ tags:
   - popular
   - blogFeatured
 company: Amazon
-date: 2018-11-13
+date: 2023-04-26
 author: josh
 published: true
 ---
@@ -45,13 +45,13 @@ Here's an example taken from a modified version of a real Amazon job offer from 
 		<tr><td>Sign-on</td><td></td><td>$30k</td><td>$20k</td><td></td><td></td><td>$50k</td></tr>
 		<tr><td><strong>Total Cash</strong></td><td></td><td><strong>$175k</strong></td><td><strong>$165k</strong></td><td><strong>$145k</strong></td><td><strong>$145k</strong></td><td><strong>$630k</strong></td></tr>
 		<tr><td>Equity (RSUs) Vesting</td><td></td><td>5%</td><td>15%</td><td>40%</td><td>40%</td><td>100%</td></tr>
-		<tr><td>Equity (RSUs) </td><td></td><td>2.5</td><td>7.5</td><td>20</td><td>20</td><td>50</td></tr>
+		<tr><td>Equity (RSUs) </td><td></td><td>50</td><td>150</td><td>400</td><td>400</td><td>1,000</td></tr>
 		<tr><td>Equity (RSUs) Value* </td><td></td><td><strong>$5k</strong></td><td><strong>$15k</strong></td><td><strong>$40k</strong></td><td><strong>$40k</strong></td><td><strong>$100k</strong></td></tr>
 		<tr><td><strong>Total</strong> </td><td></td><td><strong>$180k</strong></td><td><strong>$180k</strong></td><td><strong>$185k</strong></td><td><strong>$185k</strong></td><td><strong>$730k</strong></td></tr>
 	</tbody>
 </table>
 
-\* Equity (RSUs) Value is computed using a round number of $2,000 per share to make things easy
+\* Equity (RSUs) Value is computed using a round number of $100 per share to make things easy
 
 Notice that the Total is pretty consistent through the first four years, but the sign-on bonus and equity components vary pretty dramatically from year to year.
 
@@ -67,9 +67,9 @@ Amazon tends to pay competitive base salaries *up to a point* (see below). If yo
 
 ### The base salary cap
 
-The most unique thing about Amazon job offers is that they typically cap base salary at somewhere around $165–175k depending on division and geographic location.
+Amazon offers have a base salary cap somewhere around $320k depending on division and geographic location. This often doesn't come into play since they raised the cap to allow them to offer more competitive base salaries a while back, but it's still good to be aware of this limitation.
 
-If you run into the base salary cap, they'll start adding equity and sign-on bonuses to improve the offer. More senior roles can command very large sign-on bonuses and RSU grants while offering a relatively modest base salary (when compared to some other big tech firms).
+If you do happen to run into the base salary cap, they'll start adding equity and sign-on bonuses to improve the offer.
 
 ### How flexible is Amazon on Base Salary?
 
@@ -105,7 +105,7 @@ Bottom line: Ask your recruiter what strings are attached to your sign-on bonus 
 
 ## <a name="equity"></a>Equity (RSUs)
 
-The Equity component of an Amazon job offer can range from "not very much" (as with the example above) to "wowzers, that's a lot of equity!" depending on the role and whether you bump into the base salary cap.
+The most unique component of Amazon's job offers is their equity component. The Equity component of an Amazon job offer can range from "not very much" (as with the example above) to "wowzers, that's a lot of equity!" depending on the role and whether you bump into the base salary cap.
 
 Amazon is unique because they almost have to offer significant equity grants to compensate for the base salary cap, and your negotiation may end up focused entirely on equity and sign-on bonus.
 
@@ -159,7 +159,7 @@ If you want a better look at what it's like negotiating an Amazon job offer, inc
 
 #### Number of shares versus current value of shares
 
-One interesting thing about Amazon's offers is they typically include a number of shares (like "50" in the example above) as opposed to a computed current value (like "$100k" in the example above).
+One interesting thing about Amazon's offers is they typically include a number of shares (like "1,000" in the example above) as opposed to a computed current value (like "$100k" in the example above).
 
 This is the more accurate way to talk about RSUs, but it's not what most of the other big tech firms do. This way, you have to do more math to figure out the current value of the shares, and you'll end up discussing a number of shares rather than a dollar amount most of the time.
 
@@ -210,7 +210,7 @@ Be sure that if you ask for and receive more equity that you also try to improve
 </blockquote>
 ## What to look out for when negotiating an Amazon job offer package
 
-- **Amazon caps base salary for most job at around $165–175k, so make sure to see whether you're near the cap before you negotiate.**
+- **Amazon caps base salary for most job at around $320k, so make sure to see whether you're near the cap before you negotiate.**
 - **Amazon has a very unique equity vesting schedule that ramps significantly in Years 3 and 4.**
 - **Amazon frequently offers two sign-on bonuses—Year 1 and Year 2—to help bridge the gap during the slow part of the equity vesting ramp.**
 - **Do the math for each year's compensation based on their offer so you can see how your pay will change as sign-on bonuses are paid out and equity vesting ramps up later on.**
