@@ -163,6 +163,20 @@ One interesting thing about Amazon's offers is they typically include a number o
 
 This is the more accurate way to talk about RSUs, but it's not what most of the other big tech firms do. This way, you have to do more math to figure out the current value of the shares, and you'll end up discussing a number of shares rather than a dollar amount most of the time.
 
+### What happens if the Amazon stock price drops?
+
+When Amazon makes an offer, they're typically targeting some annual total compensation number over a span of four years. If you do the math, you'll often notice a drop between Year 2 and Year 3 when you move from 15% RSU vesting to 40% RSU vesting. That drop goes away when you build in an assumption of 10-15% year-over-year stock price growth.
+
+So when Amazon makes you an offer, what they're really saying is, "Here's a combination of base salary, sign-on bonuses, and equity that we expect to be worth this amount—your targeted annual total compensation—on average over the next four years, assuming Amazon's stock price increases by 10-15% a year during that time."
+
+But of course, stock prices—even for strong legacy companies like Amazon—don't _always_ go up. So what happens when the stock price take a big hit?
+
+Since the equity they are offering is meant to help achieve a target annual total compensation, they might adjust your total number of unvested RSUs through a special stock grant.
+
+So if you were expecting a certain value for your vested RSUs one year, but the market dipped and you didn't actually get the kind of value anticipated with that vest, then Amazom might recalibrate by giving you additional RSUs that will vest in the future over some time period to help close that gap.
+
+The downside to this is that you obviously would make less than expected for the affected year. The upside is that their internal compensation algorithm will try to make you whole in future years _and_ if the market rebounds and has a spike in stock price, you still get to vest all of the additional RSUs they granted.
+
 ### How flexible is Amazon on Equity (RSUs)?
 
 Moderately flexible to *extremely* flexible depending on how close you are to the base salary cap.
