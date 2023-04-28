@@ -158,6 +158,8 @@ If you had told them your salary expectations, you may not have even gotten this
 
 And all of this is just to get a strong *initial* job offer. You can *continue* telling your story when you counter offer (see this [salary negotiation email sample](/salary-negotiation-email-sample/) for an example of how you continue telling your story even as you counter offer), and that may drive their budget even higher.
 
+{% include cta-generator.html %}
+
 ## <a name="current-salary-question"></a>“What's your current salary?”
 
 This question is pretty straightforward, but not nearly as innocuous as it may sound. Here's a different way of looking at this question:
@@ -209,6 +211,8 @@ Here is my recommendation for a good answer to the full version of this question
 <img src="/assets/imgs/post-images/DreadedSalaryQuestion.png" alt="The current and expected salary question" width="100%">
 
 So let's say that you're playing a game, and your goal is to get past the salary expectations without sharing your salary requirements. This is Level 1, and the script I just gave you will usually win the game.
+
+{% include cta-generator.html %}
 
 ## <a name="when-they-ask-again"></a>What if they ask again?
 
@@ -322,6 +326,8 @@ This is a heavy-handed answer, but it's necessary because of the situation. You'
 
 If they *still* press after this answer, I'm all out of ideas because I've never seen anyone fail to complete the game with this script.
 
+{% include cta-generator.html %}
+
 ## <a name="special-circumstances"></a>Answering salary questions on applications
 
 It's more and more common to see salary questions on job applications—both paper and online. So let's talk about how to use this strategy when confronted with the salary expectations questions on an application.
@@ -388,6 +394,8 @@ If they're serious about respecting everyone's time, then they'll tell you the r
   <p><span>Learn more</span> What should you do once you get past the salary expectations question?</p>
   <p><a href="/salary-negotiation-guide/">How to negotiate salary: 9 tips from a pro salary negotiator <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
+
+{% include cta-generator.html %}
 
 ## <a name="already-shared-expected-salary"></a>How to recover if you shared your salary expectations and the offer meets or exceeds them
 
