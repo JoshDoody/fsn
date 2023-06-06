@@ -1,8 +1,8 @@
 ---
 podcast: Screaming in the Cloud
-title: Getting Paid What You’re Worth with Josh Doody
+title: How Software Developers Can Negotiate Better Salaries with Josh Doody
 host: Corey Quinn
-podcast_url: https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/getting-paid-what-you-re-worth-with-josh-doody/
-thumbnail: screaming_in_the_cloud.jpg
-publication_publication_date: 06-06-2023
+podcast_url: https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/how-software-developers-can-negotiate-better-salaries-with-josh-doody/
+thumbnail: screaming_in_the_cloud.jpeg
+publication_publication_date: 10-30-2019
 ---
