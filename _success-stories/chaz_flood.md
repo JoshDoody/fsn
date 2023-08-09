@@ -1,6 +1,6 @@
 ---
 name: Chaz Flood
-job_title: Software Engineer
+job_title: Lead Recruiter
 company: Amazon
 industry: 
 headshot:
