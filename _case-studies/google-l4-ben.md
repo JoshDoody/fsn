@@ -3,7 +3,7 @@ layout: case_study
 title: 'Case Study: Getting Ben the best L4 compensation possible from Google'
 headline: 'Case Study: Getting Ben the best L4 compensation possible from Google'
 description: How Ben negotiated a nearly $30,000 increase in base compensation plus a hefty sign-on bonus
-name: Justin Garrison
+name: Ben
 job_title: Software Engineer L4
 level: L4
 company: Google
