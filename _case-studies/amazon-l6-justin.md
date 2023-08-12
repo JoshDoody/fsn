@@ -10,8 +10,10 @@ industry:
 headshot: justin_garrison.jpg
 product: Salary Negotiation Coaching
 result_summary: Earned an additional $74,000.
-last_modified_at: 2020-08-04
+last_modified_at: 2023-08-12
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jh8Vs0TsEaw" title="$74,000/yr Salary Negotiation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Anticipating an L6 offer from Amazon
 
 Justin Garrison was looking for his next career opportunity and had interviewed with several companies including Amazon for a Senior Developer Advocate role, which was a natural fit for his deep expertise and prolific contributions in the open source software community. When he reached the point where he had an offer incoming from Amazon and potentially a few other offers to follow, he considered working with me for salary negotiation coaching.
