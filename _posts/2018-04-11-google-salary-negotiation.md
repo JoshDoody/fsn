@@ -49,8 +49,8 @@ Here's an example taken from a modified version of a real Google job offer from 
 		<tr><td>Target Bonus</td><td></td><td>20</td><td>20</td><td>20</td><td>20</td><td>80</td></tr>
 		<tr><td>Sign-on</td><td></td><td>40</td><td></td><td></td><td></td><td>40</td></tr>
 		<tr><td><strong>Total Cash</strong></td><td></td><td><strong>200</strong></td><td><strong>160</strong></td><td><strong>160</strong></td><td><strong>160</strong></td><td><strong>680</strong></td></tr>
-		<tr><td>New-Hire Equity</td><td></td><td>99</td><td>99</td><td>66</td><td>36</td><td>300</td></tr>
-		<tr><td><strong>Total</strong> </td><td></td><td><strong>299</strong></td><td><strong>259</strong></td><td><strong>226</strong></td><td><strong>196</strong></td><td><strong>980</strong></td></tr>
+		<tr><td>New-Hire Equity</td><td></td><td>114</td><td>96</td><td>60</td><td>30</td><td>300</td></tr>
+		<tr><td><strong>Total</strong> </td><td></td><td><strong>314</strong></td><td><strong>256</strong></td><td><strong>220</strong></td><td><strong>190</strong></td><td><strong>980</strong></td></tr>
 	</tbody>
 </table>
 
