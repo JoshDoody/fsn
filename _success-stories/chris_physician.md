@@ -1,5 +1,5 @@
 ---
-name: Brian
+name: Chris
 job_title: Attending Physician, Department of Emergency Medicine
 company: 
 industry: Medicine
