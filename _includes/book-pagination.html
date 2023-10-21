@@ -29,7 +29,7 @@
 
     <div class="book-nav md:flex md:grid grid-cols-2 md:gap-20 pt-8{% if previous_excerpt.url and next_excerpt.url %} add-border{% endif %}">
 
-      <div class="book-prev md:text-right text-center sm:mb-12 mb-0">
+      <div class="book-prev md:text-right text-center mb-12 md:mb-0">
         {% if previous_excerpt == nil %}
           <a class="text-base uppercase sans-serif font-black" rel="prev" href="/book/introduction/"><i class="fas fa-angle-double-left"></i> Prev</a>
           <h5 class="uppercase mt-8 sans-serif text-xl md:text-right">Book Home</h5>
@@ -72,7 +72,7 @@
 
     <div class="book-nav md:flex grid md:grid-cols-2 md:gap-20 pt-8{% if previous_chapter.url and next_chapter.url %} add-border{% endif %}">
 
-      <div class="book-prev md:text-right text-center sm:mb-12 mb-0">
+      <div class="book-prev md:text-right text-center mb-12 md:mb-0">
         {% if previous_chapter == nil %}
           <a class="text-base uppercase sans-serif font-black" rel="prev" href="/book/introduction/"><i class="fas fa-angle-double-left"></i> Prev</a>
           <h5 class="uppercase mt-8 sans-serif text-xl md:text-right">Book Home</h5>

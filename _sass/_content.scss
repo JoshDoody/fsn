@@ -944,16 +944,18 @@
 .book-nav {
   &.add-border {
     position: relative;
-    &:after {
-      background-color: $brand-gray;
-      width: 1px;
-      height: 100%;
-      display: block;
-      content: " ";
-      position: absolute;
-      top: .5em;
-      left: 50%;
-    }
+    @media (min-width: 876px) {
+	    &:after {
+	      background-color: $brand-gray;
+	      width: 1px;
+	      height: 100%;
+	      display: block;
+	      content: " ";
+	      position: absolute;
+	      top: .5em;
+	      left: 50%;
+	    }
+		}
   }
   h5 {
     color: $brand-gray;
