@@ -14,7 +14,7 @@ date: 2018-09-26
 author: josh
 published: true
 ---
-The key question to ask about a Google job offer is "How much can this offer be improved through negotiation?" In my experience [coaching software developers](/coach/) through Google salary negotiations, the answer varies from "somewhat" to "a whole lot".
+The key question to ask about a Google job offer is "How much can this offer be improved through negotiation?" In my experience [coaching software developers](/coach/swe/) through Google salary negotiations, the answer varies from "somewhat" to "a whole lot".
 
 The main driver for the difference seems to be how narrow the engineer's specialty is, and how well that specialty aligns with Google's core competencies.
 

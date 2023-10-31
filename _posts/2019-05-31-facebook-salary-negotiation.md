@@ -14,7 +14,7 @@ date: 2019-06-01
 author: josh
 published: true
 ---
-The key question to ask about a Facebook job offer is "How much can this offer be improved through negotiation?" In my experience [coaching software developers](/coach/) through Facebook salary negotiations, the answer varies from "somewhat" to "a whole lot".
+The key question to ask about a Facebook job offer is "How much can this offer be improved through negotiation?" In my experience [coaching software developers](/coach/swe/) through Facebook salary negotiations, the answer varies from "somewhat" to "a whole lot".
 
 The main driver for the difference seems to be how narrow the engineer's specialty is, and how well that specialty aligns with Facebook's core competencies.
 
