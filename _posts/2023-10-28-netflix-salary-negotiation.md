@@ -10,19 +10,17 @@ tags:
   - popular
   - blogFeatured
 company: Netflix
-date: 2023-10-28
+date: 2023-11-18
 author: josh
-published: false
+published: true
 ---
-The key question to ask about a Netflix job offer is "How much can this offer be improved through negotiation?" In my experience [coaching software developers](/coach/swe/) and others through Netflix salary negotiations, the answer varies from "somewhat" to "a whole lot".
+Netflix is unusual in many ways among big tech companies. One of the differences that really sets it apart is that its job offers are pretty much one-dimensional: cash. They don't offer RSUs or target bonuses, but they do offer stock options as a benefit (5% of base pay) and they occasionally offer sign-on bonuses. Netflix employees also have the ability to buy stock options for a very good price through their Stock Option Program.
 
-The main driver for the difference seems to be how narrow the engineer's specialty is, and how well that specialty aligns with Netflix's core competencies.
+But what about _negotiating_ Netflix offers? Aren't they famous for _not_ negotiating them?
 
-For example, Netflix needs lots and lots of experienced software developers, and the supply of generalist software developers available to hire is pretty strong. So Netflix will offer competitive salaries with some room to negotiate to get quality software developers in the door.
+For a long time, it was true that Netflix did not negotiate their offers except in very unique circumstances. But with increasing market competition and a closer focus on operating expenses and payroll costs, they have slowly begun to migrate over to a more traditional organizational structure and compensation philosophy.
 
-By contrast, machine learning experts and data scientists are key to Netflix's ability to dominate search and other aspects of its business and there are fewer of those experts available. So Netflix makes very, very strong offers to machine learning experts and data scientists and has lots of room to negotiate those offers to get the right candidates.
-
-The bottom line is that if you have a job offer from Netflix in a technical role, you likely have room to negotiate, and may have *substantial* negotiation leverage depending on your specialty.
+That means that if you do manage to get a Netflix offer, there are tactful ways to negotiate that could result in a significantly-improved offer.
 
 ## What a typical Netflix job offer package looks like
 
@@ -31,22 +29,61 @@ Once you actually get through the Netflix interview gauntlet, you may receive a 
 Netflix's offers are a little unusual relative to other big tech job offers because they are almost exclusively cash-based and rarely include equity:
 
  - Base salary
- - ~Sign-on~
+ - Sign-on
+ - Stock options
+ - Relocation Benefits
+ - ~Target bonus~
  - ~New-Hire Equity~
 
-So that leaves a pretty straight-forward compensation package: base salary.
+So that leaves a pretty straight-forward compensation package: base salary with a very small possibility of a sign-on bonus and 5% of base salary in stock options. They also offer very generous relocation benefits if you need to move in order to work at Netflix.
+
+Let's walk through each component of a Netflix job offer 
 
 ### Base Salary
 
-As with most job offers, this is the stable, predictable component that you can use to pay your mortgage or car payment. You can't know what company performance might look like in the future, so it's hard to estimate how much of a bonus you'll get or what your RSUs will be worth when they vest.
+As with most job offers, this is the stable, predictable component that you can use to pay your mortgage or car payment. 
 
-Netflix's base salary offers tend to be pretty competitive with other big tech firms. If you're wondering whether the salary you're offered is competitive, [blind](https://www.teamblind.com) and [levels.fyi](https://www.levels.fyi) are good places to start.
+Netflix's base salary offers tend to be substantially higher than other firms because the base salary represents almost all of their overall compensation packages. If you're wondering whether the salary you're offered is competitive, [blind](https://www.teamblind.com) and [levels.fyi](https://www.levels.fyi) are good places to start.
 
 #### How flexible is Netflix on Base Salary?
 
-In my experience, Netflix will move on base salary, but not very much. And they're more flexible when you have not disclosed salary history or expectations.
+There are several factors here that make this a moving target.
 
-That doesn't mean you shouldn't ask for more base salary, but it means that request may result a smaller move in base salary coupled with other more aggressive moves that are not related to salary.
+##### Seniority
+
+In general, the more junior the role, the firmer the initial offer. The more senior the role, the more room to negotiate there might be.
+
+For example, a Junior Engineer (E3) offer might be totally inflexible. On the other hand, a Principle Engineer (E7) offer might have substantial flexibility.
+
+Although they have softened their stance on job offer negotiation, they are still primarily focused on hiring the best talent available, and the most talented people are often the most experience _and_ the most in-demand. That means they sometimes have to fight to persuade the most talented people to join their team, and that can mean more flexibility in a negotiation.
+
+##### Specialty
+
+Even within levels, there can be significant variation in base salary flexibility. For example, User Interface Engineers and Machine Learning Engineers at the same level may have significantly different pay and negotiating leverage.
+
+This is because some specialties are more in-demand and there are fewer people available with those skillsets.
+
+### Sign-on bonus
+
+Netflix doesn't typically offer sign-on bonuses, but they _are_ available in some cases. 
+
+#### How flexible is Netflix on Sign-on bonus?
+
+There are several factors here that make this a moving target. In general, they don't offer sign-on bonuses. When they do, it's usually for a very experienced person with expertise in a niche that is particularly useful to the company.
+
+In those cases, they might be flexible in going from "no sign-on" to "some sign-on". Industry-standard sign-on bonuses are anywhere from $10,000 to $100,000 depending on the role.
+
+### Stock options
+
+Netflix employees receive a stock options benefit equal to 5% of their base salary. This likely isn't negotiable as it's a one-size-fits-all type of benefit that everyone gets.
+
+### Relocation Benefits
+
+Netflix has a team (the Talent Mobility team) dedicated to helping relocate people who need to move for their new role. This benefit can be _very_ generous and they work hard to make sure that relocation isn't a barrier or significant distraction as you're gearing up for your new Netflix role.
+
+#### How flexible is Netflix on Relocation Benefits?
+
+This is a difficult question to answer because they are so generous. While this is likely not "negotiable", it is flexible enough to take care of what you need when you relocate. Make sure you talk in depth with the Netflix team about _any_ costs you might incur when making your move so they can be generous with this benefit.
 
 ### Target Bonus
 
@@ -54,31 +91,7 @@ Netflix doesn't offer target bonuses.
 
 ### New-Hire Equity (RSUs)
 
-The equity component of a Netflix job offer can range from "not very much" (as with the example above) to "wowzers, that's a lot of equity!" depending on the role.
-
-For Netflix (and most of the other big public tech companies) I tend to model equity as more or less fungible with base salary since the value of that equity is public and the company fundamentals appear to be pretty strong.
-
-The difference, of course, is that there's a vesting schedule and you're taking some level of market risk by counting on equity.
-
-But for a company like Netflix, the market risk for equity is very similar to the market risk for your base salary. (If things suddenly get very bad for Netflix, their stock would probably drop, but the bigger problem could be that your job might be in jeopardy).
-
-#### How flexible is Netflix on New-Hire Equity (RSUs)?
-
-Potentially *very* flexible. This is their most used bargaining chip. Depending on the candidate, position, and other factors, they may be willing to improve the equity component of the offer significantly during the negotiation.
-
-Some of my clients have more than doubled their equity during their negotiation. Sometimes the equity component of the offer will be larger than the base salary component when we finish negotiating.
-
-This is one reason the base salary component of their offers tends to be merely "competitive"—they have more flexibility on equity and will often use this as their carrot to entice exceptional candidates to join the company.
-
-### Sign-on bonus
-
-Even if there's not a sign-on bonus included with your initial offer, there may be one available. sign-on bonuses, like equity, can range from a nice little amount into six figures.
-
-I like to think of the sign-on bonus as a way to help bridge the gap between your first paycheck and your first RSU vesting date.
-
-#### How flexible is Netflix on Sign-on Bonus?
-
-Moderately flexible. They will often use this as a sweetener to close the deal. Five-figure improvements in sign-on bonus are pretty common. I recommend focusing on base salary and equity before negotiating sign-on bonus.
+Netflix doesn't offer new-hire equity.
 
 ## How to approach your Netflix salary negotiation
 
@@ -86,7 +99,7 @@ The salary negotiation with Netflix will begin earlier than you might expect.
 
 ### Before you get a job offer
 
-Your Netflix recruiter will ask for your salary history, or at least your *current* salary if it's legal where they are. Do not tell them your current salary. If you do, the base salary component of your job offer will probably be slightly above your current salary *and* it will be challenging to negotiate a substantial increase once they make your job offer.
+Your Netflix recruiter might ask for your salary history, or at least your *current* salary if it's legal where they are. Do not tell them your current salary. If you do, your job offer may only be slightly above your current salary *and* it will be challenging to negotiate a substantial increase once they make your job offer.
 
 They will also usually ask for your salary expectations. That request will sound something like this:
 
@@ -94,11 +107,11 @@ They will also usually ask for your salary expectations. That request will sound
 
 Do not tell them your salary expectations because you will essentially be guessing what they might pay someone with your skillset and experience to do the job they need done.
 
-While they might have a good idea of the value of that job to Netflix's business, you would only be guessing. You will practically always guess wrong and cost yourself money later on. So just don't guess.
+While *they* might have a good idea of the value of that job to Netflix's business, *you* would only be guessing. You will practically always guess wrong and cost yourself money later on. So just don't guess.
 
 Netflix will hold on tight to these numbers and it can be very, very challenging to get them to move once they know what they are aiming for. So avoid sharing that information if at all possible.
 
-As a final note on this, I've worked with clients whose Netflix recruiter told them they could not move forward with the interview process until my client shared their salary expectations. Eventually, they *did* move on despite my clients' refusal to share this information. So, in my experience, this is a bluff.
+They may also ask you to tell them about any competing offers you have because they "need more data". I generally recommend that my clients confirm that they have one or more competing offers while being vague about the details of those offers. It's ok to mention that other big tech companies are interested, but sharing the specific companies or details of the offers could work against you in the early stages of the negotiation.
 
 <blockquote class="ico link-callout">
   <p><span>Learn more</span> What to say when asked for your salary expectations during an interview</p>
@@ -107,20 +120,42 @@ As a final note on this, I've worked with clients whose Netflix recruiter told t
 
 ### Once you receive your job offer from Netflix
 
-Although Netflix isn't typically very flexible on base salary, I prefer to begin by negotiating base salary to see how flexible they are in the other components. By pushing on base salary—even knowing they aren't very flexible—we give them an opportunity to show where they *are* the most flexible.
+Because of Netflix' unusually cash-focused compensation structure, you should focus on base salary. How much additional salary to ask for is dependent on how senior your role is and how specialized your skillset is. 
 
-They will often respond to a request for a higher base salary by moving slightly or not at all on base salary, while suggesting a significantly better equity or sign-on bonus component. 
+In general, the more senior you are, the more aggressive you should be, and the more specialized your skillset is, the more aggressive you should be.
 
-Once they reveal where they're flexible and how flexible they are, you can use that information to focus the negotiation on the most flexible components to maximize your offer.
+The reason for this rule of thumb is that your level of aggression will usually be based on how badly they need you to do this particular job for them. The more senior and specialized you are, the more they're going to need you, specifically, to do the job they've offered you. That gives you more leighway to negotiate.
 
 <blockquote class="ico link-callout">
   <p><span>Learn more</span> More salary negotiation strategy and tactics...</p>
   <p><a href="/salary-negotiation-guide/">How to negotiate salary: 9 tips from a pro salary negotiator <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
+## The Netflix Employee Stock Option Program
+
+One unusual benefit that Netflix offers is the Employee Stock Option Program. It can be a _very_ valuable benefit to Netflix employees, so it's worth taking some time to walk through it.
+
+Most big tech companies offer some sort of Employee Stock Purchase Program, which enables employees to buy shares of stock (RSUs) at a discount. Netflix's Employee Stock Option Program is different because they offer stock options with a 10-year exercise window—this is a _very_ generous exercise window—and those options stay with you if you leave Netflix.
+
+Netflix automatically gives employees stock options equivalent to 5% of their base salary _and_ you can choose to be paid your base salary or substitute base salary for equivalent stock options, purchased at 40% of the current Netflix stock trading price. ("Current" meaning the Netflix stock price at the close of the first trading day of the month.)
+
+As an example, if you were making $100,000 a year base salary at Netflix...
+
+- You would automatically receive $5,000 (5% of $100,000) in stock options per year. One twelfth of your options would be purchased each month on Grant Day. That $5,000 would be used to buy options at 40% of the Netflix stock price on grant day, and those options' strike price would be the price on Grant Day when they were purchased.
+- You could _also_ choose to substitute any amount of your base salary to buy stock options on Grant Day. Each year, you decide what proportion of your base salary you will allocate for the Employee Stock Option Program for that year. So if you decided to "spend" 10% of your base salary to buy Netflix stock options, then you would get $10,000 of stock options, 1/12 purchased monthly over the course of the year. The other 90% of your base salary would be paid out as normal.
+
+On a particular Grant Day, if the stock were trading at $500 per share, then each stock option would cost $200 (40% of $500), would have a strike price of $500, and would have an exercise window of 10 years.
+
+There is a risk/reward calculation that each Netflix employee must do to determine how much of their compensation they want to take in the form of Netflix Stock Options, but this benefit has the potential to be _extremely_ lucrative given generous option price and the 10-year exercise window.
+
+This benefit is so valuable that it might affect your [Minimum Acceptable Salary](/minimum-acceptable-salary/ ) calculation. 
+
 ## What to look out for when negotiating a Netflix job offer package
 
+- **Netflix compensation packages are essentially a single component: base salary.** This makes negotiating with them more straightforward than other big tech companies where the offers have multiple components. Netflix doesn't offer equity, and sign-on bonuses are pretty rare.
 - **Netflix is *very* sticky once they know their target.** If you tell them your salary history (especially current salary) or salary expectations, their offer will likely be very close to either of those numbers and they will not move very much from that starting point.
-- **Netflix will often respond to a request for higher base salary by slightly improving base salary *and* significantly improving the equity component.**
-- **Netflix is often rigid with respect to the "level" offered.** Because they use equity as a primary negotiating lever, they have lots of flexibility within pay bands and therefore rarely change pay bands—or levels—as part of the negotiation.
-- **Netflix will often ask for competing offers—sharing those offers *may* be beneficial.** Many companies ask for competing offers to gather data on competitors or to dissuade the "I have lots of offers" bluff that many candidates use. But when Netflix is competing with companies like Facebook and Apple for candidates, they will often match competing offers if they're superior.
+- **In general, the more senior and specialized the role, the more room there might be to negotiate.** The more senior the role, the more room there might be to negotiate. And even among similarly-leveled roles, the more specialized role may have more room to negotiate.
+- **Netflix is often rigid with respect to the "level" offered.** They work hard to align candidates with levels and roles and will usually be pretty rigid with those assignments once they have been made. So if you feel you might be better aligned with a more senior level, bring that up as early in the recruitment or interview process as possible.
+- **Netflix will often ask for competing offers—sharing those offers *may* be beneficial.** Many companies ask for competing offers to gather data on competitors or to dissuade the "I have lots of offers" bluff that many candidates use. But when Netflix is competing with companies like Google and Apple for candidates, they will often match competing offers if they're superior. Favorable market data can increase Netflix's flexibility when negotiating.
+- **Netflix compensation packages include stock options equal to 5% of base salary.** This is a pretty valuable benefit that should be considered a part of their compensation package.
+- **Netflix's Employee Stock Option Program can be an _extremely_ lucrative benefit.** One of Netflix's most valuable employee benefits is their Employee Stock Option Program, which allows employees to substitute Netflix stock options for base salary. Make sure to include this benefit along with the 5% stock option benefit when evaluating the quality of your netflix offer.
