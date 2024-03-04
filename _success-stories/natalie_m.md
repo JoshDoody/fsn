@@ -6,7 +6,7 @@ industry:
 headshot: natalie_m.jpg
 short_version: |
  **At first it seemed pricey, but it was absolutely worth it.**
-product: Salary Negotiation Coaching
+product: Strategy Session
 result_summary: 
 case_study_url: 
 ---
