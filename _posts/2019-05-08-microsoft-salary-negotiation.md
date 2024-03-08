@@ -16,9 +16,9 @@ published: true
 ---
 Microsoft salary negotiation is unique because the offer you get is often very dependent on the *level* you're assigned. Anecdotally, it also seems that one of the more prominent benefits espoused by Microsoft recruiters is the work-life balance at Microsoft is more relaxed than at other big tech firms. This means their offers are sometimes not as strong as other big firms, and they focus more on "fit" as they look for the right people to work with their teams.
 
-The good news is there is often flexibility in Microsoft's job offers, and that flexibility is found in typical places—base salary, equity, and sign-on bonuses—as well as in the level of the job itself.
+The good news is that, based on my experience [coaching software developers](/coach/swe/) and [leaders](/coach/) through Microsoft salary negotiations, there is often flexibility in Microsoft's job offers, and that flexibility is found in typical places—base salary, equity, and sign-on bonuses—as well as in the level of the job itself.
 
-If you have a job offer from Microsoft for a technical role like software development engineer or hardware engineer, negotiating it up front is the best way to ensure you maximize your starting salary *and* set yourself up for long-term success by starting your Microsoft career at the appropriate level of responsibility.
+If you have a job offer from Microsoft for a technical role (like software engineer or hardware engineer), or a leadership role, then negotiating it up front is the best way to ensure you maximize your starting salary *and* set yourself up for long-term success by starting your Microsoft career at the appropriate level of responsibility.
 
 ## What a typical Microsoft job offer package looks like
 

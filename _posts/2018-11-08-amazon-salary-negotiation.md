@@ -16,7 +16,7 @@ published: true
 ---
 Amazon salary negotiation is unique because they use a one-of-a-kind structure for their compensation packages, and they are very focused on both attracting *and* retaining top talent for a long time.
 
-The key question to ask about an Amazon job offer is "How much can this offer be improved through negotiation?" In my experience [coaching software developers](/coach/swe/) through Amazon salary negotiations, the answer varies from "somewhat" to "a whole lot".
+The key question to ask about an Amazon job offer is "How much can this offer be improved through negotiation?" In my experience [coaching software developers](/coach/swe/) and [leaders](/coach/) through Amazon salary negotiations, the answer varies from "somewhat" to "a whole lot".
 
 The trick is that you have to be willing to consider non-salary options and think deeply about how long you actually want to work at Amazon because their job offers are structured to increase in value over time, specifically after your second year as an employee.
 
