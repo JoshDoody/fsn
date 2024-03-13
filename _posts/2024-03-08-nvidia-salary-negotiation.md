@@ -18,7 +18,7 @@ The key question to ask about an Nvidia job offer is "How much flexibility do th
 
 In-demand engineers with specialties in areas that are crucial to Nvidia's business *and* skills that other firms need can often push harder than generalist engineers, but as they continue to grow, they need engineers from many disciplines to help them succeed.
 
-For example, Nvidia needs lots engineers with experience in processor design, software engineer, machine learning, and AI, and the supply of experienced engineers in those areas of expertise is relatively tight among the big tech companies. So Nvidia will offer competitive salaries with some room to negotiate to get quality engineers with that expertise to join their team.
+For example, Nvidia needs lots engineers with experience in processor design, software engineering, machine learning, and AI, and the supply of experienced engineers in those areas of expertise is relatively tight among the big tech companies. So Nvidia will offer competitive salaries with some room to negotiate to get quality engineers with that expertise to join their team.
 
 By contrast, many junior generalists are eager to join Nvidia and there is an increasingly large supply of those engineers. So Nvidia's offers for more junior engineers are often pretty close to their best offer right out of the gate. That doesn't mean there's *no* room to negotiate, but their offers are tuned to a competitive baseline, so smaller improvements are more typical than larger ones.
 
