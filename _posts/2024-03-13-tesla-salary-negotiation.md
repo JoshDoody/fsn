@@ -45,7 +45,7 @@ Here's an example taken from a modified version of a real Tesla job offer from o
 	<tbody>
 		<tr><td>Base Salary</td><td></td><td>175</td><td>175</td><td>175</td><td>175</td><td>700</td></tr>
 		<tr><td>Sign-on</td><td></td><td>20</td><td></td><td></td><td></td><td>20</td></tr>
-		<tr><td><strong>Total Cash</strong></td><td></td><td><strong>195</strong></td><td><strong>175</strong></td><td><strong>175</strong></td><td><strong>175</strong></td><td><strong>840</strong></td></tr>
+		<tr><td><strong>Total Cash</strong></td><td></td><td><strong>195</strong></td><td><strong>175</strong></td><td><strong>175</strong></td><td><strong>175</strong></td><td><strong>720</strong></td></tr>
 		<tr><td>New-Hire Equity</td><td></td><td>100</td><td>100</td><td>100</td><td>100</td><td>400</td></tr>
 		<tr><td><strong>Total</strong> </td><td></td><td><strong>295</strong></td><td><strong>275</strong></td><td><strong>275</strong></td><td><strong>275</strong></td><td><strong>1,120</strong></td></tr>
 	</tbody>

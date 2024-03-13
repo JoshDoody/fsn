@@ -20,6 +20,8 @@ The good news is that, based on my experience [coaching software developers](/co
 
 If you have a job offer from Microsoft for a technical role (like software engineer or hardware engineer), or a leadership role, then negotiating it up front is the best way to ensure you maximize your starting salary *and* set yourself up for long-term success by starting your Microsoft career at the appropriate level of responsibility.
 
+**One quick note here about GitHub:** For the purposes of this article, Microsoft and GitHub offer the same structure of offers, both include Microsoft equity, and negotiating with GitHub is essentially the same as negotiating with Microsoft. So if you're considering a GitHub offer, this article is for you, too!
+
 ## What a typical Microsoft job offer package looks like
 
 Once you actually get through the Microsoft interview and matching process, you may receive a job offer. Let's look at an example to see what you can expect.
