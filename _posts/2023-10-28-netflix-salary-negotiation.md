@@ -22,6 +22,11 @@ For a long time, it was true that Netflix did not negotiate their offers except 
 
 That means that if you do manage to get a Netflix offer, there are tactful ways to negotiate that could result in a significantly-improved offer.
 
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> More about how Big Tech structures their job offers </p>
+  <p><a href="/big-tech-job-offer-summary/">The anatomy of a Big Tech job offer <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
+
 ## What a typical Netflix job offer package looks like
 
 Once you actually get through the Netflix interview gauntlet, you may receive a job offer. Let's look at an example to see what you can expect.

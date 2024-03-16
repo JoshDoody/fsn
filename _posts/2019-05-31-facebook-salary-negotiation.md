@@ -26,6 +26,11 @@ The bottom line is that if you have a job offer from Facebook in a technical rol
 
 **One quick note here about Meta:** For the purposes of this article, Meta and Facebook are interchangeable. I find that my clients sometimes say they have a job offer from Meta, and sometimes say they have an offer from Facebook. Since most people still refer to it as "Facebook", that's the primary name used in this article. But this applies to Meta as well. So if you're considering a Meta offer, this article is for you, too!
 
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> More about how Big Tech structures their job offers </p>
+  <p><a href="/big-tech-job-offer-summary/">The anatomy of a Big Tech job offer <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
+
 ## What a typical Facebook job offer package looks like
 
 Once you actually get through the Facebook interview gauntlet, you may receive a job offer. Let's look at an example to see what you can expect.

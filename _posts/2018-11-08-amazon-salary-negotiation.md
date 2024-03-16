@@ -22,6 +22,11 @@ The trick is that you have to be willing to consider non-salary options and thin
 
 The bottom line is that if you have a job offer from Amazon in a technical role, you likely have room to negotiate, and may have significant opportunities to increase your pay over the next several years if you're willing to be a little creative.
 
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> More about how Big Tech structures their job offers </p>
+  <p><a href="/big-tech-job-offer-summary/">The anatomy of a Big Tech job offer <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
+
 ## What a typical Amazon job offer package looks like
 
 Once you actually get through the Amazon interview gauntlet, you may receive a job offer. Let's look at an example to see what you can expect.

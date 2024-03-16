@@ -22,6 +22,11 @@ If you have a job offer from Microsoft for a technical role (like software engin
 
 **One quick note here about GitHub:** For the purposes of this article, Microsoft and GitHub offer the same structure of offers, both include Microsoft equity, and negotiating with GitHub is essentially the same as negotiating with Microsoft. So if you're considering a GitHub offer, this article is for you, too!
 
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> More about how Big Tech structures their job offers </p>
+  <p><a href="/big-tech-job-offer-summary/">The anatomy of a Big Tech job offer <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
+
 ## What a typical Microsoft job offer package looks like
 
 Once you actually get through the Microsoft interview and matching process, you may receive a job offer. Let's look at an example to see what you can expect.

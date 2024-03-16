@@ -24,6 +24,11 @@ By contrast, many junior generalists are eager to join Nvidia and there is an in
 
 The bottom line is that if you have a job offer from Nvidia, whether in a technical role or a leadership role, you likely have room to negotiate, and may have *substantial* negotiation leverage depending on your specialty and background.
 
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> More about how Big Tech structures their job offers </p>
+  <p><a href="/big-tech-job-offer-summary/">The anatomy of a Big Tech job offer <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
+
 ## What a typical Nvidia job offer package looks like
 
 Once you finally get through the Nvidia interview process, you may receive a job offer. Let's look at an example to see what you can expect.

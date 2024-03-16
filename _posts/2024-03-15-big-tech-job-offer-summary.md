@@ -254,6 +254,11 @@ Earlier, I mentioned that companies are typically targeting your annual total co
 
 Amazon does this too, they just do it in a unique way: Rather than offering you base salary and equity that vests on a flat schedule, they give you base salary, equity that vests on a back-loaded schedule (most 40% in Year 3, and 40% in Year 4), and they use sign-on bonuses to bring that total compensation number up to the target number in Year 1 and Year 2.
 
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> More about Amazon job offers and how to negotiate them</p>
+  <p><a href="/amazon-salary-negotiation/">Amazon salary negotiation - How to negotiate your Amazon job offer <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
+
 ### Apple
 
 <table>
@@ -269,6 +274,11 @@ Amazon does this too, they just do it in a unique way: Rather than offering you 
 	</tbody>
 </table>
 
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> More about Apple job offers and how to negotiate them</p>
+  <p><a href="/apple-salary-negotiation/">Apple salary negotiation - How to negotiate your Apple job offer <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
+
 ### Facebook (Meta)
 
 <table>
@@ -283,6 +293,11 @@ Amazon does this too, they just do it in a unique way: Rather than offering you 
 		<tr><td><strong>Total</strong> </td><td></td><td><strong>350</strong></td><td><strong>300</strong></td><td><strong>300</strong></td><td><strong>300</strong></td><td><strong>1,250</strong></td></tr>
 	</tbody>
 </table>
+
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> More about Facebook job offers and how to negotiate them</p>
+  <p><a href="/facebook-salary-negotiation/">Facebook salary negotiation - How to negotiate your Facebook job offer <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ### Google
 
@@ -306,6 +321,11 @@ Google has a front-loaded equity vesting schedule, so you'll notice that their a
 
 They'll make up for this with raises and refreshers over time.
 
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> More about Google job offers and how to negotiate them</p>
+  <p><a href="/google-salary-negotiation/">Google salary negotiation - How to negotiate your Google job offer <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
+
 ### Microsoft (GitHub)
 
 <table>
@@ -321,6 +341,11 @@ They'll make up for this with raises and refreshers over time.
 	</tbody>
 </table>
 
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> More about Microsoft job offers and how to negotiate them</p>
+  <p><a href="/microsoft-salary-negotiation/">Microsoft salary negotiation - How to negotiate your Microsoft job offer <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
+
 ### Netflix
 
 No fancy table for this one because Netflix pays pretty much everything in cash (base salary).
@@ -330,6 +355,11 @@ No fancy table for this one because Netflix pays pretty much everything in cash 
 #### Unique attributes
 
 Netflix offers are basically cash offers. They also have the Netflix Employee Stock Option Program, which is a way for employees to choose to be compensated in stock options, which is _extremely_ unusual.
+
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> More about Netflix job offers and how to negotiate them</p>
+  <p><a href="/netflix-salary-negotiation/">Netflix salary negotiation - How to negotiate your Netflix job offer <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ### Nvidia
 
@@ -346,6 +376,11 @@ Netflix offers are basically cash offers. They also have the Netflix Employee St
 	</tbody>
 </table>
 
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> More about Nvidia job offers and how to negotiate them</p>
+  <p><a href="/nvidia-salary-negotiation/">Nvidia salary negotiation - How to negotiate your Nvidia job offer <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
+
 ### Tesla
 
 <table>
@@ -360,4 +395,9 @@ Netflix offers are basically cash offers. They also have the Netflix Employee St
 		<tr><td><strong>Total</strong> </td><td></td><td><strong>295</strong></td><td><strong>275</strong></td><td><strong>275</strong></td><td><strong>275</strong></td><td><strong>1,120</strong></td></tr>
 	</tbody>
 </table>
+
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> More about Tesla job offers and how to negotiate them</p>
+  <p><a href="/tesla-salary-negotiation/">Tesla salary negotiation - How to negotiate your Tesla job offer <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 

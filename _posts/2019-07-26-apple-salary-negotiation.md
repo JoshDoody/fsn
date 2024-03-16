@@ -24,6 +24,11 @@ By contrast, many junior generalist software engineers are eager to join Apple a
 
 The bottom line is that if you have a job offer from Apple in a technical role, you likely have room to negotiate, and may have *substantial* negotiation leverage depending on your specialty.
 
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> More about how Big Tech structures their job offers </p>
+  <p><a href="/big-tech-job-offer-summary/">The anatomy of a Big Tech job offer <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
+
 ## What a typical Apple job offer package looks like
 
 Once you finally get through the Apple interview process, you may receive a job offer. Let's look at an example to see what you can expect.
