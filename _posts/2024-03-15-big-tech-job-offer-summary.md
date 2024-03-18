@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: The anatomy of a Big Tech job offer
-headline: How Big Tech structures their job offers
+title: The Anatomy of a Big Tech Job Offer
+headline: How Big Tech Structures Their Job Offers
 subhead: Everything you need to know to understand and evaluate your job offer from a Big Tech company
 description: Everything you need to know to understand and evaluate your job offer from a Big Tech company
 categories:
@@ -22,7 +22,26 @@ But Big Tech job offers can also be sort of overwhelming as the numbers they off
 
 This is your guide to understanding Big Tech job offers so that you can make a more informed decision about whether a particular offer is right for you, and so you have a better understanding to rely on when you negotiate with a Big Tech company.
 
-## What a typical Big Tech job offer package looks like
+<ul class="arrows">
+  <li><i class="fas fa-arrow-circle-right"></i><a href="#typical-offer">What a typical Big Tech job offer package looks like</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="#base-salary">Base Salary</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="#equity">Equity</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="#sign-on">Sign-on Bonus</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="#other-components">Other Components</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="#offer-examples">Examples of Big Tech Job Offers</a></li>
+	<li><ul class="arrows">
+		<li><i class="fas fa-arrow-circle-right"></i><a href="#amazon-example">Amazon</a></li>
+		<li><i class="fas fa-arrow-circle-right"></i><a href="#apple-example">Apple</a></li>
+		<li><i class="fas fa-arrow-circle-right"></i><a href="#facebook-example">Facebook</a></li>
+		<li><i class="fas fa-arrow-circle-right"></i><a href="#google-example">Google</a></li>
+		<li><i class="fas fa-arrow-circle-right"></i><a href="#microsoft-example">Microsoft</a></li>
+		<li><i class="fas fa-arrow-circle-right"></i><a href="#netflix-example">Netflix</a></li>
+		<li><i class="fas fa-arrow-circle-right"></i><a href="#nvidia-example">Nvidia</a></li>
+		<li><i class="fas fa-arrow-circle-right"></i><a href="#tesla-example">Tesla</a></li>
+	</ul></li>
+</ul>
+
+## <a name="typical-offer"></a>What a typical Big Tech job offer package looks like
 
 Once you finally get through the interview process, you may receive a job offer. Let's look at an example to see what you can expect.
 
@@ -55,9 +74,22 @@ Before you go on, notice that the "Total" row looks pretty much the same from ye
 
 This is typically the comapny's goal: They are targeting an annual total compensation number, so the sum of the individual components will usually look pretty much the same from year to year.
 
+Negotiating with a particular Big Tech company? These dedicated guides will walk you through it:
+
+<ul class="arrows">
+  <li><i class="fas fa-arrow-circle-right"></i><a href="/amazon-salary-negotiation/">Amazon salary negotiation - How to negotiate an Amazon job offer</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="/apple-salary-negotiation/">Apple salary negotiation - How to negotiate an Apple job offer</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="/facebook-salary-negotiation/">Facebook salary negotiation - How to negotiate an Facebook job offer</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="/google-salary-negotiation/">Google salary negotiation - How to negotiate an Google job offer</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="/microsoft-salary-negotiation/">Microsoft salary negotiation - How to negotiate an Microsoft job offer</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="/netflix-salary-negotiation/">Netflix salary negotiation - How to negotiate an Netflix job offer</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="/nvidia-salary-negotiation/">Nvidia salary negotiation - How to negotiate an Nvidia job offer</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="/tesla-salary-negotiation/">Tesla salary negotiation - How to negotiate an Tesla job offer</a></li>
+</ul>
+
 Let's look a little closer at the main components of a Big Tech job offer.
 
-## Base Salary
+## <a name="base-salary"></a>Base Salary
 
 Base salary is the most stable component of your job offer, and the one you can budget around for the coming year.
 
@@ -73,7 +105,7 @@ A big exception to this is Netflix, which pays almost exclusively in base salary
 
 Great question! The answer is equity.
 
-## New-Hire Equity (RSUs)
+## <a name="equity"></a>New-Hire Equity (RSUs)
 
 While base salary has a sort of unofficial cap around $300,000 at most Big Tech companies, equity can go up and up and up. So once a job gets to the "senior and above" levels of the organization, base salary sort of stagnates while equity grants start increasing.
 
@@ -155,7 +187,7 @@ These are designed to keep employees motivated and to keep total compensation le
 
 In most traditional (non-Big Tech) companies, your annual raise just results in a higher base salary. As I mentioned above, Big Tech companies tend to have a sort of cap on base salary somewhere between $250,000 and $300,000, so rather than giving you more base salary over time, they give you additional equity grants whose vesting schedule makes your anticipated annual total compensation look pretty flat year-to-year (or slightly increases it as you would expect with a normal "raise").
 
-## Sign-on bonus
+## <a name="sign-on"></a>Sign-on Bonus
 
 Even if there's not a sign-on bonus included with your initial offer, there may be one available through negotiation. Sign-on bonuses, like equity, can range from four figures into six figures.
 
@@ -173,7 +205,7 @@ You'll want to make sure you understand what's in your contract _and_ what typic
 
 This usually only applies if you leave voluntarily and doesn't affect people who are laid off.
 
-## Other components
+## <a name="other-components"></a>Other Components
 
 This is where things start to become less uniform among the Big Tech companies. Here are some of the items that you might see:
 
@@ -223,11 +255,11 @@ Sometimes, you'll be given two options: A lump sum of cash that you can do what 
 
 This is usually explicitly described in the job description, but it's worth confirming, especially if you plan to work remotely full- or part-time.
 
-## Examples of Big Tech job offers
+## <a name="offer-examples"></a>Examples of Big Tech job offers
 
 Here are some examples of Big Tech job offers along with some notes on what makes a few of them unique.
 
-### Amazon
+### <a name="amazon-example"></a>Amazon
 
 Here is an example of a standard Amazon job offer.
 
@@ -259,7 +291,7 @@ Amazon does this too, they just do it in a unique way: Rather than offering you 
   <p><a href="/amazon-salary-negotiation/">Amazon salary negotiation - How to negotiate your Amazon job offer <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
-### Apple
+### <a name="apple-example"></a>Apple
 
 <table>
 	<thead>
@@ -279,7 +311,7 @@ Amazon does this too, they just do it in a unique way: Rather than offering you 
   <p><a href="/apple-salary-negotiation/">Apple salary negotiation - How to negotiate your Apple job offer <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
-### Facebook (Meta)
+### <a name="facebook-example"></a>Facebook (Meta)
 
 <table>
 	<thead>
@@ -299,7 +331,7 @@ Amazon does this too, they just do it in a unique way: Rather than offering you 
   <p><a href="/facebook-salary-negotiation/">Facebook salary negotiation - How to negotiate your Facebook job offer <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
-### Google
+### <a name="google-example"></a>Google
 
 <table>
 	<thead>
@@ -326,7 +358,7 @@ They'll make up for this with raises and refreshers over time.
   <p><a href="/google-salary-negotiation/">Google salary negotiation - How to negotiate your Google job offer <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
-### Microsoft (GitHub)
+### <a name="microsoft-example"></a>Microsoft (GitHub)
 
 <table>
 	<thead>
@@ -346,7 +378,7 @@ They'll make up for this with raises and refreshers over time.
   <p><a href="/microsoft-salary-negotiation/">Microsoft salary negotiation - How to negotiate your Microsoft job offer <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
-### Netflix
+### <a name="netflix-example"></a>Netflix
 
 No fancy table for this one because Netflix pays pretty much everything in cash (base salary).
 
@@ -361,7 +393,7 @@ Netflix offers are basically cash offers. They also have the Netflix Employee St
   <p><a href="/netflix-salary-negotiation/">Netflix salary negotiation - How to negotiate your Netflix job offer <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
-### Nvidia
+### <a name="nvidia-example"></a>Nvidia
 
 <table>
 	<thead>
@@ -381,7 +413,7 @@ Netflix offers are basically cash offers. They also have the Netflix Employee St
   <p><a href="/nvidia-salary-negotiation/">Nvidia salary negotiation - How to negotiate your Nvidia job offer <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
-### Tesla
+### <a name="tesla-example"></a>Tesla
 
 <table>
 	<thead>

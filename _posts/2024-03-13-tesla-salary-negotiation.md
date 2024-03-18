@@ -26,7 +26,7 @@ The bottom line is that if you have a job offer from Tesla, whether in a technic
 
 <blockquote class="ico link-callout">
   <p><span>Learn more</span> More about how Big Tech structures their job offers </p>
-  <p><a href="/big-tech-job-offer-summary/">The anatomy of a Big Tech job offer <i class="fas fa-angle-double-right"></i></a></p>
+  <p><a href="/big-tech-job-offer-summary/">The Anatomy of a Big Tech Job Offer <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
 ## What a typical Tesla job offer package looks like
