@@ -41,7 +41,7 @@ Facebook's offers are pretty standard:
  - Sign-on
  - New-Hire Equity
 
-They may also include other components like an annual bonus and an annual stock refresher.
+They may also include other components like an annual bonus and an annual [stock refresher](rsu-stock-refresher-overview).
 
 They will often roll all these numbers together to describe the offer in terms of "Total Compensation", which may seem like a big number.
 

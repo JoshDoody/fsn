@@ -25,6 +25,10 @@ Stock refreshers can be used to serve one or both of these functions:
 1. **Level out total compensation over time as initial stock grants reach the end of their vesting schedule.** Depending on the vesting schedule, total compensation could begin dropping off as early as Year 3. In order to maintain a certain level of total comp, refreshers are offered.
 2. **Reward performance as a form of "raise" either for exceptional work or as part of a promotion.** While the most obvious way to give someone a raise is to raise their base salary, stock refreshers can also be used to increase compensation. This is often done when an employee is near a base salary cap.
 
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> Learn how Big Tech companies structure their job offers</p>
+  <p><a href="/big-tech-job-offer-overview/">The Anatomy of a Big Tech Job Offer <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ## Stock refreshers examples
 

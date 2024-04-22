@@ -180,13 +180,18 @@ Once you have received your initial grant (once you have gotten past the cliff),
 
 #### A note on refreshers
 
-This is beyond the scope of this article because refreshers aren't part of your initial offer (they don't usually show up until at least Year 3), and they're handled differently depending on the company.
+This is beyond the scope of this article because [stock refreshers](/rsu-stock-refresher-overview) aren't part of your initial offer (they don't usually show up until at least Year 3), and they're handled differently depending on the company.
 
 But just for completeness: "Refreshers" are additional RSU grants that the company may offer over time. These new RSU grants will also have a vesting schedule and will likely have strings attached similar to those of the initial RSU grant.
 
 These are designed to keep employees motivated and to keep total compensation level over time. 
 
 In most traditional (non-Big Tech) companies, your annual raise just results in a higher base salary. As I mentioned above, Big Tech companies tend to have a sort of cap on base salary somewhere between $250,000 and $300,000, so rather than giving you more base salary over time, they give you additional equity grants whose vesting schedule makes your anticipated annual total compensation look pretty flat year-to-year (or slightly increases it as you would expect with a normal "raise").
+
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> Learn how stock refreshers and how they work</p>
+  <p><a href="/rsu-stock-refresher-overview/">What is a stock refresher? <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ## <a name="sign-on"></a>Sign-on Bonus
 
