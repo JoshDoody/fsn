@@ -7,7 +7,6 @@ categories:
   - negotiate
   - interview
 tags:
-featured:
 popularArticle: true
 date: 2016-03-01
 author: josh

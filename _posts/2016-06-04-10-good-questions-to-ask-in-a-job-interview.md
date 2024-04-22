@@ -6,7 +6,6 @@ description: Make sure you don't freeze up when they say, "Do you have any quest
 categories:
   - interview
 tags:
-featured: true
 og-image: JobInterviewQuestionsYouCanAsk.jpg
 date: 2018-08-29
 author: josh

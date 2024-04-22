@@ -7,7 +7,6 @@ description: A proven two-step process to get promoted at work by thinking like 
 categories:
   - promotion
 tags:
-featured: true
 date: 2016-10-24
 author: josh
 published: true
