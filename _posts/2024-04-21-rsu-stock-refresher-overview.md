@@ -39,6 +39,7 @@ It's probably easiest to illustrate how stock refreshers work with some examples
 Let's start by looking at a baseline example of a typical Big Tech job offer. Here's an example taken from a modified version of a real Big Tech job offer from one of my clients. This client was a very experienced software developer with substantial background in embedded systems. This offer is for $210,000 base salary, $400,000 total equity (vesting over four years), and a $100,000 sign-on bonus.
 
 <table>
+	<caption>Typical Big Tech offer - no refreshers</caption>
 	<thead>
 		<tr><th>Component</th><th></th><th>Year 1</th><th>Year 2</th><th>Year 3</th><th>Year 4</th><th>Year 5</th><th>Year 6</th></tr>
 	</thead>
@@ -58,6 +59,7 @@ Notice what happens in Years 5 and 6. The initial RSU grant completes its vestin
 Now let's look at the same example with stock refreshers used to keep total compensation flat. To keep things simple, let's say that in Year 4 the employee is given another $400,000 stock refresher with a one-year cliff and four-year vest.
 
 <table>
+	<caption>Typical Big Tech offer - comp-leveling refreshers</caption>
 	<thead>
 		<tr><th>Component</th><th></th><th>Year 1</th><th>Year 2</th><th>Year 3</th><th>Year 4</th><th>Year 5</th><th>Year 6</th></tr>
 	</thead>
@@ -79,6 +81,7 @@ Continuing with the same example from above, let's see what happens when additio
 To keep things simple, we'll assume the employee is rewarded only with stock refreshers (no base salary increase). In this case, we'll say that the employee is promoted effective in Year 6, and they are offered $100,000 total RSUs with no cliff (they begin vesting immediately) and a two-year vest.
 
 <table>
+	<caption>Typical Big Tech offer - comp-leveling and performance refreshers</caption>
 	<thead>
 		<tr><th>Component</th><th></th><th>Year 1</th><th>Year 2</th><th>Year 3</th><th>Year 4</th><th>Year 5</th><th>Year 6</th></tr>
 	</thead>
