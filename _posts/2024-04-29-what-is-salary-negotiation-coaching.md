@@ -86,7 +86,14 @@ All of these billing methods have different potential impacts on the incentives 
 
 ## <a name="guaranteed"></a>Is Salary Negotiation Coaching guaranteed to increase your job offer?
 
-TKTK
+No, there's no way to guarantee that your job offer will increase through negotiation. 
+
+The two ideal outcomes for a Salary Negotiation Coaching engagement are:
+
+1. Optimize your job offer to make absolutely sure you don't leave anything on the table.
+2. Learn how to negotiate job offers so that you understand the process if you would like to.
+
+Most of the time, the optimized version of your job offer will be an improvement on your initial job offer, but not always. Sometimes the best version of your offer is the initial offer you received, but the only way you can be absolutely sure you have the best version of your offer is to negotiate it.
 
 ## <a name="how-to-choose-a-coach"></a>How to choose a Salary Negotiation Coach
 
