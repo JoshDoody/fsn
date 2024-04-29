@@ -14,7 +14,7 @@ date: 2023-11-18
 author: josh
 published: true
 ---
-Netflix is unusual in many ways among big tech companies. One of the differences that really sets it apart is that its job offers are pretty much one-dimensional: cash. They don't offer RSUs or target bonuses, but they do offer stock options as a benefit (5% of base pay) and they occasionally offer sign-on bonuses. Netflix employees also have the ability to buy stock options for a very good price through their Stock Option Program.
+Netflix is unusual in many ways among big tech companies. One of the differences that really sets it apart is that its job offers are pretty much one-dimensional: cash. They don't offer RSUs or target bonuses, but they do offer stock options as a benefit (5% of base pay) and they occasionally offer [sign-on bonuses](/sign-on-bonus-overview/). Netflix employees also have the ability to buy stock options for a very good price through their Stock Option Program.
 
 But what about _negotiating_ Netflix offers? Aren't they famous for _not_ negotiating them?
 
@@ -71,6 +71,11 @@ This is because some specialties are more in-demand and there are fewer people a
 ### Sign-on bonus
 
 Netflix doesn't typically offer sign-on bonuses, but they _are_ available in some cases. 
+
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> Learn more about sign-on bonuses</p>
+  <p><a href="/sign-on-bonus-overview/">What is a sign-on bonus? Definition and examples <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 #### How flexible is Netflix on Sign-on bonus?
 

@@ -56,7 +56,7 @@ They may also include other components, but these are the most common ones.
 
 Here's a generic example just to get you comfortable with a baseline offer (all numbers are $1,000s). This isn't meant to by typical or representative of the _quantities_ for any particular component—this is just what components you can expect in a typical offer.
 
-This offer is for $150,000 base salary, $200,000 total equity (vesting over four years), and a $10,000 sign-on bonus:
+This offer is for $150,000 base salary, $200,000 total equity (vesting over four years), and a $10,000 [sign-on bonus](/sign-on-bonus-overview/):
 
 <table>
 	<thead>
@@ -195,9 +195,14 @@ In most traditional (non-Big Tech) companies, your annual raise just results in 
 
 ## <a name="sign-on"></a>Sign-on Bonus
 
-Even if there's not a sign-on bonus included with your initial offer, there may be one available through negotiation. Sign-on bonuses, like equity, can range from four figures into six figures.
+Even if there's not a [sign-on bonus](/sign-on-bonus-overview/) included with your initial offer, there may be one available through negotiation. Sign-on bonuses, like equity, can range from four figures into six figures.
 
 I like to think of the sign-on bonus as a way to help bridge the gap between your first paycheck and your first RSU vesting date.
+
+<blockquote class="ico link-callout">
+  <p><span>Learn more</span> Learn more about sign-on bonuses</p>
+  <p><a href="/sign-on-bonus-overview/">What is a sign-on bonus? Definition and examples <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
 
 ### Beware clawbacks
 

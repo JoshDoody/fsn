@@ -103,7 +103,7 @@ First, you need to decide which dimension you’ll counter on. Then you need to 
 
 One tendency that seems common to engineers in particular is they want to address *all* possible contingencies at once. This often leads engineers to try to negotiate on many dimensions at the same time—I call this the “kitchen sink” method because they throw everything but the kitchen sink into their counter offer.
 
-“I would like this much salary, and this much sign-on bonus, and this much more equity, and some extra vacation, and to work from home one day a week, and I would like a parking stipend” and on and on. They feel like they’ll only get one swing at the counter offer and they want to make sure they hit *something* with that swing.
+“I would like this much salary, and this much [sign-on bonus](/sign-on-bonus-overview/), and this much more equity, and some extra vacation, and to work from home one day a week, and I would like a parking stipend” and on and on. They feel like they’ll only get one swing at the counter offer and they want to make sure they hit *something* with that swing.
 
 The problem with this method is you give the company several options for how they’ll work with you in your negotiation, and they’re pretty much always going to choose to focus on the cheapest, most convenient options *for them*. That usually means they’re focused on the things that are the least valuable to you and it’s easy for them.
 

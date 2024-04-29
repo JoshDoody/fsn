@@ -16,7 +16,9 @@ author: josh
 published: true
 ---
 
-A stock refresher is a stock grant given to an existing employee as additional compensation.
+## What is a stock refresher?
+
+Definition: A stock refresher is a stock grant given to an existing employee as additional compensation.
 
 Refreshers are similar to initial stock grants—usually the same stock or RSUs, often the same vesting schedule—but serve a different purpose. Whereas an initial stock grant is designed to offer compensation and entice candidates to join the company, a stock refresher is usually somewhat or entirely performance based and is designed to keep strong candidates at a company once their initial stock grant has vested or as their compensation begins to stagnate.
 
@@ -36,7 +38,7 @@ It's probably easiest to illustrate how stock refreshers work with some examples
 
 ### Total compensation over time without stock refreshers
 
-Let's start by looking at a baseline example of a typical Big Tech job offer. Here's an example taken from a modified version of a real Big Tech job offer from one of my clients. This client was a very experienced software developer with substantial background in embedded systems. This offer is for $210,000 base salary, $400,000 total equity (vesting over four years), and a $100,000 sign-on bonus.
+Let's start by looking at a baseline example of a typical Big Tech job offer. Here's an example taken from a modified version of a real Big Tech job offer from one of my clients. This client was a very experienced software developer with substantial background in embedded systems. This offer is for $210,000 base salary, $400,000 total equity (vesting over four years), and a $100,000 [sign-on bonus](/sign-on-bonus-overview/).
 
 <table>
 	<caption>Typical Big Tech offer - no refreshers</caption>
