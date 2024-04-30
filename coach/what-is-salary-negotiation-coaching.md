@@ -4,12 +4,7 @@ title: What is Salary Negotiation Coaching?
 headline: What is Salary Negotiation Coaching?
 subhead: Everything you need to know about Salary Negotiation Coaching
 description: Everything you need to know about Salary Negotiation Coaching and how to find the right Salary Negotiation Coach for you
-categories:
-  - coach
-tags:
-  - recommended
-  - popular
-featured: true
+company: agnostic
 date: 2024-04-29
 author: josh
 published: true
