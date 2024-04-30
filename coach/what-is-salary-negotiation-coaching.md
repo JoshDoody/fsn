@@ -36,7 +36,7 @@ When I began offering [Salary Negotiation Coaching services](/coach/) in 2016, t
 
 Beginning in 2018 or so, more individuals and companies began to offer Salary Negotiation Coaching services either as an add-on to other services, or occasionally as a dedicated offering.
 
-It is still a relatively new field with new entrants entering.
+It is still a relatively new field with new entrants easing in.
 
 ## <a name="why-to-hire"></a>Why should you hire a Salary Negotiation Coach?
 
