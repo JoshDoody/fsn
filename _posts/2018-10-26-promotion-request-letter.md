@@ -140,8 +140,8 @@ Once you've presented your case to your manager, you should follow up wiht your 
 
 ## Articles you may also like
 
-- [A **salary negotiation email** (to negotiate your starting salary)](https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/)
-- [A **salary increase letter** to ask your boss for a raise](https://fearlesssalarynegotiation.com/salary-increase-letter-sample/)
-- [How to answer the "What's your expected salary?" question](https://fearlesssalarynegotiation.com/salary-expectations-interview-question/)
-- [How to negotiate salary: 9 tips from a pro salary negotiator](https://fearlesssalarynegotiation.com/salary-negotiation-guide/)
-- [Got a job offer from Amazon? Learn how to negotiate your salary](https://fearlesssalarynegotiation.com/amazon-salary-negotiation/)
+- [A **salary negotiation email** (to negotiate your starting salary)](/salary-negotiation-email-sample/)
+- [A **salary increase letter** to ask your boss for a raise](/salary-increase-letter-sample/)
+- [How to answer the "What's your expected salary?" question](/salary-expectations-interview-question/)
+- [How to negotiate salary: 9 tips from a pro salary negotiator](/salary-negotiation-guide/)
+- [Got a job offer from Amazon? Learn how to negotiate your salary](/amazon-salary-negotiation/)

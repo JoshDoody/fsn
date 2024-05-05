@@ -94,7 +94,7 @@ And here's the same sentiment in an email template:
 
 <blockquote class="ico link-callout">
   <p><span>Key resource</span> Get the email template to ask for time to consider the offer</p>
-  <p><a href="/salary-negotiation-email-sample/#ask-for-time-template">Salary negotiation email templates <i class="fas fa-angle-double-right"></i></a></p>
+  <p><a href="/respond-to-job-offer-email/">How to respond to job offer over email (template and tips) <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
 {% include cta-generator.html %}
@@ -142,7 +142,7 @@ So you don't want to find yourself negotiating salary on a phone call with a pro
 
 Instead, send your counter offer over email. Not only will you avoid negotiating salary in real-time against a professional negotiator, but you'll have a chance to clearly articulate your case and carefully construct your request so that whoever sees it—the recruiter, the finance team, or anyone else in the approval chain—gets your counter offer in your own carefully-written words.
 
-When in doubt, use the [baseline salary negotiation email template](/salary-negotiation-email-sample/#baseline-counter-template) to send your counter offer.
+When in doubt, use the [salary negotiation email template](/salary-negotiation-email-sample/) to send your counter offer.
 
 <div class="email-block">
   <div class="masthead">
@@ -168,11 +168,6 @@ When in doubt, use the [baseline salary negotiation email template](/salary-nego
 </div>
 
 But there are several unique situations that might call for a slightly modified version of the salary negotiation email template, so you might want to consult this article—look specifically at the table of contents up top—to find the right template for you:
-
-<blockquote class="ico link-callout">
-  <p><span>Key resource</span> Get the right email template for your situation</p>
-  <p><a href="/salary-negotiation-email-sample/">Salary negotiation email templates <i class="fas fa-angle-double-right"></i></a></p>
-</blockquote>
 
 ## <a name="quick-response"></a>7. Be ready for a quick response
 
@@ -234,3 +229,11 @@ This is crucial: You do not have to accept a job offer, even if your salary nego
 
 If they didn't meet your minimum acceptable salary, or if you have better alternatives, or if you just don't have a good feeling about this particular job, you can decline the offer. This is your _ultimate_ leverage in the negotiation!
 
+## Articles you may also like
+
+- [How to respond to job offer over email (template and tips)](respond-to-job-offer-email)
+- [Should you negotiate your salary over email?](/should-you-negotiate-salary-over-email/)
+- [Salary Negotiation Email: Proven template and walkthrough](/salary-negotiation-email-sample/)
+- [How to **accept** a job offer over email (templates and examples)](accept-job-offer-email)
+- [How to **decline** a job offer over email (templates and examples)](decline-job-offer-email)
+- [The Anatomy of a Big Tech Job Offer: How Big Tech Structures Their Job Offers](/big-tech-job-offer-overview/)
