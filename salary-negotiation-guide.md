@@ -231,9 +231,9 @@ If they didn't meet your minimum acceptable salary, or if you have better altern
 
 ## Articles you may also like
 
-- [How to respond to job offer over email (template and tips)](respond-to-job-offer-email)
+- [How to respond to job offer over email (template and tips)](/respond-to-job-offer-email/)
 - [Should you negotiate your salary over email?](/should-you-negotiate-salary-over-email/)
 - [Salary Negotiation Email: Proven template and walkthrough](/salary-negotiation-email-sample/)
-- [How to **accept** a job offer over email (templates and examples)](accept-job-offer-email)
-- [How to **decline** a job offer over email (templates and examples)](decline-job-offer-email)
+- [How to **accept** a job offer over email (templates and examples)](/accept-job-offer-email/)
+- [How to **decline** a job offer over email (templates and examples)](/decline-job-offer-email/)
 - [The Anatomy of a Big Tech Job Offer: How Big Tech Structures Their Job Offers](/big-tech-job-offer-overview/)

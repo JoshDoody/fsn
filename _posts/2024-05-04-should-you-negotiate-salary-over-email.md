@@ -58,8 +58,8 @@ You're the best person to make that case, and the best place to write that case 
 ## Articles you may also like
 
 - [How to negotiate salary: 9 tips from a pro salary negotiator](/salary-negotiation-guide/)
-- [How to respond to job offer over email (template and tips)](respond-to-job-offer-email)
+- [How to respond to job offer over email (template and tips)](/respond-to-job-offer-email/)
 - [Salary Negotiation Email: Proven template and walkthrough](/salary-negotiation-email-sample/)
-- [How to **accept** a job offer over email (templates and examples)](accept-job-offer-email)
-- [How to **decline** a job offer over email (templates and examples)](decline-job-offer-email)
+- [How to **accept** a job offer over email (templates and examples)](/accept-job-offer-email/)
+- [How to **decline** a job offer over email (templates and examples)](/decline-job-offer-email/)
 - [The Anatomy of a Big Tech Job Offer: How Big Tech Structures Their Job Offers](/big-tech-job-offer-overview/)
