@@ -18,11 +18,9 @@ published: true
 ---
 A salary negotiation email is the best way to ask for a higher salary or other benefits before beginning a new job. You may only get one opportunity to negotiate your new salary before you're an employee, so you want to make it count.
 
-In this article, you'll get the proven email template used by thousands of people, and hundreds of my [coaching clients](/coach/), to earn more than $20,000,000 additional compensation. I'll walk you through the template step-by-step so you can write your own salary negotiation email to make sure you get paid what you're worth.
+In this article, you'll get the _exact_ email template that I used to negotiate my own salary, that has helped hundreds of my [coaching clients](/coach/) negotiate a combined $15,000,000+ in additional compensation, and that thousands more people have used to negotiate their _own_ job offers.
 
-In this article, you'll get the _exact_ template I've used to negotiate my own salary, and help hundreds of [coaching clients](/coach/) negotiate a combined $15,000,000+ in additional compensation. And thousands more people have used this template to negotiate their _own_ job offers.
-
-I lost count a long time ago, but the template below has earned people at least $20,000,000 in additional income and probably a lot more.
+I lost count a long time ago, but I estimate that the email template below has earned people more than $20,000,000 in additional income and probably _a lot_ more.
 
 **Jump to..**
 
