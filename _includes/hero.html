@@ -3,7 +3,7 @@
     <div class="grid md:grid-cols-2 sm:grid-cols-1 gap-6">
       <div>
         {% if page.headline %}
-          <h1 class="text-4xl pb-6 pr-12">{{ page.headline | markdownify }}</h1>
+          <h1 class="text-4xl pb-6 pr-12">{{ page.headline }}</h1>
         {% elsif page.title %}
           <h1 class="text-4xl pb-6 pr-12">{{ page.title }}</h1>
         {% endif %}
