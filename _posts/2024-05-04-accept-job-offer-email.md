@@ -97,7 +97,7 @@ You may schedule a call with your recruiter, anticipating a job offer. But inste
 
 This can be deflating (you were hoping for an offer and instead got a difficult question), but it can also be an opportunity to make a very costly mistake: sharing your salary expectations.
 
-If they do ask you for your salary expectations, this article will help you answer that question well while also leaving your negotiation options open later on: [Salary Expectations Questions - How should you answer them?](https://fearlesssalarynegotiation.com/salary-expectations-interview-question/)
+If they do ask you for your salary expectations, this article will help you answer that question well while also leaving your negotiation options open later on: [Salary Expectations Questions - How should you answer them?](/salary-expectations-interview-question/)
 
 ### 2. It's totally normal to ask for some time to consider your job offer
 
