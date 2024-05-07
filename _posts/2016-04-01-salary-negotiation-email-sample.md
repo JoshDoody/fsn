@@ -1,9 +1,9 @@
 ---
 layout: posts
-title: 'Salary Negotiation Email: Proven template and walkthrough'
-headline: How to write a salary negotiation email (with template and walkthrough)
+title: How to write a Salary Negotiation Email (template and tips)
+headline: How to write a salary negotiation email (with template, tips, and walkthrough)
 subhead: Everything you need to write the perfect salary negotiation email using the template that has earned candidates $20M and counting
-description: A professional salary negotiator walks through every piece of a real-world salary negotiation email that has made over $20M and counting.
+description: A professional salary negotiator walks through every piece of a real-world salary negotiation email that has made over $20M and counting
 categories:
   - negotiate
 tags:
