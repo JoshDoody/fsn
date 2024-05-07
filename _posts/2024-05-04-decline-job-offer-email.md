@@ -10,8 +10,6 @@ date: 2024-05-04
 author: josh
 published: true
 ---
-
-
 Here's an email template you can use to politely decline a job offer and let them know you have accepted another offer.
 
 ## <a name="decline-offer-accepted-another-template"></a>Declining a job offer (accepted another position)
