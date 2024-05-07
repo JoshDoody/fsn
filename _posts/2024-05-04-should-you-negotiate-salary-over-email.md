@@ -13,7 +13,9 @@ published: true
 
 You should _definitely_ negotiate your salary over email whenever possible. Not only will you avoid being outmaneuvered by a professional negotiator, but you'll be able to make your case in your own words so that anyone who needs to approve your request will have everything they need to make that decision.
 
-## Recruiters are professional negotiators—you aren't
+There are two main reasons you _should_ negotiate your salary over email.
+
+## 1. Recruiters are professional negotiators—you aren't
 
 Recruiters—the people you'll usually be negotiating salary with—are essentially professional negotiators who do this every day for a living. In a single day, they might negotiate more job offers than you'll negotiate in your entire _career_. On a phone call, they're almost certainly going to be more comfortable than you, make fewer mistakes, and generally "win" the negotiation most of the time.
 
@@ -21,7 +23,7 @@ When you negotiate salary on the phone, you're more likely to make mistakes due 
 
 But you can change the venue of your negotiation by moving it from the phone over to email. Sending a [salary negotiation email](/salary-negotiation-email-sample/) is better because you can be more deliberate with every word, so you can carefully articulate your counter offer and make your case. That will level the playing field and mitigate a lot of their advantages in the negotiation.
 
-## You will make your case better than your recruiter
+## 2. You will make your case better than your recruiter
 
 But let's say you're actually _very_ comfortable negotiating on the phone. You're able to articulate your case, quash objections, and avoid pitfalls that recruiters might use to control the negotiation.
 
