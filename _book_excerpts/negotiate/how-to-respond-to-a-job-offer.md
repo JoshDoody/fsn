@@ -5,6 +5,7 @@ subhead: Always ask for some time to think it over
 description: You should negotiate starting salary. But first, ask for some time to consider the job offer so you can plan for the negotiation.
 context: negotiate
 last_modified_at: 2016-06-25
+canonical_url: 'https://fearlesssalarynegotiation.com/respond-to-job-offer-email/'
 book_section: 8
 chapter: negotiate
 section: 4
