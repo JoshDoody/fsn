@@ -217,7 +217,7 @@ Yes! I prefer to work with referred clients whenever possible.
 
 ### How does your referral program work?
 
-My referral program is pretty simple and straightforward: If you recommend someone to me and they decide to work with me, I'll give you $1,000.
+My referral program is pretty simple and straightforward: If you recommend someone to me and they decide to work with me, I'll give you up to $1,000.
 
 But here's the catch: I need the person you referred to let me know that you're the one who sent them my way.
 
