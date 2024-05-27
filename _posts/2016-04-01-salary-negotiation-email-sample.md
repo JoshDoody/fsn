@@ -506,7 +506,7 @@ This salary negotiation email example will enable you to let them down easy if y
   </div>
   <div class="email-copy">
 		<p>Hi [Recruiter name]</p>
-		<p>Thank you so much for your job offer. This was a difficult decision, but I’ve accepted an offer from another company.</p>
+		<p>Thank you so much for your job offer. This was a difficult decision, but I must decline the offer as I have accepted an offer from another company.</p>
 		<p>I appreciate all the time and effort you have invested throughout this process. And I will be sure to let others know about this great opportunity.</p>
 		<p>Thanks again for your offer.</p>
 		<p>All the best</p>
@@ -532,7 +532,7 @@ Your recruiter will probably be frustrated, but this salary negotiation email te
   </div>
   <div class="email-copy">
 		<p>Hi [Recruiter name]</p>
-		<p>Thank you so much for your job offer. After careful consideration, I’ve decided this opportunity is not the best fit for me.</p>
+		<p>Thank you so much for your job offer. After careful consideration, I must decline the offer as I have decided this opportunity is not the best fit for me.</p>
 		<p>I will be sure to let others know about this great opportunity.</p>
 		<p>Thanks again for your offer, and for all your time and effort throughout this process.</p>
 		<p>All the best</p>
