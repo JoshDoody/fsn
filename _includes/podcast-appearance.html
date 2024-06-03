@@ -13,7 +13,9 @@
   </div>
   <div class="grid sm:grid-cols-1 lg:grid-cols-3 podcast-inc">
 
-    {% for podcast in site.media_podcasts %}
+    {% assign all_podcasts = site.media_podcasts %}
+		
+    {% for podcast in all_podcasts %}
       <div class="bg-white flex flex-col podcast-episode">
         {% if podcast.thumbnail %}
           <img src="/assets/imgs/podcast-images/{{ podcast.thumbnail }}" class="podcast-thumb" data-mh="podcast-thumb" />
