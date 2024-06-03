@@ -1,0 +1,320 @@
+---
+layout: default
+title: "Fearless Salary Negotiation | Get Paid What You're Worth"
+headline: Proven salary negotiation strategies and tactics to get paid what you're worth
+description: Proven salary negotiation strategies and tactics to get paid what you're worth.
+heroImg: hero-maze.png
+bodyClass: home
+---
+
+<div class="container mx-auto py-20">
+  <h2 class="text-3xl mb-16 sans-serif uppercase">What do you need help with?</h2>
+  <div class="grid sm:grid-cols-1 md:grid-cols-3 gap-6">
+    <div>
+      <img src="/assets/imgs/ico-process.svg" class="ico" alt="">
+      <h3 class="text-2xl mt-6 mb-4 uppercase sans-serif" data-mh="help-title">Big Tech Job Offer Negotiation</h3>
+      <p class="mb-6" data-mh="help-content">Get everything you need to understand, evaluate, and negotiate your job offer from a Big Tech company.</p>
+      <p class="mb-6"><a href="/big-tech-job-offer-overview/" class="btn btn-primary">Learn About Big Tech</a></p>
+      <p><a href="/coach/" class="no-border">Want 1-on-1 Help? Work with Josh <i class="fas fa-angle-double-right"></i></a></p>
+    </div>
+    <div>
+      <img src="/assets/imgs/ico-interview.svg" class="ico" alt="">
+      <h3 class="text-2xl mt-6 mb-4 uppercase sans-serif" data-mh="help-title">Prepare for your interviews</h3>
+      <p class="mb-6" data-mh="help-content">Learn how to ace your screening interviews and use positioning to stand out from other candidates and get more job offers.</p>
+      <p class="mb-6"><a href="/interview-preparation-guide/" class="btn btn-primary">Start your prep</a></p>
+      <p><a href="/salary-negotiation-mastery/" class="no-border">In a hurry? Buy Salary Negotiation Mastery <i class="fas fa-angle-double-right"></i></a></p>
+    </div>
+    <div>
+      <img src="/assets/imgs/ico-offer.svg" class="ico" alt="">
+      <h3 class="text-2xl mt-6 mb-4 uppercase sans-serif" data-mh="help-title">Negotiate your job offer</h3>
+      <p class="mb-6" data-mh="help-content">Get my best 9 tips to help you negotiate the best possible salary without endangering your offer or leaving anything on the table.</p>
+      <p class="mb-6"><a href="/salary-negotiation-guide/" class="btn btn-primary">Get the 9 tips</a></p>
+      <p><a href="/salary-negotiation-mastery/" class="no-border">In a hurry? Buy Salary Negotiation Mastery <i class="fas fa-angle-double-right"></i></a></p>
+    </div>
+  </div>
+</div><!-- /products -->
+
+<div class="container mx-auto">
+  <div class="md:flex justify-between mb-8">
+    <div>
+      <h2 class="text-3xl uppercase sans-serif">Results</h2>
+    </div>
+    <div class="mt-8 sm:mt-6 md:mt-0">
+      <a href="/results/" class="btn-primary btn text-right">More Results</a>
+    </div>
+  </div>
+  <div class="success-slider">
+    <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
+    <div class="suc-quotes">
+
+      {% include success-story.html story-id="josh_johnson" %}
+      {% include success-story.html story-id="justin_garrison" %}
+      {% include success-story.html story-id="anon_27" %}
+      {% include success-story.html story-id="anon_25" %}
+      {% include success-story.html story-id="leonardo" %}
+      {% include success-story.html story-id="anon_23" %}
+			{% include success-story.html story-id="aaron_batilo" %}
+			{% include success-story.html story-id="taylor" %}
+			{% include success-story.html story-id="john_li" %}
+
+
+      <!-- <div>
+        <p>I used the Fearless Salary Negotiation strategy for negotiating an offer and went <strong>from $95,000</strong> with a title of Software Engineer 1 <strong>to $105,000</strong> with a title of Software Engineer 2. Now I can pay off my student loans and buy a house more quickly. Six months later, I did it again! This time, I one-upped that by turning a <strong>$125,000 offer</strong> to a <strong>$145,000 offer</strong>. That's $30,000 in additional salary thanks to this truly wonderful resource.”</p>
+        <div class="flex items-center mt-6">
+          <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
+          <div>
+            <p class="name m-0">First Name</p>
+            <p class="title m-0">Job Title</p>
+          </div>
+        </div>
+      </div> -->
+
+    </div><!-- /suc-quotes -->
+
+    <div class="flex suc-control">
+      <button type="button" class="suc-prev"><i class="fas fa-arrow-left"></i></button>
+      <button type="button" class="suc-next"><i class="fas fa-arrow-right"></i></button>
+    </div><!-- /suc-control -->
+
+    <div class="suc-dots"></div>
+
+  </div><!-- /success-slider -->
+</div><!-- /success stories slider -->
+
+<div class="container mx-auto my-24">
+  <div class="md:flex justify-between mb-8">
+    <div>
+      <h2 class="text-3xl uppercase sans-serif">Popular Articles</h2>
+    </div>
+    <div class="mt-8 sm:mt-6 md:mt-0">
+      <a href="/articles/" class="btn-primary btn text-right">More Articles</a>
+    </div>
+  </div>
+  <div class="grid sm:grid-cols-1 lg:grid-cols-3 gap-4">
+
+		{% comment %}
+		{% killing automated loop to manually populate %}
+    {% assign popular = site.posts | where: 'popularArticle', 'true' %}
+    {% for popular in popular limit:3 %}
+      <!-- <div class="bg-white flex flex-col">
+        <div class="p-8 flex-grow flex-1">
+          <p class="text-2xl"><a href="{{ popular.url }}" class="no-border">{{ popular.title }}</a></p>
+          <hr class="my-6 w-16 hr-article">
+          <p class="text-sm mb-6">{{ popular.description }}</p>
+        </div>
+        <div class="category items-center justify-between flex">
+          <div class="pl-8"><p class="text-xs">{{ popular.categories | join: ', ' }}</p></div>
+          <div><a href="{{ popular.url }}" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+        </div>
+      </div> -->
+    {% endfor %}
+		{% endcomment %}
+		
+    <div class="bg-white flex flex-col">
+      <div class="p-8 flex-grow flex-1">
+        <p class="text-2xl"><a href="/coach/" class="no-border">Salary Negotiation Service for High Earners</a></p>
+        <hr class="my-6 w-16 hr-article">
+        <p class="text-sm mb-6 sans-serif">Are you looking at an offer letter wondering, "How am I supposed to negotiate this?" My <a href="/coach/">salary negotiation service</a> can help you negotiate a higher offer. (I’ve helped High Earners at <a href="/facebook-salary-negotiation/">Facebook</a>, <a href="/apple-salary-negotiation/">Apple</a>, <a href="/amazon-salary-negotiation/">Amazon</a>, <a href="/microsoft-salary-negotiation/">Microsoft</a>, <a href="/google-salary-negotiation/">Google</a>, and more.)</p>
+      </div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="sans-serif text-xs">Salary Negotiation Coaching</p></div>
+        <div><a href="/coach/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+      </div>
+    </div>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 flex-grow flex-1">
+        <p class="text-2xl"><a href="/salary-negotiation-email-sample/" class="no-border">How to write a salary negotiation email</a></p>
+        <hr class="my-6 w-16 hr-article">
+        <p class="text-sm mb-6 sans-serif">Everything you need to write the perfect salary negotiation email to make your counter offer (with 11 proven templates and a sample). Pairs nicely with this real <a href="/salary-negotiation-script-example/">salary negotiation script</a> that I use during my salary negotiations.</p>
+      </div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="sans-serif text-xs">Negotiating Job Offers</p></div>
+        <div><a href="/salary-negotiation-email-sample/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+      </div>
+    </div>
+    <div class="bg-white flex flex-col">
+      <div class="p-8 flex-grow flex-1">
+        <p class="text-2xl"><a href="/salary-negotiation-script/" class="no-border">Counter offer calculator and email script</a></p>
+        <hr class="my-6 w-16 hr-article">
+        <p class="text-sm mb-6 sans-serif">Struggling to calculate your counter offer? This <a href="/salary-negotiation-script/">calculator and email script</a> will help. You can also read a free chapter on <a href="/book/negotiate/how-to-determine-your-counter-offer/">how to negotiate your salary counter-offer</a> from <a href="/book/">my book</a>.</p>
+      </div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="sans-serif text-xs">Negotiating Job Offers</p></div>
+        <div><a href="/salary-negotiation-script/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+      </div>
+    </div>
+    <!-- <div class="bg-white flex flex-col">
+      <div class="p-8 flex-grow flex-1">
+        <p class="text-2xl"><a href="/salary-negotiation-script-example/" class="no-border">Salary Negotiation Script</a></p>
+        <hr class="my-6 w-16 hr-article">
+        <p class="text-sm mb-6 sans-serif">Use this script to maximize your starting salary and benefits. This is the real <a href="/salary-negotiation-script-example/">salary negotiation script</a> that I use during my salary negotiations. You’ll also learn my recommended steps to take after receiving a verbal job offer from a hiring manager.</p>
+      </div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="sans-serif text-xs">Negotiating Job Offers</p></div>
+        <div><a href="/salary-negotiation-script-example/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+      </div>
+    </div> -->
+
+    <!-- <div class="bg-white flex flex-col">
+      <div class="p-8 flex-grow flex-1">
+        <p class="text-2xl"><a href="/salary-expectations-interview-question/">Salary expectations questions - How should you answer them?</a></p>
+        <hr class="my-6 w-16 hr-article">
+        <p class="text-sm mb-6 sans-serif">Don't panic! Here's how to tactfully answer salary expectations questions without costing yourself a ton of money (updated for 2021)</p>
+      </div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="sans-serif text-xs">Salary Negotiation</p></div>
+        <div><a href="/salary-expectations-interview-question/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+      </div>
+    </div> -->
+
+  </div>
+</div><!-- /popular articles -->
+
+<!-- <div>
+  <div class="container mx-auto">
+    <hr class="hr-default">
+  </div>
+</div>
+
+<div class="container mx-auto my-24">
+  <div class="md:flex justify-between mb-8">
+    <div>
+      <h2 class="text-3xl uppercase sans-serif">Free Resources</h2>
+    </div>
+    <div class="mt-8 sm:mt-6 md:mt-0">
+      <a href="#" class="btn-primary btn text-right">More Resources</a>
+    </div>
+  </div>
+  <div class="grid sm:grid-cols-1 lg:grid-cols-3 gap-4">
+
+    {% assign resource = site.resources | where: 'showOnHomepage', 'true' %}
+    {% for resource in resource limit:3 %}
+      <div class="bg-white flex flex-col">
+        <div class="p-8 flex-grow flex-1">
+          <p class="text-2xl"><a href="{{ resource.url }}">{{ resource.title }}</a></p>
+          <hr class="my-6 w-16 hr-article">
+          <p class="text-sm mb-6 sans-serif">{{ resource.description }}</p>
+        </div>
+        <div class="category items-center justify-between flex">
+          <div class="pl-8"><p class="sans-serif text-xs">{{ resource.categories | join: ', ' }}</p></div>
+          <div><a href="{{ resource.url }}" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+        </div>
+      </div>
+    {% endfor %}
+
+    <div class="bg-white flex flex-col">
+      <div class="p-8 flex-grow flex-1">
+        <p class="text-2xl">Salary negotiation email samples and a counter offer letter template</p>
+        <hr class="my-6 w-16 hr-article">
+        <p class="text-sm mb-6 sans-serf">A professional salary negotiator shows you how to counter offer with a salary negotiation email template once you have a job offer.</p>
+      </div>
+      <div class="category items-center justify-between flex">
+        <div class="pl-8"><p class="sans-serif text-xs">Email Templates</p></div>
+        <div><a href="/salary-negotiation-email-sample/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
+      </div>
+    </div> -->
+
+  </div>
+</div><!-- /free resources -->
+
+<div class="mx-auto bg-gray-500 product-grid">
+  <div class="md:grid grid-cols-2">
+    <div class="product-column">
+      <div class="md:flex">
+        <div class="md:w-1/2">
+          <img src="/assets/imgs/homepage-book-image.png" alt="">
+        </div>
+        <div class="product-copy p-4 md:py-14 md:pr-16 md:pl-0 md:w-1/2">
+          <h4 class="brand-secondary uppercase sans-serif text-3xl mb-5">The Book</h4>
+          <p class="text-white text-base mb-8">The essential tools to get paid what you're worth</p>
+          <p class="mb-8"><a href="/get-started/" class="btn btn-primary">Learn More</a></p>
+          <p class="text-white text-base"><a href="https://transactions.sendowl.com/packages/35512/C895E617/purchase">Or buy it now for just $99 <i class="fas fa-angle-double-right"></i></a></p>
+        </div>
+      </div>
+    </div>
+    <div class="product-column">
+      <div>
+        <div class="md:flex">
+          <div class="product-copy p-4 md:py-14 md:pl-16 md:pr-0 md:w-1/2">
+            <h4 class="brand-secondary uppercase sans-serif text-3xl mb-5">Salary Negotiation Mastery</h4>
+            <p class="text-white text-base mb-8">You’ve earned a job offer, now let’s make sure you get paid exactly what you deserve</p>
+            <p class="mb-8"><a href="/salary-negotiation-mastery/" class="btn btn-primary">Learn More</a></p>
+            <p class="text-white text-base"><a href="https://fearlesssalarynegotiation.thrivecart.com/salary-negotiation-mastery/">Or buy it now for just $1,297 <i class="fas fa-angle-double-right"></i></a></p>
+          </div>
+          <div class="md:w-1/2">
+            <img src="/assets/imgs/snm-product-image.png" alt="Salary Negotiation Mastery program contents">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- <div class="md:grid grid-cols-3">
+    <div class="product-column">
+      <img src="/assets/imgs/prod-devices-alt-small.png" alt="">
+      <div class="product-copy-sm p-10">
+        <h4 class="brand-secondary uppercase sans-serif text-2xl mb-5">Product Title Here</h4>
+        <p class="text-white serif text-base mb-8">Short description of this product goes right here Far far away, behind the word mountains</p>
+        <p class="mb-8 text-base text-white sans-serif"><a href="/get-started/" class="btn btn-primary">Learn More</a><a href="#">Or buy it now for just $XXX <i class="fas fa-angle-double-right"></i></a></p>
+      </div>
+    </div>
+    <div class="product-column">
+      <img src="/assets/imgs/prod-devices-alt-small.png" alt="">
+      <div class="product-copy-sm p-10">
+        <h4 class="brand-secondary uppercase sans-serif text-2xl mb-5">Product Title Here</h4>
+        <p class="text-white serif text-base mb-8">Short description of this product goes right here Far far away, behind the word mountains</p>
+        <p class="mb-8 text-base text-white sans-serif"><a href="/get-started/" class="btn btn-primary">Learn More</a> <a href="#">Or buy it now for just $XXX <i class="fas fa-angle-double-right"></i></a></p>
+      </div>
+    </div>
+    <div class="product-column">
+      <img src="/assets/imgs/prod-devices-alt-small.png" alt="">
+      <div class="product-copy-sm p-10">
+        <h4 class="brand-secondary uppercase sans-serif text-2xl mb-5">Product Title Here</h4>
+        <p class="text-white serif text-base mb-8">Short description of this product goes right here Far far away, behind the word mountains</p>
+        <p class="mb-8 text-base text-white sans-serif"><a href="/get-started/" class="btn btn-primary">Learn More</a> <a href="#">Or buy it now for just $XXX <i class="fas fa-angle-double-right"></i></a></p>
+      </div>
+    </div>
+  </div> -->
+</div><!-- /product-grid -->
+
+<div class="container mx-auto my-24">
+
+  {% include in-the-press.html %}
+
+</div><!-- /in the press -->
+
+<div>
+  <div class="container mx-auto">
+    <hr class="hr-default">
+  </div>
+</div>
+
+<div class="container mx-auto my-24">
+
+  {% include podcast-appearance.html %}
+
+</div><!-- /podcast appearances -->
+
+<div class="container mx-auto mb-16 article-lists">
+  <div class="grid sm:grid-cols-1 md:grid-cols-2">
+    <div class="sm:pr-12 md:pr-16 lg:pr-24 mb-16 md:mb-0">
+      <h3 class="text-2xl mb-8 alt uppercase sans-serif">Recommended</h3>
+      <hr class="mb-6 w-16 hr-article">
+      <p>Wondering ‘how does this salary negotiation thing work?’ Read my free <a href="/salary-negotiation-guide/">salary negotiation guide and learn how to negotiate your salary offer</a>.</p>
+      <hr class="my-6 w-16 hr-default">
+      <p>The word-for-word scripts included in this article will help you <a href="/salary-expectations-interview-question/">respond when a recruiter asks about salary</a></p>
+      <hr class="my-6 w-16 hr-default">
+      <p>My <a href="/salary-negotiation-email-sample/">salary negotiation email sample</a> will help you write + send your counter offer email</p>
+    </div>
+    <div class="sm:pr-12 md:pr-16 lg:pr-24">
+      <h3 class="text-2xl mb-8 alt uppercase sans-serif">Popular</h3>
+      <hr class="mb-6 w-16 hr-article">
+      <p>The most popular question I’ve ever been asked? “<a href="/salary-expectations-interview-question/">How to respond when a recruiter asks about your salary expectations?</a>”</p>
+      <hr class="my-6 w-16 hr-default">
+      <p>Lots of people love my advice on <a href="/how-to-negotiate-a-lowball-job-offer/">how to respond to a low salary offer</a></p>
+      <hr class="my-6 w-16 hr-default">
+      <p>And my "<a href="/salary-increase-letter-sample/">how to ask for a raise</a>" email will help you ask your boss for a salary increase</p>
+    </div>
+  </div>
+</div><!-- /articles -->
+
+{% include one-on-one-help.html %}

@@ -1,320 +1,62 @@
 ---
 layout: default
 title: "Fearless Salary Negotiation | Get Paid What You're Worth"
-headline: Proven salary negotiation strategies and tactics to get paid what you're worth
-description: Proven salary negotiation strategies and tactics to get paid what you're worth.
+headline: Salary negotiation consulting for High Earners
+description: Compensation negotiation services for High Earners to ensure that you get the best result possible
 heroImg: hero-maze.png
 bodyClass: home
 ---
 
-<div class="container mx-auto py-20">
-  <h2 class="text-3xl mb-16 sans-serif uppercase">What do you need help with?</h2>
-  <div class="grid sm:grid-cols-1 md:grid-cols-3 gap-6">
-    <div>
-      <img src="/assets/imgs/ico-process.svg" class="ico" alt="">
-      <h3 class="text-2xl mt-6 mb-4 uppercase sans-serif" data-mh="help-title">Big Tech Job Offer Negotiation</h3>
-      <p class="mb-6" data-mh="help-content">Get everything you need to understand, evaluate, and negotiate your job offer from a Big Tech company.</p>
-      <p class="mb-6"><a href="/big-tech-job-offer-overview/" class="btn btn-primary">Learn About Big Tech</a></p>
-      <p><a href="/coach/" class="no-border">Want 1-on-1 Help? Work with Josh <i class="fas fa-angle-double-right"></i></a></p>
-    </div>
-    <div>
-      <img src="/assets/imgs/ico-interview.svg" class="ico" alt="">
-      <h3 class="text-2xl mt-6 mb-4 uppercase sans-serif" data-mh="help-title">Prepare for your interviews</h3>
-      <p class="mb-6" data-mh="help-content">Learn how to ace your screening interviews and use positioning to stand out from other candidates and get more job offers.</p>
-      <p class="mb-6"><a href="/interview-preparation-guide/" class="btn btn-primary">Start your prep</a></p>
-      <p><a href="/salary-negotiation-mastery/" class="no-border">In a hurry? Buy Salary Negotiation Mastery <i class="fas fa-angle-double-right"></i></a></p>
-    </div>
-    <div>
-      <img src="/assets/imgs/ico-offer.svg" class="ico" alt="">
-      <h3 class="text-2xl mt-6 mb-4 uppercase sans-serif" data-mh="help-title">Negotiate your job offer</h3>
-      <p class="mb-6" data-mh="help-content">Get my best 9 tips to help you negotiate the best possible salary without endangering your offer or leaving anything on the table.</p>
-      <p class="mb-6"><a href="/salary-negotiation-guide/" class="btn btn-primary">Get the 9 tips</a></p>
-      <p><a href="/salary-negotiation-mastery/" class="no-border">In a hurry? Buy Salary Negotiation Mastery <i class="fas fa-angle-double-right"></i></a></p>
-    </div>
-  </div>
-</div><!-- /products -->
-
-<div class="container mx-auto">
-  <div class="md:flex justify-between mb-8">
-    <div>
-      <h2 class="text-3xl uppercase sans-serif">Results</h2>
-    </div>
-    <div class="mt-8 sm:mt-6 md:mt-0">
-      <a href="/results/" class="btn-primary btn text-right">More Results</a>
-    </div>
-  </div>
-  <div class="success-slider">
-    <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
-    <div class="suc-quotes">
-
-      {% include success-story.html story-id="josh_johnson" %}
-      {% include success-story.html story-id="justin_garrison" %}
-      {% include success-story.html story-id="anon_27" %}
-      {% include success-story.html story-id="anon_25" %}
-      {% include success-story.html story-id="leonardo" %}
-      {% include success-story.html story-id="anon_23" %}
-			{% include success-story.html story-id="aaron_batilo" %}
-			{% include success-story.html story-id="taylor" %}
-			{% include success-story.html story-id="john_li" %}
-
-
-      <!-- <div>
-        <p>I used the Fearless Salary Negotiation strategy for negotiating an offer and went <strong>from $95,000</strong> with a title of Software Engineer 1 <strong>to $105,000</strong> with a title of Software Engineer 2. Now I can pay off my student loans and buy a house more quickly. Six months later, I did it again! This time, I one-upped that by turning a <strong>$125,000 offer</strong> to a <strong>$145,000 offer</strong>. That's $30,000 in additional salary thanks to this truly wonderful resource.”</p>
-        <div class="flex items-center mt-6">
-          <div class="mr-4"><img src="https://via.placeholder.com/80x80" class="rounded-full h-20 w-20"></div>
-          <div>
-            <p class="name m-0">First Name</p>
-            <p class="title m-0">Job Title</p>
-          </div>
-        </div>
-      </div> -->
-
-    </div><!-- /suc-quotes -->
-
-    <div class="flex suc-control">
-      <button type="button" class="suc-prev"><i class="fas fa-arrow-left"></i></button>
-      <button type="button" class="suc-next"><i class="fas fa-arrow-right"></i></button>
-    </div><!-- /suc-control -->
-
-    <div class="suc-dots"></div>
-
-  </div><!-- /success-slider -->
-</div><!-- /success stories slider -->
-
-<div class="container mx-auto my-24">
-  <div class="md:flex justify-between mb-8">
-    <div>
-      <h2 class="text-3xl uppercase sans-serif">Popular Articles</h2>
-    </div>
-    <div class="mt-8 sm:mt-6 md:mt-0">
-      <a href="/articles/" class="btn-primary btn text-right">More Articles</a>
-    </div>
-  </div>
-  <div class="grid sm:grid-cols-1 lg:grid-cols-3 gap-4">
-
-		{% comment %}
-		{% killing automated loop to manually populate %}
-    {% assign popular = site.posts | where: 'popularArticle', 'true' %}
-    {% for popular in popular limit:3 %}
-      <!-- <div class="bg-white flex flex-col">
-        <div class="p-8 flex-grow flex-1">
-          <p class="text-2xl"><a href="{{ popular.url }}" class="no-border">{{ popular.title }}</a></p>
-          <hr class="my-6 w-16 hr-article">
-          <p class="text-sm mb-6">{{ popular.description }}</p>
-        </div>
-        <div class="category items-center justify-between flex">
-          <div class="pl-8"><p class="text-xs">{{ popular.categories | join: ', ' }}</p></div>
-          <div><a href="{{ popular.url }}" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
-        </div>
-      </div> -->
-    {% endfor %}
-		{% endcomment %}
+<div class="container mx-auto pt-64 pb-32">
+  <div class="mx-auto md:w-9/12 lg:w-8/12">
+    <h2 class="uppercase">Unparalleled expertise and experience</h2>
+		<div class="inline-flex items-center justify-center w-full">
+	    <hr class="my-8 w-16 text-center">
+		</div>
 		
-    <div class="bg-white flex flex-col">
-      <div class="p-8 flex-grow flex-1">
-        <p class="text-2xl"><a href="/coach/" class="no-border">Salary Negotiation Service for High Earners</a></p>
-        <hr class="my-6 w-16 hr-article">
-        <p class="text-sm mb-6 sans-serif">Are you looking at an offer letter wondering, "How am I supposed to negotiate this?" My <a href="/coach/">salary negotiation service</a> can help you negotiate a higher offer. (I’ve helped High Earners at <a href="/facebook-salary-negotiation/">Facebook</a>, <a href="/apple-salary-negotiation/">Apple</a>, <a href="/amazon-salary-negotiation/">Amazon</a>, <a href="/microsoft-salary-negotiation/">Microsoft</a>, <a href="/google-salary-negotiation/">Google</a>, and more.)</p>
-      </div>
-      <div class="category items-center justify-between flex">
-        <div class="pl-8"><p class="sans-serif text-xs">Salary Negotiation Coaching</p></div>
-        <div><a href="/coach/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
-      </div>
-    </div>
-    <div class="bg-white flex flex-col">
-      <div class="p-8 flex-grow flex-1">
-        <p class="text-2xl"><a href="/salary-negotiation-email-sample/" class="no-border">How to write a salary negotiation email</a></p>
-        <hr class="my-6 w-16 hr-article">
-        <p class="text-sm mb-6 sans-serif">Everything you need to write the perfect salary negotiation email to make your counter offer (with 11 proven templates and a sample). Pairs nicely with this real <a href="/salary-negotiation-script-example/">salary negotiation script</a> that I use during my salary negotiations.</p>
-      </div>
-      <div class="category items-center justify-between flex">
-        <div class="pl-8"><p class="sans-serif text-xs">Negotiating Job Offers</p></div>
-        <div><a href="/salary-negotiation-email-sample/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
-      </div>
-    </div>
-    <div class="bg-white flex flex-col">
-      <div class="p-8 flex-grow flex-1">
-        <p class="text-2xl"><a href="/salary-negotiation-script/" class="no-border">Counter offer calculator and email script</a></p>
-        <hr class="my-6 w-16 hr-article">
-        <p class="text-sm mb-6 sans-serif">Struggling to calculate your counter offer? This <a href="/salary-negotiation-script/">calculator and email script</a> will help. You can also read a free chapter on <a href="/book/negotiate/how-to-determine-your-counter-offer/">how to negotiate your salary counter-offer</a> from <a href="/book/">my book</a>.</p>
-      </div>
-      <div class="category items-center justify-between flex">
-        <div class="pl-8"><p class="sans-serif text-xs">Negotiating Job Offers</p></div>
-        <div><a href="/salary-negotiation-script/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
-      </div>
-    </div>
-    <!-- <div class="bg-white flex flex-col">
-      <div class="p-8 flex-grow flex-1">
-        <p class="text-2xl"><a href="/salary-negotiation-script-example/" class="no-border">Salary Negotiation Script</a></p>
-        <hr class="my-6 w-16 hr-article">
-        <p class="text-sm mb-6 sans-serif">Use this script to maximize your starting salary and benefits. This is the real <a href="/salary-negotiation-script-example/">salary negotiation script</a> that I use during my salary negotiations. You’ll also learn my recommended steps to take after receiving a verbal job offer from a hiring manager.</p>
-      </div>
-      <div class="category items-center justify-between flex">
-        <div class="pl-8"><p class="sans-serif text-xs">Negotiating Job Offers</p></div>
-        <div><a href="/salary-negotiation-script-example/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
-      </div>
-    </div> -->
-
-    <!-- <div class="bg-white flex flex-col">
-      <div class="p-8 flex-grow flex-1">
-        <p class="text-2xl"><a href="/salary-expectations-interview-question/">Salary expectations questions - How should you answer them?</a></p>
-        <hr class="my-6 w-16 hr-article">
-        <p class="text-sm mb-6 sans-serif">Don't panic! Here's how to tactfully answer salary expectations questions without costing yourself a ton of money (updated for 2021)</p>
-      </div>
-      <div class="category items-center justify-between flex">
-        <div class="pl-8"><p class="sans-serif text-xs">Salary Negotiation</p></div>
-        <div><a href="/salary-expectations-interview-question/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
-      </div>
-    </div> -->
-
-  </div>
-</div><!-- /popular articles -->
-
-<!-- <div>
-  <div class="container mx-auto">
-    <hr class="hr-default">
-  </div>
+    <p>I'm Josh Doody, author of Fearless Salary Negotiation and one of the first professional salary negotiators. I have a decade of experience negotiating compensation packages with the world’s largest and most powerful companies.  Put my expertise and experience to work for you, and together, we will ensure that you get the most from your compensation negotiation.</p>
+		
+    <h2 class="uppercase pt-10 mt-20">Featured in the world's largest publications</h2>
+		<div class="inline-flex items-center justify-center w-full">
+	    <hr class="my-8 w-16 text-center">
+		</div>
+		
+		<div class="flex justify-center">
+			<svg class="mx-4 h-24 w-24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>CNN</title><path d="M23.9962 15.514c0 2.0638-2.6676 3.0547-4.0789.6576-.1012-.173-2.3252-4.0032-2.3252-4.0032v3.3457c0 2.0637-2.6663 3.0546-4.0776.6575-.1025-.173-2.3253-4.0032-2.3253-4.0032v3.1547c0 1.4318-.8498 2.2073-2.1791 2.2073H5.5299a5.5299 5.5299 0 010-11.0598h1.7946v1.328H5.5299a4.2019 4.2019 0 100 8.4038h3.4494a.8973.8973 0 00.8794-.878V8.524a.2692.2692 0 01.1935-.273c.141-.0384.2897.0487.3987.2333l2.1522 3.7084c1.251 2.1573 2.0728 3.5738 2.083 3.5892.2807.4742.6986.5576.9973.4755a.7973.7973 0 00.582-.787v-6.945a.2705.2705 0 01.191-.2744c.1397-.0384.287.0487.3947.2333l1.9946 3.4366 2.242 3.8648c.2191.3717.5242.5038.7896.5038a.7691.7691 0 00.2063-.0282.7986.7986 0 00.591-.791V6.4707H24zM8.0026 13.9695V8.4857c0-2.0638 2.6675-3.0546 4.0788-.6563.1025.173 2.3253 4.002 2.3253 4.002V8.4856c0-2.0638 2.6662-3.0546 4.0775-.6563.1026.173 2.3253 4.002 2.3253 4.002V6.4705H22.14v8.9999a.2705.2705 0 01-.1935.2743c-.141.0384-.2897-.0487-.3987-.2333a1360.4277 1360.4277 0 01-2.2406-3.8622l-1.9946-3.434c-.2794-.4744-.696-.5577-.9921-.477a.7986.7986 0 00-.5833.7858v6.9464a.2718.2718 0 01-.1935.2743c-.1423.0384-.291-.0487-.3987-.2333-.0192-.032-1.069-1.8407-2.083-3.5892a6211.7971 6211.7971 0 00-2.1535-3.711c-.2794-.4755-.6973-.5575-.996-.4768a.7999.7999 0 00-.5845.7858v6.8002a.3717.3717 0 01-.3487.3474h-3.452a3.6712 3.6712 0 010-7.3424H7.322v1.328H5.5427a2.3432 2.3432 0 100 4.6864H7.636a.364.364 0 00.3666-.3705Z"/></svg>
+			<svg class="mx-4 h-24 w-24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Glassdoor</title><path d="M14.1093.0006c-.0749-.0074-.1348.0522-.1348.127v3.451c0 .0673.0537.1194.121.127 2.619.172 4.6092.9501 4.6092 3.6814H13.086a.1343.1343 0 0 0-.1348.1347v8.9644c0 .0748.06.1347.1348.1347h10.0034c.0748 0 .1347-.0599.1347-.1347V7.342c0-2.2374-.7996-4.0558-2.4159-5.3279C19.3191.8469 17.0874.1428 14.1093.0006ZM.9107 7.387a.1342.1342 0 0 0-.1347.1347v8.9566c0 .0748.06.1347.1347.1347h5.6189c0 2.7313-1.9902 3.5094-4.6091 3.6815-.0674.0075-.1192.0596-.1192.127v3.451c0 .0747.06.1343.1348.1269 2.9781-.1422 5.2078-.8463 6.6969-2.0136 1.6163-1.272 2.4159-3.0905 2.4159-5.3278V7.5217a.1343.1343 0 0 0-.1348-.1347z"/></svg>
+			<svg class="mx-4" viewBox="0 0 120 30" xmlns="http://www.w3.org/2000/svg" width="120" height="60"><title>Forbes</title><path d="M114.085 29.7l-1 .27c-.95-3.24-2.545-4.628-4.795-4.628-1.58 0-2.7 1.04-2.7 2.7 0 1.58 1.3 2.43 4.834 3.857 3.253 1.196 4.602 2.66 4.602 5.22 0 3.895-3.06 6.338-8.086 6.338-2.417 0-5.155-.54-6.698-1.157l-.193-5.412.95-.193c1.427 3.703 3.253 5.104 5.63 5.104 2.057 0 3.137-1.427 3.137-2.893s-.836-2.314-4.05-3.47c-3.06-1.003-5.155-2.314-5.155-5.567 0-3.2 2.815-5.914 7.6-5.914 2.263 0 4.32.386 5.67 1.003zm-20.7 1.697c.116-2.545-.4-6.222-2.494-6.222-2.147 0-3.33 3.433-3.368 6.377zm-1.98-7.456c5.27 0 7.816 3.857 7.855 8.922H87.396c-.04 4.487 2.34 7.88 6.788 7.88 1.94 0 3.06-.54 4.242-1.388l.553.617c-1.3 1.774-4 3.47-7.6 3.47-5.785 0-9.796-3.972-9.796-9.578-.013-5.065 3.278-9.925 9.822-9.925m-17.098 9.385c-.116-4-1.58-7.186-4.397-7.186-.67 0-1.183.116-1.98.386l.23 15.414c.283.116.95.193 1.427.193 2.738 0 4.718-3.87 4.718-8.806m5.875-.3c0 6.338-4 10.426-10.786 10.426-2.417 0-4.924-.386-7.096-.887.193-2.545.193-18.307 0-21.277-.193-1.543-.63-2.276-1.826-2.43l-.797-.077v-.707l8.37-1.543c-.04 1.3-.116 4.757-.116 8.806 1.466-.733 2.815-1.157 4.64-1.157 4.358 0 7.6 3.703 7.6 8.845m-21.3-3.442c-2.584-1.697-5.36-.964-5.914 0-.244 2.97-.193 7.534.04 9.886.116 1.543.553 2.198 1.748 2.314l1.58.154v1.003H44.5v-1.003l.913-.154c1.144-.116 1.543-.77 1.62-2.314.283-2.507.36-7.765 0-10.658-.077-1.658-.476-2.276-1.62-2.43l-.913-.116v-.694l8.446-1.62-.116 4.32c1.98-4.474 5.914-5.014 8.048-3.818zm-27.717 4.14c0 4.718 1.273 8.575 3.844 8.575 2.777 0 3.574-3.78 3.574-8.575s-1.234-8.536-3.844-8.536c-2.8 0-3.574 3.664-3.574 8.536m13.396-.077c0 5.412-3.574 9.8-9.95 9.8-6.274 0-9.436-4.178-9.436-9.655 0-5.374 3.574-9.848 9.95-9.848 6.274 0 9.436 4.204 9.436 9.693m-16.42-9.308l-1.3.386c-1.106-3.793-3.06-5.952-6.428-5.952h-4.397c-.244 2.52-.36 6.415-.244 10.62l2.93-.154c1.98 0 2.815-1.427 3.3-3.5h1.106v8.768H21.97c-.476-2.12-1.3-3.56-3.3-3.677l-2.93-.04c0 3.124.04 5.798.244 7.418.193 2.314.836 3.368 2.533 3.587l1.594.154v1.003H5.76v-1.003l1.196-.154c1.658-.23 2.34-1.273 2.533-3.587.32-3.78.4-11.853 0-16.34-.193-2.4-.874-3.355-2.533-3.548l-1.196-.193v-1.04H28.1z"/></svg>
+			<svg class="mx-4" viewBox="0 0 120 30" xmlns="http://www.w3.org/2000/svg" width="120" height="60"><title>BBC</title><path d="M63.6 33.65c-.002.585-.182 1.174-.705 1.632s-1.425.808-2.92.808h-3v-4.83h2.876c1.342 0 2.294.273 2.9.697a1.97 1.97 0 0 1 .869 1.691m-2.448-5.78c.56-.403.83-.975.834-1.832-.002-.588-.17-1.092-.594-1.468s-1.145-.644-2.308-.644h-2.13V28.5h1.46c1.265 0 2.172-.225 2.736-.632m5.678 6.135c.008-2.232-1.478-3.928-3.857-4.58.643-.328 1.15-.73 1.522-1.218.496-.656.735-1.46.73-2.397a4.27 4.27 0 0 0-1.422-3.202c-.973-.878-2.45-1.446-4.463-1.445h-5.563v17.7h6.53c2.33 0 3.964-.632 5.017-1.568a4.36 4.36 0 0 0 1.505-3.282m6.2 8.278h-26.1V17.72h26.1zm-41.96-14.42c.56-.403.83-.975.835-1.832-.001-.588-.17-1.092-.594-1.468s-1.146-.644-2.3-.644H26.9V28.5h1.46c1.264 0 2.17-.225 2.735-.632m1.562 4.1c-.596-.424-1.55-.697-2.9-.697H26.9V36.1h3c1.496 0 2.397-.35 2.92-.808s.704-1.047.705-1.632a1.97 1.97 0 0 0-.87-1.69m4.13 2.044c.008-2.232-1.48-3.928-3.856-4.58.64-.328 1.148-.73 1.52-1.218.5-.656.735-1.46.733-2.397a4.28 4.28 0 0 0-1.423-3.202c-.972-.878-2.448-1.446-4.462-1.445h-5.564v17.7h6.53c2.33 0 3.964-.632 5.017-1.568s1.508-2.155 1.506-3.282m6.2 8.278h-26.1V17.72h26.1zm54.954-8.17l-.42.256c-2.02 1.234-4.22 1.896-6.216 1.895-4.275-.017-7.1-2.55-7.1-6.235.005-3.607 2.944-6.276 7-6.285 2.062.001 3.93.534 6.148 1.75l.408.224V22.43l-.175-.07c-2.502-.987-4.44-1.427-6.353-1.426-2.96-.001-5.527.976-7.356 2.634s-2.915 4-2.913 6.7c.001 1.874.773 4.07 2.43 5.8 1.65 1.743 4.193 3.013 7.68 3.012h.012c2.892 0 4.897-.644 6.7-1.538l.154-.075zm5.183 8.164h-26.1V17.72h26.1z"/></svg>
+		</div>
+    
+		<h2 class="uppercase pt-10 mt-20">I will help you</h2>
+		<div class="inline-flex items-center justify-center w-full">
+	    <hr class="my-8 w-16 text-center">
+		</div>
+		
+    <ul class="arrows">
+      <li><i class="fas fa-arrow-circle-right"></i> <strong>Optimize your compensation package</strong> — Your situation is unique. Whether you’re considering a simple compensation package or a complicated one with many moving parts, we will work together to develop and implement the best strategy to ensure that you get optimal results.</li>
+      <li><i class="fas fa-arrow-circle-right"></i> <strong>Bolster your reputation</strong> — Our approach to negotiating will enhance the company’s perception of you as a savvy, informed business manager who understands the business’s needs and your own market value.</li>
+      <li><i class="fas fa-arrow-circle-right"></i> <strong>Ensure you get the best result</strong> — Many times, we are able to improve your compensation package by 30%, sometimes by 15%, and rarely, your offer is already the best your employer is willing to give, so we have no improvement at all. But no matter what the result is, you can rest easy knowing that you got the maximum compensation for your situation.</li>
+    </ul>
+		
+    <h2 class="uppercase pt-10 mt-20">Stellar results negotiating with</h2>
+		<div class="inline-flex items-center justify-center w-full">
+	    <hr class="my-8 w-16 text-center">
+		</div>
+		
+		<div class="flex justify-center">
+			<svg class="mx-4 h-24 w-24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" ><title>Apple</title><path d="M12.152 6.896c-.948 0-2.415-1.078-3.96-1.04-2.04.027-3.91 1.183-4.961 3.014-2.117 3.675-.546 9.103 1.519 12.09 1.013 1.454 2.208 3.09 3.792 3.039 1.52-.065 2.09-.987 3.935-.987 1.831 0 2.35.987 3.96.948 1.637-.026 2.676-1.48 3.676-2.948 1.156-1.688 1.636-3.325 1.662-3.415-.039-.013-3.182-1.221-3.22-4.857-.026-3.04 2.48-4.494 2.597-4.559-1.429-2.09-3.623-2.324-4.39-2.376-2-.156-3.675 1.09-4.61 1.09zM15.53 3.83c.843-1.012 1.4-2.427 1.245-3.83-1.207.052-2.662.805-3.532 1.818-.78.896-1.454 2.338-1.273 3.714 1.338.104 2.715-.688 3.559-1.701"/></svg>
+			<svg class="mx-4 h-24 w-24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Google</title><path d="M12.48 10.92v3.28h7.84c-.24 1.84-.853 3.187-1.787 4.133-1.147 1.147-2.933 2.4-6.053 2.4-4.827 0-8.6-3.893-8.6-8.72s3.773-8.72 8.6-8.72c2.6 0 4.507 1.027 5.907 2.347l2.307-2.307C18.747 1.44 16.133 0 12.48 0 5.867 0 .307 5.387.307 12s5.56 12 12.173 12c3.573 0 6.267-1.173 8.373-3.36 2.16-2.16 2.84-5.213 2.84-7.667 0-.76-.053-1.467-.173-2.053H12.48z"/></svg>
+			<svg class="mx-4 h-24 w-24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tesla</title><path d="M12 5.362l2.475-3.026s4.245.09 8.471 2.054c-1.082 1.636-3.231 2.438-3.231 2.438-.146-1.439-1.154-1.79-4.354-1.79L12 24 8.619 5.034c-3.18 0-4.188.354-4.335 1.792 0 0-2.146-.795-3.229-2.43C5.28 2.431 9.525 2.34 9.525 2.34L12 5.362l-.004.002H12v-.002zm0-3.899c3.415-.03 7.326.528 11.328 2.28.535-.968.672-1.395.672-1.395C19.625.612 15.528.015 12 0 8.472.015 4.375.61 0 2.349c0 0 .195.525.672 1.396C4.674 1.989 8.585 1.435 12 1.46v.003z"/></svg>
+			<svg class="mx-4 h-24 w-24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>NVIDIA</title><path d="M8.948 8.798v-1.43a6.7 6.7 0 0 1 .424-.018c3.922-.124 6.493 3.374 6.493 3.374s-2.774 3.851-5.75 3.851c-.398 0-.787-.062-1.158-.185v-4.346c1.528.185 1.837.857 2.747 2.385l2.04-1.714s-1.492-1.952-4-1.952a6.016 6.016 0 0 0-.796.035m0-4.735v2.138l.424-.027c5.45-.185 9.01 4.47 9.01 4.47s-4.08 4.964-8.33 4.964c-.37 0-.733-.035-1.095-.097v1.325c.3.035.61.062.91.062 3.957 0 6.82-2.023 9.593-4.408.459.371 2.34 1.263 2.73 1.652-2.633 2.208-8.772 3.984-12.253 3.984-.335 0-.653-.018-.971-.053v1.864H24V4.063zm0 10.326v1.131c-3.657-.654-4.673-4.46-4.673-4.46s1.758-1.944 4.673-2.262v1.237H8.94c-1.528-.186-2.73 1.245-2.73 1.245s.68 2.412 2.739 3.11M2.456 10.9s2.164-3.197 6.5-3.533V6.201C4.153 6.59 0 10.653 0 10.653s2.35 6.802 8.948 7.42v-1.237c-4.84-.6-6.492-5.936-6.492-5.936z"/></svg>
+			<svg class="mx-4 h-24 w-24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Amazon</title><path d="M.045 18.02c.072-.116.187-.124.348-.022 3.636 2.11 7.594 3.166 11.87 3.166 2.852 0 5.668-.533 8.447-1.595l.315-.14c.138-.06.234-.1.293-.13.226-.088.39-.046.525.13.12.174.09.336-.12.48-.256.19-.6.41-1.006.654-1.244.743-2.64 1.316-4.185 1.726a17.617 17.617 0 01-10.951-.577 17.88 17.88 0 01-5.43-3.35c-.1-.074-.151-.15-.151-.22 0-.047.021-.09.051-.13zm6.565-6.218c0-1.005.247-1.863.743-2.577.495-.71 1.17-1.25 2.04-1.615.796-.335 1.756-.575 2.912-.72.39-.046 1.033-.103 1.92-.174v-.37c0-.93-.105-1.558-.3-1.875-.302-.43-.78-.65-1.44-.65h-.182c-.48.046-.896.196-1.246.46-.35.27-.575.63-.675 1.096-.06.3-.206.465-.435.51l-2.52-.315c-.248-.06-.372-.18-.372-.39 0-.046.007-.09.022-.15.247-1.29.855-2.25 1.82-2.88.976-.616 2.1-.975 3.39-1.05h.54c1.65 0 2.957.434 3.888 1.29.135.15.27.3.405.48.12.165.224.314.283.45.075.134.15.33.195.57.06.254.105.42.135.51.03.104.062.3.076.615.01.313.02.493.02.553v5.28c0 .376.06.72.165 1.036.105.313.21.54.315.674l.51.674c.09.136.136.256.136.36 0 .12-.06.226-.18.314-1.2 1.05-1.86 1.62-1.963 1.71-.165.135-.375.15-.63.045a6.062 6.062 0 01-.526-.496l-.31-.347a9.391 9.391 0 01-.317-.42l-.3-.435c-.81.886-1.603 1.44-2.4 1.665-.494.15-1.093.227-1.83.227-1.11 0-2.04-.343-2.76-1.034-.72-.69-1.08-1.665-1.08-2.94l-.05-.076zm3.753-.438c0 .566.14 1.02.425 1.364.285.34.675.512 1.155.512.045 0 .106-.007.195-.02.09-.016.134-.023.166-.023.614-.16 1.08-.553 1.424-1.178.165-.28.285-.58.36-.91.09-.32.12-.59.135-.8.015-.195.015-.54.015-1.005v-.54c-.84 0-1.484.06-1.92.18-1.275.36-1.92 1.17-1.92 2.43l-.035-.02zm9.162 7.027c.03-.06.075-.11.132-.17.362-.243.714-.41 1.05-.5a8.094 8.094 0 011.612-.24c.14-.012.28 0 .41.03.65.06 1.05.168 1.172.33.063.09.099.228.099.39v.15c0 .51-.149 1.11-.424 1.8-.278.69-.664 1.248-1.156 1.68-.073.06-.14.09-.197.09-.03 0-.06 0-.09-.012-.09-.044-.107-.12-.064-.24.54-1.26.806-2.143.806-2.64 0-.15-.03-.27-.087-.344-.145-.166-.55-.257-1.224-.257-.243 0-.533.016-.87.046-.363.045-.7.09-1 .135-.09 0-.148-.014-.18-.044-.03-.03-.036-.047-.02-.077 0-.017.006-.03.02-.063v-.06z"/></svg>
+			<svg class="mx-4 h-24 w-24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Meta</title><path d="M6.915 4.03c-1.968 0-3.683 1.28-4.871 3.113C.704 9.208 0 11.883 0 14.449c0 .706.07 1.369.21 1.973a6.624 6.624 0 0 0 .265.86 5.297 5.297 0 0 0 .371.761c.696 1.159 1.818 1.927 3.593 1.927 1.497 0 2.633-.671 3.965-2.444.76-1.012 1.144-1.626 2.663-4.32l.756-1.339.186-.325c.061.1.121.196.183.3l2.152 3.595c.724 1.21 1.665 2.556 2.47 3.314 1.046.987 1.992 1.22 3.06 1.22 1.075 0 1.876-.355 2.455-.843a3.743 3.743 0 0 0 .81-.973c.542-.939.861-2.127.861-3.745 0-2.72-.681-5.357-2.084-7.45-1.282-1.912-2.957-2.93-4.716-2.93-1.047 0-2.088.467-3.053 1.308-.652.57-1.257 1.29-1.82 2.05-.69-.875-1.335-1.547-1.958-2.056-1.182-.966-2.315-1.303-3.454-1.303zm10.16 2.053c1.147 0 2.188.758 2.992 1.999 1.132 1.748 1.647 4.195 1.647 6.4 0 1.548-.368 2.9-1.839 2.9-.58 0-1.027-.23-1.664-1.004-.496-.601-1.343-1.878-2.832-4.358l-.617-1.028a44.908 44.908 0 0 0-1.255-1.98c.07-.109.141-.224.211-.327 1.12-1.667 2.118-2.602 3.358-2.602zm-10.201.553c1.265 0 2.058.791 2.675 1.446.307.327.737.871 1.234 1.579l-1.02 1.566c-.757 1.163-1.882 3.017-2.837 4.338-1.191 1.649-1.81 1.817-2.486 1.817-.524 0-1.038-.237-1.383-.794-.263-.426-.464-1.13-.464-2.046 0-2.221.63-4.535 1.66-6.088.454-.687.964-1.226 1.533-1.533a2.264 2.264 0 0 1 1.088-.285z"/></svg>
+		</div>
+														
+    <h2 class="uppercase pt-10 mt-20">Get the most out of your negotiation</h2>
+		<div class="inline-flex items-center justify-center w-full">
+	    <hr class="my-8 w-16 text-center">
+		</div>
+    <p class="mb-8 text-center"><a href="/contact/" class="btn btn-primary">Contact me today</a></p>
+	</div>
 </div>
-
-<div class="container mx-auto my-24">
-  <div class="md:flex justify-between mb-8">
-    <div>
-      <h2 class="text-3xl uppercase sans-serif">Free Resources</h2>
-    </div>
-    <div class="mt-8 sm:mt-6 md:mt-0">
-      <a href="#" class="btn-primary btn text-right">More Resources</a>
-    </div>
-  </div>
-  <div class="grid sm:grid-cols-1 lg:grid-cols-3 gap-4">
-
-    {% assign resource = site.resources | where: 'showOnHomepage', 'true' %}
-    {% for resource in resource limit:3 %}
-      <div class="bg-white flex flex-col">
-        <div class="p-8 flex-grow flex-1">
-          <p class="text-2xl"><a href="{{ resource.url }}">{{ resource.title }}</a></p>
-          <hr class="my-6 w-16 hr-article">
-          <p class="text-sm mb-6 sans-serif">{{ resource.description }}</p>
-        </div>
-        <div class="category items-center justify-between flex">
-          <div class="pl-8"><p class="sans-serif text-xs">{{ resource.categories | join: ', ' }}</p></div>
-          <div><a href="{{ resource.url }}" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
-        </div>
-      </div>
-    {% endfor %}
-
-    <div class="bg-white flex flex-col">
-      <div class="p-8 flex-grow flex-1">
-        <p class="text-2xl">Salary negotiation email samples and a counter offer letter template</p>
-        <hr class="my-6 w-16 hr-article">
-        <p class="text-sm mb-6 sans-serf">A professional salary negotiator shows you how to counter offer with a salary negotiation email template once you have a job offer.</p>
-      </div>
-      <div class="category items-center justify-between flex">
-        <div class="pl-8"><p class="sans-serif text-xs">Email Templates</p></div>
-        <div><a href="/salary-negotiation-email-sample/" class="cat-arrow"><i class="fas fa-arrow-right"></i></a></div>
-      </div>
-    </div> -->
-
-  </div>
-</div><!-- /free resources -->
-
-<div class="mx-auto bg-gray-500 product-grid">
-  <div class="md:grid grid-cols-2">
-    <div class="product-column">
-      <div class="md:flex">
-        <div class="md:w-1/2">
-          <img src="/assets/imgs/homepage-book-image.png" alt="">
-        </div>
-        <div class="product-copy p-4 md:py-14 md:pr-16 md:pl-0 md:w-1/2">
-          <h4 class="brand-secondary uppercase sans-serif text-3xl mb-5">The Book</h4>
-          <p class="text-white text-base mb-8">The essential tools to get paid what you're worth</p>
-          <p class="mb-8"><a href="/get-started/" class="btn btn-primary">Learn More</a></p>
-          <p class="text-white text-base"><a href="https://transactions.sendowl.com/packages/35512/C895E617/purchase">Or buy it now for just $99 <i class="fas fa-angle-double-right"></i></a></p>
-        </div>
-      </div>
-    </div>
-    <div class="product-column">
-      <div>
-        <div class="md:flex">
-          <div class="product-copy p-4 md:py-14 md:pl-16 md:pr-0 md:w-1/2">
-            <h4 class="brand-secondary uppercase sans-serif text-3xl mb-5">Salary Negotiation Mastery</h4>
-            <p class="text-white text-base mb-8">You’ve earned a job offer, now let’s make sure you get paid exactly what you deserve</p>
-            <p class="mb-8"><a href="/salary-negotiation-mastery/" class="btn btn-primary">Learn More</a></p>
-            <p class="text-white text-base"><a href="https://fearlesssalarynegotiation.thrivecart.com/salary-negotiation-mastery/">Or buy it now for just $1,297 <i class="fas fa-angle-double-right"></i></a></p>
-          </div>
-          <div class="md:w-1/2">
-            <img src="/assets/imgs/snm-product-image.png" alt="Salary Negotiation Mastery program contents">
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- <div class="md:grid grid-cols-3">
-    <div class="product-column">
-      <img src="/assets/imgs/prod-devices-alt-small.png" alt="">
-      <div class="product-copy-sm p-10">
-        <h4 class="brand-secondary uppercase sans-serif text-2xl mb-5">Product Title Here</h4>
-        <p class="text-white serif text-base mb-8">Short description of this product goes right here Far far away, behind the word mountains</p>
-        <p class="mb-8 text-base text-white sans-serif"><a href="/get-started/" class="btn btn-primary">Learn More</a><a href="#">Or buy it now for just $XXX <i class="fas fa-angle-double-right"></i></a></p>
-      </div>
-    </div>
-    <div class="product-column">
-      <img src="/assets/imgs/prod-devices-alt-small.png" alt="">
-      <div class="product-copy-sm p-10">
-        <h4 class="brand-secondary uppercase sans-serif text-2xl mb-5">Product Title Here</h4>
-        <p class="text-white serif text-base mb-8">Short description of this product goes right here Far far away, behind the word mountains</p>
-        <p class="mb-8 text-base text-white sans-serif"><a href="/get-started/" class="btn btn-primary">Learn More</a> <a href="#">Or buy it now for just $XXX <i class="fas fa-angle-double-right"></i></a></p>
-      </div>
-    </div>
-    <div class="product-column">
-      <img src="/assets/imgs/prod-devices-alt-small.png" alt="">
-      <div class="product-copy-sm p-10">
-        <h4 class="brand-secondary uppercase sans-serif text-2xl mb-5">Product Title Here</h4>
-        <p class="text-white serif text-base mb-8">Short description of this product goes right here Far far away, behind the word mountains</p>
-        <p class="mb-8 text-base text-white sans-serif"><a href="/get-started/" class="btn btn-primary">Learn More</a> <a href="#">Or buy it now for just $XXX <i class="fas fa-angle-double-right"></i></a></p>
-      </div>
-    </div>
-  </div> -->
-</div><!-- /product-grid -->
-
-<div class="container mx-auto my-24">
-
-  {% include in-the-press.html %}
-
-</div><!-- /in the press -->
-
-<div>
-  <div class="container mx-auto">
-    <hr class="hr-default">
-  </div>
-</div>
-
-<div class="container mx-auto my-24">
-
-  {% include podcast-appearance.html %}
-
-</div><!-- /podcast appearances -->
-
-<div class="container mx-auto mb-16 article-lists">
-  <div class="grid sm:grid-cols-1 md:grid-cols-2">
-    <div class="sm:pr-12 md:pr-16 lg:pr-24 mb-16 md:mb-0">
-      <h3 class="text-2xl mb-8 alt uppercase sans-serif">Recommended</h3>
-      <hr class="mb-6 w-16 hr-article">
-      <p>Wondering ‘how does this salary negotiation thing work?’ Read my free <a href="/salary-negotiation-guide/">salary negotiation guide and learn how to negotiate your salary offer</a>.</p>
-      <hr class="my-6 w-16 hr-default">
-      <p>The word-for-word scripts included in this article will help you <a href="/salary-expectations-interview-question/">respond when a recruiter asks about salary</a></p>
-      <hr class="my-6 w-16 hr-default">
-      <p>My <a href="/salary-negotiation-email-sample/">salary negotiation email sample</a> will help you write + send your counter offer email</p>
-    </div>
-    <div class="sm:pr-12 md:pr-16 lg:pr-24">
-      <h3 class="text-2xl mb-8 alt uppercase sans-serif">Popular</h3>
-      <hr class="mb-6 w-16 hr-article">
-      <p>The most popular question I’ve ever been asked? “<a href="/salary-expectations-interview-question/">How to respond when a recruiter asks about your salary expectations?</a>”</p>
-      <hr class="my-6 w-16 hr-default">
-      <p>Lots of people love my advice on <a href="/how-to-negotiate-a-lowball-job-offer/">how to respond to a low salary offer</a></p>
-      <hr class="my-6 w-16 hr-default">
-      <p>And my "<a href="/salary-increase-letter-sample/">how to ask for a raise</a>" email will help you ask your boss for a salary increase</p>
-    </div>
-  </div>
-</div><!-- /articles -->
-
-{% include one-on-one-help.html %}
