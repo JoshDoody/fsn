@@ -65,11 +65,19 @@ Depending upon the complexity of the situation and your needs, the strategy fee 
 
 ### Why are there two fees for Salary Negotiation Coaching?
 
-There are two fees for Salary Negotiation Coaching: A strategy fee and a result fee.
+There are two fees for Salary Negotiation Coaching: A strategy fee and a result fee. All fees are paid after our work together is complete.
 
 _Strategy fee_
 
 The strategy fee covers all aspects of your salary negotiation. It ensures that I can provide the best quality strategy for every client.
+
+Some of the strategic considerations for a typical engagement are:
+
+- Which dimension(s) to focus on during the negotiation
+- How aggressive to be
+- How to make the best case for higher compensation
+- Managing multiple offers and negotiations simultaneously
+- Managing multiple timelines
 
 _Result fee_
 
@@ -78,6 +86,8 @@ The result fee is due only when we improve your job offer, and is 10% of the imp
 The result fee is to ensure that our incentives are aligned throughout our engagement and to help us both share directly in the results. Sometimes, a company is very flexible and will significantly improve their offer through negotiation. Sometimes they are inflexible and their first offer is also their best offer. We cannot know which case applies to your offer until we negotiate, and the result fee enables us to work together knowing that we will share in the result.
 
 You keep 90% of the negotiated first-year compensation improvement, and I collect the remaining 10%.
+
+You keep 100% of the negotiated improvement after the first year.
 
 If the company does not budge on their offer when we negotiate, I don’t collect any result fee.
 
@@ -115,7 +125,7 @@ Basically, we’ll negotiate your offers until you find one that works for you.
 
 ### Why is Salary Negotiation Coaching worth the cost?
 
-There are two main benefits to Salary Negotiation Coaching. The first benefit is that you will know for sure that you have negotiated the best possible compensation package for your new job. For most of my clients, even a 2–3% increase in their job offer more than covers the cost of salary negotiation coaching, and the average result is more than a 15% improvement in first-year compensation (that’s an average 7% increase in salary, almost 60% more equity, and more than 25% improvement in a sign-on bonus).
+There are two main benefits to Salary Negotiation Coaching. The first benefit is that you will know for sure that you have negotiated the best possible compensation package for your new job. For most of my clients, even a 2–3% increase in their job offer more than covers the cost of salary negotiation coaching, and the average result is more than a 15% improvement in first-year compensation (that’s an average 7% increase in salary, almost 60% more equity, and more than 25% improvement in sign-on bonus).
 
 Of course, these results are on a scale from “no flexibility” to “way more than that”, but those are the averages.
 
@@ -191,7 +201,6 @@ Results cannot be guaranteed. Although I have extensive experience negotiating w
 
 Sometimes, a company will have substantial flexibility and will drastically improve their offer for the right candidate. Sometimes a company will have no flexibility and won’t budge regardless of how strong the candidate is.
 
- \
 This variability is why there is a result fee: If the company does not budge on their offer when we negotiate, I don’t collect any result fee. If the company does improve their offer, you keep 90% of the first year’s improvement (and 100% of the improvements after that), and I keep 10%.
 
 ### How often do your clients improve their job offers?
