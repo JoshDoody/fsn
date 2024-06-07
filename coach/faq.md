@@ -232,4 +232,4 @@ But here's the catch: I need the person you referred to let me know that you're 
 
 To make sure you get your bonus, the best thing to do is ask the person you're referring to drop your name when they're filling out the application form. There's a question on there that asks, "How did you hear about me?" - that's the perfect place for them to mention your name. That way, I'll know for sure that you referred them, and I can send that bonus your way!"
 
-If your questions aren’t answered here, [contact me](/contact/) any time and I’m happy to answer other questions you might have. Or we can always discuss any questions or concerns you have on our next phone call!
+If your questions aren’t answered here, [contact me](/contact/) any time and I’m happy to answer other questions you might have.
