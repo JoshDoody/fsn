@@ -13,6 +13,16 @@ You probably have some questions about [Salary Negotiation Coaching](/coach/), a
 
 If your questions aren’t answered here, [contact me](/contact/) any time and I’m happy to answer other questions you might have. Or we can always discuss any questions or concerns you have on our next phone call!
 
+## Who is Salary Negotiation Coaching for?
+
+My most successful clients are are High Earners that are currently in a job search or negotiating their offer. Typically, they are leaders with a title including something like "Vice President" or "Senior Director" and making $400,000 total compensation at larger companies, and can also be senior engineers or engineering managers, or even physicians.
+
+### I'm not earning $400k+ per year—can I still work with you?
+
+Yes. I built this business to help people at all stages of their career. The clients who get the best results from Salary Negotiation Coaching are High Earners, but lots of other clients have gotten stellar results and have other offerings that might be a better fit for you.
+
+The best thing to do is to [contact me](/contact/) so I can learn more about your situation and recommend the best next steps for you and your situation.
+
 
 ## Process
 
@@ -226,7 +236,7 @@ Yes! I prefer to work with referred clients whenever possible.
 
 ### How does your referral program work?
 
-My referral program is pretty simple and straightforward: If you recommend someone to me and they decide to work with me, I'll give you up to $1,000.
+My [referral program](/coach/referral/) is pretty simple and straightforward: If you recommend someone to me and they decide to work with me, I'll give you up to $1,000.
 
 But here's the catch: I need the person you referred to let me know that you're the one who sent them my way.
 
