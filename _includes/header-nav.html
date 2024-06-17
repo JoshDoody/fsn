@@ -11,7 +11,7 @@
 
           <div class="mobile-nav">
             <ul class="flex flex-row list-none">
-              <li class="btn-link"><a href="/coach/">Get 1-on-1 Help</a></li>
+              <li class="btn-link"><a href="/coach/">Work with Josh</a></li>
               <li class="mobile-trigger"><a role="button" tabindex="0"></a></li>
             </ul>
           </div>
@@ -21,7 +21,7 @@
               {% assign navigation_pages = site.html_pages | sort: "navWeight" %}
               {% for p in navigation_pages %}
                 {% if p.navWeight %}
-                  <li class="{% if p.navTitle == "Get 1-on-1 Help" %}btn-link{% endif %}{% if p.navTitle == "Products" %}nav-drop{% endif %}">
+                  <li class="{% if p.navTitle == "Work with Josh" %}btn-link{% endif %}{% if p.navTitle == "Products" %}nav-drop{% endif %}">
                     <a href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>{{ p.navTitle }}{% if p.navTitle == "Products"%} <i class="fas fa-caret-down"></i>{% endif %}</a>
                     {% if p.navTitle == "Products" %}
                       <div class="sub-nav-mobile">
