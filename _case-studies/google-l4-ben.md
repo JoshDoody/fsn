@@ -73,7 +73,7 @@ I drafted a counteroffer email for Ben to send to the recruiter, prioritizing ba
 	<p>"However, there's a lot of things that went into that email. <strong>Where do we want to pressure them? Which dimensions do we want to go on?</strong> It was knowing the correct things to ask for (cash or equity), knowing the correct amount to ask for, and knowing how to come up with a narrative around why they should try to reach my number. That email wasn't just a number, it was a story."</p>
 </blockquote>
 
-## Nearly $30,000 increase in base compensation + a hefty sign-off bonus
+## Nearly $30,000 increase in base compensation + a hefty sign-on bonus
 
 After sending his counteroffer email, Ben received a substantially improved offer. **Google improved total annual compensation by almost 15% and included a significant sign-on bonus in their final offer.** 
 
