@@ -6,6 +6,7 @@ subhead: Everything you need to know to understand and evaluate your job offer f
 description: Everything you need to know to understand and evaluate your job offer from a Big Tech company
 categories:
   - coach
+  - negotiate
 tags:
   - recommended
   - popular

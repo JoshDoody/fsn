@@ -6,6 +6,7 @@ subhead: A quick overview of sign-on bonuses and how they work (with a focus on 
 description: A quick overview of sign-on bonuses and how they work
 categories:
   - coach
+  - negotiate
 tags:
   - recommended
   - popular
