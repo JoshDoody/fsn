@@ -13,7 +13,16 @@ You probably have some questions about [Salary Negotiation Coaching](/coach/), a
 
 If your questions aren’t answered here, [contact me](/contact/) any time and I’m happy to answer other questions you might have. Or we can always discuss any questions or concerns you have on our next phone call!
 
-## Who is Salary Negotiation Coaching for?
+<ul class="arrows">
+	<li><i class="fas fa-arrow-circle-right"></i><a href="#who">Who is Salary Negotiation Coaching for?</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="#process">Process</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="#cost">Cost</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="#payment">Fee payment</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="#results">Results</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="#referrals">Referrals</a></li>
+</ul>
+
+## <a name="who">Who is Salary Negotiation Coaching for?
 
 My most successful clients are are High Earners that are currently in a job search or negotiating their offer. Typically, they are leaders with a title including something like "Vice President" or "Senior Director" and making $400,000 total compensation at larger companies, and can also be senior engineers or engineering managers, or even physicians.
 
@@ -23,8 +32,7 @@ Yes. I built this business to help people at all stages of their career. The cli
 
 The best thing to do is to [contact me](/contact/) so I can learn more about your situation and recommend the best next steps for you and your situation.
 
-
-## Process
+## <a name="process">Process
 
 ### How do we get started?
 
@@ -62,8 +70,7 @@ Each negotiation is different because each situation, candidate, opportunity, an
 
 Once we’ve finished negotiating, you’ll choose the opportunity that’s best for you and I’m happy to consult with you about that decision as well.
 
-
-## Cost
+## <a name="cost">Cost
 
 “**Josh helped me negotiate with Alphabet to get an additional $160k in annual compensation.**
 
@@ -156,17 +163,11 @@ Investing a tiny fraction of your total compensation to work with a professional
 My fees are not negotiable. Salary Negotiation Coaching isn’t for everyone and that’s ok!
 
 
-## Fee Payment
-
-### When is payment due?
-
-Once we have completed our work together, I will calculate your result fee and send an invoice for your total fees (your strategy fee and your result fee).
-
-Please see the “Cost” section of this document for an in-depth explanation of the fee structure for Salary Negotiation Coaching.
+## <a name="payment">Fee Payment
 
 ### Can I pay with a credit card?
 
-There is an additional 3% convenience fee to pay the fees with a credit card because result fees can sometimes be very large, and the associated credit card processing fees get very large. There is no convenience fee for ACH (bank transfer) or paper check.
+There is an additional 3% convenience fee to pay the fees with a credit card because credit card processing fees can be very large. There is no convenience fee for ACH (bank transfer) or paper check.
 
 ### What other payment options are there?
 
@@ -174,36 +175,31 @@ You can submit the result fee via ACH (bank transfer) or paper check and there i
 
 And, as mentioned above, there is a 3% convenience fee added if you prefer to pay with a credit card.
 
-### Fee payment options—an example**
+### Fee payment options—an example
 
-Here’s a concrete example. Let’s say the strategy fee for your engagement is $5,000. And let’s say our work results in an additional first-year compensation of $100,000. The result fee would then be $10,000 (10% of the $100,000 improvement in first-year compensation).  \
- \
-So the total fees for your Salary Negotiation Coaching engagement would be $15,000 ($5,000 for the strategy fee and $10,000 for the result fee).
+Here’s a concrete example. Let’s say the Strategy fee for your engagement is $5,000. And let’s say our work results in an additional first-year compensation of $100,000. The Result fee would then be $10,000 (10% of the $100,000 improvement in first-year compensation).
 
-And here are the convenience fees for the three payment options on a $15,000 result fee:
+So the total fees for your Salary Negotiation Coaching engagement would be $15,000 ($5,000 for the Strategy fee and $10,000 for the Result fee).
 
-Credit card—$450
+And here are the convenience fees for the three payment options:
 
-ACH (bank transfer)—$0
+Credit card: $450 (3% of $15,000)
 
-Paper check—$0
+ACH (bank transfer): $0
+
+Paper check: $0
 
 ### When is payment due?
 
-No payment is due until after our work together is complete. Once we have completed our engagement, I will calculate our result fee and send you a final invoice for the total fees (strategy fee plus result fee).
+No payment is due until after our work together is complete.
 
-You and I will work together to find the best way to approach the fee payment given your particular situation.
+Once we have completed our work together, I will send a Strategy fee payment link, and your strategy fee will ge due.
 
-Result fees can sometimes be very large when we negotiate an outstanding result. Each client has different preferences in terms of when and how to pay their fees.
+I will also calculate your result fee and send a Result fee invoice. Most clients pay the result fee right away, while some wait until they begin their new job. You and I will work together to figure out the timing that works best for your Result fee payment.
 
-Most clients prefer to pay the fees as soon as our engagement concludes. Some clients prefer to wait until they receive their first paycheck, or until they receive their signing bonus.
+Please see the “Cost” section of this document for an in-depth explanation of the fee structure for Salary Negotiation Coaching.
 
-Some clients prefer to break the fees into multiple payments over a few months.
-
-When we finish our engagement and calculate the total fees, then you and I will talk about what method and timing are best for you.
-
-
-## Results
+## <a name="results">Results
 
 ### Can you guarantee results?
 
@@ -227,8 +223,7 @@ Quantitative—Job offers sometimes don’t change at all or improve by only a f
 
 Qualitative—Aside from negotiating the best possible version of your compensation package, I will teach you _how_ to negotiate your job offers so that you have this skill in your arsenal for the rest of your career. And you can use this skill to help friends and family negotiate their offers as well.
 
-
-## Referrals
+## <a name="referrals">Referrals
 
 ### Do you have a referral program?
 
