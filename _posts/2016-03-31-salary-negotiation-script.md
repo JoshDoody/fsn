@@ -1,9 +1,9 @@
 ---
 layout: posts
-title: How to counter a job offer - salary negotiation script & calculator
-headline: Counter your job offer with this counter offer calculator and salary negotiation script
-subhead: How to counter a job offer and negotiate starting salary
-description: Counter your job offer with the right amount using this salary negotiation calculator and simple salary negotiation script.
+title: How to counter a job offer - salary negotiation calculator
+headline: Counter Offer Calculator
+subhead: Quickly calculate the right counter offer for your job offer
+description: A simple calculator to find the right counter offer amount for your job offer
 categories:
   - negotiate
 tags:
@@ -19,9 +19,9 @@ published: true
 
 If you negotiate a $5,000 increase, you will make $5,000 more the first year at your new job. And you will make $5,000 the next year, and the next year, and the next year. **Over 20 years, that $5,000 salary increase would be worth more than $100,000.** Negotiating starting salary at a new company is one of the best opportunities to get this sort of increase or even more.
 
-## A salary negotiation script you can use to negotiate starting salary
+## A counter offer calculator you can use to negotiate starting salary
 
-The [_Fearless Salary Negotiation_](/get-started/) method is easy to use while generating phenomenal results. **It's so easy, I summarized it on this single page.**
+The Fearless Salary Negotiation method is easy to use while generating phenomenal results. **It's so easy, I summarized it on this single page.**
 
 **How does it work?**
 
