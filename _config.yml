@@ -60,6 +60,10 @@ defaults:
       layout: "default"
       metatags: "noindex"
       sitemap: false
+  -
+    scope:
+      path: "download/*.pdf"
+    values:
+      sitemap: false
 
 include: [_redirects]
-
