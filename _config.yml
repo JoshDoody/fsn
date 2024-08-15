@@ -51,4 +51,15 @@ collections:
   media_articles:
     output: false
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "success-stories"
+    values:
+      layout: "default"
+      metatags: "noindex"
+      sitemap: false
+
 include: [_redirects]
+
