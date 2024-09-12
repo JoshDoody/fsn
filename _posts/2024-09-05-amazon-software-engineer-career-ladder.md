@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: Amazon Software Engineer Career Ladder and Salary Ranges
-headline: Amazon Software Engineer Career Ladder and Salary Ranges
+title: Amazon Software Engineer Career Ladder & Salary Ranges
+headline: Amazon Software Engineer Career Ladder & Salary Ranges
 subhead: A detailed look at Amazon's career ladder for Software Engineering
 description: A detailed look at Amazon's career ladder for Software Engineering including pay ranges
 company: Amazon
