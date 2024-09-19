@@ -142,25 +142,25 @@ The highest level where you’ll see a traditional managerial role is L7. Above 
 
 I began this article with a simplified view of the Software Engineer career ladder at Amazon, and here's an updated summary that more accurately reflects the career ladder:
 
-**L3** (Hourly, unlikely for SWEs) -> 
-**L4** (SDE I, recent college graduates) -> 
-**L5** (SDE II, Managers) -> 
-[big jump] 
-**L6** (Senior SDE, Managers) -> 
-[difficult jump, requires managerial help] 
-**L7** (Principal SDE) -> 
-**L8** (Some executives, Director, General Manager, Senior Principal SDE) -> 
-**L9** (placeholder) -> 
-[_huge_ jump, mostly external hires] 
+**L3** (Hourly, unlikely for SWEs) ->  
+**L4** (SDE I, recent college graduates) ->  
+**L5** (SDE II, Managers) ->  
+[big jump]  
+**L6** (Senior SDE, Managers) ->  
+[difficult jump, requires managerial help]  
+**L7** (Principal SDE) ->  
+**L8** (Some executives, Director, General Manager, Senior Principal SDE) ->  
+**L9** (placeholder) ->  
+[_huge_ jump, mostly external hires]  
 **L10** (VP, Distinguished Engineer)
 
 And here's what the total comp looks like for each of those levels (these are ballpark numbers to keep things simple):
 
-**L3** (hourly) -> 
-**L4** ($100k–$200k) -> 
-**L5** ($250k–$350k) -> 
-**L6** ($300k–$500k+) -> 
-**L7** ($550k–$750k) -> 
-**L8** ($750k–$1MM) -> 
-**L9** (N/A) -> 
+**L3** (hourly) ->  
+**L4** ($100k–$200k) ->  
+**L5** ($250k–$350k) ->  
+**L6** ($300k–$500k+) ->  
+**L7** ($550k–$750k) ->  
+**L8** ($750k–$1MM) ->  
+**L9** (N/A) ->  
 **L10** ($1MM+)
