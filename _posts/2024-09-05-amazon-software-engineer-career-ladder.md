@@ -11,14 +11,14 @@ date: 2024-09-05
 author: josh
 published: true
 ---
-This is a high-level overview of the career ladder at Amazon, specifically focused on Individual Contributor (IC) Software Engineering roles, which go from entry-level (L4) up to “Distinguished Engineer” (L10). The compensation numbers will be pretty round when mentioned, and I’ll just talk about “total comp”, which is base salary, sign-on bonuses, and vesting equity for each year. The numbers are mostly focused on the US market.
+This is a high-level overview of the Amazon Software Engineering career ladder and associated salary ranges from entry-level (L4) up to “Distinguished Engineer” (L10). The compensation numbers will be pretty round when mentioned, and I’ll just talk about “total comp”, which is base salary, sign-on bonuses, and vesting equity for each year. The numbers are mostly focused on the US market.
 
-For a closer look at Amazon job offers and their individual components, see [How to negotiate an Amazon job offer](https://fearlesssalarynegotiation.com/amazon-salary-negotiation/).
+For a closer look at Amazon job offers, their individual components, and how to negotiate them see [How to negotiate an Amazon job offer](https://fearlesssalarynegotiation.com/amazon-salary-negotiation/).
 
 
 ## Amazon career ladder overview
 
-On one hand, career progression for Software Engineers at Amazon is pretty straightforward: L4 -> L5 -> L6 -> L7 -> L8 -> L9 -> L10. Easy!
+On one hand, career progression for Software Engineers at Amazon is pretty straightforward: L3 -> L4 -> L5 -> L6 -> L7 -> L8 -> L9 -> L10. Easy!
 
 But while that progression may look linear and straightforward, it most definitely is not. For example, there is no L9, and the “gap” between some of those levels is much larger than it is between other levels.
 
@@ -32,13 +32,13 @@ I’m including L3 just because it exists, but it’s mostly hourly employees wh
 
 ### L4 (SDE I, recent college graduates)
 
-This is considered entry-level at Amazon. Of course “entry-level at Amazon” is a little different than a typical entry-level software engineer. Most L4s will have _some_ career experience—one to four years or so—somewhere else before joining Amazon.
+This is considered entry-level at Amazon. Of course “entry-level at Amazon” is a little different than a typical entry-level Software Engineer. Most L4s will have _some_ career experience—one to four years or so—somewhere else before joining Amazon.
 
 They do sometimes make offers to fresh-out-of-undergrad Software Engineers, but this is the exception and not the rule. And some folks will move from an internship at Amazon to an L4 role, but this is pretty rare as well.
 
 Usually, an L4 at Amazon will be a new-hire with some sort of related career experience.
 
-As an L4, you can expect to be challenged technically and as you learn to operate in the Amazonian way.
+As an L4, you can expect to be challenged technically and as you learn to operate in the Amazonian way. That means you'll start to see the Leadership Principles in practice and  learn how to operate in a giant tech company that works efficiently in silos.
 
 Total compensation will likely be in the low six figures (above $100,000 and into the low $200,000 range at the top of the pay band).
 
@@ -49,11 +49,11 @@ This is considered more experienced than entry-level, but still not “Senior”
 
 The difference between L4 and L5 is mostly experience and pay. The work will be similarly challenging, and you will be expected to work more independently than an L4.
 
-There are also lots of L5s in general because there are so many managers at that level. This is due to a combination of two factors: 1) There are a lot of L3/L4 ICs to manage and 2) it is generally difficult to get promoted from L5 to L6.
+There are also lots of L5s in general because there are so many managers at that level. This is due to a combination of three factors: 1) At Amazon, a Manager can manage others who are at or below their level, 2) There are a lot of L3/L4/L5 ICs to manage and 3) it is generally difficult to get promoted from L5 to L6.
 
 So L5 is a sort of training ground for engineers who want to advance within Amazon, and you may be “stuck” here for a while. Jumping from L5 to L6 is one of the bigger jumps in Amazon, and it will require help from your manager and your own work results.
 
-The pay difference is meaningful and the pay range is pretty wide: from around mid-$200,000 to mid-$300,000.
+The pay difference from L4 to L5 is meaningful wit a range going from around mid-$200,000 to mid-$300,000.
 
 
 ### L6 (Senior SDE, Managers)
@@ -66,7 +66,7 @@ L6 is also where a lot of external Principal and Staff Engineers come into Amazo
 
 Like L5, this is a level where there is a glut of people because of the difficulty of moving up from this level (the gap from L6 to L7 is even bigger than the gap from L5 to L6) and because so many external hires are brought in here. Amazon _expects_ lots of Engineers to stop or stall at this level.
 
-The pay range makes a pretty big jump in line with the prestige and expectations of the level as well. The range moves to $300,000 or so and up into the $500,000+ range for some folks. It’s a very wide pay range, which is pretty common at most big tech companies as you move up the career ladder.
+The pay range makes a pretty big jump in line with the prestige and expectations of the level as well. The range both moves up and widens to $300,000 and into the $500,000+ range for some folks. It’s a very wide pay range, which is pretty common at most big tech companies as you move up the career ladder.
 
 
 ### L7 (Principal SDE)
@@ -77,10 +77,10 @@ It’s not enough to do great work. It’s not enough for your manager and skip-
 
 But once you’re there, you have some pretty big opportunities to get paid very well and to see _other_ opportunities that you might be able to advance to over time. This is sort of a bridge level: very difficult to get to, and right below a high-level, autonomous role that will pay you extremely well _and_ give you agency to work on any number of projects that you’re interested in.
 
-Once you’ve moved up to L7, the pay range takes a nice jump into the $550,000–$750,000 range, and possibly higher if Amazon’s stock is doing well.
+Once you’ve moved up to L7, the pay range takes a nice jump into the $550,000–$750,000 range and possibly higher if Amazon’s stock is doing well.
 
 
-### L8 (Director, General Manager, Senior Principal SDE)
+### L8 (Some executives, Director, General Manager, Senior Principal SDE)
 
 Now we’re getting into “big tech is different” territory. L8 would basically be a VP at most other companies, but not at Amazon. In some instances, L8 will be considered an executive (which may include a staff) and in other parts of the organization, L8 is a very, very senior IC or leader.
 
@@ -110,8 +110,7 @@ This is a VP-level role at Amazon.
 
 While the L9 gap isn’t totally understood, it is a good symbol of how difficult it is to get to L10 at Amazon. They prefer to bring in external candidates for levels above L8, and it’s possible L9 also serves as a sort of wedge to facilitate that hiring preference. It’s _extremely_ difficult to get promoted from L8, over the invisible L9 barrier, to L10, so most of the people who end up in L10 are hired into that role.
 
-For those who are an L8 at Amazon and hoping to be promoted to L10, there is no fast track to L10—it’s all about time with the company and scope of work, which is a nicer way of saying “it’s all about who you know” and to be a bit more crass, “how much money you’ve made Amazon”. \
-
+For those who are an L8 at Amazon and hoping to be promoted to L10, there is no fast track to L10—it’s all about time with the company and scope of work, which is a nicer way of saying “it’s all about who you know” and to be a bit more crass, “how much money you’ve made for Amazon”.
 
 There are so few L10 roles that they are coveted, which means there is a lot of competition for them. To win that competition and jump from L8 over the L9 barrier to L10, you have to put your time in, work on interesting and various projects, know the right people, and be lucky enough to work on a project that brings in a lot of money.
 
@@ -138,3 +137,30 @@ In “Forte”, this might look more like “You really excelled at [Leadership 
 This article is about the Software Engineering career ladder, but of course there is also a “management” career ladder. One thing to note is that one might manage someone at the _same_ level, but not a _higher_ level. L5s may manage other L5s and below, L6s may manage other L6s and below, etc.
 
 The highest level where you’ll see a traditional managerial role is L7. Above that—starting with L8—people don’t really have traditional managers because they are reporting into a VP or another very senior person. L8 and above have so many people in their “downline” that they cannot possibly manage their downline through a traditional “manager of a team” arrangement.
+
+## Summary
+
+I began this article with a simplified view of the Software Engineer career ladder at Amazon, and here's an updated summary that more accurately reflects the career ladder:
+
+**L3** (Hourly, unlikely for SWEs) -> 
+**L4** (SDE I, recent college graduates) -> 
+**L5** (SDE II, Managers) -> 
+[big jump] 
+**L6** (Senior SDE, Managers) -> 
+[difficult jump, requires managerial help] 
+**L7** (Principal SDE) -> 
+**L8** (Some executives, Director, General Manager, Senior Principal SDE) -> 
+**L9** (placeholder) -> 
+[_huge_ jump, mostly external hires] 
+**L10** (VP, Distinguished Engineer)
+
+And here's what the total comp looks like for each of those levels (these are ballpark numbers to keep things simple):
+
+**L3** (hourly) -> 
+**L4** ($100k–$200k) -> 
+**L5** ($250k–$350k) -> 
+**L6** ($300k–$500k+) -> 
+**L7** ($550k–$750k) -> 
+**L8** ($750k–$1MM) -> 
+**L9** (N/A) -> 
+**L10** ($1MM+)
