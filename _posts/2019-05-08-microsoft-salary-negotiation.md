@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: Microsoft salary negotiation - How to negotiate a Microsoft job offer
-headline: Got a job offer from Microsoft? Here's how to negotiate it!
-description: Here's how to negotiate your Microsoft job offer including valuable tactics and common pitfalls to avoid.
+title: How to negotiate your Microsoft job offer
+headline: How to negotiate your Microsoft job offer
+description: A step-by-step guide to negotiate your Microsoft job offer, by a compensation negotiation expert.
 categories:
   - coach
 tags:

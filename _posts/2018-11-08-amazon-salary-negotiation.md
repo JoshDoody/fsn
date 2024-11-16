@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: Amazon salary negotiation - How to negotiate your Amazon job offer
-headline: Got a job offer from Amazon? Here's how to negotiate it!
-description: Here's how to negotiate your Amazon job offer including valuable tactics and common pitfalls to avoid.
+title: How to negotiate your Amazon job offer
+headline: How to negotiate your Amazon job offer
+description: A step-by-step guide to negotiate your Amazon job offer, by a compensation negotiation expert who has negotiated millions of dollars in Amazon offers.
 categories:
   - coach
 tags:
@@ -63,8 +63,8 @@ Notice that the Total is pretty consistent through the first four years, but the
 This is what I was referring to above when I mentioned they incentivize you to stay for a few years. The vast majority of the equity is paid out in years three and four, so there's a pretty big incentive to stick around.
 
 <blockquote class="ico link-callout">
-  <p><span>Learn more</span> Learn more about Amazon sign-on bonuses</p>
-  <p><a href="/sign-on-bonus-overview/">What is a sign-on bonus? Definition and examples <i class="fas fa-angle-double-right"></i></a></p>
+  <p><span>Learn more</span> Learn more about Amazon's career ladder and salary ranges</p>
+  <p><a href="/amazon-software-engineer-career-ladder/">Amazon Software Engineer Career Ladder & Salary Ranges <i class="fas fa-angle-double-right"></i></a></p>
 </blockquote>
 
 Let's look a little closer at the main components of an Amazon job offer.

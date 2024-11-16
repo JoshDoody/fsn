@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: Apple salary negotiation - How to negotiate an Apple job offer
-headline: Got a job offer from Apple? Here's how to negotiate it!
-description: Here's how to negotiate your Apple job offer including valuable tactics and common pitfalls to avoid.
+title: How to negotiate your Apple job offer
+headline: How to negotiate your Apple job offer
+description: A step-by-step guide to negotiate your Apple job offer, by a compensation negotiation expert.
 categories:
   - coach
 tags:

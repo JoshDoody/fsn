@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: Netflix salary negotiation - How to negotiate a Netflix job offer
-headline: Got a job offer from Netflix? Here's how to negotiate it!
-description: Here's how to negotiate your Netflix job offer including valuable tactics and common pitfalls to avoid.
+title: How to negotiate your Netflix job offer
+headline: How to negotiate your Netflix job offer
+description: A step-by-step guide to negotiate your Netflix job offer, by a compensation negotiation expert.
 categories:
   - coach
 tags:

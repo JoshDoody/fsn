@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: Tesla salary negotiation - How to negotiate an Tesla job offer
-headline: Got a job offer from Tesla? Here's how to negotiate it!
-description: Here's how to negotiate your Tesla job offer including valuable tactics and common pitfalls to avoid.
+title: How to negotiate your Tesla job offer
+headline: How to negotiate your Tesla job offer
+description: A step-by-step guide to negotiate your Tesla job offer, by a compensation negotiation expert.
 categories:
   - coach
 tags:
