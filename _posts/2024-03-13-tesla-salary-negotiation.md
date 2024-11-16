@@ -10,7 +10,7 @@ tags:
   - popular
   - blogFeatured
 company: Tesla
-date: 2024-03-13
+date: 2024-11-16
 author: josh
 published: true
 ---
