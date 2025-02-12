@@ -40,9 +40,9 @@ Once we have talked about your situation and I have determined the best next ste
 
 ### When is payment due?
 
-The fees for your Salary Negotiation Coaching engagement will be due once our work is complete.
+The fee for your Salary Negotiation Coaching engagement will be due after our work is complete.
 
-Please see the “Fee Payment” section below for an in-depth explanation of the fees for Salary Negotiation Coaching, how they are paid, and when they are paid.
+Please see the “[Fee Payment](#payment)” section below for an in-depth explanation of the Negotiation Fee, how it is paid, and when it is paid.
 
 ### What’s it like to work with you for Salary Negotiation Coaching? How will we communicate?
 
@@ -78,15 +78,13 @@ Bringing Josh on made a huge difference for me — no way I would have ended up 
 
 ### How much does it cost?
 
-Depending upon the complexity of the situation and your needs, the Strategy Fee is between $3,000 and $6,000. The Result Fee is 10% of the improvement we negotiate in your first year’s compensation (salary, equity, sign-on bonus). 
+The Negotiation Fee has two components—Strategy and Result—and is not paid until _after_ our work is complete.
 
-### Why are there two fees for Salary Negotiation Coaching?
+Depending upon the complexity of the situation and your needs, the Strategy Component is between $3,000 and $6,000. The Result Component is 10% of the improvement we negotiate in your first year’s compensation. 
 
-There are two fees for Salary Negotiation Coaching: A Strategy Fee and a Result Fee. All fees are paid after our work together is complete.
+_Strategy Component_
 
-_Strategy Fee_
-
-The Strategy Fee covers all aspects of your salary negotiation. It ensures that I can provide the best quality strategy for every client.
+The Strategy Component covers all aspects of your salary negotiation. It ensures that I can provide the best quality strategy for every client.
 
 Some of the strategic considerations for a typical engagement are:
 
@@ -96,43 +94,43 @@ Some of the strategic considerations for a typical engagement are:
 - Managing multiple offers and negotiations simultaneously
 - Managing multiple timelines
 
-_Result Fee_
+_Result Component_
 
-The Result Fee is due only when we improve your job offer, and is 10% of the improvement to your first-year compensation that we negotiate.
+The Result Component is due only when we improve your job offer, and is 10% of the improvement to your first-year compensation that we negotiate.
 
-The Result Fee is to ensure that our incentives are aligned throughout our engagement and to help us both share directly in the results. Sometimes, a company is very flexible and will significantly improve their offer through negotiation. Sometimes they are inflexible and their first offer is also their best offer. We cannot know which case applies to your offer until we negotiate, and the Result Fee enables us to work together knowing that we will share in the result.
+The Result Component is to ensure that our incentives are consistently aligned. Sometimes, a company is very flexible and will significantly improve their offer through negotiation. Sometimes they are inflexible and their first offer is also their best offer. We cannot know which case applies to your offer until we negotiate, and the Result Component enables us to work together knowing that we will share in the result.
 
 You keep 90% of the negotiated first-year compensation improvement, and I collect the remaining 10%.
 
 You keep 100% of the negotiated improvement after the first year.
 
-If the company does not budge on their offer when we negotiate, I don’t collect any Result Fee.
+If the company does not budge on their offer when we negotiate, there is no Result Component.
 
-### Besides the Strategy Fee and Result Fee, are there any other fees for Salary Negotiation Coaching?
+### Besides the Negotiation Fee, are there any other fees for Salary Negotiation Coaching?
 
-No. There are no additional fees beyond the Strategy Fee and the Result Fee.
+No. There are no additional fees beyond the Negotiation Fee.
 
-### How does equity that vests over multiple years affect the Result Fee?
+### How does equity that vests over multiple years affect the Result Component?
 
-The equity portion of the Result Fee will only take into account the equity that vests for the first year. It’s probably easiest to explain this with a simple example.
+The equity portion of the Result Component will only take into account the equity that vests for the first year. It’s probably easiest to explain this with a simple example.
 
-If we were to negotiate an additional $100,000 in total equity, and that equity vests equally over four years (25% per year), then we would only consider 25% of that $100,000 improvement in equity in the Result Fee calculation.
+If we were to negotiate an additional $100,000 in total equity, and that equity vests equally over four years (25% per year), then we would only consider 25% of that $100,000 improvement in equity in the Result Component calculation.
 
-So the Result Fee for the equity portion of the negotiation would be calculated as follows:
+So the Result Component for the equity portion of the Negotiation Fee would be calculated as follows:
 
-The equity vesting in the first year would be $25,000 (25% of the additional $100,000 in equity we negotiated), and the Result Fee for the equity would be 10% of $25,000, or $2,500.
+The equity vesting in the first year would be $25,000 (25% of the additional $100,000 in equity we negotiated), and the Result Component for the equity would be 10% of $25,000, or $2,500.
 
-### Is there a cap on the Result Fee?
+### Is there a cap on the Result Component?
 
-There is no cap on the Result Fee.
+There is no cap on the Result Component.
 
-The Result Fee, and specifically the un-capped Result Fee, is a crucial component of my offering that guarantees that our incentives are perfectly aligned throughout our work together. When the Result Fee gets large, that means your result was large as well, so we both have something to aim for and to celebrate.
+The Result Component, and specifically the un-capped Result Component, is a crucial aspect of my offering that guarantees that our incentives are perfectly aligned throughout our work together. When the Result Component gets large, that means your result was large as well, so we both have something to aim for and to celebrate.
 
 ### What if I have multiple job offers?
 
-All of your current negotiations are covered under your Strategy Fee. We’ll negotiate all of your offers for this cycle and then you’ll choose the offer that is most appealing to you. Once you’ve chosen that offer, we’ll calculate your Result Fee based on the offer you chose (ignoring the other offers).
+All of your current negotiations are covered under your Strategy Component. We’ll negotiate all of your offers for this cycle and then you’ll choose the offer that is most appealing to you. Once you’ve chosen that offer, we’ll calculate your Result Component based on the offer you chose (ignoring the other offers).
 
-If you have three offers in hand and two more come in while we’re negotiating, we’ll negotiate all five of those offers.
+If you have three offers in hand and two more come in while we’re negotiating, we’ll negotiate all five of those offers if needed.
 
 If you have 10 offers in hand and we negotiate one for your dream job, and you decide not to negotiate the others, then we’ll just negotiate that one offer.
 
@@ -152,32 +150,27 @@ The second main benefit is that you will learn how to negotiate your job offers 
 
 If we don’t work together to negotiate your offer, please please please make sure you negotiate it yourself! Some type of negotiation is better than no negotiation.
 
-But the best type of negotiation is working with a professional who does this for a living—that’s me! For most of my clients, my Strategy Fee is 1–2% of their total compensation _at most_, which means my fee is a relatively small investment with tremendous upside.
+But the best type of negotiation is working with a professional who does this for a living—that’s me! For most of my clients, the Strategy Component is 1–2% of their total compensation _at most_, which means my fee is a relatively small investment with tremendous upside. And the Result Component immediately returns 10x that investment in Year 1.
 
 It’s difficult to quantify how much you could be leaving on the table when you don’t negotiate optimally, but it’s probably several times my fee. 
 
 Investing a tiny fraction of your total compensation to work with a professional salary negotiator and avoid leaving multiples of my fee on the table seems like a good investment, but that’s ultimately for you to decide.
 
-### Are your fees negotiable?
+### Is your fee negotiable?
 
-My fees are not negotiable. Salary Negotiation Coaching isn’t for everyone and that’s ok!
-
+My fee is not negotiable. Salary Negotiation Coaching isn’t for everyone and that’s ok!
 
 ## <a name="payment">Fee Payment
 
 ### When is payment due?
 
-No payment is due until after our work together is complete.
+Payment is not due until _after_ our work together is complete.
 
-Once we have completed our work together, I will send a Strategy Fee payment link, and your Strategy Fee will be due.
+Once we have completed our work together, I will calculate the Result Component and add that to the Strategy Component to determine the final Negotaition Fee. Then I'll send an invoice for the final Negotiation Fee.
 
-I will also calculate your Result Fee and send a Result Fee invoice. Most clients pay the Result Fee right away, while some wait until they begin their new job. You and I will work together to figure out the timing that works best for your Result Fee payment.
+Most clients pay the Negotiation Fee right away, while some wait until they begin their new job. You and I will work together to figure out the timing that works best for you.
 
 Please see the “[Cost](#cost)” section of this document for an in-depth explanation of the fee structure for Salary Negotiation Coaching.
-
-### Can I pay with a credit card?
-
-There is an additional 3% convenience fee to pay the fees with a credit card because credit card processing fees can be very large. There is no convenience fee for ACH (bank transfer) or paper check.
 
 ### What are my payment options?
 
@@ -193,7 +186,7 @@ Results cannot be guaranteed. Although I have extensive experience negotiating w
 
 Sometimes, a company will have substantial flexibility and will drastically improve their offer for the right candidate. Sometimes a company will have no flexibility and won’t budge regardless of how strong the candidate is.
 
-This variability is why there is a Result Fee: If the company does not budge on their offer when we negotiate, I don’t collect any Result Fee. If the company does improve their offer, you keep 90% of the first year’s improvement (and 100% of the improvements after that), and I keep 10%.
+This variability is why there is a Result Component: If the company does not budge on their offer when we negotiate, I don’t collect any Result Component. If the company does improve their offer, you keep 90% of the first year’s improvement (and 100% of the improvements after that), and I keep 10%.
 
 ### How often do your clients improve their job offers?
 
@@ -217,7 +210,7 @@ Yes! I prefer to work with referred clients whenever possible.
 
 ### How does your referral program work?
 
-My [referral program](/coach/referral/) is pretty simple and straightforward: If you recommend someone to me and they decide to work with me, I'll give you up to $1,000.
+My [referral program](/coach/referral/) is pretty simple and straightforward: If you recommend someone to me and they decide to work with me, I'll give you $500.
 
 But here's the catch: I need the person you referred to let me know that you're the one who sent them my way.
 
