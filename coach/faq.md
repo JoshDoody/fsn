@@ -126,8 +126,6 @@ So the Result Component for the equity portion of the Negotiation Fee would be c
 
 The equity vesting for the first year would be $25,000 (25% of the additional $100,000 in equity we negotiated), and the Result Component for the equity would be 10% of $25,000, or $2,500.
 
-This is true if the equity vests regularly throughout that first year, or if there's a one-year cliff and the first-year equity vests after the first year is complete since the first-year equity is paid for the first year.
-
 ### Is there a cap on the Result Component?
 
 There is no cap on the Result Component.
