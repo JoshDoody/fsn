@@ -106,6 +106,12 @@ You keep 100% of the negotiated improvement after the first year.
 
 If the company does not budge on their offer when we negotiate, there is no Result Component.
 
+#### What if we don't have an initial offer to use as the baseline for the Result Component?
+
+Very, very rarely, a company will insist that you essentially design your own comp package in consultation with them. This may happen for select executive or leadership roles in some cases. 
+
+If our negotiation involves creating a comp package rather than negotiating from their initial offer, then the Result Compoment will be 2% of the Year 1 total compensation that we negotiate.
+
 ### Besides the Negotiation Fee, are there any other fees for Salary Negotiation Coaching?
 
 No. There are no additional fees beyond the Negotiation Fee.
@@ -118,7 +124,9 @@ If we were to negotiate an additional $100,000 in total equity, and that equity 
 
 So the Result Component for the equity portion of the Negotiation Fee would be calculated as follows:
 
-The equity vesting in the first year would be $25,000 (25% of the additional $100,000 in equity we negotiated), and the Result Component for the equity would be 10% of $25,000, or $2,500.
+The equity vesting for the first year would be $25,000 (25% of the additional $100,000 in equity we negotiated), and the Result Component for the equity would be 10% of $25,000, or $2,500.
+
+This is true if the equity vests regularly throughout that first year, or if there's a one-year cliff and the first-year equity vests after the first year is complete since the first-year equity is paid for the first year.
 
 ### Is there a cap on the Result Component?
 
