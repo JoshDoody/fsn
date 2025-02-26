@@ -228,11 +228,7 @@ Here's Michael's research for a company called Simply Credit:
 
 **Company name:** SimplyCredit
 
-**Company website:** [https://www.simplycreditinc.com/](https://www.simplycreditinc.com/)
-
-**Company Careers page:** [https://www.simplycreditinc.com/careers](https://www.simplycreditinc.com/careers)
-
-[The job posting isn't online anymore, but it was for a backend engineer with functional programming experience.]
+[The job posting isn't online anymore and SimplyCredit isn't around anymore, but this was for a backend engineer with functional programming experience and I've included all the relevant research below to make it easy to follow.]
 
 **Mission statement:**
 
