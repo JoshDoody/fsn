@@ -80,7 +80,7 @@ Bringing Josh on made a huge difference for me — no way I would have ended up 
 
 The Negotiation Fee has two components—Strategy and Improvement—and is not paid until _after_ our work is complete.
 
-Depending upon the complexity of the situation and your needs, the Strategy Component is between $3,000 and $6,000. The Improvement Component is 10% of the improvement we negotiate in your first year’s compensation. 
+The Strategy Component is $4,000. The Improvement Component is 10% of the improvement we negotiate in your first year’s compensation. 
 
 _Strategy Component_
 
