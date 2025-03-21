@@ -28,11 +28,17 @@ My most successful clients are are High Earners that are currently in a job sear
 
 ### I'm not earning $400k+ per year—can I still work with you?
 
-Yes. I built this business to help people at all stages of their career. The clients who get the best results from Salary Negotiation Coaching are High Earners, but lots of other clients have gotten stellar results and have other offerings that might be a better fit for you.
+Yes. I built this business to help people at all stages of their career. The clients who get the best results from Salary Negotiation Coaching are High Earners, but lots of other clients have gotten stellar results and I have other offerings that might be a better fit for you.
 
 The best thing to do is to [contact me](/contact/) so I can learn more about your situation and recommend the best next steps for you and your situation.
 
 ## <a name="process">Process
+
+### When is the best time to reach out about Salary Negotiation Coaching?
+
+The absolute best time for us to talk about working together is when you are entering the offer stage and one more more companies have indicated that an offer may be coming soon.
+
+But any time during your job search process—if you're just starting your search, or if you already have an offer in hand—is a good time for us to talk about whether Salary Negotiation Coaching could be right for you.
 
 ### How do we get started?
 
@@ -110,7 +116,7 @@ If the company does not budge on their offer when we negotiate, there is no Impr
 
 Very, very rarely, a company will insist that you essentially design your own comp package in consultation with them. This may happen for select executive or leadership roles in some cases. 
 
-If our negotiation involves creating a comp package rather than negotiating from their initial offer, then the Improvement Compoment will be 2% of the Year 1 total compensation that we negotiate.
+If our negotiation involves creating a comp package rather than negotiating from their initial offer, then the Improvement Component will be 2% of the Year 1 total compensation that we negotiate.
 
 ### Besides the Negotiation Fee, are there any other fees for Salary Negotiation Coaching?
 
@@ -172,7 +178,7 @@ My fee is not negotiable. Salary Negotiation Coaching isn’t for everyone and t
 
 Payment is not due until _after_ our work together is complete.
 
-Once we have completed our work together, I will calculate the Improvement Component and add that to the Strategy Component to determine the final Negotaition Fee. Then I'll send an invoice for the final Negotiation Fee.
+Once we have completed our work together, I will calculate the Improvement Component and add that to the Strategy Component to determine the final Negotiation Fee. Then I'll send an invoice for the final Negotiation Fee.
 
 Most clients pay the Negotiation Fee right away, while some wait until they begin their new job. You and I will work together to figure out the timing that works best for you.
 
