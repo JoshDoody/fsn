@@ -117,7 +117,7 @@ So it is often the case that the maximum implicit leverage of a competing offer 
 
 Which brings us to _explicit_ negotiating leverage when you have a competing offer.
 
-As I mentioned earlier, I’m a professional salary negotiator. My livelihood depends on my salary negotiation coaching clients getting good results, partially because most of my income is in the form of result fees. Meaning: When my clients negotiate higher pay, I also get higher pay.
+As I mentioned earlier, I’m a professional salary negotiator. My livelihood depends on my salary negotiation coaching clients getting good results, partially because most of my income depends on how much we improve each offer. Meaning: When my clients negotiate higher pay, I also get higher pay.
 
 So it’s 100% in my best interest to do everything I can—to use every edge, every source of leverage—to help my clients negotiate the absolute best compensation package possible.
 

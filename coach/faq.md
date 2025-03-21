@@ -78,9 +78,9 @@ Bringing Josh on made a huge difference for me — no way I would have ended up 
 
 ### How much does it cost?
 
-The Negotiation Fee has two components—Strategy and Result—and is not paid until _after_ our work is complete.
+The Negotiation Fee has two components—Strategy and Improvement—and is not paid until _after_ our work is complete.
 
-Depending upon the complexity of the situation and your needs, the Strategy Component is between $3,000 and $6,000. The Result Component is 10% of the improvement we negotiate in your first year’s compensation. 
+Depending upon the complexity of the situation and your needs, the Strategy Component is between $3,000 and $6,000. The Improvement Component is 10% of the improvement we negotiate in your first year’s compensation. 
 
 _Strategy Component_
 
@@ -94,47 +94,47 @@ Some of the strategic considerations for a typical engagement are:
 - Managing multiple offers and negotiations simultaneously
 - Managing multiple timelines
 
-_Result Component_
+_Improvement Component_
 
-The Result Component is due only when we improve your job offer, and is 10% of the improvement to your first-year compensation that we negotiate.
+The Improvement Component is due only when we improve your job offer, and is 10% of the improvement to your first-year compensation that we negotiate.
 
-The Result Component is to ensure that our incentives are consistently aligned. Sometimes, a company is very flexible and will significantly improve their offer through negotiation. Sometimes they are inflexible and their first offer is also their best offer. We cannot know which case applies to your offer until we negotiate, and the Result Component enables us to work together knowing that we will share in the result.
+The Improvement Component is to ensure that our incentives are consistently aligned. Sometimes, a company is very flexible and will significantly improve their offer through negotiation. Sometimes they are inflexible and their first offer is also their best offer. We cannot know which case applies to your offer until we negotiate, and the Improvement Component enables us to work together knowing that we will share in the result.
 
 You keep 90% of the negotiated first-year compensation improvement, and I collect the remaining 10%.
 
 You keep 100% of the negotiated improvement after the first year.
 
-If the company does not budge on their offer when we negotiate, there is no Result Component.
+If the company does not budge on their offer when we negotiate, there is no Improvement Component.
 
-#### What if we don't have an initial offer to use as the baseline for the Result Component?
+#### What if we don't have an initial offer to use as the baseline for the Improvement Component?
 
 Very, very rarely, a company will insist that you essentially design your own comp package in consultation with them. This may happen for select executive or leadership roles in some cases. 
 
-If our negotiation involves creating a comp package rather than negotiating from their initial offer, then the Result Compoment will be 2% of the Year 1 total compensation that we negotiate.
+If our negotiation involves creating a comp package rather than negotiating from their initial offer, then the Improvement Compoment will be 2% of the Year 1 total compensation that we negotiate.
 
 ### Besides the Negotiation Fee, are there any other fees for Salary Negotiation Coaching?
 
 No. There are no additional fees beyond the Negotiation Fee.
 
-### How does equity that vests over multiple years affect the Result Component?
+### How does equity that vests over multiple years affect the Improvement Component?
 
-The equity portion of the Result Component will only take into account the equity that vests for the first year. It’s probably easiest to explain this with a simple example.
+The equity portion of the Improvement Component will only take into account the equity that vests for the first year. It’s probably easiest to explain this with a simple example.
 
-If we were to negotiate an additional $100,000 in total equity, and that equity vests equally over four years (25% per year), then we would only consider 25% of that $100,000 improvement in equity in the Result Component calculation.
+If we were to negotiate an additional $100,000 in total equity, and that equity vests equally over four years (25% per year), then we would only consider 25% of that $100,000 improvement in equity in the Improvement Component calculation.
 
-So the Result Component for the equity portion of the Negotiation Fee would be calculated as follows:
+So the Improvement Component for the equity portion of the Negotiation Fee would be calculated as follows:
 
-The equity vesting for the first year would be $25,000 (25% of the additional $100,000 in equity we negotiated), and the Result Component for the equity would be 10% of $25,000, or $2,500.
+The equity vesting for the first year would be $25,000 (25% of the additional $100,000 in equity we negotiated), and the Improvement Component for the equity would be 10% of $25,000, or $2,500.
 
-### Is there a cap on the Result Component?
+### Is there a cap on the Improvement Component?
 
-There is no cap on the Result Component.
+There is no cap on the Improvement Component.
 
-The Result Component, and specifically the un-capped Result Component, is a crucial aspect of my offering that guarantees that our incentives are perfectly aligned throughout our work together. When the Result Component gets large, that means your result was large as well, so we both have something to aim for and to celebrate.
+The Improvement Component, and specifically the un-capped Improvement Component, is a crucial aspect of my offering that guarantees that our incentives are perfectly aligned throughout our work together. When the Improvement Component gets large, that means your improvement was large as well, so we both have something to aim for and to celebrate.
 
 ### What if I have multiple job offers?
 
-All of your current negotiations are covered under your Strategy Component. We’ll negotiate all of your offers for this cycle and then you’ll choose the offer that is most appealing to you. Once you’ve chosen that offer, we’ll calculate your Result Component based on the offer you chose (ignoring the other offers).
+All of your current negotiations are covered under your Strategy Component. We’ll negotiate all of your offers for this cycle and then you’ll choose the offer that is most appealing to you. Once you’ve chosen that offer, we’ll calculate your Improvement Component based on the offer you chose (ignoring the other offers).
 
 If you have three offers in hand and two more come in while we’re negotiating, we’ll negotiate all five of those offers if needed.
 
@@ -156,7 +156,7 @@ The second main benefit is that you will learn how to negotiate your job offers 
 
 If we don’t work together to negotiate your offer, please please please make sure you negotiate it yourself! Some type of negotiation is better than no negotiation.
 
-But the best type of negotiation is working with a professional who does this for a living—that’s me! For most of my clients, the Strategy Component is 1–2% of their total compensation _at most_, which means my fee is a relatively small investment with tremendous upside. And the Result Component immediately returns 10x that investment in Year 1.
+But the best type of negotiation is working with a professional who does this for a living—that’s me! For most of my clients, the Strategy Component is 1–2% of their total compensation _at most_, which means my fee is a relatively small investment with tremendous upside. And the Improvement Component immediately returns 10x that investment in Year 1.
 
 It’s difficult to quantify how much you could be leaving on the table when you don’t negotiate optimally, but it’s probably several times my fee. 
 
@@ -172,7 +172,7 @@ My fee is not negotiable. Salary Negotiation Coaching isn’t for everyone and t
 
 Payment is not due until _after_ our work together is complete.
 
-Once we have completed our work together, I will calculate the Result Component and add that to the Strategy Component to determine the final Negotaition Fee. Then I'll send an invoice for the final Negotiation Fee.
+Once we have completed our work together, I will calculate the Improvement Component and add that to the Strategy Component to determine the final Negotaition Fee. Then I'll send an invoice for the final Negotiation Fee.
 
 Most clients pay the Negotiation Fee right away, while some wait until they begin their new job. You and I will work together to figure out the timing that works best for you.
 
@@ -192,7 +192,7 @@ Results cannot be guaranteed. Although I have extensive experience negotiating w
 
 Sometimes, a company will have substantial flexibility and will drastically improve their offer for the right candidate. Sometimes a company will have no flexibility and won’t budge regardless of how strong the candidate is.
 
-This variability is why there is a Result Component: If the company does not budge on their offer when we negotiate, I don’t collect any Result Component. If the company does improve their offer, you keep 90% of the first year’s improvement (and 100% of the improvements after that), and I keep 10%.
+This variability is why there is an Improvement Component: If the company does not budge on their offer when we negotiate, I don’t collect any Improvement Component. If the company does improve their offer, you keep 90% of the first year’s improvement (and 100% of the improvements after that), and I keep 10%.
 
 ### How often do your clients improve their job offers?
 
