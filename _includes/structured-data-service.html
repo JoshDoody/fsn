@@ -2,8 +2,8 @@
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Salary Negotiation Coaching for High Earners",
-  "description": "Personalized salary negotiation coaching to help high earners maximize their compensation packages.",
+  "name": "{{ page.title | escape }}",
+  "description": "{{ page.description | escape }}",
   "provider": {
     "@type": "Person",
     "name": "Josh Doody",
@@ -19,7 +19,7 @@
     "price": "4000.00",
     "priceCurrency": "USD",
     "description": "Strategy Component: $4,000. Improvement Component: 10% of the negotiated first-year compensation improvement.",
-    "url": "https://fearlesssalarynegotiation.com/coach/"
+    "url": "{{ page.url | absolute_url }}"
   },
   "review": {
     "@type": "Review",
@@ -40,6 +40,10 @@
       "name": "Success Rate",
       "value": "90% of clients improve their offers"
     }
-  ]
+  ],
+  "hasPart": {
+    "@type": "FAQPage",
+    "@id": "https://fearlesssalarynegotiation.com/coach/faq/"
+  }
 }
 </script>
