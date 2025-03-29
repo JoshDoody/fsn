@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: How to write a promotion request letter to ask for a promotion
 headline: How to write a promotion request letter to ask your boss for a promotion
 description: How do you request a promotion? Here’s how to write a promotion request letter, schedule a meeting with your boss, and follow up to get your next promotion.

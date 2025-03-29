@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: How to negotiate a raise in addition to your annual merit increase
 description: Here's how to negotiate a larger raise in addition to the merit increase you were offered in your annual review.
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: How to Escape Your Dead-End Job and Avoid “Pigeonholing”
 headline: Afraid you’re being pigeonholed at work? <br>Here’s what to do about it.
 subhead: How to find and prioritize opportunities to branch out in your career today

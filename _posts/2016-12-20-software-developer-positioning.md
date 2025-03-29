@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: Software Developer positioning guide to get more job offers
 headline: 'Software Developers: Use positioning to get more job offers'
 subhead: Stand out from similarly-qualified candidates with these tactics

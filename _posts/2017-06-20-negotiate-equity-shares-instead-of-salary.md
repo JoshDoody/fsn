@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: Can you negotiate more equity shares instead of salary?
 headline: How to decide whether to negotiate for more equity shares instead of base salary
 description: Here's how to decide whether you should try to negotiate more equity shares instead of salary when negotiating a job offer.

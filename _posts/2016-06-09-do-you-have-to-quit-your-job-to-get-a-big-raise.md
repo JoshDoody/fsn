@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: Do you have to quit your job to get a big raise?
 subhead: How to know when you should ask for a raise
 description: Timing your request correctly is extremely important. Here are some things to help determine when you should ask for a raise.

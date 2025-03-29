@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: Sample résumé format review
 headline: How strong is your résumé?
 subhead: Get a detailed video review of a real life résumé

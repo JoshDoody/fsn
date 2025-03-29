@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: How to decline a job offer (with tips and email templates)
 headline: How to decline a job offer (with tips and email templates)
 subhead: How to politely and firmly decline a job offer without burning any bridges

@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: Do you need multiple competing job offers to negotiate?
 subhead: Competing offers can help, but your greatest leverage is your unique value proposition
 description: You don't need multiple job offers to negotiate. Focus on your unique value proposition instead.

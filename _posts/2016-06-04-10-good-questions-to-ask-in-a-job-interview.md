@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: 10 questions to ask in an interview to really stand out
 subhead: Stand out and learn more about the job opportunity
 description: Make sure you don't freeze up when they say, "Do you have any questions for me?" Blow them away with these 10 questions to ask in an interview.

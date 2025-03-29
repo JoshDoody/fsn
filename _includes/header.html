@@ -11,6 +11,8 @@
       <meta name="robots" content="noindex, nofollow">
     {% endif %}
     <title>{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | strip_html | escape }}{% endif %}</title>
+		
+		<!-- Meta tags and Open Graph -->
     <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
     <meta property="og:url" content="{% if page.301_to_url %}{{ page.301_to_url }}{% elsif page.canonical_url %}{{ page.canonical_url }}{% else %}{{ site.url }}{{ page.url }}{% endif %}" />
     <meta property="og:title" content="{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | strip_html | escape }}{% endif %}" />
@@ -25,6 +27,34 @@
       <meta property="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
       <meta property="twitter:image" content="{{ site.url }}/assets/imgs/og/{{ page.og-image }}" />
     {% endif %}
+		
+		<!-- Structured Data -->
+		{% if page.type == "post" %}
+		  {% include structured-data-post.html %}
+		{% elsif page.type == "faq" %}
+		  {% include structured-data-faq.html %}
+		{% elsif page.type == "service" %}
+		  {% include structured-data-service.html %}
+		{% elsif page.url == "/" %}
+		<script type="application/ld+json">
+		{
+		  "@context": "http://schema.org",
+		  "@type": "WebSite",
+		  "name": "Fearless Salary Negotiation",
+		  "url": "https://fearlesssalarynegotiation.com"
+		}
+		</script>
+		{% else %}
+		<script type="application/ld+json">
+		{
+		  "@context": "http://schema.org",
+		  "@type": "WebSite",
+		  "name": "Fearless Salary Negotiation",
+		  "url": "https://fearlesssalarynegotiation.com"
+		}
+		</script>
+		{% endif %}
+		
     <link rel="icon" href="https://fearlesssalarynegotiation.com/assets/imgs/favicon.svg">
 		<link rel="alternate icon" href="https://fearlesssalarynegotiation.com/assets/imgs/favicon.ico">
     <link rel="mask-icon" href="https://fearlesssalarynegotiation.com/assets/imgs/favicon.svg" color="#28282D">
@@ -98,15 +128,6 @@
 		        b.parentNode.insertBefore(c, b); return c; }; c = d('', '-hidden', ''); d('-stay-invisible', '-stay-hidden', '-stay');
 		    setTimeout(o.onerror = function() { c.parentNode && c.parentNode.removeChild(c); }, a); b.parentNode.insertBefore(o, b);
 		})('1676380240', 20000, document);
-		</script>
-		
-		<script type="application/ld+json">
-		{
-		  "@context": "http://schema.org",
-		  "@type": "WebSite",
-		  "name": "Fearless Salary Negotiation",
-		  "url": "https://fearlesssalarynegotiation.com"
-		}
 		</script>
   </head>
 

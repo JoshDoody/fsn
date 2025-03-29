@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: What is a sign-on bonus? Definition and examples
 headline: What is a sign-on bonus? Definition and examples
 subhead: A quick overview of sign-on bonuses and how they work (with a focus on Big Tech)

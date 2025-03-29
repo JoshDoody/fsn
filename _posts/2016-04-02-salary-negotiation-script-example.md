@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: Salary negotiation script example
 subhead: An example script for negotiating starting salary
 description: Use this salary negotiation script example to plan for your salary negotiation.

@@ -1,0 +1,25 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ page.title | escape }}",
+  "author": {
+    "@type": "Person",
+    {% if page.author == "kai" %}"name": "Kai Davis"{% else %}"name": "Josh Doody"{% endif %}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Fearless Salary Negotiation",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://fearlesssalarynegotiation.com/images/logo.png"
+    }
+  },
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  }
+}
+</script>

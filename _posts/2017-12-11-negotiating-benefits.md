@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: Negotiating benefits like paid vacation or a signing bonus
 headline: “When can I ask for more paid vacation?”
 subhead: How to prioritize and negotiate non-salary benefits

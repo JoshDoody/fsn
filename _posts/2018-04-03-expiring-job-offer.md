@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: How to handle expiring job offers
 headline: What to do when you have to respond to a job offer <em>NOW</em>
 description: Putting an expiration date on a job offer is a good negotiation technique that some recruiters use. Here's how you get the best result under pressure.

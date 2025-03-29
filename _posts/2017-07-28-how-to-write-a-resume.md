@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: How to Write a Kick-Ass Resume
 headline: How to write a compelling resume
 description: How to write a compelling resume or CV that will get you more job interviews

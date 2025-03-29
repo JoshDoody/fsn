@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: Interview checklists to prepare for your job interview
 subhead: Venue-specific interview checklists for each type of job interview
 description: Venue-specific interview checklists to help you prepare for each type of job interview—in person, phone call, or video call.

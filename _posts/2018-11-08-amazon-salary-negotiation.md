@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: How to negotiate your Amazon job offer
 headline: How to negotiate your Amazon job offer
 description: A step-by-step guide to negotiate your Amazon job offer, by a compensation negotiation expert who has negotiated millions of dollars in Amazon offers.

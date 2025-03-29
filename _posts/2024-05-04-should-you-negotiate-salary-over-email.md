@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: Should you negotiate your salary over email?
 headline: Should you negotiate your salary over email?
 subhead: Why email is the best way to negotiate your salary (and why phone negotiations are bad)

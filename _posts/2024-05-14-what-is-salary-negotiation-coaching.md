@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: What is Salary Negotiation Coaching?
 headline: What is Salary Negotiation Coaching?
 subhead: Everything you need to know about Salary Negotiation Coaching

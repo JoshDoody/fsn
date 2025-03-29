@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: The software developer’s guide to getting a raise without changing jobs	
 headline: 'Software Developers: Here’s how to get a raise without changing jobs'
 description: Here’s how to boost your lifetime earnings by hundreds of thousands of dollars by getting periodic raises without changing jobs.

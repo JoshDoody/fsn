@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: The Anatomy of a Big Tech Job Offer
 headline: How Big Tech Structures Their Job Offers
 subhead: Everything you need to know to understand and evaluate your job offer from a Big Tech company

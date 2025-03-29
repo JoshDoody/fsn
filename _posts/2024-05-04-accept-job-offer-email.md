@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: How to accept a job offer over email (templates and tips)
 headline: How to accept a job offer over email (templates and tips)
 subhead: How to politely and graciously accept a job offer over email

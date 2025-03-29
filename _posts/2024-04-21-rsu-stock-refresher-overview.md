@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: What is a stock refresher? Definition and examples
 headline: What is a stock refresher? Definition and examples
 subhead: A quick overview of stock refreshers and how they work (with a focus on Big Tech)

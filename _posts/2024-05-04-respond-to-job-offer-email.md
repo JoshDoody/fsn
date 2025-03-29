@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: How to respond to job offer over email (template and tips)
 headline: How to respond to a job offer over email (template and tips)
 subhead: "You have two main objectives: Buy some time and confirm your offer details"

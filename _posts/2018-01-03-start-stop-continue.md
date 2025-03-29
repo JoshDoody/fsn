@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: Use the “Start. Stop. Continue.” method to plan your next steps
 subhead: A simple method to get un-stuck and make some progress
 description: This simple method will help you evaluate your past results and plan for future progress.

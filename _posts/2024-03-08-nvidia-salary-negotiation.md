@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: How to negotiate your NVIDIA job offer
 headline: How to negotiate your NVIDIA job offer
 description: A step-by-step guide to negotiate your NVIDIA job offer, by a compensation negotiation expert.

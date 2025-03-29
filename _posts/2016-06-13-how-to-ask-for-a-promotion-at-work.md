@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: How to ask for a promotion at work
 headline: Get promoted by thinking like a manager
 subhead: A proven two-step process to get your next promotion

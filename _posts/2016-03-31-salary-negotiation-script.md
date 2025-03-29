@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: How to counter a job offer - salary negotiation calculator
 headline: Counter Offer Calculator
 subhead: Quickly calculate the right counter offer for your job offer

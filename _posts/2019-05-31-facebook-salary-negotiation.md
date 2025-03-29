@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: How to negotiate your Facebook or Meta job offer
 headline: How to negotiate your Facebook or Meta job offer
 description: A step-by-step guide to negotiate your Facebook or Meta job offer, by a compensation negotiation expert who has negotiated millions of dollars in Meta offers.

@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: Salary Negotiation Email Sample (11 copy/paste templates)
 headline: 11 Salary Negotiation Email samples you can use to negotiate your job offer
 subhead: Everything you need to write the perfect salary negotiation email to make your counter offer

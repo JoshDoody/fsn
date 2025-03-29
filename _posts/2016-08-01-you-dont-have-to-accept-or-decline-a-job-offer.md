@@ -1,5 +1,6 @@
 ---
 layout: posts
+type: post
 title: You don't have to accept or decline a job offer
 subhead: There's a better response that can improve the offer
 description: There's a better response that can get you a higher base salary, more vacation time, and other benefits.
