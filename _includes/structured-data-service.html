@@ -4,6 +4,12 @@
   "@type": "Service",
   "name": "{{ page.title | escape }}",
   "description": "{{ page.description | escape }}",
+  "mainEntity": {
+    "@type": "Service",
+    "name": "{{ page.title | escape }}",
+    "description": "{{ page.description | escape }}",
+    "url": "{{ page.url | absolute_url }}"
+	},
   "provider": {
     "@type": "Person",
     "name": "Josh Doody",
@@ -36,12 +42,6 @@
   "hasPart": {
     "@type": "FAQPage",
     "@id": "https://fearlesssalarynegotiation.com/coach/faq/"
-  },
-  "mainEntity": {
-    "@type": "Service",
-    "name": "{{ page.title | escape }}",
-    "description": "{{ page.description | escape }}",
-    "url": "{{ page.url | absolute_url }}"
   }
 }
 </script>
