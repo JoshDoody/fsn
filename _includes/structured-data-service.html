@@ -1,37 +1,42 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Service",
+  "@type": "WebPage",
   "name": "{{ page.title | escape }}",
-  "description": "{{ page.description | escape }}",
-  "provider": {
-    "@type": "Person",
-    "name": "Josh Doody",
-    "url": "https://fearlesssalarynegotiation.com/about/"
-  },
-  "areaServed": {
-    "@type": "Country",
-    "name": "United States"
-  },
-  "serviceType": "Negotiation Coaching",
-  "offers": {
-    "@type": "Offer",
-    "price": "4000.00",
-    "priceCurrency": "USD",
-    "description": "Strategy Component: $4,000. Improvement Component: 10% of the negotiated first-year compensation improvement.",
-    "url": "{{ page.url | absolute_url }}"
-  },
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "Payment Options",
-      "value": "Credit card, ACH (bank transfer), or paper check"
+  "url": "{{ page.url | absolute_url }}",
+  "mainEntity": {
+    "@type": "Service",
+    "name": "{{ page.title | escape }}",
+    "description": "{{ page.description | escape }}",
+    "provider": {
+      "@type": "Person",
+      "name": "Josh Doody",
+      "url": "https://fearlesssalarynegotiation.com/about/"
     },
-    {
-      "@type": "PropertyValue",
-      "name": "Success Rate",
-      "value": "90% of clients improve their offers"
-    }
-  ]
+    "areaServed": {
+      "@type": "Country",
+      "name": "United States"
+    },
+    "serviceType": "Negotiation Coaching",
+    "offers": {
+      "@type": "Offer",
+      "price": "4000.00",
+      "priceCurrency": "USD",
+      "description": "Strategy Component: $4,000. Improvement Component: 10% of the negotiated first-year compensation improvement.",
+      "url": "{{ page.url | absolute_url }}"
+    },
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Payment Options",
+        "value": "Credit card, ACH (bank transfer), or paper check"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Success Rate",
+        "value": "90% of clients improve their offers"
+      }
+    ]
+  }
 }
 </script>
