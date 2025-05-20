@@ -167,7 +167,7 @@ When in doubt, use the [salary negotiation email template](/salary-negotiation-e
   </div>
 </div>
 
-But there are several unique situations that might call for a slightly modified version of the salary negotiation email template, so you might want to consult this article—look specifically at the table of contents up top—to find the right template for you:
+But there are several unique situations that might call for a slightly modified version of the salary negotiation email template, so you might want to consult [this article](/salary-negotiation-email-sample/)—look specifically at the table of contents up top—to find the right template for you:
 
 ## <a name="quick-response"></a>7. Be ready for a quick response
 
