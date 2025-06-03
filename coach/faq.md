@@ -31,6 +31,8 @@ faqs:
   answer: "No. There are no additional fees beyond the Negotiation Fee."
 - question: "How does equity that vests over multiple years affect the Improvement Component?"
   answer: "The equity portion of the Improvement Component will only take into account the equity that vests for the first year. It’s probably easiest to explain this with a simple example.  If we were to negotiate an additional $100,000 in total equity, and that equity vests equally over four years (25% per year), then we would only consider 25% of that $100,000 improvement in equity in the Improvement Component calculation.  So the Improvement Component for the equity portion of the Negotiation Fee would be calculated as follows:  The equity vesting for the first year would be $25,000 (25% of the additional $100,000 in equity we negotiated), and the Improvement Component for the equity would be 10% of $25,000, or $2,500."
+- question: "Does a sign-on bonus affect the Improvement Component?"
+  answer: "Yes, if it is part of your first-year compensation. If your offer does not include a sign-on bonus and we negotiate for one, then that will affect the Improvement Component. If your offer includes a sign-on bonus and we improve it, then that would also affect the Improvement Component. Some offers might include sign-on bonuses over multiple years, and we will only include first-year sign-on bonuses in our Improvement Component calculation."
 - question: "Is there a cap on the Improvement Component?"
   answer: "There is no cap on the Improvement Component.  The Improvement Component, and specifically the un-capped Improvement Component, is a crucial aspect of my offering that guarantees that our incentives are perfectly aligned throughout our work together. When the Improvement Component gets large, that means your improvement was large as well, so we both have something to aim for and to celebrate."
 - question: "What if I have multiple job offers?"
@@ -179,6 +181,14 @@ If we were to negotiate an additional $100,000 in total equity, and that equity 
 So the Improvement Component for the equity portion of the Negotiation Fee would be calculated as follows:
 
 The equity vesting for the first year would be $25,000 (25% of the additional $100,000 in equity we negotiated), and the Improvement Component for the equity would be 10% of $25,000, or $2,500.
+
+### Does a sign-on bonus affect the Improvement Component?
+
+Yes, if it is part of your first-year compensation. 
+
+If your offer does not include a sign-on bonus and we negotiate for one, then that will affect the Improvement Component. If your offer includes a sign-on bonus and we improve it, then that would also affect the Improvement Component. 
+
+Some offers might include sign-on bonuses over multiple years, and we will only include first-year sign-on bonuses in our Improvement Component calculation.
 
 ### Is there a cap on the Improvement Component?
 
