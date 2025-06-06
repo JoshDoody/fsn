@@ -169,7 +169,7 @@ So which approach should you use?
 
 Here is a simple rubric to help you decide:
 
-If the job they are offering is a relatively common job with well-defined pay ranges and lots of supporting data, then you should use the general approach.
+If the job they are offering is a relatively common job with well-defined pay ranges and lots of market data, then you should use the general approach.
 
 If the job they are offering is less common—it's an executive role, or it's a new type of role for their company that does not map easily onto market data—then use the more specific approach where you suggest a specific counter offer.
 

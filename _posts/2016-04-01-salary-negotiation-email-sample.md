@@ -88,7 +88,42 @@ But first, you can use a modified version of the salary negotiation email above�
 
 Essentially, you're trying to get them to negotiate against themselves to improve the offer before you counter offer. This will often induce the company to improve your job offer and try again, hopefully with a base salary that's closer to or even above your minimum acceptable salary.
 
-Here's a salary negotiation email template to ask for a substantial improvement in your job offer in the case that you have received a lowball offer:
+We're going to cover two scenarios here:
+
+1. You have received an offer for a relatively common job with well-defined pay ranges and lots of market data
+2. You have received an offer for a less common job—an executive role, or a new role for their company—that does not map easily onto market data
+
+Choose the template for the scenario that best matches your situation.
+
+### Scenario 1. A relatively common job with well-defined pay ranges and lots of market data
+
+Here's a salary negotiation email template to ask for a substantial improvement in your job offer in the case that you have received a lowball offer when you are being offered a job that is relatively common and you can find lots of market data describing the pay range for this job:
+
+<div class="email-block">
+  <div class="masthead">
+    <p><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i></p>
+  </div>
+  <div class="email-header">
+    <p><strong>To:</strong> [Recruiter]<br />
+    <strong>Subject:</strong> [Your name] - My thoughts on [Company name]'s job offer</p>
+  </div>
+  <div class="email-copy">
+    <p>Hi [Recruiter name]</p>
+    <p>I hope you had a great weekend!</p>
+    <p>I've been considering your offer over the weekend and everything sounds good, although I would like to discuss the [counter dimension].</p>
+    <p>I think I'm a particularly good match for this position, where I would add significant value to [company name] and to [hiring manager’s name]’s team right away. [I have a strong technical background and have built and managed teams of technical people. I am exceptionally good with clients, and have taught short courses on building rapport with and managing clients. I have an MBA and have successfully managed many portfolios of business in the Widget Making industry over the past seven years. I've been working with [Partner Company] for over two and a half years, and have experience with many of their partnership managers and leadership team. I have a strong technical writing background and can both create and delegate the creation of good collateral quickly and efficiently.]</p>
+    <p>All of these qualities contribute directly to the core components of this particular position, and that's why I'm excited for the opportunity to work with [manager name] and his team in this capacity at [Company name].</p>
+    <p>You offered [offer amount], which I found disappointing considering how well-aligned I am with this role. This is an exciting
+opportunity, and I would love to be able to join the team.</p>
+		<p>Are there improvements that can be made to this offer so I can consider them?</p>
+    <p>All the best</p>
+    <p>[Your name]</p>
+  </div>
+</div>
+
+### Scenario 2. A less common job—an executive role, or a new role for their company—that does not map easily onto market data
+
+Here's a salary negotiation email template to ask for a substantial improvement in your job offer in the case that the job you are being offered is lesson common either because it is an executive or senior leadership role, or because it is a relatively new type of role for which there is little market data available so far:
 
 <div class="email-block">
   <div class="masthead">
@@ -374,7 +409,7 @@ You'll notice that you're delivering the good news and _also_ ensuring that thin
 
 Sometimes you'll complete the entire salary negotiation process, maximize compensation, and still have one or two things to finalize. Hopefully, you asked for the most significant things in your [final ask](#salary-negotiation-final-ask-template), but you might still have one or two small things you would like to shore up before you _officially_ sign on the dotted line.
 
-Start date is one things that might be important enough to negotiate, but not important enough to take precedence over bigger-ticket items like base salary, equity, bonus structure, etc. 
+Start date is one thing that might be important enough to negotiate, but not important enough to take precedence over bigger-ticket items like base salary, equity, bonus structure, etc. 
 
 But with good timing and this salary negotiation email template, you can confirm your acceptance _and_ negotiate your start date. Why are you still able to negotiate even after you accepted the job offer? Although you have accepted the compensation package, you have not yet signed the paperwork, which means you still have some leverage in the negotiation. This salary negotiation email template essentially communicates to your recruiter that you're on board, but that you would like to get one more concession before you actually sign the paperwork.
 
@@ -446,7 +481,7 @@ Here's a sample of a standard salary negotiation email, based on a *real* counte
     <p>Hi Brittany</p>
     <p>I hope you had a great weekend!</p>
     <p>I've been considering your offer over the weekend and everything sounds good, although I would like to discuss the base salary component.</p>
-    <p>I think I'm a particularly good match for this position, where I would add significant value to ACME Corp. and to the Tom’s Practice from Day One. I have a strong technical background and have built and managed teams of technical people. I am exceptionally good with clients, and have taught short courses on building rapport with and managing clients. I have an MBA and have successfully managed many portfolios of business in the Widget Making industry over the past seven years. I've been working with OtherCo for over two and a half years, and have experience with many of their partnership managers and leadership team. I have a strong technical writing background and can both create and delegate the creation of good collateral quickly and efficiently.</p>
+    <p>I think I'm a particularly good match for this position, where I would add significant value to ACME Corp. and to Tom’s Practice from Day One. I have a strong technical background and have built and managed teams of technical people. I am exceptionally good with clients, and have taught short courses on building rapport with and managing clients. I have an MBA and have successfully managed many portfolios of business in the Widget Making industry over the past seven years. I've been working with OtherCo for over two and a half years, and have experience with many of their partnership managers and leadership team. I have a strong technical writing background and can both create and delegate the creation of good collateral quickly and efficiently.</p>
     <p>All of these qualities contribute directly to the core components of this particular position, and that's why I'm excited for the opportunity to work with Tom and his Practice in this capacity at ACME Corp.</p>
     <p>You offered $100,000 and I would be more comfortable if we could settle on $115,000. I feel that amount reflects the importance and expectations of the position for ACME Corp’s business, and my qualifications and experience as they relate to this particular position.</p>
     <p>Thanks for your time, and I look forward to hearing from you soon!</p>
@@ -511,7 +546,7 @@ Including a personal comment like "I hope you had a great weekend!" can help bui
 		
 Notice that the salary negotiation email sample cuts to the chase quickly so that this section shows up in the email preview pane if possible: You're pretty happy with the job offer, but you want to talk about the base salary component. In other words: you want to *counter offer*.
 
-You'll notice that you don't state your counter offer yet because because you want to make your case _before_ you make a specific ask. Making your case is a major component of your salary negotiation email, and it will take up a lot of space. But before you get there, you want them to know that there's a counter offer coming... later.
+You'll notice that you don't state your counter offer yet because you want to make your case _before_ you make a specific ask. Making your case is a major component of your salary negotiation email, and it will take up a lot of space. But before you get there, you want them to know that there's a counter offer coming... later.
 
 ### Make your case
 
@@ -529,7 +564,7 @@ Don't go overboard here, but it's ok if this paragraph is a little long. Six or 
 
 #### 2. Gives the recruiter a written case to circulate internally
 
-Sometimes, the recruiter will have an approved salary range they can accommodate and they'll have authority to negotiate with you directly without further approval. Other times, they'll need run your counter offer up the approval chain to see what's possible.
+Sometimes, the recruiter will have an approved salary range they can accommodate and they'll have authority to negotiate with you directly without further approval. Other times, they'll need to run your counter offer up the approval chain to see what's possible.
 
 When they need further approval, you need to make it as easy as possible for them to make a strong case to justify the additional salary. You could state your case verbally—on a phone call—but then you're counting on them to remember everything and convey it to Finance or whoever can approve additional budget for your salary.
 
@@ -544,7 +579,7 @@ Instead, give them a well-written counter offer email that they can circulate al
 
 Here is the paragraph that makes this case from our salary negotiation email sample above:
 
-> I think I'm a particularly good match for this position, where I would add significant value to ACME Corp. and to the Tom’s Practice from Day One. I have a strong technical background and have built and managed teams of technical people. I am exceptionally good with clients, and have taught short courses on building rapport with and managing clients. I have an MBA and have successfully managed many portfolios of business in the Widget Making industry over the past seven years. I've been working with OtherCo for over two and a half years, and have experience with many of their partnership managers and leadership team. I have a strong technical writing background and can both create and delegate the creation of good collateral quickly and efficiently.
+> I think I'm a particularly good match for this position, where I would add significant value to ACME Corp. and to Tom’s Practice from Day One. I have a strong technical background and have built and managed teams of technical people. I am exceptionally good with clients, and have taught short courses on building rapport with and managing clients. I have an MBA and have successfully managed many portfolios of business in the Widget Making industry over the past seven years. I've been working with OtherCo for over two and a half years, and have experience with many of their partnership managers and leadership team. I have a strong technical writing background and can both create and delegate the creation of good collateral quickly and efficiently.
 
 Notice that the entire case is based on qualifications, expertise, skills, tenure, and other things unique to the person writing the email?
 
