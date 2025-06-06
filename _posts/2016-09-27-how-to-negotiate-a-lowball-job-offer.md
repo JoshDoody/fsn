@@ -19,7 +19,7 @@ What's your goal in an interview? To get the best job offer possible and to set 
 
 Occasionally you'll ace your interviews and still get a lowball job offer, with a salary that's just too low—*way* below your [minimum acceptable salary](/book/negotiate/what-is-your-minimum-acceptable-salary/). Maybe they simply can't afford you, or maybe their pay range for this particular job is so wide that they don't know where to slot you in.
 
-So what can you do to reset the salary negotiation? Here's a tactic you can use when negotiating a lowball salary offer.
+So what can you do to reset the salary negotiation? Here's are two tactics you can use when negotiating a lowball salary offer. Make sure to read to the end so you can identify your situation and which approach is best for you.
 
 {% include cta-generator.html %}
 
@@ -94,13 +94,15 @@ It's best to do that by sending a short email to let them know that the offer is
     <p>I've been considering your offer over the weekend and everything sounds good, although I would like to discuss the [counter dimension].</p>
     <p>I think I'm a particularly good match for this position, where I would add significant value to [company name] and to [hiring manager’s name]’s team right away. [I have a strong technical background and have built and managed teams of technical people. I am exceptionally good with clients, and have taught short courses on building rapport with and managing clients. I have an MBA and have successfully managed many portfolios of business in the Widget Making industry over the past seven years. I've been working with [Partner Company] for over two and a half years, and have experience with many of their partnership managers and leadership team. I have a strong technical writing background and can both create and delegate the creation of good collateral quickly and efficiently.]</p>
     <p>All of these qualities contribute directly to the core components of this particular position, and that's why I'm excited for the opportunity to work with [manager name] and his team in this capacity at [Company name].</p>
-    <p>You offered [offer amount], which I found disappointing considering how well-aligned I am with this role, and I would be more comfortable if we could settle on [counter offer amount]. I feel that amount reflects the importance and expectations of the position for [company]’s business, and my qualifications and experience as they relate to this particular position.</p>
+    <p>You offered [offer amount], which I found disappointing considering how well-aligned I am with this role. This is an exciting
+opportunity, and I would love to be able to join the team.</p>
+		<p>Are there improvements that can be made to this offer so I can consider them?</p>
     <p>All the best</p>
     <p>[Your name]</p>
   </div>
 </div>
 
-## How this works
+### How this method works
 
 The company wants to bring you on board, so they're thinking "What do we have to offer to convince them to join our team?" They're probably thinking pretty narrowly—a little more salary, slightly better benefits, maybe a signing bonus.
 
@@ -109,7 +111,9 @@ Your email tells them "You need to think bigger if you want me to come on board.
 1. **It let's the company know you're "disappointed" with the job offer.** This is a diplomatic way of saying, "This job offer is no good. If you're trying to convince me to join the team, this is a miss."
 2. **It tells how to right the ship.** Now that you've told them that you're disappointed, you'll tell them how to right the ship so you can consider their offer.
 
-Translation: "This lowball job offer hasn't convinced me to come on board. Want to try again?"
+You are pretty sure that they knowingly made you a very low offer and they likely have the margin to make a substantially better offer if given the opportunity. You don't know _why_ they made such a low offer, but that doesn't really matter.
+
+Translation: "This lowball job offer hasn't convinced me to come on board and I'm pretty sure you can make a better offer if you want to. Want to try again?"
 
 ## Joe improved his lowball job offer by 30% without counter offering
 
@@ -118,6 +122,56 @@ Joe used this technique to respond to his lowball job offer. We didn't hear anyt
 "Hi Joe, we agree that our job offer was a little underwhelming. So we went back to the drawing board and here's what we came up with..."
 
 The new offer was still heavy on equity, but they increased it by 30% by adding a little to the base salary and increasing the equity portion by more than 60%! The best part was that the new offer was strong enough to meet Joe's minimum acceptable salary _and_ it gave him an opportunity to counter offer and see just how high the company would go.
+
+## An alternative approach with a specific counter offer
+
+There is a slightly different approach that is very similar, but which offers the company a specific target rather than simply asking for an improvement.
+
+Here is an email template for that approach, and then I will describe the difference between this approach and the standard approach I described earlier:
+
+<div class="email-block">
+  <div class="masthead">
+    <p><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i></p>
+  </div>
+  <div class="email-header">
+    <p><strong>To:</strong> [Recruiter]<br />
+    <strong>Subject:</strong> [Your name] - My thoughts on [Company name]'s job offer</p>
+  </div>
+  <div class="email-copy">
+    <p>Hi [Recruiter name]</p>
+    <p>I hope you had a great weekend!</p>
+    <p>I've been considering your offer over the weekend and everything sounds good, although I would like to discuss the [counter dimension].</p>
+    <p>I think I'm a particularly good match for this position, where I would add significant value to [company name] and to [hiring manager’s name]’s team right away. [I have a strong technical background and have built and managed teams of technical people. I am exceptionally good with clients, and have taught short courses on building rapport with and managing clients. I have an MBA and have successfully managed many portfolios of business in the Widget Making industry over the past seven years. I've been working with [Partner Company] for over two and a half years, and have experience with many of their partnership managers and leadership team. I have a strong technical writing background and can both create and delegate the creation of good collateral quickly and efficiently.]</p>
+    <p>All of these qualities contribute directly to the core components of this particular position, and that's why I'm excited for the opportunity to work with [manager name] and his team in this capacity at [Company name].</p>
+    <p>You offered [offer amount], which I found disappointing considering how well-aligned I am with this role, and I would be more comfortable if we could settle on [counter offer amount]. I feel that amount reflects the importance and expectations of the position for [company]’s business, and my qualifications and experience as they relate to this particular position.</p>
+    <p>All the best</p>
+    <p>[Your name]</p>
+  </div>
+</div>
+
+The only difference is at the very end. Rather than saying "Are there improvements that can be made to this offer so I can consider them?", this method actually suggests a much higher compensation number that would make this work.
+
+This is a very subtle difference, but an important one.
+
+### How this method works
+
+In this case, you are simultaneously telling them that the offer they made was disappointing _and_ suggesting a number that would be satisfactory to you. You are giving them a target to hit in order to bring you on board.
+
+Because this is a unique role without a lot of market data on compensation ranges, it's plausible that they are simply guessing as to what it might take to get you to join their team. They took a guess, but their guess was far below what you actually require to do the job.
+
+So you are helping to educate them on what you expect in order to join their team.
+
+Translation: "I understand that you're uncertain about what it will take to get me to join the team. You took a guess and were far below what it will actually take. So here is a suggestion that could help align us on compensation so I can join the team. Want to try again?"
+
+## How to decide which approach to use
+
+So which approach should you use?
+
+Here is a simple rubric to help you decide:
+
+If the job they are offering is a relatively common job with well-defined pay ranges and lots of supporting data, then you should use the general approach.
+
+If the job they are offering is less common—it's an executive role, or it's a new type of role for their company that does not map easily onto market data—then use the more specific approach where you suggest a specific counter offer.
 
 ## What happens next?
 
