@@ -5,7 +5,7 @@ level:
 company:
 industry:
 headshot:
-short_version: >
+short_version: |
   I would have limited my counteroffer to the median market rate for the job title in my location. But in the "list reasons why I'm great for this role" I think Josh saw specific reasons why I could ask for more. He helped me combine everything into a confident, assertive answer without sounding like I was bragging or arrogant. **The outcome is literally better than I hoped for.** The company initially offered the top of their published pay scale and Josh helped me counter for **17% more in salary, which they accepted.**
 product: Salary Negotiation Coaching
 result_summary: 17% more in salary 

@@ -5,7 +5,7 @@ level:
 company: 
 industry:
 headshot:
-short_version: >
+short_version: |
    What I liked most was getting another outside perspective. Salary negotiation is a pretty "lonely" activity. **On the hiring side, they have a bunch of people involved who can have discussions — recruiter, HR, comp, hiring manager, etc. — and discuss options and strategize... but as a candidate you don't have a team like that.** So the most beneficial thing to me was having someone (besides my spouse!) who I could talk to about the offer, the strategy, the options, and **provide some objective and seasoned advice.**
 product: Salary Negotiation Coaching
 result_summary: Additional $10,000 in salary and additional vacation time  

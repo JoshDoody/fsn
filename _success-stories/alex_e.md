@@ -5,7 +5,7 @@ level: L8
 company: 
 industry:
 headshot:
-short_version: >
+short_version: |
    Having Josh as a partner through the negotiation was priceless. **These life changing decisions need to be thoroughly thought through and Josh helped me on that every step of the way.**
    
    We negotiated about **$75K more in salary**; however that was not what I needed to take the role. **Josh never pushed me to take it. He genuinely helped me think through what was best for me and my family.** I ended up declining the offer, but having the coaching throughout the process gave me confidence and ultimately helped support my decision to walk away. 

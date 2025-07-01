@@ -5,7 +5,7 @@ level: IC5
 company: 
 industry:
 headshot:
-short_version: >
+short_version: |
    **I was looking for help with salary negotiation because I was worried about making decisions and what words to use.** I’ve been through a really rough patch over the last 6 months and it’s depleted my capacity to make tough calls. 
    
    I appreciated Josh’s ability to quickly and thoroughly answer all of my questions and going through “what if” scenarios with smart, easy-to-use scripts. **I negotiated for $20,000 more salary and $25,000 more equity.** As an added benefit, I basically got interview tips for next time I’m looking.

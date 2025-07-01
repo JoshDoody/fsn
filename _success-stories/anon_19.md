@@ -5,7 +5,7 @@ level: ICT5
 company: Apple
 industry:
 headshot: anon_19.jpeg
-short_version: >
+short_version: |
   I was worried about going head-to-head with recruiters who do this for a living and wanted to have someone in my corner. Even though my offer did not improve through negotiating, **I got a fantastic initial offer and landed the role.**  
    
   What I liked most was the specificity of Josh’s coaching — the email templates, the "one of 3 things might happen now" scenario, all of that stuff. **It made it really easy to navigate the offer process.** I feel like I learned a ton about salary negotiation and I've gotten more confident in talking with recruiters and pushing back against their tactics.

@@ -4,7 +4,7 @@
 
   <div id="{{ include.story-id | slugify }}">
 		{% if story.short_version %}
-      {{ story.short_version | markdownify }}
+      {{ story.short_version | newline_to_br | markdownify }}
 		{% else %}
       {{ story.excerpt }}
 		{% endif %}

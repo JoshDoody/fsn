@@ -5,8 +5,8 @@ level: L5
 company: Amazon AWS 
 industry:
 headshot: anon_23.jpeg
-short_version: >
-  Working with Josh was amazing and I have already recommended him to several other engineers. Having someone who knows how these companies operate and what normal looks like in a hiring process was one of the most valuable things to me. 
+short_version: |
+  Working with Josh was amazing and I have already recommended him to several other engineers. Having someone who knows how these companies operate and what normal looks like in a hiring process was one of the most valuable things to me.  
 
   **We negotiated $30,000 additional total comp.** My comp when I started working with Josh was $165k annually. **My new comp is 2.5x that amount.** I don't know what to do with the extra money. I guess I'm going to invest it and maybe donate some to non profits I'm affiliated with.
 product: Salary Negotiation Coaching

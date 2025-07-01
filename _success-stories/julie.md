@@ -5,7 +5,7 @@ level:
 company: 
 industry:
 headshot:
-short_version: >
+short_version: |
   The **recruiter pushed for my salary expectations** and when I had the final salary discussion over the phone, **she tried to push back on why I was asking for more** since they had “made me such a great offer”. Nonetheless, **using Josh’s template and techniques outlined in the Crash Course**, I was able to **increase the offer by $10k** ($35k more than my previous salary). This was my first time negotiating my salary and I will be even more well prepared in future negotiations thanks to Josh’s content.
 product: Salary Negotiation Crash Course
 result_summary: Additional $10k in salary 

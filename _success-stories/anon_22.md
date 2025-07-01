@@ -5,7 +5,7 @@ level: L4
 company: Google
 industry:
 headshot:
-short_version: >
+short_version: |
   My concern about hiring Josh was that it might not pay off financially. But it went well! We ended up negotiating **$10,000 more base salary, over $21,000 more in first-year equity, and a $20,000 signing bonus**. 
   
   I’m glad I hired Josh. **If I hadn’t, I almost definitely would have freaked out when the low-ball offer came in.** Josh was very responsive and just knowing that he was there to help at almost a moment’s notice was very calming.  

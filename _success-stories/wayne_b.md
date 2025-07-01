@@ -5,7 +5,7 @@ level: L6
 company: 
 industry:
 headshot:
-short_version: >
+short_version: |
   Josh provided the insight and guidance I needed to be confident throughout the negotiation process. I know that because I had Josh's help, I asked for more that I would have on my own. I negotiated **$20,000 more in salary and a substantial increase in equity**.  
   
   **Josh also put my own desires ahead of his own**; there was a part of the negotiation process where he could have tried to influence me in a direction that would result in a larger fee for himself. Instead he discussed the options with me, provided me with enough information, and **encouraged me to make the decision that was best for me.**

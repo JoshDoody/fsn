@@ -5,7 +5,7 @@ level: L7
 company: Amazon
 industry:
 headshot:
-short_version: >
+short_version: |
   **In absolute dollars, Josh is expensive!** But obviously in percentages, not so much. **I negotiated 30% higher compensation than my initial offer.** Josh was incredibly helpful and I think having someone there to coach me through the overly stressful negotiation process made a big difference in my confidence and the ultimate outcome. Plus, I was able to avoid stressing my wife more than I already did through the process ;-)
 product: Salary Negotiation Coaching
 result_summary: 30% increase in compensation 

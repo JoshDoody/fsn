@@ -5,7 +5,7 @@ level: L6
 company: Amazon
 industry:
 headshot:
-short_version: >
+short_version: |
   I was worried about not having experience in negotiating with Amazon, given the financial opportunity I had before me. I felt like I was in very good hands with Josh. He gave me clear steps on how to best proceed and we put together a strong case to anchor high from the onset. **We ended up at the highest end of Amazon’s range**, which is something that I don’t think I could have done on my own, as **I’m not sure I would’ve had the confidence to anchor as high as we did in the counter offer**.
 product: Salary Negotiation Coaching
 result_summary: 

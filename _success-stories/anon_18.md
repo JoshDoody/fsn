@@ -5,7 +5,7 @@ level: L5
 company: Google
 industry:
 headshot:
-short_version: >
+short_version: |
   **Working with Josh reduced stress during the negotiation process and I gained experience/collateral for future negotiations.** The result I got from coaching wasn't as much of a slam dunk as I was expecting, but it was still worth it relative to the cost. For my specific case I think most of the comp package was due to interview performance and competing offers rather than negotiation strategy. **I'd recommend working with Josh, but more strongly for higher-level positions where value-based negotiation probably plays a stronger role or for companies where comp bands are less tightly defined.** 
 product: Salary Negotiation Coaching
 result_summary: 

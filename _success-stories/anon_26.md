@@ -5,7 +5,7 @@ level: L4
 company: 
 industry:
 headshot:
-short_version: >
+short_version: |
   I found myself in a surprise situation with the company saying “we don’t negotiate offers” after I already hired Josh. It had me afraid that I wasted the $5k fee. Josh helped me navigate a "non-negotiation" to communicate my desired outcome and achieve something workable without endangering the interaction by making it sound too much like a negotiation. **I received $30k (>10%) more salary, $50k more equity, and a $42k signing bonus.** I completed the process with high confidence that I had the best possible outcome.
 product: Salary Negotiation Coaching
 result_summary: Additional $30k (>10%) in salary, additional $50k in equity, and a $42k signing bonus

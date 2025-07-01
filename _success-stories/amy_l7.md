@@ -5,7 +5,7 @@ level: L7
 company: Amazon
 industry:
 headshot:
-short_version: >
+short_version: |
   Josh helped me realize my worth in a way that I never thought possible. He helped me negotiate **$600k in total compensation, which was beyond my wildest dreams and $20k more than Amazon offered** for the position. The money will completely transform my financial security and ability to invest/retire. I also have a better foundation for negotiating any offers in the future (although I'll be using Josh going forward for every single job).  
 product: Salary Negotiation Coaching
 result_summary: Additional $20k in total compensation
