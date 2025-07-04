@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Natalie M.
 job_title: Manager of Administration and Finance
 company: 

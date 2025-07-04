@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Taylor
 job_title: Executive
 company: Alphabet

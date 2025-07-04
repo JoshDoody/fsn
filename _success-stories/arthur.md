@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Arthur
 job_title: Business Relationship Manager
 company: 

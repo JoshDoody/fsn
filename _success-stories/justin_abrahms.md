@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Justin Abrahms
 job_title: Senior Software Engineer
 company: 

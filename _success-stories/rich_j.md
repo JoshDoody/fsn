@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Rich J.
 job_title: Senior Infrastructure Engineer
 level: 

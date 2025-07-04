@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Caroline S.
 job_title: 
 company: 

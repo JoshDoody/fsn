@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Brian M.
 job_title: Operations Manager
 company: 

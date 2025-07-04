@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Kaylea
 job_title: 
 company: 

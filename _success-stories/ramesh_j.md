@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Ramesh J.
 job_title: Career Change Strategist
 company: 

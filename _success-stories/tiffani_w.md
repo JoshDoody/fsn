@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Tiffani W.
 job_title: Director of Human Resources
 company: 

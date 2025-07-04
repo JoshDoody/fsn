@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Jason Voegele
 job_title: Senior Software Engineer
 company: 

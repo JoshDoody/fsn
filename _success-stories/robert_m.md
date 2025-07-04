@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Robert M.
 job_title: 
 company: 

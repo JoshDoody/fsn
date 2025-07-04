@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: J. C.
 job_title: Compliance Manager
 company: 

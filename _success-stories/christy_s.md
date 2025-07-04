@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Christy S.
 job_title: 
 company: 

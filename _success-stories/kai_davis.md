@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Kai Davis
 job_title: 
 company: 

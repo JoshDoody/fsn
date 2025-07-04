@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Sarah M.
 job_title: Web Developer
 company: 

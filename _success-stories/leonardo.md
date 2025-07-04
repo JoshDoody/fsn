@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Leonardo
 job_title: Senior Manager
 company: Amazon

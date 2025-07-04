@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Justin Garrison
 job_title: Software Development Advocate
 company: Amazon

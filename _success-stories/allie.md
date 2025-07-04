@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Allie
 job_title: Marketing Specialist
 company: 

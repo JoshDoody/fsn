@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Josh J.
 job_title: Senior Software Engineer
 company: 

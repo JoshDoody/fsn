@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Patrick McKenzie
 job_title: 
 company: 

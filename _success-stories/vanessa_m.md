@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Vanessa M.
 job_title: Integrations Project Manager
 company: 

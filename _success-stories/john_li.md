@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: John Li
 job_title: Senior Android Engineer
 company: Twitter

@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Aaron Batilo
 job_title: Software Engineer 2
 company: 

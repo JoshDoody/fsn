@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Darryl N.
 job_title: Software Engineer
 company: 

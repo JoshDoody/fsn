@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Josh C.
 job_title: Senior Business Development Executive
 company: 

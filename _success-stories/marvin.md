@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Marvin
 job_title: 
 company: 

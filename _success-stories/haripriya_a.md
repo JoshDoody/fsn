@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Haripriya A.
 job_title: 
 company: 

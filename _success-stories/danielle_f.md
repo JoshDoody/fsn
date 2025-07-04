@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Danielle F.
 job_title: Career Coach
 company: 

@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: James G.
 job_title: SVP Data Technology Executive
 company: 

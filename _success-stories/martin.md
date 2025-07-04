@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Martin
 job_title: Staff Software Engineer
 company: a fintech unicorn

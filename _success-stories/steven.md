@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Steven
 job_title: IT Security Manager
 company: 

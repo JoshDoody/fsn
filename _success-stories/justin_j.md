@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Justin J.
 job_title: 
 company: 

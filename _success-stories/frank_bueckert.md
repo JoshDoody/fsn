@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Frank Bueckert
 job_title: Senior Software Developer
 company: 

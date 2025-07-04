@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Holly Stewart
 job_title: Product Designer
 company: 

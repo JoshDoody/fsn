@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: "Lucy"
 job_title: Physician working in Health IT
 company: 

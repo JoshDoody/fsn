@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Julie
 job_title: 
 level: 

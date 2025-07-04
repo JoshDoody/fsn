@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Jamie
 job_title: Senior Software Engineer
 company: GitHub

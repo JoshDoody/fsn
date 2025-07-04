@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: D.G.
 job_title: 
 company: Amazon

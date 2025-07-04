@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Josh Thompson
 job_title: 
 company: 

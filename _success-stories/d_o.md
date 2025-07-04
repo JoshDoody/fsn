@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: D.O.
 job_title: CTO in the fintech space
 company: 

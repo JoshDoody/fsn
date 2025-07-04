@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Jordan L.
 job_title: 
 company: 

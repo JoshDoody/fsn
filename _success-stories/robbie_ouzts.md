@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Robbie Ouzts
 job_title: Georgia Institute of Technology Graduate Career & Co-op Advisor
 company: 

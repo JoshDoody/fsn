@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: K. K.
 job_title: Software Engineer
 company: Google

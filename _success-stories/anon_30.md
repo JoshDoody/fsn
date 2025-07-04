@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Anonymous 
 job_title: Senior Product Designer
 level: IC5

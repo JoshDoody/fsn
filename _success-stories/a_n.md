@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: A. N.
 job_title: Software Engineer II
 level: Level 3

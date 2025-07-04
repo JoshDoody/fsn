@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: 
 job_title: Senior Solutions Architect
 level: L6

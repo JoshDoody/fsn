@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Cynthia
 job_title: Technical Program Manager
 company: 

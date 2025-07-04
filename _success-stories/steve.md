@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Steve
 job_title: Senior Mechanical Engineer
 company: 

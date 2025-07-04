@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Josh L.
 job_title: 
 company: 

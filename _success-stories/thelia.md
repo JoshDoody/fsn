@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Thelia
 job_title: 
 company: 

@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Jeremy
 job_title: Front End Web Developer
 company: 

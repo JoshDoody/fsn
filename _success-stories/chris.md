@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Chris
 job_title: Senior Security Engineer
 company: 

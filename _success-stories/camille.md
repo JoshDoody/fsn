@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Camille
 job_title: 
 company: 

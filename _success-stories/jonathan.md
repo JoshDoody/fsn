@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Jonathan
 job_title: Staff Design Engineer
 company: Tesla

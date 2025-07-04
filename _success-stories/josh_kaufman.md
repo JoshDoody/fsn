@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Josh Kaufman
 job_title: best selling author of _The Personal MBA_ and _The First 20 Hours_
 company: 

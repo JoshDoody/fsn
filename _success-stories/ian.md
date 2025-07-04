@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Ian
 job_title: Frontend Software Engineer
 company: CrossFit

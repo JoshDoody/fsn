@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Jennifer B.
 job_title: Supply Manager
 company: 

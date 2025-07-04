@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Nick C.
 job_title: Pharmaceutical Chemist, B.S. in Biochemistry
 company: 

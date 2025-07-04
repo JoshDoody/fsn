@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Gunner Barnes
 job_title: Software Engineer
 company: 

@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Wayne B.
 job_title: Staff Software Engineer
 level: L6

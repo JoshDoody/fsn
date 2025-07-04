@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Will P.
 job_title: Portfolio Manager
 company: 

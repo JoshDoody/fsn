@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Ben
 job_title: Software Engineer L4
 company: Google

@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: D
 job_title: 
 company: 

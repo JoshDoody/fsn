@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: 
 job_title: Engineer 2
 company: 

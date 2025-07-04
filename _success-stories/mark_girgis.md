@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Mark Girgis
 job_title: Federal Contracts Manager
 company: 

@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Chris
 job_title: Attending Physician, Department of Emergency Medicine
 company: 

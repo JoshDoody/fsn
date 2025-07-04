@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Shannon Long
 job_title: Physical Therapist
 company: 

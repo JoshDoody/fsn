@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Candas Barnes
 job_title: 
 company: 

@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: David S.
 job_title: Software Developer
 company: 

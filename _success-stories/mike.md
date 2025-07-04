@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Mike
 job_title: Software Engineer
 company: 

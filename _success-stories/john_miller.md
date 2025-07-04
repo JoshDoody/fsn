@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: John Miller
 job_title: Financial Advisor
 company: 

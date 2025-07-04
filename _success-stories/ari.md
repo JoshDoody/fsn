@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Ari
 job_title: Senior Data Science Engineer
 level: 

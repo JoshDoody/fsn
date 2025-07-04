@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Alex E 
 job_title: Head of Finance
 level: L8

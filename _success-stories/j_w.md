@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: J. W.
 job_title: Principal Engineer
 company: 

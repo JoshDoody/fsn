@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: S. L.
 job_title: Site Reliability Engineer
 company: Google

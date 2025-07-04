@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: 
 job_title: 
 level: L4

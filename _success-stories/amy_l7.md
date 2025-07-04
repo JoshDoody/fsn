@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Amy 
 job_title: Senior Manager, Technical Program Management
 level: L7

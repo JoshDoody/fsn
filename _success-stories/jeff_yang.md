@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Jeff Yang
 job_title: Software Engineer
 company: 

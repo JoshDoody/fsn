@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Dee
 job_title:
 company: Tech company

@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Eric Macam
 job_title: Lead Scientist
 company: 

@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Cory Trimm
 job_title: Consultant
 company: 

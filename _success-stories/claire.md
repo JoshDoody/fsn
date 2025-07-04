@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Claire
 job_title: Product Manager
 company: 

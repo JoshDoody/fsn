@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: "[Tim Eccleston](https://www.linkedin.com/in/timothyperishoeccleston/)"
 job_title: 
 company: 

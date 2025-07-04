@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Penny
 job_title: Digital Marketing Manager
 company: 

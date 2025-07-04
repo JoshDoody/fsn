@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: E. L.
 job_title: Senior Software Engineer
 company: Red Hat

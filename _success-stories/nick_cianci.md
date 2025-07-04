@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Nick Cianci
 job_title: Ruby on Rails Software Developer
 company: 

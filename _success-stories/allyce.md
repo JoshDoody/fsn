@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Allyce
 job_title: 
 company: 

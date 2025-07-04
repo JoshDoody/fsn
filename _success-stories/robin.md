@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Robin
 job_title: 
 company: 

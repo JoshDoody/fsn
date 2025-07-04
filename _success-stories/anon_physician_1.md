@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: 
 job_title: Attending Physician, Obstetrics-Gynecology
 company: 

@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: F. Robert
 job_title: Technical Solutions Consultant
 company: Google

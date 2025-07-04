@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Jacinta D.
 job_title: Executive Leader
 company: 

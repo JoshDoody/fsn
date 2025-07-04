@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Ryan W.
 job_title: 
 company: 

@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Acree M.
 job_title: Senior Copywriter
 company: 

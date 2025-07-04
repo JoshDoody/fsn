@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Mark O.
 job_title: 
 company: 

@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: 
 job_title: Principal Software Engineer
 level: ICT5

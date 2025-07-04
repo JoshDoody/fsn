@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Harrison
 job_title: Healthcare Development Officer
 company: 

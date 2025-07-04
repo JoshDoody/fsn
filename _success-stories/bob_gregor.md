@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Bob Gregor
 job_title: Coding BootCamp Instructor
 company: 

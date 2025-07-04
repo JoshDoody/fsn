@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Caroline Carter
 job_title: 
 company: 

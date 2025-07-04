@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Julian Diaz
 job_title: Software Engineer
 company: Google

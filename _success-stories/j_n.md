@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: J. N.
 job_title: DevOps Engineer
 company: 

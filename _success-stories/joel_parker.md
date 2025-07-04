@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Joel Parker
 job_title: Academic Advisor
 company:

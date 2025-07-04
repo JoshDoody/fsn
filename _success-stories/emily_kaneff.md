@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Emily Kaneff
 job_title: Software Developer
 company: 

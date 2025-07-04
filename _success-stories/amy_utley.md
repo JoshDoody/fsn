@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Amy Utley
 job_title: Field Sales Engineer
 company: 

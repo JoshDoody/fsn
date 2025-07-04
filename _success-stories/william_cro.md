@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: William
 job_title: Chief Revenue Officer
 company: 

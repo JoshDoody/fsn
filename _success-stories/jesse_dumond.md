@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Jesse DuMond
 job_title: Senior Software Engineer
 company: Telecom

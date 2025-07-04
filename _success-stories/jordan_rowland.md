@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Jordan Rowland
 job_title: Performance Marketing Software Engineer
 company: Disney

@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Elizabeth R.
 job_title: Senior Product Manager
 company: 

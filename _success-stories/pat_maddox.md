@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Pat Maddox
 job_title: Software Developer
 company: 

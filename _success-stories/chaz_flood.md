@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Chaz Flood
 job_title: Lead Recruiter
 company: Amazon

@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Zach
 job_title: Principal Product Manager
 company: Microsoft

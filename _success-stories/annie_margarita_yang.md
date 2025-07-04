@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Annie Margarita Yang
 job_title: Real Estate Accounting Manager
 company: 

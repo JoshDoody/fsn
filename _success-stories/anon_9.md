@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: 
 job_title: Quantitative User Experience Researcher
 company: Google

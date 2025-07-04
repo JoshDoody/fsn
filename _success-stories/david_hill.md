@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: David Hill
 job_title: Lead Software Engineer
 company: 

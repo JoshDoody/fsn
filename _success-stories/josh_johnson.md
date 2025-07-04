@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Josh Johnson
 job_title: Staff Software Engineer
 level: 

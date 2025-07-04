@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Queen R.
 job_title: Regulatory Affairs Business Operations Specialist
 company: 

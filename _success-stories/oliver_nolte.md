@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Oliver Nolte
 job_title: Inside Sales Rep
 company: 

@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Matt Wood
 job_title: retired US Army Sergeant First Class, Assistant Construction Superintendent
 company: 

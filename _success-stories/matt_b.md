@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Matt B.
 job_title: 
 company: 

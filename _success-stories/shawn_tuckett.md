@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Shawn Tuckett
 job_title: Vice President of Sales and Service
 company: 

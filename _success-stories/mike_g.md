@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Mike G.
 job_title: Chief Financial Officer
 company: 

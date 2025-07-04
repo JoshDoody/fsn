@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Oliver Steenbuck
 job_title: Solution Architect
 level: L5

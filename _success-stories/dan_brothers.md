@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Dan Brothers
 job_title: Territory Manager
 company: 

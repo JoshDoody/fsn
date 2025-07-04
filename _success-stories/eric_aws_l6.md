@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Eric 
 job_title: Technical Program Manager
 level: L6

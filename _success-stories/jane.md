@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Jane
 job_title: Sr. Product Manager – Technical
 company: Amazon

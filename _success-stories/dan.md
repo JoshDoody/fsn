@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: Dan
 job_title: Lead Data Engineer
 company: 

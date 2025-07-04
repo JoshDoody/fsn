@@ -1,4 +1,5 @@
 ---
+layout: success_story
 name: T. K.
 job_title: Project Manager
 company: 
