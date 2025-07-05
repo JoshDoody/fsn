@@ -32,16 +32,16 @@
 		  {% include structured-data-faq.html %}
 		{% elsif page.type == "service" %}
 		  {% include structured-data-service.html %}
-		{% elsif page.url == "/" %}
+		{% elsif page.url == "/about/" %}
 		<script type="application/ld+json">
 		{
 		  "@context": "http://schema.org",
-		  "@type": "WebSite",
-		  "name": "Fearless Salary Negotiation",
-		  "url": "https://fearlesssalarynegotiation.com"
+		  "@type": "AboutPage",
+		  "name": "About Josh Doody, Founder of Fearless Salary Negotiation",
+		  "url": "https://fearlesssalarynegotiation.com/about/"
 		}
 		</script>
-		{% else %}
+		{% elsif page.url == "/" %}
 		<script type="application/ld+json">
 		{
 		  "@context": "http://schema.org",
