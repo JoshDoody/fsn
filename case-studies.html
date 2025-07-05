@@ -1,15 +1,21 @@
 ---
 layout: default
-title: Case Studies
-subhead: Unindexed page for links
+title: Salary Negotiation Coaching Case Studies
+subhead: What is it like working with Josh Doody as a Salary Negotiation Coach?
 permalink: /case-studies/
 ---
 
 <div class="container mx-auto py-20">
 
   {% for study in site.case-studies %}
-    <h6><a href="{{ study.url }}">{{ study.title }} | Industry: {{ study.industry }}</a></h6>
+    <h6><a href="{{ study.url }}">{{ study.title }}</a></h6>
     <p>{{ study.description }}</p>
   {% endfor %}
+	
+  <div class="md:flex justify-between my-8">	
+	  <div>
+			<p><a href="/results/">Read about more Salary Negotiation Coaching results <i class="fas fa-angle-double-right"></i></a></p>
+	  </div>
+	</div>
 
 </div>
