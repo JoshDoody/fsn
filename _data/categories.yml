@@ -12,3 +12,5 @@ salary-questions:
     title: "Salary expectations questions"
 interview:
     title: "Interview prep"
+executive:
+    title: "Executive Compensation Negotiation"

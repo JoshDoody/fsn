@@ -6,11 +6,12 @@ headline: How to Negotiate Executive Compensation (Especially Big Tech)
 subhead: A detailed guide for high earners negotiating offers at big tech companies—and the strategies that work best when compensation includes salary, equity, and bonuses.
 description: Learn how to negotiate executive compensation at big tech companies, including salary, bonuses, equity, and more—written for senior leaders and high earners.
 categories:
-  - coach
+  - executive
 tags:
   - recommended
   - popular
   - blogFeatured
+featured: true
 company: agnostic
 date: 2025-08-14
 author: josh

@@ -11,7 +11,6 @@ categories:
 tags:
   - recommended
   - popular
-featured: true
 company: Big Tech
 date: 2024-04-29
 author: josh
