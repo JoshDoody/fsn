@@ -92,6 +92,35 @@ Typically, the relationship between “value created” and “value captured in
 
 Now we get into _how_ to negotiate executive comp packages. As I mentioned earlier, these negotiations are more art than science, so these will be high-level guidelines that you should consider when negotiating.
 
+#### Let them go first
+
+This might be the most important, most valuable strategic consideration when negotiating your job offer: Let them make the first offer.
+
+They will often ask you for your salary expectations, sometimes multiple times. They may be stubborn or even insistent that you suggest a salary range or even a comp package "to save time" or "so we can make sure to offer something compelling to you".
+
+You might be persuaded by these arguments. You might even be thinking, "If I _don't_ suggest something, then what if they come in way too low? Then what? I should anchor high to make sure they don't undershoot."
+
+When they ask you for their salary expectations, this is what they're saying:
+
+"You don't work for us yet, so you don't know the internals of our business, how healthy it is, our budgets, how valuable this role is, or anything else. But why don't you go ahead and take a guess what we're willing to pay you to fill this role for us?"
+
+You will pretty much always guess wrong. You'll either overshoot, which might not be _too_ bad, but isn't ideal, or you'll undershoot, which can be _very_ expensive.
+
+What if your "high anchor" is actually not that high? What if _you_ undershoot by 5%? 10%? 50%?
+
+Instead, defer to them to suggest a comp package that you can consider. That will give you a good idea what value they put on the role, and will give you a concrete starting point for your negotiation. You'll also get to see how they're structuring the offer, what's included, what levers might be available for negotiation, and many other useful insights you can use to negotiate your offer more effectively.
+
+Here's what you might say to keep the process moving along without suggesting numbers:
+
+"I really don't have a number in mind. I know I'll be a valuable addition to the team, and I'm very excited to contribute given how well aligned I am with what you're doing, but I'm not comfortable suggesting a number. I look forward to hearing what you suggest when we get to that stage."
+
+That's how to avoid the most expensive comp negotiation mistake you can make, which is drastically undershooting their budget.
+
+<blockquote class="ico link-callout">
+  <p><span>Deep Dive</span> What to say when asked for your salary expectations</p>
+  <p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question <i class="fas fa-angle-double-right"></i></a></p>
+</blockquote>
+
 #### Understand the components and cash flow
 
 Before you can negotiate your offer, you need to _understand_ your offer. You’ll want to be able to answer the following question: “What are the best- and worst-case income scenarios for me over the next few years with the compensation package they have offered?”
@@ -145,7 +174,7 @@ Near the bottom (wider part) of the org chart, when you’re negotiating as an a
 
 Near the top of the org chart (skinnier part), when you’re negotiating more in relation to the value that you’ll add to the firm, that 10–20% range just isn’t as useful. In general, 20% is where I’ll start when I work with executives, and the number can go up a lot from there. 
 
-Fifty percent, or even 100% counters or not off the table for the right leader in the right role at the right time. 
+Fifty percent, or even 100% counters are not off the table for the right leader in the right role at the right time. 
 
 Most of the time, I’ll consider a counter in the 20-30% range and see how that feels based on the answers to those “how many” and “value” numbers.
 
@@ -424,6 +453,8 @@ Here is a detailed list of things you might consider asking for before you sign 
 ## Summary: How to negotiate executive compensation (focused on public companies)
 
 As you can see, executive compensation negotiation is multi-faceted and there are a lot of things to consider as you navigate the process. So let’s end on a high-level summary of what you should consider and how to negotiate.
+
+Let them go first. By deferring to them to make an offer for you to consider, you'll avoid potentially undershooting their budget, which can be an _extremely_ expensive mistake, and you'll learn more about what they're thinking not only in terms of compensation for the role, but also in terms of the structure of the compensation package.
 
 As a general rule, you’ll want to focus the negotiation on your unique value proposition for the particular role you’re considering. You have been offered the role so you _know_ there is unique value that you bring to the table because they offered _you_ the role. That is your best leverage—not market value, previous comp history, or other “data points”—so lean into that.
 
