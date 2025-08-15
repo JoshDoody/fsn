@@ -3,6 +3,9 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": "{{ page.title | escape }}",
+  {% if page.description %}
+  "description": "{{ page.description | strip_newlines | escape }}",
+  {% endif %}
   "author": {
     "@type": "Person",
     {% if page.author == "kai" %}"name": "Kai Davis"{% else %}"name": "Josh Doody"{% endif %}
