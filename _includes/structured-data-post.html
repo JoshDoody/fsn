@@ -23,6 +23,7 @@
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "{{ page.url | absolute_url }}"
-  }
+  },
+  "wordCount": {{ page.content | number_of_words }}
 }
 </script>
