@@ -4,10 +4,6 @@ title: 'How to negotiate salary: 9 tips from a pro salary negotiator'
 description: You finally got a job offer, and you feel you should ask for more, but how? These 9 tips will help you negotiate with confidence from a strong position.
 categories:
   - negotiate
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 og-image: SalaryNegotiationGuide.png
 date: 2023-04-03
 author: josh

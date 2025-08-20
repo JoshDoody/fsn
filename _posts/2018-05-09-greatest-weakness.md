@@ -6,10 +6,6 @@ subhead: ...and how to answer it
 description: You’re afraid of this question, and you’re not alone! Here's why it's a dumb question and how you can answer it without tanking your job interview.
 categories:
   - interview
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 date: 2018-05-09
 author: josh
 published: true

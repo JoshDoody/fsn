@@ -6,10 +6,6 @@ headline: Your recruiter is not your friend
 description: Your recruiter is not trying to get you the best salary possible. Here’s how to look out for yourself.
 categories:
   - negotiate
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 date: 2018-01-28
 author: josh
 published: true

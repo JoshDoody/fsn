@@ -6,10 +6,6 @@ subhead: It depends! Here are some email templates to help you find out.
 description: How long you should wait to hear back, and how often you should follow up after a job interview.
 categories:
   - negotiate
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 author: josh
 published: true
 ---

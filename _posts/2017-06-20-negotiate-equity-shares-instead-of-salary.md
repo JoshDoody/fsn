@@ -6,10 +6,6 @@ headline: How to decide whether to negotiate for more equity shares instead of b
 description: Here's how to decide whether you should try to negotiate more equity shares instead of salary when negotiating a job offer.
 categories:
   - negotiate
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 date: 2017-09-19
 author: josh
 published: true

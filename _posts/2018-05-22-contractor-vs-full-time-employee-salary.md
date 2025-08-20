@@ -6,10 +6,6 @@ headline: “What if they lowball my salary when I move from contractor to full-
 description: A simple two-step process to compare a contractor salary to a full-time employee salary if you're going contract to perm or striking out on your own as a freelancer.
 categories:
   - negotiate
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 date: 2018-05-23
 author: josh
 published: true

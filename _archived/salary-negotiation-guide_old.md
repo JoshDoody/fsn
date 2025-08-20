@@ -6,10 +6,6 @@ subhead: How to negotiate salary over email, in person, or over the phone
 description: You finally got a job offer, and you feel you should ask for more, but how? This guide will show you how to tactfully negotiate your job offer though email, in person, and over the phone so you don't leave anything on the table.
 categories:
   - negotiate
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 og-image: SalaryNegotiationGuide.png
 date: 2020-05-07
 author: josh

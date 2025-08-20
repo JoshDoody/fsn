@@ -7,10 +7,6 @@ subhead: Stand out from similarly-qualified candidates with these tactics
 description: Tactics to get more job offers by differentiating yourself from other candidates
 categories:
   - interview
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 og-image: software-developer-positioning_thumbnail.png
 date: 2016-12-20
 author: josh

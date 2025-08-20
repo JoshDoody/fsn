@@ -7,10 +7,6 @@ subhead: Everything you need to write the perfect salary negotiation email to ma
 description: 11 proven email samples and instructions on how to use them from a professional salary negotiator
 categories:
   - negotiate
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 og-image: salary-negotiation-email-make-your-case.png
 popularArticle: true
 date: 2024-08-30

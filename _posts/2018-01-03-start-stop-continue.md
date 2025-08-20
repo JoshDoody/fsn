@@ -6,10 +6,6 @@ subhead: A simple method to get un-stuck and make some progress
 description: This simple method will help you evaluate your past results and plan for future progress.
 categories:
   - raise
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 date: 2018-01-03
 author: josh
 published: true

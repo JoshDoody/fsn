@@ -6,10 +6,6 @@ subhead: How to prepare for your job interviews and get more job offers
 description: How to turn each job interview into another opportunity to make a strong impression and land more job offers.
 categories:
   - interview
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 og-image: InterviewPreparationGuide.png
 date: 2018-09-06
 author: josh

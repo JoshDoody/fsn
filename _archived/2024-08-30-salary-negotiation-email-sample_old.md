@@ -6,10 +6,6 @@ subhead: Everything you need to write the perfect salary negotiation email to ma
 description: A professional salary negotiator walks through every piece of a real-world salary negotiation email sample to show you how to negotiate the best compensation possible.
 categories:
   - negotiate
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 og-image: salary-negotiation-email-make-your-case.png
 popularArticle: true
 date: 2024-05-15

@@ -7,10 +7,6 @@ subhead: How to find and prioritize opportunities to branch out in your career t
 description: You're heading for a dead-end job. You're stuck on your career path, possibly boxed in by your own success. Here's what to do to avoid being pigeonholed.
 categories:
   - raise
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 date: 2017-08-02
 author: josh
 published: true

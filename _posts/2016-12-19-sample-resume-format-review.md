@@ -7,10 +7,6 @@ subhead: Get a detailed video review of a real life résumé
 description: Find out what hiring managers are looking for on your résumé, plus common mistakes to avoid so your résumé doesn't end up on the bottom of the pile.
 categories:
   - interview
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 og-image: sample-resume-format-review_thumbnail.png
 date: 2018-01-11
 author: josh

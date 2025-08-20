@@ -6,10 +6,6 @@ subhead: How to handle an unexpected job offer
 description: Here's how to be ready for an unexpected job offer so you're not caught off guard.
 categories:
   - negotiate
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 author: josh
 published: true
 ---

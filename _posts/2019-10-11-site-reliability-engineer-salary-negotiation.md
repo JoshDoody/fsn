@@ -6,10 +6,6 @@ headline: Got a Site Reliability Engineer (SRE) job offer? Here's how to negotia
 description: Here's how to negotiate your Site Reliability Engineer (SRE) job offer including valuable tactics and common pitfalls to avoid.
 categories:
   - coach
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 date: 2019-10-11
 author: josh
 published: true

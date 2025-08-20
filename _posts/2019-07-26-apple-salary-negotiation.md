@@ -6,10 +6,6 @@ headline: How to negotiate your Apple job offer
 description: A step-by-step guide to negotiate your Apple job offer, by a compensation negotiation expert.
 categories:
   - coach
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 company: Apple
 date: 2024-11-16
 author: josh

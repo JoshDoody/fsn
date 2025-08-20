@@ -6,10 +6,6 @@ headline: 'Software Developers: Here’s how to get a raise without changing job
 description: Here’s how to boost your lifetime earnings by hundreds of thousands of dollars by getting periodic raises without changing jobs.
 categories:
   - raise
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 og-image: SoftwareDevRaiseGuide.png
 date: 2021-04-04
 author: josh

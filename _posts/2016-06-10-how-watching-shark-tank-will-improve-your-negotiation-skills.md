@@ -6,10 +6,6 @@ subhead: Learn how to think like a Shark
 description: A four-phase approach to improve your negotiation skills by watching Shark Tank.
 categories:
   - negotiate
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 og-image: SharkTankCast_TitleBottom.png
 author: josh
 published: true

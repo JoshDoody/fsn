@@ -6,10 +6,6 @@ headline: How to write a compelling resume
 description: How to write a compelling resume or CV that will get you more job interviews
 categories:
   - interview
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 og-image: HowToWriteAResume.png
 date: 2017-07-28
 author: kai

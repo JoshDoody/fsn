@@ -6,10 +6,6 @@ subhead: Everything you need to write the perfect salary negotiation email using
 description: A professional salary negotiator walks through every piece of a real-world salary negotiation email that has made over $20M and counting
 categories:
   - negotiate
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 og-image: salary-negotiation-email-make-your-case.png
 popularArticle: true
 date: 2024-05-04

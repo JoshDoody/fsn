@@ -6,10 +6,6 @@ subhead: There's a better response that can improve the offer
 description: There's a better response that can get you a higher base salary, more vacation time, and other benefits.
 categories:
   - negotiate
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 author: josh
 published: true
 ---

@@ -6,10 +6,6 @@ subhead: How to supercharge your lifetime earning potential
 description: Take advantage of these five ways to get a raise and supercharge your lifetime earning potential.
 categories:
   - raise
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 author: josh
 published: true
 ---

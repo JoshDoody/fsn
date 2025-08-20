@@ -7,10 +7,6 @@ subhead: A detailed guide for High Earners negotiating offers at Big Tech compan
 description: Learn how to negotiate executive compensation at big tech companies, including salary, bonuses, equity, and more—written for senior leaders and High Earners.
 categories:
   - executive
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 featured: true
 company: agnostic
 date: 2025-08-14

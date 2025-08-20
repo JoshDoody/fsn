@@ -6,10 +6,6 @@ subhead: Salary negotiation tips to maximize your starting salary at a new job
 description: Five salary negotiation tips that everyone can use to negotiate starting salary
 categories:
   - negotiate
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 date: 2018-11-28
 author: josh
 published: true

@@ -6,10 +6,6 @@ headline: How to negotiate your Netflix job offer
 description: A step-by-step guide to negotiate your Netflix job offer, by a compensation negotiation expert.
 categories:
   - coach
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 company: Netflix
 date: 2024-11-16
 author: josh

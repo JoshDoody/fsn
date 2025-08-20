@@ -8,10 +8,6 @@ description: Everything you need to know to understand and evaluate your job off
 categories:
   - coach
   - negotiate
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 featured: true
 company: Big Tech
 date: 2024-03-16

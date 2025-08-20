@@ -8,9 +8,6 @@ description: A quick overview of stock refreshers and how they work
 categories:
   - coach
   - negotiate
-tags:
-  - recommended
-  - popular
 company: Big Tech
 date: 2024-04-21
 author: josh

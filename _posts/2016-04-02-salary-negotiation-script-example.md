@@ -6,10 +6,6 @@ subhead: An example script for negotiating starting salary
 description: Use this salary negotiation script example to plan for your salary negotiation.
 categories:
   - negotiate
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 date: 2017-04-30
 author: josh
 published: true

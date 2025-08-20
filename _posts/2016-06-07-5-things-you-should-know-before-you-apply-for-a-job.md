@@ -6,10 +6,6 @@ subhead: How to find the right opportunities and make the most of them
 description: Here's how you'll find the best opportunities and tactics you can use to make the most of them.
 categories:
   - interview
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 author: josh
 published: true
 ---

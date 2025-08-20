@@ -6,10 +6,6 @@ subhead: Connecting your professional super powers to employers' desired busines
 description: How to confidently answer the toughest interview questions to make a good impression and stand out from other candidates.
 categories:
   - interview
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 date: 2018-08-10
 author: josh
 published: true

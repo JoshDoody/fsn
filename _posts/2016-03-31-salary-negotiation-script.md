@@ -7,10 +7,6 @@ subhead: Quickly calculate the right counter offer for your job offer
 description: A simple calculator to find the right counter offer amount for your job offer
 categories:
   - negotiate
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 og-image: SalaryNegotiationScript.png
 date: 2017-08-17
 author: josh

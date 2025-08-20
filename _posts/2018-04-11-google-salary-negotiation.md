@@ -6,10 +6,6 @@ headline: How to negotiate your Google job offer
 description: A step-by-step guide to negotiate your Google job offer, by a compensation negotiation expert who has negotiated millions of dollars in Google offers.
 categories:
   - coach
-tags:
-  - recommended
-  - popular
-  - blogFeatured
 company: Google
 date: 2024-11-16
 author: josh
