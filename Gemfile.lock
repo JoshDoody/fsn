@@ -256,12 +256,16 @@ GEM
 PLATFORMS
   arm64-darwin-25
   x86_64-darwin-20
+  x86_64-linux
 
 DEPENDENCIES
   github-pages
   jekyll-paginate
   jekyll-sitemap
   webrick (~> 1.8)
+
+RUBY VERSION
+   ruby 3.3.9p170
 
 BUNDLED WITH
    2.7.2
