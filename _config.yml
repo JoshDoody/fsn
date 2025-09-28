@@ -20,6 +20,10 @@ exclude:
   - src
   - tailwind.config.js
   - netlify.toml
+  - vendor/
+  - vendor/**/*
+  - .jekyll-cache/
+  - tmp/
 
 plugins:
   - jekyll-paginate

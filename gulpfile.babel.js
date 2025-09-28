@@ -12,67 +12,81 @@ const POST_BUILD_STYLESHEET = `${SITE_ROOT}/assets/css/`;
 const PRE_BUILD_STYLESHEET = "./src/style.css";
 const TAILWIND_CONFIG = "./tailwind.config.js";
 
-// Fix for Windows compatibility
-const jekyll = process.platform === "win32" ? "jekyll.bat" : "jekyll";
+// Windows-friendly jekyll executable name
+const jekyllExe = process.platform === "win32" ? "jekyll.bat" : "jekyll";
 
-const isDevelopmentBuild = process.env.NODE_ENV === "development";
+// Env
+const isDev = process.env.NODE_ENV === "development";
 
+// Build Jekyll via Bundler, return a promise so Gulp knows when it’s done
 task("buildJekyll", () => {
   browserSync.notify("Building Jekyll site...");
 
-  const args = ["exec", jekyll, "build"];
+  const args = ["exec", jekyllExe, "build"];
+  if (isDev) args.push("--incremental");
 
-  if (isDevelopmentBuild) {
-    args.push("--incremental");
-  }
-
-  return spawn("bundle", args, { stdio: "inherit" });
+  return new Promise((resolve, reject) => {
+    const child = spawn("bundle", args, { stdio: "inherit" });
+    child.on("exit", (code) => {
+      if (code === 0) resolve();
+      else reject(new Error(`Jekyll build failed with exit code ${code}`));
+    });
+    child.on("error", (err) => reject(err));
+  });
 });
 
+// Build CSS with PostCSS/Tailwind; add autoprefixer+cssnano only in production
 task("processStyles", () => {
   browserSync.notify("Compiling styles...");
 
+  const plugins = [atimport(), tailwindcss(TAILWIND_CONFIG)];
+  if (!isDev) plugins.push(autoprefixer(), cssnano());
+
   return src(PRE_BUILD_STYLESHEET)
-    .pipe(
-      postcss([
-        atimport(),
-        tailwindcss(TAILWIND_CONFIG),
-        ...(isDevelopmentBuild ? [] : [autoprefixer(), cssnano()]),
-      ])
-    )
+    .pipe(postcss(plugins))
     .pipe(dest(POST_BUILD_STYLESHEET));
 });
 
+// Combined site build
+const buildSite = series("buildJekyll", "processStyles");
+
+// BrowserSync static server (serves the _site folder). No custom client/snippet.
 task("startServer", () => {
-  browserSync.init({
-    files: [SITE_ROOT + "/**"],
+  const bs = browserSync.create();
+
+  bs.init({
+    files: [], // we’ll manually trigger reloads after builds
     open: "local",
     port: 4000,
     server: {
       baseDir: SITE_ROOT,
-      serveStaticOptions: {
-        extensions: ["html"],
-      },
+      serveStaticOptions: { extensions: ["html"] },
     },
+    // Let BrowserSync inject its own client; no custom client path.
   });
 
+  // Watch for changes in sources (NOT in _site / node_modules / vendor / .bundle)
   watch(
     [
-      "**/*.css",
-      "**/*.scss",
-      "**/*.html",
+      "**/*.{html,md,markdown,liquid}",
+      "**/*.{css,scss}",
       "**/*.js",
-      "**/*.md",
-      "**/*.markdown",
       "!_site/**/*",
       "!node_modules/**/*",
+      "!vendor/**/*",
+      "!.bundle/**/*",
+      "!.jekyll-cache/**/*",
+      "!tmp/**/*",
     ],
     { interval: 500 },
-    buildSite
+    series(buildSite, (done) => {
+      // Reload the browser after the site is rebuilt
+      bs.reload();
+      done();
+    })
   );
 });
 
-const buildSite = series("buildJekyll", "processStyles");
-
-exports.serve = series(buildSite, "startServer");
+// Public tasks
 exports.default = series(buildSite);
+exports.serve = series(buildSite, "startServer");

@@ -1,0 +1,7 @@
+node_modules/
+.bundle/
+_site/
+.jekyll-cache/
+.sass-cache/
+vendor/
+tmp/
