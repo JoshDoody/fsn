@@ -8,5 +8,6 @@
   status = 404
 
 [build.environment]
-  RUBY_VERSION = "3.2.2"
+[build.environment]
+  RUBY_VERSION = "3.2.9"
   BUNDLER_VERSION = "2.7.2"
