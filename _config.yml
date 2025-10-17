@@ -61,7 +61,7 @@ defaults:
       path: "" # an empty string here means all files in the project
       type: "success-stories"
     values:
-      layout: "default"
+      layout: "success_story"
       metatags: "noindex"
       sitemap: false
   -
