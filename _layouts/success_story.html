@@ -1,15 +1,23 @@
-{% include header.html %}
+{% comment %} Compute once, reuse everywhere {% endcomment %}
+{% include compute-success-story-seo.html %}
+{% assign display_title = page.seo_title | default: title_fallback | default: page.title | default: site.title %}
+{% assign display_desc  = page.description | default: desc_fallback %}
 
+{% include header.html seo_title_override=display_title seo_desc_override=display_desc %}
 {% include header-nav.html %}
 
+{% include hero-success-story.html headline=display_title subhead=display_desc %}
+
 <div class="container mx-auto py-20">
-
-{% assign story_id = page.id | replace:'/results/', '' | replace:'/','' %}
-
-{% include standalone-success-story.html story-id=story_id %}
-
+  {% assign story_id = page.id | replace:'/results/', '' | replace:'/','' %}
+  {% include standalone-success-story.html story-id=story_id %}
+  
+  <div class="md:flex justify-between my-8">	
+	  <div>
+			<p><a href="/results/">Read more Testimonials <i class="fas fa-angle-double-right"></i></a></p>
+	  </div>
+	</div>
 </div>
 
 {% include footer-nav.html %}
-
 {% include footer.html %}
