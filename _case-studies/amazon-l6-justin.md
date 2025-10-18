@@ -3,6 +3,8 @@ layout: case_study
 title: 'Case Study: Helping Justin get an enticing L6 offer from Amazon'
 headline: 'Salary Negotiation Coaching Case Study: Helping Justin get an enticing L6 offer from Amazon'
 description: How Justin navigated the salary negotiation process at Amazon to find the best compensation package possible
+categories:
+  - case-study
 name: Justin Garrison
 job_title: Senior Developer Advocate
 company: Amazon

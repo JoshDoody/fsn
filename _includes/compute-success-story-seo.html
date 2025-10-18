@@ -1,0 +1,45 @@
+{% comment %}
+Compute title_fallback and desc_fallback for success-stories.
+Priority:
+  Title → first bold (**…**) in short_version, else first TWO sentences (., ?, !), then truncatewords:12
+  Description → full text truncatedwords:25
+{% endcomment %}
+
+{% if page.collection == "success-stories" %}
+  {% assign raw = page.short_version | default: page.excerpt | default: page.content %}
+  {% assign plain = raw
+      | markdownify
+      | strip_html
+      | strip_newlines
+      | replace: "  ", " "
+      | replace: "  ", " "
+      | strip %}
+
+  {%- comment -%} Try first bold span from short_version {%- endcomment -%}
+  {% assign bold_parts = raw | split: "**" %}
+  {% assign bold_text = "" %}
+  {% if bold_parts.size > 1 %}
+    {% assign bold_text = bold_parts[1] %}
+  {% endif %}
+  {% assign bold_plain = bold_text | markdownify | strip_html | strip_newlines | replace: "  ", " " | strip %}
+
+  {%- comment -%} Else: first TWO sentences (treat ? and ! as stops) {%- endcomment -%}
+  {% assign normalized = plain | replace: "? ", ". " | replace: "! ", ". " %}
+  {% assign sentences = normalized | split: ". " %}
+  {% assign first_sentence = sentences[0] %}
+  {% assign second_sentence = sentences[1] %}
+  {% assign two_sentences = first_sentence %}
+  {% if second_sentence and second_sentence != "" %}
+    {% assign two_sentences = two_sentences | append: " " | append: second_sentence %}
+  {% endif %}
+
+  {% if bold_plain and bold_plain != "" %}
+    {% assign title_fallback = bold_plain | truncatewords: 12, "" %}
+  {% else %}
+    {% assign title_fallback = two_sentences | truncatewords: 12, "" %}
+  {% endif %}
+
+  {% unless page.description %}
+    {% assign desc_fallback = plain | truncatewords: 25, "" %}
+  {% endunless %}
+{% endif %}

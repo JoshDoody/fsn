@@ -3,6 +3,8 @@ layout: case_study
 title: 'Case Study: Negotiating an additional $160,000 as an executive joining Alphabet'
 headline: 'Case Study: Negotiating an additional $160,000 in annual compensation as an executive joining Alphabet'
 description: How Taylor negotiated a $160,000 increase in annual compensation for an executive role at Alphabet
+categories:
+  - case-study
 name: Taylor
 job_title: Executive
 company: Alphabet or Google

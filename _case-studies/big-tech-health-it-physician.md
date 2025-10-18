@@ -3,6 +3,8 @@ layout: case_study
 title: 'Case Study: Helping a physician in Health IT negotiate a fair market value'
 headline: 'Case Study: Helping a physician in Health IT negotiate a fair market value for a niche role at a major tech company'
 description: How Lucy negotiated $60,000 increase in total RSUs, $70,000 increase in sign-on bonuses
+categories:
+  - case-study
 name: "Lucy"
 job_title: Physician working in Health IT
 company: 

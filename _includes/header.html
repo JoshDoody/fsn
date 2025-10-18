@@ -7,53 +7,177 @@
     {% if page.metatags == "noindex" %}
       <meta name="robots" content="noindex, nofollow">
     {% endif %}
-    <title>{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | strip_html | escape }}{% endif %}</title>
+	
+	{% comment %}
+	Only for success-stories: compute clean fallbacks (unless overrides are provided).
+	- Convert Markdown → HTML → plain text.
+	- Title priority:
+	    include.seo_title_override → page.seo_title →
+	    FIRST BOLD span from short_version → first TWO sentences → page.title → site.title
+	- Title is word-safe (~12 words).
+	- Description priority:
+	    page.description → include.seo_desc_override → fallback (~25 words) → site.description
+	  Fallback and override descriptions are not re-truncated (already word-safe).
+	{% endcomment %}
+	{% if page.collection == "success-stories" %}
+	  {% assign _raw = page.short_version | default: page.excerpt | default: page.content %}
+	  {% assign _plain = _raw
+	      | markdownify
+	      | strip_html
+	      | strip_newlines
+	      | replace: "  ", " "
+	      | replace: "  ", " "
+	      | strip %}
+
+	  {%- comment -%} Try first bold span from short_version for title {%- endcomment -%}
+	  {% assign _bold_raw_parts = _raw | split: "**" %}
+	  {% assign _bold_raw = "" %}
+	  {% if _bold_raw_parts.size > 1 %}
+	    {% assign _bold_raw = _bold_raw_parts[1] %}
+	  {% endif %}
+	  {% assign _bold_plain = _bold_raw | markdownify | strip_html | strip_newlines | replace: "  ", " " | strip %}
+
+	  {%- comment -%} Fallback title source: first TWO sentences (treat ? and ! as stops) {%- endcomment -%}
+	  {% assign _normalized = _plain | replace: "? ", ". " | replace: "! ", ". " %}
+	  {% assign _sentences = _normalized | split: ". " %}
+	  {% assign _first = _sentences[0] %}
+	  {% assign _second = _sentences[1] %}
+	  {% assign _two_sentences = _first %}
+	  {% if _second and _second != "" %}
+	    {% assign _two_sentences = _two_sentences | append: " " | append: _second %}
+	  {% endif %}
+
+	  {% if _bold_plain and _bold_plain != "" %}
+	    {% assign title_fallback = _bold_plain | truncatewords: 12, "" %}
+	  {% else %}
+	    {% assign title_fallback = _two_sentences | truncatewords: 12, "" %}
+	  {% endif %}
+
+	  {% unless page.description or include.seo_desc_override %}
+	    {% assign desc_fallback = _plain | truncatewords: 25, "" %}
+	  {% endunless %}
+	{% endif %}
+	
+    {%- comment -%}
+      Title:
+      • success-stories → prefer overrides → seo_title → title_fallback → page.title → site.title
+      • others → keep existing behavior (page.title → site.title)
+    {%- endcomment -%}
+    {% if page.collection == "success-stories" %}
+      <title>{{ include.seo_title_override
+                | default: page.seo_title
+                | default: title_fallback
+                | default: page.title
+                | default: site.title
+                | strip_html | escape }}</title>
+    {% else %}
+      <title>{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | strip_html | escape }}{% endif %}</title>
+    {% endif %}
 		
-		<!-- Meta tags and Open Graph -->
-    <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+	<!-- Meta tags and Open Graph -->
+	{%- comment -%}
+	  Description:
+	  • If page.description exists → keep your 160-char trim.
+	  • Else if override provided → output as-is (already word-safe).
+	  • Else if fallback computed → output as-is (word-safe).
+	  • Else → fall back to site.description (160-char trim).
+	{%- endcomment -%}
+	{% if page.description %}
+	  <meta name="description" content="{{ page.description | strip_html | strip_newlines | truncate: 160 }}" />
+	{% elsif include.seo_desc_override %}
+	  <meta name="description" content="{{ include.seo_desc_override | strip_html | strip_newlines }}" />
+	{% elsif desc_fallback %}
+	  <meta name="description" content="{{ desc_fallback | strip_html | strip_newlines }}" />
+	{% else %}
+	  <meta name="description" content="{{ site.description | strip_html | strip_newlines | truncate: 160 }}" />
+	{% endif %}
+
     <meta property="og:url" content="{% if page.301_to_url %}{{ page.301_to_url }}{% elsif page.canonical_url %}{{ page.canonical_url }}{% else %}{{ site.url }}{{ page.url }}{% endif %}" />
-    <meta property="og:title" content="{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | strip_html | escape }}{% endif %}" />
-    <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+
+    {%- comment -%}
+      OG title: mirror the <title> selection order for success-stories.
+    {%- endcomment -%}
+    {% if page.collection == "success-stories" %}
+      <meta property="og:title" content="{{ include.seo_title_override
+                                            | default: page.seo_title
+                                            | default: title_fallback
+                                            | default: page.title
+                                            | default: site.title
+                                            | strip_html | escape }}" />
+    {% else %}
+      <meta property="og:title" content="{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | strip_html | escape }}{% endif %}" />
+    {% endif %}
+
+	{% if page.description %}
+	  <meta property="og:description" content="{{ page.description | strip_html | strip_newlines | truncate: 160 }}" />
+	{% elsif include.seo_desc_override %}
+	  <meta property="og:description" content="{{ include.seo_desc_override | strip_html | strip_newlines }}" />
+	{% elsif desc_fallback %}
+	  <meta property="og:description" content="{{ desc_fallback | strip_html | strip_newlines }}" />
+	{% else %}
+	  <meta property="og:description" content="{{ site.description | strip_html | strip_newlines | truncate: 160 }}" />
+	{% endif %}
+
     <meta property="og:type" content="{% if page.og-type %}{{ page.og-type | escape }}{% else %}article{% endif %}" />
     <meta property="og:image" content="{{ site.url }}/assets/imgs/og/{% if page.og-image %}{{ page.og-image }}{% else %}fsn-og-baseline.png{% endif %}" />
 
     {% if page.og-image %}
       <meta property="twitter:card" content="summary_large_image" />
       <meta property="twitter:site" content="@JoshDoody" />
-      <meta property="twitter:title" content="{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | strip_html | escape }}{% endif %}" />
-      <meta property="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+
+      {% if page.collection == "success-stories" %}
+        <meta property="twitter:title" content="{{ include.seo_title_override
+                                                  | default: page.seo_title
+                                                  | default: title_fallback
+                                                  | default: page.title
+                                                  | default: site.title
+                                                  | strip_html | escape }}" />
+      {% else %}
+        <meta property="twitter:title" content="{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | strip_html | escape }}{% endif %}" />
+      {% endif %}
+
+	  {% if page.description %}
+	    <meta property="twitter:description" content="{{ page.description | strip_html | strip_newlines | truncate: 160 }}" />
+	  {% elsif include.seo_desc_override %}
+	    <meta property="twitter:description" content="{{ include.seo_desc_override | strip_html | strip_newlines }}" />
+	  {% elsif desc_fallback %}
+	    <meta property="twitter:description" content="{{ desc_fallback | strip_html | strip_newlines }}" />
+	  {% else %}
+	    <meta property="twitter:description" content="{{ site.description | strip_html | strip_newlines | truncate: 160 }}" />
+	  {% endif %}
+
       <meta property="twitter:image" content="{{ site.url }}/assets/imgs/og/{{ page.og-image }}" />
     {% endif %}
 		
-		<!-- Structured Data -->
-		{% if page.type == "post" %}
-		  {% include structured-data-post.html %}
-		{% elsif page.type == "faq" %}
-		  {% include structured-data-faq.html %}
-		{% elsif page.type == "service" %}
-		  {% include structured-data-service.html %}
-		{% elsif page.url == "/about/" %}
-		<script type="application/ld+json">
-		{
-		  "@context": "http://schema.org",
-		  "@type": "AboutPage",
-		  "name": "About Josh Doody, Founder of Fearless Salary Negotiation",
-		  "url": "https://fearlesssalarynegotiation.com/about/"
-		}
-		</script>
-		{% elsif page.url == "/" %}
-		<script type="application/ld+json">
-		{
-		  "@context": "http://schema.org",
-		  "@type": "WebSite",
-		  "name": "Fearless Salary Negotiation",
-		  "url": "https://fearlesssalarynegotiation.com"
-		}
-		</script>
-		{% endif %}
+	<!-- Structured Data -->
+	{% if page.type == "post" %}
+	  {% include structured-data-post.html %}
+	{% elsif page.type == "faq" %}
+	  {% include structured-data-faq.html %}
+	{% elsif page.type == "service" %}
+	  {% include structured-data-service.html %}
+	{% elsif page.url == "/about/" %}
+	<script type="application/ld+json">
+	{
+	  "@context": "http://schema.org",
+	  "@type": "AboutPage",
+	  "name": "About Josh Doody, Founder of Fearless Salary Negotiation",
+	  "url": "https://fearlesssalarynegotiation.com/about/"
+	}
+	</script>
+	{% elsif page.url == "/" %}
+	<script type="application/ld+json">
+	{
+	  "@context": "http://schema.org",
+	  "@type": "WebSite",
+	  "name": "Fearless Salary Negotiation",
+	  "url": "https://fearlesssalarynegotiation.com"
+	}
+	</script>
+	{% endif %}
 		
     <link rel="icon" href="https://fearlesssalarynegotiation.com/assets/imgs/favicon.svg">
-		<link rel="alternate icon" href="https://fearlesssalarynegotiation.com/assets/imgs/favicon.ico">
+	<link rel="alternate icon" href="https://fearlesssalarynegotiation.com/assets/imgs/favicon.ico">
     <link rel="mask-icon" href="https://fearlesssalarynegotiation.com/assets/imgs/favicon.svg" color="#28282D">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
     <link rel="stylesheet" href="https://use.typekit.net/xkl6thl.css">
@@ -61,73 +185,69 @@
     <link rel="stylesheet" href="/assets/css/main.css" />
     <link rel="stylesheet" href="/slick/slick.css" />
     <link rel="stylesheet" href="/slick/slick-theme.css" />
-		<link rel="canonical" href="{% if page.301_to_url %}{{ page.301_to_url }}{% elsif page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+	<link rel="canonical" href="{% if page.301_to_url %}{{ page.301_to_url }}{% elsif page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endif %}">
 		
-		<!-- Begin production-only code -->
-		{% if jekyll.environment == 'production' %}
-		<script>
-		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	<!-- Begin production-only code -->
+	{% if jekyll.environment == 'production' %}
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-		  ga('create', 'UA-67642804-1', 'auto', {'allowLinker': true});
-			ga('require', 'linkid');
-			ga('require', 'linker');
-			ga('require', 'ecommerce');
-			{% if page.redirect_url %}
-		  ga('send', 'pageview', {
-		    'hitCallback': function() {
-		        window.location = "{{ page.redirect_url }}";
-		    }
-		  });
-			{% else %}
-		  ga('send', 'pageview');
-			{% endif %}
+	  ga('create', 'UA-67642804-1', 'auto', {'allowLinker': true});
+	  ga('require', 'linkid');
+	  ga('require', 'linker');
+	  ga('require', 'ecommerce');
+	  {% if page.redirect_url %}
+	  ga('send', 'pageview', {
+	    'hitCallback': function() {
+	        window.location = "{{ page.redirect_url }}";
+	    }
+	  });
+	  {% else %}
+	  ga('send', 'pageview');
+	  {% endif %}
 
-		</script>			
-		<script async src='https://www.google-analytics.com/analytics.js'></script>
-		
-		<!-- NEW Google Analytics 4 - GA4 - code -->
-		<!-- Google tag (gtag.js) -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z30RWWMDHP"></script>
-		<script>
-		  window.dataLayer = window.dataLayer || [];
-		  function gtag(){dataLayer.push(arguments);}
-		  gtag('js', new Date());
-
-		  gtag('config', 'G-Z30RWWMDHP');
-		</script>
+	</script>			
+	<script async src='https://www.google-analytics.com/analytics.js'></script>
 	
-		<!-- hotjar snippet -->
-		<script>
-		(function(h,o,t,j,a,r){
-		    h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-		    h._hjSettings={hjid:274804,hjsv:5};
-		    a=o.getElementsByTagName('head')[0];
-		    r=o.createElement('script');r.async=1;
-		    r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-		    a.appendChild(r);
-		})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
-		</script>
-		
-		<!-- Deadline Funnel --><script type="text/javascript" data-cfasync="false">function SendUrlToDeadlineFunnel(e){var r,t,c,a,h,n,o,A,i = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",d=0,l=0,s="",u=[];if(!e)return e;do r=e.charCodeAt(d++),t=e.charCodeAt(d++),c=e.charCodeAt(d++),A=r<<16|t<<8|c,a=A>>18&63,h=A>>12&63,n=A>>6&63,o=63&A,u[l++]=i.charAt(a)+i.charAt(h)+i.charAt(n)+i.charAt(o);while(d<e.length);s=u.join("");var C=e.length%3;var decoded = (C?s.slice(0,C-3):s)+"===".slice(C||3);decoded = decoded.replace("+", "-");decoded = decoded.replace("/", "_");return decoded;} var dfUrl = SendUrlToDeadlineFunnel(location.href); var dfParentUrlValue;try {dfParentUrlValue = window.parent.location.href;} catch(err) {if(err.name === "SecurityError") {dfParentUrlValue = document.referrer;}}var dfParentUrl = (parent !== window) ? ("/" + SendUrlToDeadlineFunnel(dfParentUrlValue)) : "";(function() {var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.setAttribute("data-scriptid", "dfunifiedcode");s.src ="https://a.deadlinefunnel.com/unified/reactunified.bundle.js?userIdHash=eyJpdiI6InJxc3J2ZEhSNi90WStjMjFIVE8rdEE9PSIsInZhbHVlIjoiZmZzWkZKVzJFQ1IxZFQ0VENCZGJzUT09IiwibWFjIjoiZmQ3NjAwZWIxYTQ0ZGRiZTU5ODM4Y2RkODc4MzJhMzA3YTk2Yjg3NTQxY2MzZDMzNDI4MTExNzM1ZGQwZjM2NyJ9&pageFromUrl="+dfUrl+"&parentPageFromUrl="+dfParentUrl;var s2 = document.getElementsByTagName("script")[0];s2.parentNode.insertBefore(s, s2);})();</script><!-- End Deadline Funnel -->
-		
-		<!-- RightMessage -->
-		<script type="text/javascript"> 
-		(function(p, a, n, d, o, b, c) {
-		    o = n.createElement('script'); o.type = 'text/javascript'; o.async = true; o.src = 'https://tb.rightmessage.com/'+p+'.js';
-		    b = n.getElementsByTagName('script')[0]; d = function(h, u, i) { var c = n.createElement('style'); c.id = 'rmcloak'+i;
-		        c.type = 'text/css'; c.appendChild(n.createTextNode('.rmcloak'+h+'{visibility:hidden}.rmcloak'+u+'{display:none}'));
-		        b.parentNode.insertBefore(c, b); return c; }; c = d('', '-hidden', ''); d('-stay-invisible', '-stay-hidden', '-stay');
-		    setTimeout(o.onerror = function() { c.parentNode && c.parentNode.removeChild(c); }, a); b.parentNode.insertBefore(o, b);
-		})('1676380240', 20000, document);
-		</script>
-	
-		{% endif %}
-		<!-- End production-only code -->
-		
+	<!-- NEW Google Analytics 4 - GA4 - code -->
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z30RWWMDHP"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
 
+	  gtag('config', 'G-Z30RWWMDHP');
+	</script>
+
+	<!-- hotjar snippet -->
+	<script>
+	(function(h,o,t,j,a,r){
+	    h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+	    h._hjSettings={hjid:274804,hjsv:5};
+	    a=document.getElementsByTagName('head')[0];
+	    r=document.createElement('script');r.async=1;
+	    r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+	    a.appendChild(r);
+	})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+	</script>
+
+	<!-- RightMessage -->
+	<script type="text/javascript"> 
+	(function(p,a,n,d,o,b,c){
+	    o=n.createElement('script');o.type='text/javascript';o.async=true;o.src='https://tb.rightmessage.com/'+p+'.js';
+	    b=n.getElementsByTagName('script')[0];d=function(h,u,i){var c=n.createElement('style');c.id='rmcloak'+i;
+	        c.type='text/css';c.appendChild(n.createTextNode('.rmcloak'+h+'{visibility:hidden}.rmcloak'+u+'{display:none}'));
+	        b.parentNode.insertBefore(c,b);return c;};c=d('','-hidden','');d('-stay-invisible','-stay-hidden','-stay');
+	    setTimeout(o.onerror=function(){c.parentNode&&c.parentNode.removeChild(c);},a);b.parentNode.insertBefore(o,b);
+	})('1676380240',20000,document);
+	</script>
+
+	{% endif %}
+	<!-- End production-only code -->
   </head>
 
   <body class="{{ page.layout }} {{ page.bodyClass }}">

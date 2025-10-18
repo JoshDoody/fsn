@@ -3,6 +3,8 @@ layout: case_study
 title: 'Case Study: Helping a Senior Software Engineer negotiating multiple job offers at four major tech companies'
 headline: 'Case Study: Helping a Senior Software Engineer negotiating multiple job offers at four major tech companies'
 description: How Jamie chose Github among four big tech companies and negotiated $42,000 more in annual comopensation plus a $25,000 sign-on bonus
+categories:
+  - case-study
 name: Jamie
 job_title: Senior Software Engineer
 company: GitHub

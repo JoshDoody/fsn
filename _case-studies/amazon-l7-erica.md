@@ -3,6 +3,8 @@ layout: case_study
 title: 'Case Study: Landing an L7 Offer at Amazon'
 headline: 'Case Study: Landing an L7 Offer at Amazon'
 description: How Erica landed an L7 offer at Amazon and negotiated an additional $80,000 in signing bonuses
+categories:
+  - case-study
 name: "Erica"
 job_title: 
 company: Amazon

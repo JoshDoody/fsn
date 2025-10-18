@@ -1,0 +1,29 @@
+{% comment %}
+Dedicated hero for success stories.
+Accepts:
+  headline — usually computed display_title
+  subhead  — usually computed display_desc
+{% endcomment %}
+{% assign headline = include.headline | default: page.headline | default: page.title %}
+{% assign subhead  = include.subhead  | default: page.subhead %}
+
+<div class="hero">
+  <div class="container mx-auto md:pt-28 md:pb-16 sm:pt-14 sm:pb-10">
+    <div class="grid md:grid-cols-2 sm:grid-cols-1 gap-6 items-center">
+      <div>
+        <p class="pb-3 mb-0 uppercase brand-primary text-lg font-black">Testimonial</p>
+        {% if headline %}
+          <h1 class="text-4xl pb-6 pr-12">{{ headline }}</h1>
+        {% endif %}
+        {% if subhead %}
+          <p class="text-xl pb-6 pr-12">{{ subhead }}</p>
+        {% endif %}
+      </div>
+      <div class="relative">
+        {% if page.heroImg %}
+          <img src="/assets/imgs/{{ page.heroImg }}" alt="" class="md:absolute sm:m-auto sm:block">
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
