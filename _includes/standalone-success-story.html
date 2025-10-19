@@ -4,7 +4,6 @@
 <div id="{{ include.story-id }}" class="success-indi success-light {{ story.company | slugify }}">
   <img src="/assets/imgs/ico-success-quote.svg" class="suc-quote" >
   <div class="suc-indi-quotes">
-
     <div>
       {{ story.content | markdownify }}
       <div class="flex items-center mt-6">
@@ -32,6 +31,16 @@
       </div>
     </div>
   </div><!-- /suc-quotes -->  
+  
+  {% comment %} Only show link to dedicated page (eg, /results/story-id/) if we're not already on that page {% endcomment %}
+  {% unless page.url == story.url %}
+  <div class="flex justify-end">
+    <a href="/results/{{ include.story-id }}/" class="cat-arrow">
+      <i class="fas fa-arrow-right"></i>
+    </a>
+  </div>
+  {% endunless %}
+  
   <div class="suc-indi-dots">
     <ul class="slick-dots" role="tablist" style="display: block;">
       <li class="slick-active" role="presentation"><p>1</p></li>
