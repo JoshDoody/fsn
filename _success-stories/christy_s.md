@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  **My offer improved by $7,500! And, my employer told me that this showed a side of me that makes them even more excited to have me on their team! :)**
-product: How to get promoted in 7 days
+product: Fearless Salary Negotiation
 result_summary: $7,500 additional salary.
 case_study_url: 
 ---

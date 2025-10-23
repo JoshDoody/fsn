@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  Josh’s thought process for what number made the best sense given how difficult it is to break the $200k barrier was very helpful. I negotiated for $5,000 more base salary, $50,000 more equity and a $10,000 signing bonus increase without having to do multiple rounds of countering.
-product: 
+product: Salary Negotiation Coaching
 result_summary: $5,000 more base salary, $50,000 more equity, and a $10,000 signing bonus increase.
 case_study_url: 
 ---

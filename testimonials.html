@@ -1,0 +1,170 @@
+---
+layout: default
+title: Fearless Salary Negotiation Testimonials
+subhead: What real people say about Fearless Salary Negotiation
+permalink: /testimonials/
+---
+
+<div class="container mx-auto py-20">
+
+  {%- assign testimonials = site["success-stories"] | sort: "date" | reverse -%}
+
+  {%- assign ordered_names = "Salary Negotiation Coaching|Salary Negotiation Mastery|Fearless Salary Negotiation|Strategy Session|Newsletter|Public Speaking|Salary Negotiation Crash Course" -%}
+  {%- assign ordered_list  = ordered_names | split: "|" -%}
+  {%- assign ordered_str   = "|" | append: ordered_names | append: "|" -%}
+
+  {%- comment -%} -------- 1) Explicitly ordered groups -------- {%- endcomment -%}
+  {%- for pname in ordered_list -%}
+    {%- assign items = testimonials | where: "product", pname -%}
+    {%- if items and items.size > 0 -%}
+      <h2 class="text-3xl uppercase sans-serif mb-8">{{ pname }}</h2>
+
+      {%- for t in items -%}
+        {%- capture _headline_raw -%}
+          {%- if t.headline and t.headline != "" -%}
+            {{ t.headline }}
+          {%- elsif t.result_summary and t.result_summary != "" -%}
+            {{ t.result_summary }}
+          {%- elsif t.short_version and t.short_version != "" -%}
+            {%- assign _fs = t.short_version | strip_html | replace: "  ", " " -%}
+            {%- assign _fs = _fs | split: "." | first | strip -%}
+            {{ _fs }}
+          {%- else -%}
+            {%- if t.name and t.name != "" -%}{{ t.name }}{%- endif -%}
+            {%- if t.job_title and t.job_title != "" -%}
+              {%- if t.name and t.name != "" -%}, {% endif -%}{{ t.job_title }}{%- endif -%}
+            {%- if t.company and t.company != "" -%}
+              {%- if t.job_title or t.name -%} at {%- endif -%}{{ t.company }}{%- endif -%}
+            {%- if t.product and t.product != "" -%}
+              {%- if t.name or t.job_title or t.company -%} — {%- endif -%}{{ t.product }}{%- endif -%}
+          {%- endif -%}
+        {%- endcapture -%}
+        {%- assign headline_text = _headline_raw
+          | markdownify | strip_html | strip | replace: "  ", " "
+          | replace: "**","" | replace: "__","" | replace: "*","" | replace: "_","" | replace: "`",""
+        -%}
+
+        {%- assign subhead_html = "" -%}
+        {%- if t.subhead and t.subhead != "" -%}
+          {%- assign subhead_html = t.subhead | markdownify -%}
+        {%- elsif t.short_version and t.short_version != "" -%}
+          {%- assign subhead_html = t.short_version | markdownify -%}
+        {%- else -%}
+          {%- capture _tmp -%}{{ t.content | strip_html | replace: "  ", " " | truncate: 220 }}{%- endcapture -%}
+          {%- assign subhead_html = "<p>" | append: _tmp | append: "</p>" -%}
+        {%- endif -%}
+
+        <h6 class="mb-2"><a href="{{ t.url }}">{{ headline_text | escape }}</a></h6>
+        {{ subhead_html }}
+      {%- endfor -%}
+    {%- endif -%}
+  {%- endfor -%}
+
+  {%- comment -%} -------- 2) Remaining groups alphabetically -------- {%- endcomment -%}
+  {%- assign groups = testimonials | group_by: "product" | sort: "name" -%}
+  {%- for g in groups -%}
+    {%- assign is_in_custom = false -%}
+    {%- if g.name and g.name != "" -%}
+      {%- assign needle = "|" | append: g.name | append: "|" -%}
+      {%- if ordered_str contains needle -%}
+        {%- assign is_in_custom = true -%}
+      {%- endif -%}
+    {%- endif -%}
+
+    {%- if is_in_custom == false -%}
+      {%- if g.name and g.name != "" -%}
+        <h2 class="text-3xl uppercase sans-serif mb-8">{{ g.name }}</h2>
+      {%- else -%}
+        <h2 class="text-3xl uppercase sans-serif mb-8">Other</h2>
+      {%- endif -%}
+
+      {%- for t in g.items -%}
+        {%- capture _headline_raw -%}
+          {%- if t.headline and t.headline != "" -%}
+            {{ t.headline }}
+          {%- elsif t.result_summary and t.result_summary != "" -%}
+            {{ t.result_summary }}
+          {%- elsif t.short_version and t.short_version != "" -%}
+            {%- assign _fs = t.short_version | strip_html | replace: "  ", " " -%}
+            {%- assign _fs = _fs | split: "." | first | strip -%}
+            {{ _fs }}
+          {%- else -%}
+            {%- if t.name and t.name != "" -%}{{ t.name }}{%- endif -%}
+            {%- if t.job_title and t.job_title != "" -%}
+              {%- if t.name and t.name != "" -%}, {% endif -%}{{ t.job_title }}{%- endif -%}
+            {%- if t.company and t.company != "" -%}
+              {%- if t.job_title or t.name -%} at {%- endif -%}{{ t.company }}{%- endif -%}
+            {%- if t.product and t.product != "" -%}
+              {%- if t.name or t.job_title or t.company -%} — {%- endif -%}{{ t.product }}{%- endif -%}
+          {%- endif -%}
+        {%- endcapture -%}
+        {%- assign headline_text = _headline_raw
+          | markdownify | strip_html | strip | replace: "  ", " "
+          | replace: "**","" | replace: "__","" | replace: "*","" | replace: "_","" | replace: "`",""
+        -%}
+
+        {%- assign subhead_html = "" -%}
+        {%- if t.subhead and t.subhead != "" -%}
+          {%- assign subhead_html = t.subhead | markdownify -%}
+        {%- elsif t.short_version and t.short_version != "" -%}
+          {%- assign subhead_html = t.short_version | markdownify -%}
+        {%- else -%}
+          {%- capture _tmp -%}{{ t.content | strip_html | replace: "  ", " " | truncate: 220 }}{%- endcapture -%}
+          {%- assign subhead_html = "<p>" | append: _tmp | append: "</p>" -%}
+        {%- endif -%}
+
+        <h6 class="mb-2"><a href="{{ t.url }}">{{ headline_text | escape }}</a></h6>
+        {{ subhead_html }}
+      {%- endfor -%}
+    {%- endif -%}
+  {%- endfor -%}
+
+  <div class="md:flex justify-between my-8">
+    <div>
+      <p><a href="/results/">Read about more Salary Negotiation Coaching results <i class="fas fa-angle-double-right"></i></a></p>
+    </div>
+  </div>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Salary Negotiation Coaching Testimonials",
+  "itemListOrder": "https://schema.org/ItemListOrderDescending",
+  "numberOfItems": {{ testimonials | size }},
+  "itemListElement": [
+    {%- for t in testimonials -%}
+      {%- capture _headline_raw -%}
+        {%- if t.headline and t.headline != "" -%}
+          {{ t.headline }}
+        {%- elsif t.result_summary and t.result_summary != "" -%}
+          {{ t.result_summary }}
+        {%- elsif t.short_version and t.short_version != "" -%}
+          {%- assign _fs = t.short_version | strip_html | replace: "  ", " " -%}
+          {%- assign _fs = _fs | split: "." | first | strip -%}
+          {{ _fs }}
+        {%- else -%}
+          {%- if t.name and t.name != "" -%}{{ t.name }}{%- endif -%}
+          {%- if t.job_title and t.job_title != "" -%}
+            {%- if t.name and t.name != "" -%}, {% endif -%}{{ t.job_title }}{%- endif -%}
+          {%- if t.company and t.company != "" -%}
+            {%- if t.job_title or t.name -%} at {%- endif -%}{{ t.company }}{%- endif -%}
+          {%- if t.product and t.product != "" -%}
+            {%- if t.name or t.job_title or t.company -%} — {%- endif -%}{{ t.product }}{%- endif -%}
+        {%- endif -%}
+      {%- endcapture -%}
+      {%- assign _headline_plain = _headline_raw
+        | markdownify | strip_html | strip | replace: "  ", " "
+        | replace: "**","" | replace: "__","" | replace: "*","" | replace: "_","" | replace: "`",""
+      -%}
+      {
+        "@type": "ListItem",
+        "position": {{ forloop.index }},
+        "url": "{{ site.url }}{{ t.url }}",
+        "name": "{{ _headline_plain | escape }}"
+      }{%- if forloop.last == false -%},{%- endif -%}
+    {%- endfor -%}
+  ]
+}
+</script>
