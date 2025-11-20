@@ -111,8 +111,9 @@
 
 		{% case page.company %}
 			{% when "Apple" %}
-				<p>Here is one example of the results I've helped others achieve in their negotiations with {{ page.company }}.</p>
+				<p>Here are examples of the results I've helped others achieve in their negotiations with {{ page.company }}.</p>
 				
+				{% include standalone-success-story.html story-id="luke" %}
 				{% include standalone-success-story.html story-id="anon_engineer_3" %}
 			{% when "Amazon" %}
 				<p>Here are examples of results I've helped others achieve in their negotiations with {{ page.company }}.</p>
