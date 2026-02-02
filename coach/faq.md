@@ -13,7 +13,7 @@ faqs:
     answer: "Yes. I built this business to help people at all stages of their career. The clients who get the best results from Salary Negotiation Coaching are High Earners, but many other clients have also gotten excellent results. The best thing to do is to contact me so I can learn more about your situation and recommend the best next steps for you."
 
   - question: "When is the best time to reach out about Salary Negotiation Coaching?"
-    answer: "The best time to talk about working together is when you are entering the offer stage and one or more companies have indicated that an offer may be coming soon. That said, any time during your job search—whether you are just starting or already have an offer in hand—is a good time to talk about whether Salary Negotiation Coaching could be right for you."
+    answer: "The absolute best time for us to talk about working together is when you are entering the offer stage with one or more companies. That said, any time during your job search—whether you are just starting or already have an offer in hand—is a good time to talk about whether Salary Negotiation Coaching could be right for you."
 
   - question: "How do we get started?"
     answer: "After we discuss your situation and determine the best next steps, I will send you a Letter of Engagement to review and sign. Once you sign it, we will begin working together."
@@ -91,7 +91,7 @@ If your questions aren’t answered here, [contact me](/contact/) any time and I
 
 ## <a name="who">Who is Salary Negotiation Coaching for?
 
-My most successful clients are are High Earners that are currently in a job search or negotiating their offer. Typically, they are leaders with a title including something like "Vice President" or "Senior Director" and making $400,000 total compensation at larger companies, and can also be senior engineers or engineering managers, or even physicians.
+My most successful clients are High Earners that are currently in a job search or negotiating their offer. Typically, they are leaders with a title including something like "Vice President" or "Senior Director" and making $400,000 total compensation at larger companies, and can also be senior engineers or engineering managers, or even physicians.
 
 ### I'm not earning $400k+ per year—can I still work with you?
 
@@ -103,7 +103,7 @@ The best thing to do is to [contact me](/contact/) so I can learn more about you
 
 ### When is the best time to reach out about Salary Negotiation Coaching?
 
-The absolute best time for us to talk about working together is when you are entering the offer stage and one more more companies have indicated that an offer may be coming soon.
+The absolute best time for us to talk about working together is when you are entering the offer stage with one or more companies.
 
 But any time during your job search process—if you're just starting your search, or if you already have an offer in hand—is a good time for us to talk about whether Salary Negotiation Coaching could be right for you.
 
@@ -191,7 +191,7 @@ No. There are no additional fees beyond the Negotiation Fee.
 
 ### What is included in the Improvement Component?
 
-The Improvement Component typically includes base salary, vesting equity, and sign-on bonus. It may also include guaranteed incentive componensation (typical for Executive compensation packages).
+The Improvement Component typically includes base salary, vesting equity, and sign-on bonus. It may also include guaranteed incentive compensation (typical for Executive compensation packages).
 
 ### How does equity that vests over multiple years affect the Improvement Component?
 
@@ -259,7 +259,7 @@ Payment is not due until _after_ our work together is complete.
 
 The Strategy Component is due when our work is complete.
 
-The Improvement Component will also be calculated once our work is compolete, and will be paid via a separate invoice.
+The Improvement Component will also be calculated once our work is complete, and will be paid via a separate invoice.
 
 Most clients pay the Improvement Component right away along with the Strategy Component, while some wait until they begin their new job. You and I will work together to figure out the timing that works best for you for your Improvement Component payment.
 
