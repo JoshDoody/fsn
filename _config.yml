@@ -9,6 +9,7 @@ sass:
   style: compressed
 
 exclude:
+  - CLAUDE.md
   - Gemfile
   - Gemfile.lock
   - gulpfile.babel.js
