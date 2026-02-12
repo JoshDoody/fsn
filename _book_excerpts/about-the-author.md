@@ -21,6 +21,6 @@ He didn't negotiate his salary at his first few jobs, but quickly realized he ha
 
 With the experience and confidence he gained from doubling his own salary, he began helping others drastically increase their salaries as well. You can read their stories and results [here](/results/).
 
-He took everything he learned from his own experience and helping others and wrote [Fearless Salary Negotiation](/get-started/). Since he published the book at the end of 2015, he has helped thousands of people collectively increase their earnings by millions of dollars, and [Fearless Salary Negotiation](/get-started/) can help you too!
+He took everything he learned from his own experience and helping others and wrote *Fearless Salary Negotiation*. Since he published the book at the end of 2015, he has helped thousands of people collectively increase their earnings by tens of millions of dollars, and *Fearless Salary Negotiation* can help you too!
 
 He lives and works in Gainesville, FL, home of the University of Florida.
