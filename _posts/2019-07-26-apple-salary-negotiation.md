@@ -11,7 +11,7 @@ date: 2024-11-16
 author: josh
 published: true
 ---
-The key question to ask about an Apple job offer is "How much flexibility do they have to negotiate my specific offer?" In my experience [coaching software developers](/coach/) and [leaders](/coach/) through Apple salary negotiations, the answer varies from "not much" to "a whole lot".
+The key question to ask about an Apple job offer is "How much flexibility do they have to negotiate my specific offer?" In my experience [coaching software developers and leaders](/coach/) through Apple salary negotiations, the answer varies from "not much" to "a whole lot".
 
 Apple tends to make offers that they consider strong, which means a careful negotiation strategy is needed to get them to improve their offer. In-demand engineers with specialties in areas that are crucial to Apple's business *and* skills that other firms need can often push harder than generalist engineers.
 

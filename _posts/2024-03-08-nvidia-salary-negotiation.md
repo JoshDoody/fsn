@@ -11,7 +11,7 @@ date: 2024-11-16
 author: josh
 published: true
 ---
-The key question to ask about an NVIDIA job offer is "How much flexibility do they have to negotiate my specific offer?" In my experience [coaching engineers](/coach/) and [leaders](/coach/) through NVIDIA salary negotiations, the answer varies from "not much" to "a whole lot".
+The key question to ask about an NVIDIA job offer is "How much flexibility do they have to negotiate my specific offer?" In my experience [coaching engineers and leaders](/coach/) through NVIDIA salary negotiations, the answer varies from "not much" to "a whole lot".
 
 In-demand engineers with specialties in areas that are crucial to NVIDIA's business *and* skills that other firms need can often push harder than generalist engineers, but as they continue to grow, they need engineers from many disciplines to help them succeed.
 
