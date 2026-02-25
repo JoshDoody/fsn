@@ -11,7 +11,7 @@ date: 2024-11-16
 author: josh
 published: true
 ---
-The key question to ask about an Tesla job offer is "How much flexibility do they have to negotiate my specific offer?" In my experience [coaching engineers](/coach/swe/) and [leaders](/coach/) through Tesla salary negotiations, the answer varies from "not much" to "a whole lot". Up front, you should know that Tesla's pay ranges tend to be below other big tech companies for similar disciplines (like Senior Software Engineer). So if compensation is your only or primary motivation for working in big tech, there are probably other more lucrative opportunities available to you depending on your specialty.
+The key question to ask about an Tesla job offer is "How much flexibility do they have to negotiate my specific offer?" In my experience [coaching engineers](/coach/) and [leaders](/coach/) through Tesla salary negotiations, the answer varies from "not much" to "a whole lot". Up front, you should know that Tesla's pay ranges tend to be below other big tech companies for similar disciplines (like Senior Software Engineer). So if compensation is your only or primary motivation for working in big tech, there are probably other more lucrative opportunities available to you depending on your specialty.
 
 In-demand engineers with specialties in areas that are crucial to Tesla's business *and* skills that other firms need can often push harder than generalist engineers, but as they continue to grow, they need engineers from many disciplines to help them succeed. They also rely on experts in other specialties like supply chain management as a manufacturing company.
 
