@@ -61,7 +61,6 @@ Your market value will give you a baseline that you can adjust to set your targe
 *   [PayScale.com](https://payscale.com)
 *   [Salary.com](http://salary.com)
 *   [Glassdoor.com](https://glassdoor.com)
-*   [paysa.com](https://paysa.com)
 
 ---
 
@@ -85,7 +84,6 @@ You will set your target salary, which is your goal for your next raise. You wil
 *   [PayScale.com](https://payscale.com)
 *   [Salary.com](https://salary.com)
 *   [Glassdoor.com](https://glassdoor.com)
-*   [paysa.com](https://paysa.com)
 
 ---
 

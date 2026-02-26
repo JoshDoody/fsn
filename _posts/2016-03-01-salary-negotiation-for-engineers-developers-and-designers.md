@@ -14,7 +14,7 @@ author: josh
 published: true
 ---
 
-I recently did a Salary Negotiation workshop for the [Orlando Devs Meetup](http://www.meetup.com/OrlandoDevs/) and [The Iron Yard](https://www.theironyard.com/)'s Orlando campus. It was a great opportunity to work with software developers, engineers, and designers, who are simultaneously in _very_ high demand right now, and hesitant to negotiate their salary.
+I recently did a Salary Negotiation workshop for an Orlando Devs Meetup. It was a great opportunity to work with software developers, engineers, and designers, who are simultaneously in _very_ high demand right now, and hesitant to negotiate their salary.
 
 My talk was about 30 minutes, starting with a salary negotiation overview for those who are looking to change jobs—how to prepare for your interviews, and how to negotiate your starting salary. Then I switched gears to talk about how to get your next raise or promotion for those who are planning to stay put.
 
