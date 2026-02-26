@@ -19,7 +19,7 @@ published: true
 
 ### Special thanks
 
-Special thanks to [Eric Normand](https://twitter.com/ericnormand) of [PurelyFunctional.tv](https://purelyfunctional.tv) for contributing his excellent technical expertise.
+Special thanks to [Eric Normand](https://x.com/ericnormand) of [PurelyFunctional.tv](https://purelyfunctional.tv) for contributing his excellent technical expertise.
 
 <blockquote class="ico link-callout">
   <p><span>Learn more</span> Are you ready for any interview question? Even the dumb ones?</p>

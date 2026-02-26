@@ -26,7 +26,7 @@ Here are some things you can watch for:
 * **What does the flow of a typical negotiation look like?**—watch the back-and-forth between the Sharks and entrepreneurs, and among the Sharks
 * **How big are the gaps are between the entrepreneurs' and Sharks' expectations**—are they "far apart" or "pretty close" in their valuation of the business and overall expectations for the deal?
 * **How often do they make a deal?**—Sometimes there's no deal. What does that mean? Does anyone "win" or "lose" even without making a deal?
-* **What type of deal does each Shark prefer?**—For example, [Mark Cuban](http://blogmaverick.com) likes to invest in technology-related businesses, and [Kevin O'Leary](https://twitter.com/kevinolearytv) likes royalty deals.
+* **What type of deal does each Shark prefer?**—For example, [Mark Cuban](http://blogmaverick.com) likes to invest in technology-related businesses, and [Kevin O'Leary](https://x.com/kevinolearytv) likes royalty deals.
 * **What common mistakes do the entrepreneurs make?**—For example, many entrepreneurs over-value their *idea* rather than valuing their *business*.
 
 Once you have a good feel for the factors mentioned above, you'll naturally start forming opinions about the offers being made. That's when it's time to move on to Phase 2.
@@ -50,7 +50,7 @@ Put yourself in the entrepreneur's shoes and think about how you would respond t
 * Would you stall for time to hear other offers?
 * Or would you counteroffer? If you *would* counter, what would your counter be?
 
-The more you do this, the better you'll get. You might guess that Kevin will suggest a venture debt deal with a payback period of 2 years at 7% interest. Or you may think that [Barbara](https://twitter.com/barbaracorcoran) is interested in doing a deal, but only if [Robert](https://twitter.com/robertherjavec) and [Lori](https://twitter.com/LoriGreiner) will join her and they can get at least 10% equity each. And sometimes [Daymond](https://twitter.com/TheSharkDaymond) will simply say, "I don't think you need my help." before dropping out of the negotiation.
+The more you do this, the better you'll get. You might guess that Kevin will suggest a venture debt deal with a payback period of 2 years at 7% interest. Or you may think that [Barbara](https://x.com/barbaracorcoran) is interested in doing a deal, but only if [Robert](https://x.com/robertherjavec) and [Lori](https://x.com/LoriGreiner) will join her and they can get at least 10% equity each. And sometimes [Daymond](https://x.com/TheSharkDaymond) will simply say, "I don't think you need my help." before dropping out of the negotiation.
 
 ## Phase 4. Anticipate how each Shark will feel about the other Sharks’ offers and deals
 
