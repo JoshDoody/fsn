@@ -6,9 +6,22 @@
   {% if page.description %}
   "description": "{{ page.description | strip_newlines | escape }}",
   {% endif %}
+  {% if page.og-image %}
+  "image": "https://fearlesssalarynegotiation.com/assets/imgs/og/{{ page.og-image }}",
+  {% endif %}
   "author": {
     "@type": "Person",
-    {% if page.author == "kai" %}"name": "Kai Davis"{% else %}"name": "Josh Doody"{% endif %}
+    {% if page.author == "kai" %}
+    "name": "Kai Davis"
+    {% else %}
+    "name": "Josh Doody",
+    "url": "https://fearlesssalarynegotiation.com/about/",
+    "sameAs": [
+      "https://x.com/JoshDoody",
+      "https://www.linkedin.com/in/joshdoody/",
+      "https://www.youtube.com/@TheJoshDoody"
+    ]
+    {% endif %}
   },
   "publisher": {
     "@type": "Organization",
@@ -24,6 +37,7 @@
     "@type": "WebPage",
     "@id": "{{ page.url | absolute_url }}"
   },
-  "wordCount": {{ page.content | number_of_words }}
+  "wordCount": {{ page.content | number_of_words }}{% if page.categories or page.company %},
+  "keywords": [{% assign kw = page.categories %}{% if page.company %}{% assign kw = kw | push: page.company %}{% endif %}{% for k in kw %}"{{ k }}"{% unless forloop.last %}, {% endunless %}{% endfor %}]{% endif %}
 }
 </script>
