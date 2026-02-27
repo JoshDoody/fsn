@@ -1,0 +1,27 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.name | escape }}"{% if page.job_title %},
+    "jobTitle": "{{ page.job_title | escape }}"{% endif %}
+  },
+  "reviewBody": "{{ page.short_version | markdownify | strip_html | strip_newlines | escape }}",
+  "itemReviewed": {
+    "@type": "Service",
+    "name": "Salary Negotiation Coaching",
+    "url": "https://fearlesssalarynegotiation.com/coach/",
+    "provider": {
+      "@type": "Person",
+      "name": "Josh Doody",
+      "url": "https://fearlesssalarynegotiation.com/about/"
+    }{% if page.company %},
+    "serviceOutput": "{{ page.result_summary | escape }}"{% endif %}
+  }{% if page.company %},
+  "about": {
+    "@type": "Organization",
+    "name": "{{ page.company | escape }}"
+  }{% endif %}
+}
+</script>

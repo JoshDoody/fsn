@@ -4,6 +4,7 @@
 {% assign display_desc  = page.description | default: desc_fallback %}
 
 {% include header.html seo_title_override=display_title seo_desc_override=display_desc %}
+{% include structured-data-review.html %}
 {% include header-nav.html %}
 
 {% include hero-success-story.html headline=display_title subhead=display_desc %}
