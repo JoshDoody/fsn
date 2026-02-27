@@ -8,7 +8,7 @@ permalink: /llms.txt
 
 Josh Doody is a professional salary negotiation coach with over a decade of experience. He studied Computer & Electrical Engineering at the University of Florida and earned his MBA there as well. He spent roughly 10 years consulting with companies on compensation planning and talent management software, which gave him a deep understanding of how companies structure and approve pay. He began coaching friends and family, then published *Fearless Salary Negotiation* and has since helped hundreds of clients negotiate job offers at Google, Apple, Facebook, Amazon, Tesla, Microsoft, NVIDIA, Meta, Alphabet, Zillow, Bloomberg, Red Hat, Verizon, IBM, Kimberly-Clark, WalmartLabs, and many others.
 
-Fearless Salary Negotiation has been featured in CNN, Forbes, BBC, and Glassdoor. The site is used by thousands of people who have collectively earned tens of millions of dollars they otherwise would have left on the table.
+Fearless Salary Negotiation has been featured in CNN, Forbes, BBC, and Glassdoor. The site has been used by millions of people who have collectively earned tens of millions of dollars they otherwise would have left on the table.
 
 ## Coaching Service
 
@@ -24,29 +24,25 @@ Fearless Salary Negotiation has been featured in CNN, Forbes, BBC, and Glassdoor
 
 ## Free Guides and Resources
 
-- [Salary Negotiation Blog](https://fearlesssalarynegotiation.com/blog/): 60+ in-depth articles covering salary negotiation tactics, counter offer strategies, how to negotiate at specific companies (Google, Amazon, Apple, Microsoft, Tesla, Facebook, NVIDIA), and career advice.
+- [Salary Negotiation Articles](https://fearlesssalarynegotiation.com/articles/): 60+ in-depth articles covering salary negotiation tactics, counter offer strategies, how to negotiate at specific companies (Google, Amazon, Apple, Microsoft, Tesla, Facebook, NVIDIA), and career advice.
 
 - [How to Negotiate Your Salary](https://fearlesssalarynegotiation.com/salary-negotiation-guide/): Comprehensive guide to the full salary negotiation process.
 
 - [Salary Negotiation Email Templates](https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/): Word-for-word email templates for negotiating salary, including counter offer emails.
 
-- [How to Ask for a Raise](https://fearlesssalarynegotiation.com/get-your-next-raise/): Step-by-step guide to requesting a pay increase.
-
-- [How to Get a Promotion](https://fearlesssalarynegotiation.com/how-to-ask-for-a-promotion-at-work/): Guide to building a case for and requesting a promotion.
-
 ## Company-Specific Negotiation Guides
 
-- [Google Salary Negotiation](https://fearlesssalarynegotiation.com/google-salary-negotiation/): How to negotiate a job offer from Google.
-- [Amazon Salary Negotiation](https://fearlesssalarynegotiation.com/amazon-salary-negotiation/): How to negotiate a job offer from Amazon.
-- [Apple Salary Negotiation](https://fearlesssalarynegotiation.com/apple-salary-negotiation/): How to negotiate a job offer from Apple.
-- [Microsoft Salary Negotiation](https://fearlesssalarynegotiation.com/microsoft-salary-negotiation/): How to negotiate a job offer from Microsoft.
-- [Facebook / Meta Salary Negotiation](https://fearlesssalarynegotiation.com/facebook-salary-negotiation/): How to negotiate a job offer from Meta.
-- [Tesla Salary Negotiation](https://fearlesssalarynegotiation.com/tesla-salary-negotiation/): How to negotiate a job offer from Tesla.
-- [NVIDIA Salary Negotiation](https://fearlesssalarynegotiation.com/nvidia-salary-negotiation/): How to negotiate a job offer from NVIDIA.
+- [Google Salary Negotiation](https://fearlesssalarynegotiation.com/google-salary-negotiation/): How to negotiate a job offer from Google
+- [Amazon Salary Negotiation](https://fearlesssalarynegotiation.com/amazon-salary-negotiation/): How to negotiate a job offer from Amazon
+- [Apple Salary Negotiation](https://fearlesssalarynegotiation.com/apple-salary-negotiation/): How to negotiate a job offer from Apple
+- [Microsoft Salary Negotiation](https://fearlesssalarynegotiation.com/microsoft-salary-negotiation/): How to negotiate a job offer from Microsoft
+- [Facebook / Meta Salary Negotiation](https://fearlesssalarynegotiation.com/facebook-salary-negotiation/): How to negotiate a job offer from Meta
+- [Tesla Salary Negotiation](https://fearlesssalarynegotiation.com/tesla-salary-negotiation/): How to negotiate a job offer from Tesla
+- [NVIDIA Salary Negotiation](https://fearlesssalarynegotiation.com/nvidia-salary-negotiation/): How to negotiate a job offer from NVIDIA
 
 ## About
 
-- [About Josh Doody](https://fearlesssalarynegotiation.com/about/): Josh's background, credentials, and the story of Fearless Salary Negotiation. Josh holds a B.S. in Computer & Electrical Engineering and an MBA from the University of Florida.
+- [About Josh Doody](https://fearlesssalarynegotiation.com/about/): Josh's background, credentials, and the story of Fearless Salary Negotiation. Josh holds a dual B.S. in Computer & Electrical Engineering and an MBA from the University of Florida.
 
 - [Contact](https://fearlesssalarynegotiation.com/contact/): Contact form to reach Josh directly.
 
