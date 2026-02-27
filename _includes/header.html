@@ -159,10 +159,28 @@
 	{% elsif page.url == "/about/" %}
 	<script type="application/ld+json">
 	{
-	  "@context": "http://schema.org",
+	  "@context": "https://schema.org",
 	  "@type": "AboutPage",
-	  "name": "About Josh Doody, Founder of Fearless Salary Negotiation",
-	  "url": "https://fearlesssalarynegotiation.com/about/"
+	  "url": "https://fearlesssalarynegotiation.com/about/",
+	  "mainEntity": {
+	    "@type": "Person",
+	    "name": "Josh Doody",
+	    "jobTitle": "Salary Negotiation Coach",
+	    "url": "https://fearlesssalarynegotiation.com",
+	    "image": "https://fearlesssalarynegotiation.com/assets/imgs/callout-josh-headshot.png",
+	    "description": "Professional salary negotiation coach who helps High Earners negotiate job offers with major tech companies. Author of Fearless Salary Negotiation, a #1 Amazon Best Seller.",
+	    "alumniOf": {
+	      "@type": "CollegeOrUniversity",
+	      "name": "University of Florida"
+	    },
+	    "knowsAbout": ["salary negotiation", "compensation negotiation", "job offers", "executive compensation", "tech industry salaries"],
+	    "sameAs": [
+	      "https://x.com/JoshDoody",
+	      "https://www.linkedin.com/in/joshdoody/",
+	      "https://www.youtube.com/@TheJoshDoody",
+	      "https://www.amazon.com/dp/0692568689"
+	    ]
+	  }
 	}
 	</script>
 	{% elsif page.url == "/" %}
