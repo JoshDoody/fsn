@@ -186,10 +186,21 @@
 	{% elsif page.url == "/" %}
 	<script type="application/ld+json">
 	{
-	  "@context": "http://schema.org",
+	  "@context": "https://schema.org",
 	  "@type": "WebSite",
 	  "name": "Fearless Salary Negotiation",
-	  "url": "https://fearlesssalarynegotiation.com"
+	  "url": "https://fearlesssalarynegotiation.com",
+	  "description": "Salary negotiation coaching and resources for High Earners. Josh Doody helps executives and senior professionals negotiate job offers with the world's largest companies.",
+	  "author": {
+	    "@type": "Person",
+	    "name": "Josh Doody",
+	    "url": "https://fearlesssalarynegotiation.com/about/"
+	  },
+	  "sameAs": [
+	    "https://x.com/JoshDoody",
+	    "https://www.linkedin.com/in/joshdoody/",
+	    "https://www.youtube.com/@TheJoshDoody"
+	  ]
 	}
 	</script>
 	{% endif %}
