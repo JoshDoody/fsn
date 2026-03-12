@@ -9,10 +9,55 @@ sitemap: false
 ---
 
 <div class="container mx-auto py-20 lg:mt-20">
-  <div class="mx-auto md:w-6/12">		
-		<h1 class="text-4xl text-center">While you're here...</h1>
-    <hr class="my-8 mx-auto w-16">
-    <p class="text-xl text-center pb-16"><strong>Mind sparing 30 seconds</strong> to help me learn a bit more about you and your current needs? This will help me send you more personally relevant content.</p>
-			
-    <div class="rm-area-fsns"></div>
+  <div class="mx-auto md:w-6/12">
+
+    <div id="survey-container" style="display:none">
+      <h1 class="text-4xl text-center">While you're here...</h1>
+      <hr class="my-8 mx-auto w-16">
+      <p class="text-xl text-center pb-16"><strong>Mind sparing 30 seconds</strong> to help me learn a bit more about you and your current needs? This will help me send you more personally relevant content.</p>
+      <div id="wufoo-survey"></div>
+    </div>
+
+    <div id="optin-container" style="display:none">
+      {% include convertkit-forms/fsns.html %}
+    </div>
+
+  </div>
 </div>
+
+<script>
+(function() {
+  var params = new URLSearchParams(window.location.search);
+  var subscriberId = params.get('subscriber_id');
+  var email = params.get('email') || '';
+  var firstName = params.get('first_name') || '';
+
+  if (subscriberId) {
+    document.getElementById('survey-container').style.display = 'block';
+
+    var script = document.createElement('script');
+    script.src = 'https://joshdoody.wufoo.com/scripts/embed/form.js';
+    script.onload = function() {
+      var form = new WufooForm();
+      form.initialize({
+        userName: 'joshdoody',
+        formHash: 'k14fk0ef00u7gbo',
+        autoResize: true,
+        height: 'auto',
+        async: true,
+        host: 'wufoo.com',
+        header: 'hide',
+        ssl: true,
+        defaultValues: 'Field2=' + encodeURIComponent(firstName) +
+                       '&Field3=' + encodeURIComponent(email) +
+                       '&Field29=' + encodeURIComponent(subscriberId)
+      });
+      form.display();
+    };
+    document.getElementById('wufoo-survey').appendChild(script);
+
+  } else {
+    document.getElementById('optin-container').style.display = 'block';
+  }
+})();
+</script>

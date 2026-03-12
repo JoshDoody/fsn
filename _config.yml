@@ -1,5 +1,5 @@
 title: Fearless Salary Negotiation
-description: Salary Negotiation strategies and tactics for Senior Software Engineers and Engineering Managers
+description: Salary Negotiation Coaching for High Earners
 url: "https://fearlesssalarynegotiation.com"
 baseurl: ''
 avg_coach_increase_devs: $48,492
@@ -21,6 +21,7 @@ exclude:
   - src
   - tailwind.config.js
   - netlify.toml
+  - netlify/
   - vendor/
   - vendor/**/*
   - .jekyll-cache/
