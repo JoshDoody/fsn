@@ -64,11 +64,11 @@ exports.handler = async (event) => {
   }
 
   const response = await fetch(
-    `https://api.convertkit.com/v3/subscribers/${subscriberId}?api_secret=${process.env.KIT_API_SECRET}`,
+    `https://api.convertkit.com/v3/subscribers/${subscriberId}`,
     {
       method: 'PUT',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ fields })
+      body: JSON.stringify({ api_secret: process.env.KIT_API_SECRET, fields })
     }
   );
 
