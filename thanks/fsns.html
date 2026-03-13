@@ -28,7 +28,7 @@ sitemap: false
 <script>
 (function() {
   var params = new URLSearchParams(window.location.search);
-  var subscriberId = params.get('subscriber_id');
+  var subscriberId = params.get('ck_subscriber_id') || '';
   var email = params.get('email') || '';
   var firstName = params.get('first_name') || '';
 
