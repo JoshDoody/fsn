@@ -32,8 +32,6 @@ Justin knew it would be beneficial to get advice from someone who understands th
 
 Justin decided to hire me after doing the math of how much more we'd have to negotiate to at least break even on the investment of hiring me. If he tried to negotiate on his own, he figured he might be able to get an extra $5k or $10k. He calculated that if working with me would result in an increase of $14k, that would be enough to make the cost of coaching worth it. The likelihood of losing money seemed very small to him.
 
-<div class="rm-area-inline"></div>
-
 ## Navigating the negotiation
 
 Our goal was to not only get a good offer from Amazon that both the company and Justin would consider a fair reflection of the value Justin brings to the table, but also to get timely offers from the other companies for Justin to consider to strengthen his position and allow him to make an informed decision.

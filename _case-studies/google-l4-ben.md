@@ -39,8 +39,6 @@ Ben reached out to me for help, seeking both advice on how to navigate the pre-o
   <p>"<strong>I didn't even want to mention to my girlfriend how much it cost</strong>," says Ben. "I had to quickly do the calculus of am I going to get a good deal for myself on my own versus will Josh likely make up the $3,000 plus 10% of whatever he increases the offer by? <strong>As soon as I thought about it in those terms, three grand sounded incredibly insignificant.</strong>"</p>
 </blockquote>
 
-<div class="rm-area-inline"></div>
-
 ## Setting the table to maximize results 
 
 We started working together pre-offer to help Ben first choose a team to join and then to tactfully set the table for Google to give him the best initial offer possible.
