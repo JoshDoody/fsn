@@ -28,7 +28,7 @@ faqs:
     answer: "We begin with a shared Google Drive folder and a strategy call to develop a negotiation plan. Then we negotiate your offers—scripting conversations, rehearsing, and adapting strategy as needed—until you choose the opportunity that is best for you."
 
   - question: "How much does it cost?"
-    answer: "The Negotiation Fee has a Strategy Component ($4,000) and an Improvement Component (10% of the first-year compensation improvement we negotiate). Payment is not due until after our work is complete."
+    answer: "There are different fee structures offered by different salary negotiators. Mine is designed to be simple and to perfectly align our incentives. There is a fixed $4,000 Strategy Component, a performance-based Improvement Component (10% of the first-year compensation improvement we negotiate), and the fee is paid after we work together."
 
   - question: "What if I don't accept the offer?"
     answer: "If you do not accept the offer, there is no Improvement Component."
@@ -155,7 +155,7 @@ Each negotiation is different because each situation, candidate, opportunity, an
 
 Once we've finished negotiating, you'll choose the opportunity that's best for you and I'm happy to consult with you about that decision as well.
 
-## Salary Negotiation Fee Structure {#cost}
+## Salary Negotiation Coaching Fee Structure {#cost}
 
 "**Josh helped me negotiate with Alphabet to get an additional $160k in annual compensation.**
 
@@ -163,7 +163,13 @@ Bringing Josh on made a huge difference for me — no way I would have ended up 
 
 ### How much does it cost? {#how-much}
 
-The Negotiation Fee has a Strategy Component and an Improvement Component and is not paid until after our work is complete.
+There are different fee structures offered by different salary negotiators. Some are flat-fee only, paid up front. Some are tiered by seniority or offer amount. Some are contingency-only.
+
+My fee structure is designed to be simple and enables us to work together to get the best possible result for you by perfectly aligning our incentives. The three things you need to know about my Salary Negotiation Coaching fee structure are:
+
+- There is a fixed Strategy Component that covers all strategic aspects of our work together.
+- There is a performance-based Improvement Component that allows us to share in the results.
+- The fee is paid _after_ we work together.
 
 _Strategy Component_
 
