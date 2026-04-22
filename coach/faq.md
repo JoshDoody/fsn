@@ -103,7 +103,7 @@ If your questions aren't answered here, [contact me](/contact/) any time and I'm
 
 ## Who is Salary Negotiation Coaching for? {#who}
 
-My most successful clients are High Earners that are currently in a job search or negotiating their offer. Typically, they are leaders with a title including something like "Vice President" or "Senior Director" and making $400,000 total compensation at larger companies, and can also be senior engineers or engineering managers, or even physicians.
+My most successful clients are High Earners that are currently in a job search or negotiating their offer. Typically, they are executives or leaders with a title including something like "Vice President" or "Senior Director" and making $400,000+ total compensation at larger companies, and can also be senior engineers or engineering managers, or even physicians.
 
 ### I'm not earning $400k+ per year—can I still work with you? {#not-high-earner}
 
