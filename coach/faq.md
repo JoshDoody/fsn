@@ -1,24 +1,24 @@
 ---
 layout: posts
 type: faq
-title: 'Salary Negotiation Coaching: Common Questions and Answers'
-description: Everything you need to know to decide if Salary Negotiation Coaching is right for you
-subhead: Everything you need to know to decide if Salary Negotiation Coaching is right for you
+title: 'Professional Salary Negotiation: Common Questions and Answers'
+description: Everything you need to know to decide if Professional Salary Negotiation is right for you
+subhead: Everything you need to know to decide if Professional Salary Negotiation is right for you
 company: agnostic
 date: 2024-03-29
 author: josh
 published: true
 faqs:
   - question: "I'm not earning $400k+ per year—can I still work with you?"
-    answer: "Yes. I built this business to help people at all stages of their career. The clients who get the best results from Salary Negotiation Coaching are High Earners, but lots of other clients have gotten stellar results. The best thing to do is to contact me so I can learn more about your situation and recommend the best next steps for you."
+    answer: "Yes. I built this business to help people at all stages of their career. The clients who get the best results from Professional Salary Negotiation are High Earners, but lots of other clients have gotten stellar results. The best thing to do is to contact me so I can learn more about your situation and recommend the best next steps for you."
 
-  - question: "When is the best time to reach out about Salary Negotiation Coaching?"
-    answer: "The absolute best time is when you are entering the offer stage with one or more companies. But any time during your job search—whether you're just starting or already have an offer in hand—is a good time to talk about whether coaching could be right for you."
+  - question: "When is the best time to reach out about Professional Salary Negotiation?"
+    answer: "The absolute best time is when you are entering the offer stage with one or more companies. But any time during your job search—whether you're just starting or already have an offer in hand—is a good time to talk about whether Professional Salary Negotiation could be right for you."
 
   - question: "How do we get started?"
     answer: "Once we have talked about your situation and I have determined the best next steps, I will send you a Letter of Engagement to review and sign. Once you sign it, we will begin working together."
 
-  - question: "What's it like to work with you for Salary Negotiation Coaching? How will we communicate?"
+  - question: "What's it like to work with you for Professional Salary Negotiation? How will we communicate?"
     answer: "Every engagement is different and you will have a lot of input into how we work together. Most engagements involve a mix of check-in calls, mock negotiations, email communications, and collaboration on Google Docs, adapted to your preferences."
 
   - question: "What's your availability during negotiations?"
@@ -54,14 +54,14 @@ faqs:
   - question: "Does a sign-on bonus affect the Improvement Component?"
     answer: "Yes, if it is part of your first-year compensation. Only first-year sign-on bonuses are included in the calculation."
 
-  - question: "Besides the Negotiation Fee, are there any other fees for Salary Negotiation Coaching?"
+  - question: "Besides the Negotiation Fee, are there any other fees for Professional Salary Negotiation?"
     answer: "No. There are no additional fees beyond the Negotiation Fee."
 
   - question: "What if I have multiple job offers?"
     answer: "All of your current negotiations are covered under the Strategy Component. We negotiate all relevant offers, and the Improvement Component is calculated based on the offer you ultimately choose."
 
   - question: "Is your fee negotiable?"
-    answer: "No. My fee is not negotiable. Salary Negotiation Coaching isn't for everyone, and that's okay."
+    answer: "No. My fee is not negotiable. Professional Salary Negotiation isn't for everyone, and that's okay."
 
   - question: "When is payment due?"
     answer: "Payment is not due until after our work together is complete. Once finished, I calculate the total Negotiation Fee and send an invoice."
@@ -72,7 +72,7 @@ faqs:
   - question: "Can you guarantee results?"
     answer: "No. Results cannot be guaranteed because company flexibility varies. If an offer cannot be improved, there is no Improvement Component."
 
-  - question: "What's the Return on Investment on Salary Negotiation Coaching?"
+  - question: "What's the Return on Investment on Professional Salary Negotiation?"
     answer: "Outcomes vary. Some offers do not change while others improve by tens or hundreds of thousands of dollars. Across all clients, the average total compensation improvement is more than 15%."
 
   - question: "How often do your clients improve their job offers?"
@@ -88,12 +88,12 @@ faqs:
     answer: "If you recommend someone to me and they decide to work with me, I'll give you $500. The person you referred needs to mention your name when they apply—there's a question on the application form asking how they heard about me."
 ---
 
-You probably have some questions about [Salary Negotiation Coaching](/coach/), and things are probably moving quickly with your job offers. So here's a quick overview of the most common questions people ask about Salary Negotiation Coaching.
+You probably have some questions about [Professional Salary Negotiation](/coach/), and things are probably moving quickly with your job offers. So here's a quick overview of the most common questions people ask about Professional Salary Negotiation.
 
 If your questions aren't answered here, [contact me](/contact/) any time and I'm happy to answer other questions you might have. Or we can always discuss any questions or concerns you have on our next phone call!
 
 <ul class="arrows">
-	<li><i class="fas fa-arrow-circle-right"></i><a href="#who">Who is Salary Negotiation Coaching for?</a></li>
+	<li><i class="fas fa-arrow-circle-right"></i><a href="#who">Who is Professional Salary Negotiation for?</a></li>
 	<li><i class="fas fa-arrow-circle-right"></i><a href="#process">Process</a></li>
 	<li><i class="fas fa-arrow-circle-right"></i><a href="#cost">Cost</a></li>
 	<li><i class="fas fa-arrow-circle-right"></i><a href="#payment">Fee payment</a></li>
@@ -101,23 +101,23 @@ If your questions aren't answered here, [contact me](/contact/) any time and I'm
 	<li><i class="fas fa-arrow-circle-right"></i><a href="#referrals">Referrals</a></li>
 </ul>
 
-## Who is Salary Negotiation Coaching for? {#who}
+## Who is Professional Salary Negotiation for? {#who}
 
 My most successful clients are High Earners that are currently in a job search or negotiating their offer. Typically, they are executives or leaders with a title including something like "Vice President" or "Senior Director" and making $400,000+ total compensation at larger companies, and can also be senior engineers or engineering managers, or even physicians.
 
 ### I'm not earning $400k+ per year—can I still work with you? {#not-high-earner}
 
-Yes. I built this business to help people at all stages of their career. The clients who get the best results from Salary Negotiation Coaching are High Earners, but lots of other clients have gotten stellar results.
+Yes. I built this business to help people at all stages of their career. The clients who get the best results from Professional Salary Negotiation are High Earners, but lots of other clients have gotten stellar results.
 
 The best thing to do is to [contact me](/contact/) so I can learn more about your situation and recommend the best next steps for you and your situation.
 
 ## Process {#process}
 
-### When is the best time to reach out about Salary Negotiation Coaching? {#best-time}
+### When is the best time to reach out about Professional Salary Negotiation? {#best-time}
 
 The absolute best time for us to talk about working together is when you are entering the offer stage with one or more companies.
 
-But any time during your job search process—if you're just starting your search, or if you already have an offer in hand—is a good time for us to talk about whether Salary Negotiation Coaching could be right for you.
+But any time during your job search process—if you're just starting your search, or if you already have an offer in hand—is a good time for us to talk about whether Professional Salary Negotiation could be right for you.
 
 ### How do we get started? {#getting-started}
 
@@ -125,11 +125,11 @@ Once we have talked about your situation and I have determined the best next ste
 
 ### When is payment due? {#payment-timeline}
 
-The fee for your Salary Negotiation Coaching engagement will be due after our work is complete.
+The fee will be due after our work is complete.
 
 Please see the "[Fee Payment](#payment)" section below for an in-depth explanation of the Negotiation Fee, how it is paid, and when it is paid.
 
-### What's it like to work with you for Salary Negotiation Coaching? How will we communicate? {#what-its-like}
+### What's it like to work with you for Professional Salary Negotiation? How will we communicate? {#what-its-like}
 
 Every engagement is different and you will have a lot of input into how we work together.
 
@@ -155,7 +155,7 @@ Each negotiation is different because each situation, candidate, opportunity, an
 
 Once we've finished negotiating, you'll choose the opportunity that's best for you and I'm happy to consult with you about that decision as well.
 
-## Salary Negotiation Coaching Fee Structure {#cost}
+## Professional Salary Negotiation Fee Structure {#cost}
 
 "**Josh helped me negotiate with Alphabet to get an additional $160k in annual compensation.**
 
@@ -165,7 +165,7 @@ Bringing Josh on made a huge difference for me — no way I would have ended up 
 
 There are different fee structures offered by different salary negotiators. Some are flat-fee only, paid up front. Some are tiered by seniority or offer amount. Some are contingency-only.
 
-My fee structure is designed to be simple and enables us to work together to get the best possible result for you by perfectly aligning our incentives. The three things you need to know about my Salary Negotiation Coaching fee structure are:
+My fee structure is designed to be simple and enables us to work together to get the best possible result for you by perfectly aligning our incentives. The three things you need to know about my Professional Salary Negotiation fee structure are:
 
 - There is a fixed Strategy Component that covers all strategic aspects of our work together.
 - There is a performance-based Improvement Component that allows us to share in the results.
@@ -231,7 +231,7 @@ If your offer does not include a sign-on bonus and we negotiate for one, then th
 
 Some offers might include sign-on bonuses over multiple years, and we will only include first-year sign-on bonuses in our Improvement Component calculation.
 
-### Besides the Negotiation Fee, are there any other fees for Salary Negotiation Coaching? {#additional-fees}
+### Besides the Negotiation Fee, are there any other fees for Professional Salary Negotiation? {#additional-fees}
 
 No. There are no additional fees beyond the Negotiation Fee.
 
@@ -249,7 +249,7 @@ Basically, we'll negotiate your offers until you find one that works for you.
 
 ### Is your fee negotiable? {#fee-negotiable}
 
-My fee is not negotiable. Salary Negotiation Coaching isn't for everyone and that's ok!
+My fee is not negotiable. Professional Salary Negotiation isn't for everyone and that's ok.
 
 ## Salary Negotiation Fee Payment {#payment}
 
@@ -261,7 +261,7 @@ The Strategy Component is due when our work is complete.
 
 The Improvement Component will also be calculated once our work is complete, and will be paid via a separate invoice when you can pay at your convenience.
 
-Please see the "[Cost](#cost)" section of this document for an in-depth explanation of the fee structure for Salary Negotiation Coaching.
+Please see the "[Cost](#cost)" section of this document for an in-depth explanation of the fee structure for Professional Salary Negotiation.
 
 ### What are my payment options? {#payment-options}
 
@@ -279,7 +279,7 @@ Sometimes, a company will have substantial flexibility and will drastically impr
 
 This variability is why there is an Improvement Component: If the company does not budge on their offer when we negotiate, I don't collect any Improvement Component. If the company does improve their offer, you keep 90% of the first year's improvement (and 100% of the improvements after that), and I keep 10%.
 
-### What's the Return on Investment on Salary Negotiation Coaching? {#roi}
+### What's the Return on Investment on Professional Salary Negotiation? {#roi}
 
 Outcomes vary. Some offers do not change, while others improve by tens or hundreds of thousands of dollars.
 
