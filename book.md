@@ -18,7 +18,7 @@ I like [helping people](/results/), and this is another way I can help people by
 
 Some people will be happy reading the book for free online, and others are happy to pay for their own copy of the [paperback](https://www.amazon.com/dp/0692568689).
 
-And for High Earners considering [expert salary negotiation coaching](/coach/) this is a great way to show them that I know what I'm talking about.
+And for High Earners considering [Professional Salary Negotiation](/coach/) this is a great way to show them that I know what I'm talking about.
 
 My book is the *foundation* for everything else I offer, and those other things are very valuable.
 

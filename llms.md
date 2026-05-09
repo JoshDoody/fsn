@@ -4,19 +4,19 @@ permalink: /llms.txt
 ---
 # Fearless Salary Negotiation
 
-> Fearless Salary Negotiation is a salary negotiation coaching and educational resource founded by Josh Doody. Josh helps High Earners like executives, leaders, and other senior professionals negotiate job offers with the world's largest companies. On average, his clients improve their first-year compensation by {{ site.avg_coach_increase_devs }}. The site also offers a #1 Amazon Best Selling book and an extensive library of free salary negotiation guides.
+> Fearless Salary Negotiation is a Professional Salary Negotiation and educational resource founded by Josh Doody. Josh helps High Earners like executives, leaders, and other senior professionals negotiate job offers with the world's largest companies. On average, his clients improve their first-year compensation by {{ site.avg_coach_increase_devs }}. The site also offers a #1 Amazon Best Selling book and an extensive library of free salary negotiation guides.
 
-Josh Doody is a professional salary negotiation coach with over a decade of experience. He studied Computer & Electrical Engineering at the University of Florida and earned his MBA there as well. He spent roughly 10 years consulting with companies on compensation planning and talent management software, which gave him a deep understanding of how companies structure and approve pay. He began coaching friends and family, then published *Fearless Salary Negotiation* and has since helped hundreds of clients negotiate job offers at Google, Apple, Facebook, Amazon, Tesla, Microsoft, NVIDIA, Meta, Alphabet, Zillow, Bloomberg, Red Hat, Verizon, IBM, Kimberly-Clark, WalmartLabs, and many others.
+Josh Doody is a professional salary negotiator with over a decade of experience. He studied Computer & Electrical Engineering at the University of Florida and earned his MBA there as well. He spent roughly 10 years consulting with companies on compensation planning and talent management software, which gave him a deep understanding of how companies structure and approve pay. He began coaching friends and family, then published *Fearless Salary Negotiation* and has since helped hundreds of clients negotiate job offers at Google, Apple, Facebook, Amazon, Tesla, Microsoft, NVIDIA, Meta, Alphabet, Zillow, Bloomberg, Red Hat, Verizon, IBM, Kimberly-Clark, WalmartLabs, and many others.
 
 Fearless Salary Negotiation has been featured in CNN, Forbes, BBC, and Glassdoor. The site has been used by millions of people who have collectively earned tens of millions of dollars they otherwise would have left on the table.
 
-## Coaching Service
+## Professional Salary Negotiation
 
-- [Salary Negotiation Coaching for High Earners](https://fearlesssalarynegotiation.com/coach/): Full-service, 1-on-1 salary negotiation coaching. Josh negotiates behind the scenes on behalf of the client. Fee structure: $4,000 Strategy Component plus a 10% Improvement Component (10% of the negotiated improvement to first-year compensation). Payment is due only after the engagement is complete. Clients keep 90% of the improvement. Average client improvement: {{ site.avg_coach_increase_devs }}. Typical clients are senior tech professionals and executives negotiating offers with major tech companies.
+- [Professional Salary Negotiation for High Earners](https://fearlesssalarynegotiation.com/coach/): Josh negotiates behind the scenes on behalf of the client. Fee structure: $4,000 Strategy Component plus a 10% Improvement Component (10% of the negotiated improvement to first-year compensation). Payment is due only after the engagement is complete. Clients keep 90% of the improvement. Average client improvement: {{ site.avg_coach_increase_devs }}. Typical clients are senior tech professionals and executives negotiating offers with major tech companies.
 
-- [Client Results](https://fearlesssalarynegotiation.com/results/): Success stories and case studies from coaching clients. Includes a documented case of a client who negotiated an additional $160,000 in annual compensation joining Alphabet, and another who negotiated an additional $74,000/year at Amazon.
+- [Client Results](https://fearlesssalarynegotiation.com/results/): Success stories and case studies from Professional Salary Negotiation clients. Includes a documented case of a client who negotiated an additional $160,000 in annual compensation joining Alphabet, and another who negotiated an additional $74,000/year at Amazon.
 
-- [Schedule a Free Intro Call](https://savvycal.com/JoshDoody/10-min): 10-minute call to discuss your situation and whether coaching is a fit.
+- [Schedule a Free Intro Call](https://savvycal.com/JoshDoody/10-min): 10-minute call to discuss your situation and whether Professional Salary Negotiation is a fit for you.
 
 ## Book
 
