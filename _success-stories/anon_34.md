@@ -9,7 +9,7 @@ short_version: >
   Price, mostly, was my concern about hiring Josh and anything that'd happen if things didn't work out (like I'd spend money on nothing essentially). 
   
   But it went well! I learned a lot about the process and to ask for more and not be afraid. **I was able to negotiate a $90,000 increase in my year one compensation with Josh's help!** It gives me a lot more resources to pay off debt — which will really help out my family.
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: A $90,000 increase in year one compensation
 case_study_url:
 ---

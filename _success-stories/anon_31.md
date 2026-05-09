@@ -10,7 +10,7 @@ short_version: |
    Josh’s coaching helped me be patient and avoid my usual pitfalls of folding too early. **Given that the recruiter was initially fairly persistent in trying to get me to suggest a range at first, I really had to lean into Josh’s coaching to avoid doing so.**  
    
    I thought that the process and the end result were better than what I would've done myself. **I have confidence that the offer I got from the recruiter was as good as I could get, even though we couldn't improve it further because it turned out it was truly the ceiling for the role.** I would recommend working with Josh due to the amount of coaching that he went through with me, which I consider helpful far beyond this particular negotiation.
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: Initial offer at ceiling for role  
 case_study_url:
 ---

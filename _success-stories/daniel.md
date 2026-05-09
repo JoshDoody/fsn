@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  Josh’s coaching service was a lot of money, but it was worth far more than the cost. **I think the company I was negotiating with was looking at hiring in the $175k range, but I was able to negotiate about $40k over and above that with Josh's help.** Even a small bump in your salary will easily pay for the salary negotiation coaching.
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: $40k additional salary
 case_study_url: 
 ---

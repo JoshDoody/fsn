@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  **The biggest risk is not taking any risk.** Most of my friends were reluctant for me to work with a salary negotiation coach. They thought I was crazy because I had to pay a lot in fees for the service. However, I took a risk and guess what? I received more money from the company than I expected. For my first year, I am receiving $35,000 more for my sign-on bonus and a few thousand more in equity.
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: $35,000 more sign-on bonus and a few thousand more in equity.
 case_study_url: 
 ---

@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  I had a lot of people tell me this would pay for itself in increased wages. **My total compensation literally doubled as a direct result of this engagement. Beyond that, I negotiated $25k more total compensation and $15k more sign-on bonus.** I owe a few beers to the people who recommended Josh to me :)
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: $25k more total compensation and $15k more sign-on bonus.
 case_study_url: 
 ---

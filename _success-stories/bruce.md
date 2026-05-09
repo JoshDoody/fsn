@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  **I was concerned about the price of the coaching relative to what I thought I was going to get out of it.** Josh helped me ask for a larger salary increase than I would have by myself. I got a $5,000 increase in starting salary – that alone more than paid for the cost of coaching.
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: $5,000 increase in starting salary.
 case_study_url: 
 ---

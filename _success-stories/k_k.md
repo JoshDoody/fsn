@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  **I wanted to negotiate without the risk of getting an offer rescinded.** I had successful negotiations with two companies (one of which was Google) to raise the offers past what was originally offered – $2000 more in salary at one and a $10,000 signing bonus at the other. Having Josh as a coach gave me **reassurance after every engagement with a company that everything was going alright despite my own perceptions**.
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: successful negotiations with two companies – $2k more in salary at one and a $10k signing bonus at the other.
 case_study_url: 
 ---

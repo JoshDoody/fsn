@@ -11,7 +11,7 @@ short_version: >
   **Truthfully I probably wouldn't have accepted the offer as it was first presented.** Josh’s advice and direction was incredibly useful, and ultimately we increased the offer to an amount that I was happy to accept. **We negotiated about $10,000 higher base salary, $20,000 additional equity, and $20,000 in additional sign-on bonuses.** I’ve got confidence that I got the most I could've out of this offer; I won't be second-guessing or wishing I asked for more.  
   
   **It was very comforting to know, based on Josh’s experience, what the likely range of outcomes were at each step of the negotiation.** There was very little guessing, but rather calculated moves based on things that have been seen before.
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: About $10,000 higher base salary, $20,000 additional equity, and $20,000 in additional sign-on bonuses.
 case_study_url:
 ---

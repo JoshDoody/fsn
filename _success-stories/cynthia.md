@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  **The coaching fee initially seemed high, but Salary Negotiation Coaching was a great investment that improved my base salary by $15,000.**
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: $15k additional salary.
 case_study_url: 
 ---

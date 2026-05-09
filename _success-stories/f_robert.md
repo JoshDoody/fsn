@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  **I was worried about how to deal with the expected salary question, which led me to do a strategy session with Josh.**
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: $7,000 higher salary, a $10,000 signing bonus, and $24,000 in equity.
 case_study_url: 
 ---

@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  **I negotiated $8,000 more salary, and I can confidently walk through the door on my first day knowing that my employer values me and that I am an asset to the company.**
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: $8k additional salary.
 case_study_url: 
 ---

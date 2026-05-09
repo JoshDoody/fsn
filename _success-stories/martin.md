@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  I’d heard the company I wanted to join made strong but fairly inflexible offers, and so I thought there may not be enough room to negotiate to make up for the up-front coaching fee. But I decided to work with Josh anyway and got a great outcome. The company made a strong initial offer and **with Josh's help, we added an additional $100k in bonuses — a $50k signing bonus and a $50k second-year bonus**.
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: An additional $100k in bonuses, a $50k signing bonus and a $50k second-year bonus.
 case_study_url: 
 ---

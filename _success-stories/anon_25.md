@@ -8,7 +8,7 @@ industry:
 headshot:
 short_version: |
   Working with Josh went great! I thought I could maybe get a 10% improvement on my own. **Together we ended up close to a 20% improvement on an offer that was in the mid six-figures.** I didn't think they'd go that high. I was so stoked. In fact, my message to Josh when I got the offer “holy s&#t. [number redacted for privacy reasons] total. i'm accepting."
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: 20% improvement 
 case_study_url:
 ---

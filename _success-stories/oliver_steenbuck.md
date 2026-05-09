@@ -8,7 +8,7 @@ industry:
 headshot:
 short_version: |
   Working with Josh went splendidly. **I negotiated €9.600 more base compensation, €10.000 signing bonus and €11.600 more equity**. The best part was definitely getting a pre-written counter offer. I would not have known how to formulate and focus on the value I am bringing to AWS half as well as Josh did.
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary:  €9.600 increase in base compensation, €10.000 increase in signing bonus, €11.600 increase in equity
 case_study_url:
 ---

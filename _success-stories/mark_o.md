@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  Josh’s pricing was significantly higher than anyone else, but it turned out to be just what I was looking for. **With his advice, I negotiated $28,000 more salary and $30,000 more signing bonus.** His responsiveness was really great during this process and probably one of the key reasons I'd recommend him as a coach.
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: $28k more salary and $30k more signing bonus.
 case_study_url: 
 ---

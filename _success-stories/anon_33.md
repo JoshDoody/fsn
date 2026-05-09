@@ -7,7 +7,7 @@ industry:
 headshot:
 short_version: >
    **It ended up being worth it to pay for somebody to help me manage and remove stress from the process.** I felt far more confident both talking with my future employer and in accepting my offer. **I negotiated a conversion of $50,000 from the sign-on bonus to base salary plus a small portion of equity.** For me the most important change is getting equity. I wanted to feel like I was bought in and that my relationship with my future employer means something. I really did appreciate the process and have been recommending Josh to friends who may start job searches soon.
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: Negotiated a conversion of $50,000 from the sign-on bonus to base salary plus a small portion of equity 
 case_study_url:
 ---

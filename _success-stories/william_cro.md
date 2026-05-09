@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  **I didn't want to get too emotionally involved in the negotiation — not too confident, not too timid.** Having Josh as an experienced coach by my side was an important check on my emotional involvement and I learned a lot about negotiation strategy. **I negotiated for an additional $24,000 and large upside potential in bonuses.** Josh helps you get not only the best deal, but also the fairest one for all parties.
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: Additional $24,000 and large upside potential in bonuses.
 case_study_url: 
 ---

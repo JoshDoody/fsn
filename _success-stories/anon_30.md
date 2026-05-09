@@ -10,7 +10,7 @@ short_version: |
    **I was looking for help with salary negotiation because I was worried about making decisions and what words to use in my negotiations.** I’ve been through a really rough patch over the last 6 months and it’s depleted my capacity to make tough calls.  
    
    I was looking for help with salary negotiation because I was worried about making decisions and what words to use in my negotiations. **I negotiated for $20,000 more salary and $25,000 more equity.** As an added benefit, I got interview tips for next time I’m looking.
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: Additional $20k in salary, additional $25k in equity 
 case_study_url:
 ---

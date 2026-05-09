@@ -7,7 +7,7 @@ industry: Medicine
 headshot:
 short_version: |
  Working with Josh was great because of the confidence it gave me in the negotiation process to ask for what I wanted and not second-guess myself. **I negotiated for less weekend call—25 call shifts in my initial offer down to 15 call shifts—which gives me more free time with my baby and family, and a better work-life balance.**
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: Less weekend call—25 call shifts in my initial offer down to 15 call shifts
 case_study_url:
 ---

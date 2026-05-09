@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  **I negotiated a $300,000 higher RSU grant, $20,000 higher base salary, and $20,000 higher signing bonus.**
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: $300,000 higher RSU grant, $20,000 higher base salary, and $20,000 higher signing bonus.
 case_study_url: 
 ---

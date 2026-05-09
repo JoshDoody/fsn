@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  Before I hired Josh, I thought, "I've watched all of his Youtube videos, what's the value add of actually working with him?" **I doubt I would have had the confidence to make a 20% counteroffer without walking through Josh's process with him.** On top of gaining more financial freedom and the freedom to relocate, I'm confident that I'm not leaving money on the table.
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: 20% salary increase.
 case_study_url: 
 ---

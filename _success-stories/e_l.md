@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  **A small investment, compared to what I had to lose.**
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: Negotiated the best result possible.
 case_study_url: 
 ---

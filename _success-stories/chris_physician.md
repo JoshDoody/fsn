@@ -7,7 +7,7 @@ industry: Medicine
 headshot:
 short_version: |
  We negotiated a 25% increase in equivalent pay relative to what I would’ve gotten with the group’s “standard” contract. Not only did I negotiate for higher pay and more non-monetary benefits in my department, but **I also have a higher quality of life, more time, and more resources** than I would have without Josh's help.
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: 25% increase in equivalent pay
 case_study_url:
 ---

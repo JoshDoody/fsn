@@ -7,7 +7,7 @@ industry:
 headshot: s_l.jpg
 short_version: |
  **Josh prepared me for every call and every email during my salary negotiation. His help repositioning and rephrasing emails not only helped with this negotiation, but helped me see how rephrasing an email can paint it in a much different light.**
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: 
 case_study_url: 
 ---

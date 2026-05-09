@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  Perhaps the only concern I had about hiring Josh was that I hadn't seen a lot of personal references online and I was going off Patrick McKenzie's word on Twitter alone. But it went well! I negotiated a $25,000 signing bonus.
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: Negotiated a $25,000 signing bonus.
 case_study_url: 
 ---

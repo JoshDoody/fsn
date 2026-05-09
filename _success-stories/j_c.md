@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  **Josh's coaching paid for itself many times over in a 3-minute conversation with HR, where I earned another $6,000 in base salary and a $3,000 incentive bonus!**
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: Earned another $6,000 in base salary and a $3,000 incentive bonus.
 case_study_url: 
 ---

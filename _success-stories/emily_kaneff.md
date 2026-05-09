@@ -7,7 +7,7 @@ industry:
 headshot: emily_kaneff.jpg
 short_version: |
  **The extra $6,000 helped me afford my dream apartment in a safe, well-kept area where my family can rest easy.**
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: $6k additional salary.
 case_study_url: 
 ---

@@ -10,7 +10,7 @@ short_version: |
    When I considered hiring Josh to help me negotiate, **I had concerns that the company wouldn't move from their initial offer.** Given the amounts I was looking at for this job transition, I decided the initial fee was worth the risk and I expected I'd learn a lot in the process, so considered it a form of tuition.
    
    The initial offer was in the $400k range. **We negotiated a first-year improvement of more than $50k**, which includes improvements in salary, equity and signing bonus. I learned a lot and I'm very confident I came out ahead. **I don't think I would have asked for what we did on my own.**
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: Additional $50k in first-year compensation 
 case_study_url:
 ---

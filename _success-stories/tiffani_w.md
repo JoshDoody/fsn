@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  **I negotiated a $5,000 base salary increase, a $5,000 sign-on bonus and a 9:45–4:00 work schedule.**
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: Negotiated a $5,000 base salary increase, a $5,000 sign-on bonus and a 9:45–4:00 work schedule.
 case_study_url: 
 ---

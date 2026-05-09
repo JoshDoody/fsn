@@ -7,7 +7,7 @@ industry:
 headshot: ilya_krasnov.jpg
 short_version: |
  **The salary increase alone was worth much more than the initial investment.**
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: Additional salary negotiated.
 case_study_url: 
 ---

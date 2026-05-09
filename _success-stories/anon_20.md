@@ -8,7 +8,7 @@ industry:
 headshot:
 short_version: |
   I had multiple offers arriving a week apart and Josh helped me navigate my situation without burning any bridges. He helped me write a strong counter offer. **I negotiated $14,000 more in salary and $90,000 more in equity vesting over a four-year period.** Josh also helped me deal with my nerves throughout the process, which made the whole process less stressful. 
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: Additional $14,000 in salary and an additional $90,000 in equity vesting over four years 
 case_study_url:
 ---

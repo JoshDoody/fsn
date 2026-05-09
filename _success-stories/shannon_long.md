@@ -6,7 +6,7 @@ company:
 industry: 
 headshot: ShannonColor.jpg
 short_version: 
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: Additional $15,000 base salary.
 case_study_url: 
 ---

@@ -7,7 +7,7 @@ industry:
 headshot: shawn_tuckett.jpg
 short_version: |
  **With research and a good plan, I got a $17,000 raise! Now I know I'm valued and I can finally stop worrying about whether I was underpaid.**
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: $17,000 raise.
 case_study_url: 
 ---

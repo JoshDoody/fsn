@@ -6,7 +6,7 @@ company:
 industry: 
 headshot: EricColor.jpg
 short_version: 
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: Landed a better job with a bigger salary and more benefits.
 case_study_url: 
 ---

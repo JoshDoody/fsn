@@ -7,7 +7,7 @@ industry:
 headshot:
 short_version: >
   With solid support from Josh, I had a productive and constructive conversation with the company and got a good result and more clarity. I went from 0.4% to 0.5% equity and we’ve set specific expectations on how this might increase in future as I hit growth milestones. **I've got peace of mind that the company is valuing me appropriately and will recognize my future growth.**
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: Went from 0.4% to 0.5% equity
 case_study_url:
 ---

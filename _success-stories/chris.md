@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  I worried I was already at the top of my pay range and couldn't expect much more. **Josh helped me successfully negotiate $40,000 more equity and a $5,000 signing bonus!** This brings me a step closer to building a family safety net. I also feel more confident in my future negotiations and in helping my partner with her upcoming salary negotiations.
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: $40,000 more equity and a $5,000 signing bonus.
 case_study_url: 
 ---

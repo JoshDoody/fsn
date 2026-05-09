@@ -7,7 +7,7 @@ industry:
 headshot: haripriya_a.jpg
 short_version: |
  **I wanted professional assistance for salary negotiation and reached out to Josh. With Josh's help, I improved my job offer by 10.5% plus an additional $5,000 in stock and a nice signing bonus.**
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: 10.5% additional salary, and an additional $5,000 in stock as well as a nice signing bonus.
 case_study_url: 
 ---

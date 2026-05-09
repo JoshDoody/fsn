@@ -8,7 +8,7 @@ industry:
 headshot:
 short_version: |
   With the monetary value and several other complexities of the offer, I wanted to make sure I was positioning myself in the best way to take full advantage of it. In working with Josh, I had the confidence to be more aggressive in my counter offer. We were able to get **an increase of about $20,000 in my annual pay** on top of a multi six-figure offer, **3,000 more shares in stock**, and a **jump to a senior position**.
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: Additional $20,000 in annual pay, additional 3,000 shares, jump to a Senior position 
 case_study_url:
 ---

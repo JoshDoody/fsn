@@ -6,7 +6,7 @@ company:
 industry: 
 headshot: 
 short_version: 
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: 20% additional salary.
 case_study_url: 
 ---

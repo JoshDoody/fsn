@@ -12,7 +12,7 @@ short_version: |
    We negotiated about **$75K more in salary**; however that was not what I needed to take the role. **Josh never pushed me to take it. He genuinely helped me think through what was best for me and my family.** I ended up declining the offer, but having the coaching throughout the process gave me confidence and ultimately helped support my decision to walk away. 
    
    **I will engage Josh’s consulting services again when I get the next offer!**
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: Negotiated an additional $75k in salary, confidence in walking away from offer  
 case_study_url:
 ---

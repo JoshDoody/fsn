@@ -7,7 +7,7 @@ industry:
 headshot: 
 short_version: |
  I was negotiating more than one offer and I was overwhelmed when one of the recruiters used high-pressure tactics. **In that moment, you can't believe how happy I was that Josh was there to back me up.** I negotiated an offer with Facebook with $225,000 in additional equity, meaning I can save more money.
-product: Salary Negotiation Coaching
+product: Professional Salary Negotiation
 result_summary: $225,000 in additional equity.
 case_study_url: 
 ---
