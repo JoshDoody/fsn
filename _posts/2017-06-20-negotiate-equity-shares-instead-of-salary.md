@@ -49,7 +49,7 @@ First, you need to know if you can impute any sort of objective value on what th
 
 If the answer to that question is, "Well, that depends on whether we go public and how many other investors we get, and what our valuation is for our next raise, and ..." then that's another way of saying, "We have no idea." This will often be accompanied by statements like, "If we went public today, we estimate these options would be worth [big number]." It's important to understand that they're guessing.
 
-To get a better sense of what I mean by "guessing", play with the inputs on the [TLDR Stock Options calculator](https://tldroptions.io) and you'll see what I mean.
+To get a better sense of what I mean by "guessing", play with the inputs on the [Startup equity calculator](https://carta.com/learn/equity/startup-equity-calculator/) from [Carta](https://carta.com) and you'll see what I mean.
 
 In this case, I don't recommend negotiating shares in lieu of pay. You're better off negotiating for things on which you can impute a value—salary, vacation days, signing bonus, relocation stipend, etc.
 
