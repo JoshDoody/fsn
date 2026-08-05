@@ -4,6 +4,11 @@ url: "https://fearlesssalarynegotiation.com"
 baseurl: ''
 avg_coach_increase_devs: $69,000
 
+# Source files contain non-ASCII characters (curly quotes, £, em dashes).
+# Without this, Jekyll inherits Ruby's default_external encoding, which is
+# US-ASCII whenever LANG is unset — and the build dies on the first such byte.
+encoding: utf-8
+
 sass:
   sass_dir: _sass
   style: compressed
