@@ -1,0 +1,85 @@
+{%- comment -%}
+Structured data for success-story / case-study pages.
+
+Modelled as an Article *about* the coaching Service, with the testimonial itself
+as an attributed Quotation. Deliberately NOT a Review:
+
+  - Google doesn't support Service for review snippets, and self-hosted reviews
+    about your own Organization/LocalBusiness are ineligible for star results
+    anyway — so no schema here can earn stars honestly.
+  - Declaring the coaching engagement as a Product with an Offer (the previous
+    approach) pushed these pages into Google's merchant-listing validation,
+    which then demands image/sku/availability and keeps escalating.
+
+Pricing and the commercial Offer live on /coach/ via structured-data-service.html.
+That's the page that sells; these 180+ pages are evidence, and they say so.
+
+Values use `jsonify` rather than `escape` so quotes, newlines and unicode are
+JSON-escaped correctly rather than HTML-escaped.
+
+Expects display_title / display_desc to be in scope (set by the layout after
+compute-success-story-seo.html).
+{%- endcomment -%}
+
+{%- assign svc_name  = page.product | default: "Professional Salary Negotiation" -%}
+{%- assign quote_txt = page.short_version | markdownify | strip_html | strip_newlines | strip -%}
+{%- assign headline  = display_title | default: page.title | default: svc_name -%}
+{%- assign summary   = display_desc | default: page.description | default: quote_txt -%}
+{%- assign co        = page.company | strip -%}
+{%- assign jt        = page.job_title | strip -%}
+{%- assign rs        = page.result_summary | strip -%}
+{%- assign hs        = page.headshot | strip -%}
+{%- if hs != "" -%}
+  {%- assign img = "/assets/imgs/results/" | append: hs | absolute_url -%}
+{%- else -%}
+  {%- assign img = "/assets/imgs/og/fsn-og-baseline.png" | absolute_url -%}
+{%- endif -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ headline | jsonify }},
+  "description": {{ summary | jsonify }},
+  "image": {{ img | jsonify }},
+  "inLanguage": "en",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ page.url | absolute_url | jsonify }}
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Josh Doody",
+    "url": "https://fearlesssalarynegotiation.com/about/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Fearless Salary Negotiation",
+    "url": "https://fearlesssalarynegotiation.com/"
+  },
+  "about": {
+    "@type": "Service",
+    "name": {{ svc_name | jsonify }},
+    "serviceType": "Salary negotiation coaching",
+    "url": "https://fearlesssalarynegotiation.com/coach/",
+    "provider": {
+      "@type": "Person",
+      "name": "Josh Doody",
+      "url": "https://fearlesssalarynegotiation.com/about/"
+    }
+  },
+  "mainEntity": {
+    "@type": "Quotation",
+    "text": {{ quote_txt | jsonify }},
+    "creator": {
+      "@type": "Person",
+      "name": {{ page.name | default: "Anonymous client" | jsonify }}{% if jt != "" %},
+      "jobTitle": {{ jt | jsonify }}{% endif %}{% if co != "" %},
+      "worksFor": {
+        "@type": "Organization",
+        "name": {{ co | jsonify }}
+      }{% endif %}
+    }
+  }{% if rs != "" %},
+  "abstract": {{ rs | jsonify }}{% endif %}
+}
+</script>
