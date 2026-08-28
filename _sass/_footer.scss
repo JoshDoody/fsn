@@ -60,7 +60,7 @@
 .footer-nav {
   ul {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: max-content max-content;  // never wrap a label
     grid-template-rows: repeat(3, auto);
     grid-auto-flow: column;   // fill column 1 top-to-bottom, then column 2
     column-gap: 2rem;
@@ -76,7 +76,7 @@
     font-family: $font-serif;
     text-decoration: none;
     display: block;
-    margin-bottom: .75rem;    // minimum gap between a link and its rule
+    margin-top: auto;         // sit on the bottom of the row, just above the rule
     &:hover {
       opacity: .5;
     }
@@ -85,7 +85,7 @@
     content: "";
     width: 20px;
     border-bottom: 1px solid $brand-secondary;
-    margin-top: auto;         // bottom of the row, so rules align across columns
+    margin-top: .75rem;       // fixed gap under the link, never a floating gap
     margin-left: auto;        // right-aligned, matching the right-aligned links
   }
   // No trailing rule under the last item of either column.
@@ -97,6 +97,7 @@
   }
   @media (max-width: 980px) {
     width: 100%;
+    flex-basis: 100%;
     ul {
       margin: 0;
       grid-template-columns: 1fr;   // single stack
