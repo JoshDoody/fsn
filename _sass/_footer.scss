@@ -44,43 +44,71 @@
   }
 }
 
+// The two link columns are ONE grid, not two lists side by side.
+//
+// They used to be separate <div>s in a `flex items-center` row. "Professional
+// Salary Negotiation" needs 238px on one line but the column is 150px, so it
+// wrapped to two lines, made its list 27px taller than its neighbour, and
+// centring then offset every row by ~13px -- the links read as staggered.
+// One grid with shared row tracks makes rows line up by construction, however
+// any label wraps.
+//
+// The gold rules used to be <hr> elements sitting as direct children of <ul>,
+// which is invalid HTML (only <li> belongs there). They are now an ::after on
+// each <li>, pinned to the bottom of its row so the rules line up across the
+// columns too.
 .footer-nav {
+  ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, auto);
+    grid-auto-flow: column;   // fill column 1 top-to-bottom, then column 2
+    column-gap: 2rem;
+    row-gap: .75rem;
+  }
   li {
     margin: 0;
+    display: flex;
+    flex-direction: column;   // lets the rule be pushed to the bottom
   }
   a {
     color: $brand-white;
     font-family: $font-serif;
     text-decoration: none;
     display: block;
+    margin-bottom: .75rem;    // minimum gap between a link and its rule
     &:hover {
       opacity: .5;
     }
   }
-  hr {
-    border: none;
-    border-bottom: 1px solid $brand-secondary;
+  li::after {
+    content: "";
     width: 20px;
-    margin-left: auto;
-    &.mobile-hr {
-      @media (min-width: 980px) {
-        display: none;
-      }
+    border-bottom: 1px solid $brand-secondary;
+    margin-top: auto;         // bottom of the row, so rules align across columns
+    margin-left: auto;        // right-aligned, matching the right-aligned links
+  }
+  // No trailing rule under the last item of either column.
+  @media (min-width: 980px) {
+    li:nth-child(3)::after,
+    li:nth-child(6)::after {
+      display: none;
     }
   }
   @media (max-width: 980px) {
     width: 100%;
     ul {
       margin: 0;
+      grid-template-columns: 1fr;   // single stack
+      grid-template-rows: none;
+      grid-auto-flow: row;
     }
     li {
       text-align: left;
     }
-    hr {
-      margin: {
-        right: auto;
-        left: 0;
-      }
+    li::after {
+      margin-right: auto;
+      margin-left: 0;
     }
   }
 }
