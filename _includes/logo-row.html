@@ -1,0 +1,19 @@
+{%- comment -%}
+Renders one row of brand marks from _data/logos.yml:
+
+    {% include logo-row.html logos=site.data.logos.employers %}
+
+There are two wrapper shapes, chosen by each entry's `type` -- a 24x24 glyph
+sized by Tailwind, or a 120x30 wordmark sized by explicit width/height. The
+markup is otherwise identical, so it lives here instead of being repeated in
+the data. Paths contain no HTML-special characters, so they interpolate raw.
+{%- endcomment -%}
+<div class="flex justify-center">
+{%- for logo in include.logos %}
+{%- if logo.type == "wordmark" %}
+			<svg class="mx-4" viewBox="0 0 120 30" xmlns="http://www.w3.org/2000/svg" width="120" height="60"><title>{{ logo.name }}</title><path d="{{ logo.path }}"/></svg>
+{%- else %}
+			<svg class="mx-4 h-24 w-24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>{{ logo.name }}</title><path d="{{ logo.path }}"/></svg>
+{%- endif %}
+{%- endfor %}
+		</div>

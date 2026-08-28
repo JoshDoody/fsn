@@ -45,6 +45,7 @@ A content marketing Jekyll site at fearlesssalarynegotiation.com, focused on sal
 
 ### Other Content
 - `_posts/` - 60+ blog posts
+- `_data/logos.yml` - the 10 brand marks on the homepage (4 publications, 6 employers), rendered by `_includes/logo-row.html`. Each entry is one inline SVG path; `type` picks the wrapper (24x24 `glyph` or 120x30 `wordmark`). Add or remove a logo here, not in `index.html`. The file records where each mark came from — Amazon, BBC and Forbes have no upstream source and cannot be refreshed
 - `_data/categories.yml` - 9 category slugs (negotiate-lowball, coach, raise, promotion, negotiate, salary-questions, interview, executive, case-study)
 - 18 layouts in `_layouts/`
 - 33 includes in `_includes/`
